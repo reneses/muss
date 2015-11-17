@@ -28,7 +28,7 @@ public class Main implements CommandLineRunner {
         System.out.println("MUSS HAS BEING EXECUTED");
         try {
             List<ChObject> objects = objectService.loadFromFolder();
-            objects = objectService.findAll();
+            //objects = objectService.findAll();
             objects.forEach(System.out::println);
         }
         catch (Exception e) {
