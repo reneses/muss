@@ -1,17 +1,14 @@
 package ie.cit.adf.muss.services;
 
-
-import ie.cit.adf.muss.repositories.Repository;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.repository.CrudRepository;
 
 import java.util.Collection;
-import java.util.List;
 
 abstract class Service<E> {
 
     @Autowired
-    Repository<E> repository;
-
+    CrudRepository<E, Integer> repository;
 
     /**
      * Default constructor
@@ -24,7 +21,7 @@ abstract class Service<E> {
      *
      * @param repository
      */
-    public Service(Repository<E> repository) {
+    public Service(CrudRepository<E, Integer> repository) {
         this.repository = repository;
     }
 
@@ -36,7 +33,7 @@ abstract class Service<E> {
      * @return Model with the given id, null if it does not exist
      */
     public E get(int id) {
-        return repository.get(id);
+        return repository.findOne(id);
     }
 
 
@@ -76,7 +73,8 @@ abstract class Service<E> {
      * @throws IllegalArgumentException if the model is null
      */
     public boolean remove(E model) {
-        return repository.remove(model);
+        repository.delete(model);
+        return true;
     }
 
     
@@ -96,7 +94,7 @@ abstract class Service<E> {
      *
      * @return Stored models
      */
-    public List<E> findAll() {
+    public Iterable<E> findAll() {
         return repository.findAll();
     }
 

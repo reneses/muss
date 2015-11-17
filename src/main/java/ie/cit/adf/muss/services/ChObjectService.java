@@ -56,16 +56,6 @@ public class ChObjectService extends Service<ChObject> {
         this.loader = loader;
     }
 
-    /**
-     * Retrieve a model given its original id
-     *
-     * @param originalId Original ID of the model
-     * @return Model with the given original id, null if it does not exist
-     */
-    public ChObject getByOriginalId(int originalId) {
-        return objectRepository.getByOriginalId(originalId);
-    }
-
 
     /**
      * Load the objects from the disk

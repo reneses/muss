@@ -6,17 +6,9 @@ import ie.cit.adf.muss.domain.Image;
 
 import java.util.List;
 
-public interface ImageRepository extends Repository<Image> {
+import org.springframework.data.repository.CrudRepository;
 
-
-    /**
-     * Retrieve a model given its original id
-     *
-     * @param originalId Original ID of the model
-     * @return Model with the given original id, null if it does not exist
-     */
-    Image getByOriginalId(int originalId);
-
+public interface ImageRepository extends CrudRepository<Image, Integer> {
 
     /**
      * Retrieve all the images of an object
@@ -25,7 +17,6 @@ public interface ImageRepository extends Repository<Image> {
      * @param object Object from which obtain the relationships
      * @return Model with the given id, null if it does not exist
      */
-    List<Image> findAll(ChObject object);
-
+    List<Image> findAllByChObject(ChObject object);
 
 }

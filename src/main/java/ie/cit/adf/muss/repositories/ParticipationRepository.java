@@ -6,7 +6,9 @@ import ie.cit.adf.muss.domain.Participation;
 
 import java.util.List;
 
-public interface ParticipationRepository extends Repository<Participation> {
+import org.springframework.data.repository.CrudRepository;
+
+public interface ParticipationRepository extends CrudRepository<Participation, Integer> {
 
 
     /**
@@ -16,7 +18,7 @@ public interface ParticipationRepository extends Repository<Participation> {
      * @param object Object from which obtain the relationships
      * @return Model with the given id, null if it does not exist
      */
-    List<Participation> findAll(ChObject object);
+    List<Participation> findAllByChObject(ChObject object);
 
 
 }
