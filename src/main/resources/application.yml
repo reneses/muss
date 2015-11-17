@@ -1,0 +1,18 @@
+spring:
+  profiles.active: default
+---
+spring:
+  profiles: default
+spring.datasource:
+  driverClassName: org.h2.Driver
+  url: jdbc:h2:file:./DB;AUTO_SERVER=TRUE;DB_CLOSE_ON_EXIT=TRUE;MV_STORE=FALSE
+  schema: schema.sql
+  data:
+---
+spring:
+  profiles: test
+spring.datasource:
+  driverClassName: org.h2.Driver
+  url: jdbc:h2:mem:sampletest;MODE=MySQL
+  schema: schema.sql
+  data: data.sql
