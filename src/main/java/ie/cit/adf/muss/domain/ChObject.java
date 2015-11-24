@@ -103,7 +103,6 @@ public class ChObject {
 		this.participations = participations;
 	}
 
-	@OneToMany(mappedBy = "chObject")
 	public List<Map<String, Image>> getImages() {
 		return images;
 	}

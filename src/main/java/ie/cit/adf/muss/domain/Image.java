@@ -1,10 +1,7 @@
 package ie.cit.adf.muss.domain;
 
 import javax.persistence.Entity;
-import javax.persistence.FetchType;
 import javax.persistence.Id;
-import javax.persistence.JoinColumn;
-import javax.persistence.ManyToOne;
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
 import com.fasterxml.jackson.annotation.JsonProperty;
@@ -23,8 +20,6 @@ public class Image {
 	private String url;
 	
 	@JsonBackReference
-	@ManyToOne(fetch=FetchType.LAZY)
-	@JoinColumn(name="chObject_id")
 	private ChObject chObject;
 	
 	public int getId() {
@@ -75,7 +70,6 @@ public class Image {
 		this.url = url;
 	}
 	
-	@ManyToOne(optional=false)
 	public ChObject getChObject() {
 		return chObject;
 	}
