@@ -1,8 +1,12 @@
 package ie.cit.adf.muss.domain;
 
+import javax.persistence.Entity;
+import javax.persistence.ManyToOne;
+
 import com.fasterxml.jackson.annotation.JsonBackReference;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
+@Entity
 public class Image {
 	
 	@JsonProperty("image_id")
@@ -64,6 +68,7 @@ public class Image {
 		this.url = url;
 	}
 	
+	@ManyToOne(optional=false)
 	public ChObject getChObject() {
 		return chObject;
 	}

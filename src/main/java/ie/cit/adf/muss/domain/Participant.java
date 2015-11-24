@@ -1,7 +1,10 @@
 package ie.cit.adf.muss.domain;
 
+import javax.persistence.Entity;
+
 import com.fasterxml.jackson.annotation.JsonProperty;
 
+@Entity
 public class Participant {
 	
 	@JsonProperty("person_id")
