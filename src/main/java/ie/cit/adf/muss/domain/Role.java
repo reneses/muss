@@ -1,12 +1,14 @@
 package ie.cit.adf.muss.domain;
 
 import javax.persistence.Entity;
+import javax.persistence.Id;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 @Entity
 public class Role {
 	
+	@Id
 	@JsonProperty("role_id")
 	private int id;
 	@JsonProperty("role_name")

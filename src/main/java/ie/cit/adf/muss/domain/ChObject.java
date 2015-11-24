@@ -1,10 +1,12 @@
 package ie.cit.adf.muss.domain;
 
+import java.util.Collection;
 import java.util.List;
 import java.util.Map;
 
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
+import javax.persistence.Id;
 import javax.persistence.OneToMany;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
@@ -15,6 +17,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class ChObject {
 
+	@Id
 	private int id;
 	private String title;
 	private String date;
@@ -26,11 +29,12 @@ public class ChObject {
 	private String galleryText;
 
 	@OneToMany(fetch=FetchType.LAZY, mappedBy="chObject")
-	private Review review;
+	private Collection<Review> reviews;
 	
 	@JsonManagedReference
 	@JsonProperty("participants")
 	private List<Participation> participations;
+	
 	@JsonProperty("images")
 	private List<Map<String, Image>> images;
 
@@ -109,12 +113,12 @@ public class ChObject {
 	}
 
 	@OneToMany(mappedBy = "chObject")
-	public Review getReview() {
-		return review;
+	public Collection<Review> getReviews() {
+		return reviews;
 	}
 
-	public void setReview(Review review) {
-		this.review = review;
+	public void setReviews(Collection<Review> reviews) {
+		this.reviews = reviews;
 	}
 
 }
