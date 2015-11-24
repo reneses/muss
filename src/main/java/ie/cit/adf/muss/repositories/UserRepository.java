@@ -6,4 +6,7 @@ import ie.cit.adf.muss.domain.User;
 
 public interface UserRepository extends CrudRepository<User, Integer> {
 
+    User findByEmail(String email);
+    User findByUsername(String username);
+
 }

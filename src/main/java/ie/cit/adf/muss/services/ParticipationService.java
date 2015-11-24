@@ -10,7 +10,7 @@ import java.util.List;
 
 
 @org.springframework.stereotype.Service
-public class ParticipationService extends Service<Participation> {
+public class ParticipationService extends CrudService<Participation> {
 
     @Autowired
     ParticipationRepository participationRepository;
