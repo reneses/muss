@@ -1,17 +1,26 @@
 package ie.cit.adf.muss.domain;
 
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.ManyToOne;
+
 import com.fasterxml.jackson.annotation.JsonBackReference;
 import com.fasterxml.jackson.annotation.JsonUnwrapped;
 
+@Entity
 public class Participation {
 	
+	@Id
 	@JsonBackReference
 	private ChObject chObject;
+	@Id
 	@JsonUnwrapped
 	private Participant participant;
+	@Id
 	@JsonUnwrapped
 	private Role role;
 	
+	@ManyToOne(optional=false)
 	public ChObject getChObject() {
 		return chObject;
 	}
