@@ -46,8 +46,11 @@ public class User {
 	
 	private Collection<User> followed;
 
+	public User() {
+	}
+
 	public User(int id, String username, String password, String email, String name, String picture, int points,
-			Collection<Tag> tags) {
+				Collection<Tag> tags) {
 		super();
 		this.id = id;
 		this.username = username;
