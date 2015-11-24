@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.util.List;
 
 @org.springframework.stereotype.Service
-public class ChObjectService extends Service<ChObject> {
+public class ChObjectService extends CrudService<ChObject> {
 
     @Autowired
     ChObjectRepository objectRepository;

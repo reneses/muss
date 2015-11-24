@@ -6,7 +6,7 @@ import ie.cit.adf.muss.repositories.RoleRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 
 @org.springframework.stereotype.Service
-public class RoleService extends Service<Role> {
+public class RoleService extends CrudService<Role> {
 
     @Autowired
     RoleRepository roleRepository;

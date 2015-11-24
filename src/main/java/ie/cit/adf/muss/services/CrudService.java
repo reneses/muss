@@ -5,7 +5,7 @@ import org.springframework.data.repository.CrudRepository;
 
 import java.util.Collection;
 
-abstract class Service<E> {
+abstract class CrudService<E> {
 
     @Autowired
     CrudRepository<E, Integer> repository;
@@ -13,7 +13,7 @@ abstract class Service<E> {
     /**
      * Default constructor
      */
-    public Service() {
+    public CrudService() {
     }
 
     /**
@@ -21,7 +21,7 @@ abstract class Service<E> {
      *
      * @param repository
      */
-    public Service(CrudRepository<E, Integer> repository) {
+    public CrudService(CrudRepository<E, Integer> repository) {
         this.repository = repository;
     }
 
@@ -46,7 +46,7 @@ abstract class Service<E> {
      * @param model
      * @throws IllegalArgumentException if the model is null
      */
-    public void save(E model) {
+    public E save(E model) {
         repository.save(model);
     }
 

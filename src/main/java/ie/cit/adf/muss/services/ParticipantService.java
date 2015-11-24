@@ -5,7 +5,7 @@ import ie.cit.adf.muss.repositories.ParticipantRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 
 @org.springframework.stereotype.Service
-public class ParticipantService extends Service<Participant> {
+public class ParticipantService extends CrudService<Participant> {
 
     @Autowired
     ParticipantRepository participantRepository;
