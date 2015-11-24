@@ -20,7 +20,6 @@ public class Participation {
 	@JsonUnwrapped
 	private Role role;
 	
-	@ManyToOne(optional=false)
 	public ChObject getChObject() {
 		return chObject;
 	}

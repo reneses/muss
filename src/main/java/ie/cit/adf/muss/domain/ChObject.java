@@ -94,7 +94,6 @@ public class ChObject {
 		this.galleryText = galleryText;
 	}
 
-	@OneToMany(mappedBy = "chObject")
 	public List<Participation> getParticipations() {
 		return participations;
 	}
@@ -111,7 +110,6 @@ public class ChObject {
 		this.images = images;
 	}
 
-	@OneToMany(mappedBy = "chObject")
 	public Collection<Review> getReviews() {
 		return reviews;
 	}
