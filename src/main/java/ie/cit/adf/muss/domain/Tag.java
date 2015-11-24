@@ -3,17 +3,23 @@ package ie.cit.adf.muss.domain;
 import java.util.Collection;
 
 import javax.persistence.Entity;
+import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
+import javax.persistence.JoinColumn;
 import javax.persistence.ManyToMany;
 import javax.persistence.ManyToOne;
 
 @Entity
 public class Tag {
 
+	@Id
+	@GeneratedValue
 	private int id;
 	private String tag;
 
+	@ManyToOne(fetch=FetchType.LAZY)
+	@JoinColumn(name="user_id")
 	private User user;
 
 	private Collection<ChObject> chObjects;

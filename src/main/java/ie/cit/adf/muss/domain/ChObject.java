@@ -4,6 +4,7 @@ import java.util.List;
 import java.util.Map;
 
 import javax.persistence.Entity;
+import javax.persistence.FetchType;
 import javax.persistence.OneToMany;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
@@ -24,7 +25,9 @@ public class ChObject {
 	@JsonProperty("gallery_text")
 	private String galleryText;
 
+	@OneToMany(fetch=FetchType.LAZY, mappedBy="chObject")
 	private Review review;
+	
 	@JsonManagedReference
 	@JsonProperty("participants")
 	private List<Participation> participations;

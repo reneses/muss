@@ -4,22 +4,33 @@ import java.util.Collection;
 import java.util.Date;
 
 import javax.persistence.Entity;
+import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
+import javax.persistence.JoinColumn;
 import javax.persistence.ManyToMany;
 import javax.persistence.ManyToOne;
 
 @Entity
 public class Review {
 
+	@Id
+	@GeneratedValue
 	private int id;
 	private String title;
 	private String content;
 	private Date date;
 	private Integer rating;
 
+	@ManyToOne(fetch=FetchType.LAZY)
+	@JoinColumn(name="chobject_id")
 	private ChObject chObject;
+	
+	@ManyToOne(fetch=FetchType.LAZY)
+	@JoinColumn(name="writer_id")
 	private User writer;
+	
+	@ManyToMany(fetch=FetchType.LAZY, mappedBy="likes")
 	private Collection<User> likes;
 
 	public Review(int id, String title, String content, Date date, Integer rating, ChObject chObject, User writer,

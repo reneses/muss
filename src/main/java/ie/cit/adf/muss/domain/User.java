@@ -3,15 +3,19 @@ package ie.cit.adf.muss.domain;
 import java.util.Collection;
 
 import javax.persistence.Entity;
+import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.JoinTable;
 import javax.persistence.ManyToMany;
 import javax.persistence.OneToMany;
 
 @Entity
 public class User {
 
-	
+	@Id
+	@GeneratedValue
 	private int id;
 	private String username;
 	private String password;
@@ -20,10 +24,26 @@ public class User {
 	private String picture;
 	private int points;
 
+	@OneToMany(fetch=FetchType.LAZY, mappedBy="user")
 	private Collection<Tag> tags;
+	
+	@OneToMany(fetch=FetchType.LAZY, mappedBy="writer")
 	private Collection<Review> written;
+	
+	@ManyToMany(fetch=FetchType.LAZY)
+	@JoinTable(
+      name="likes",
+      joinColumns={
+		 @JoinColumn(name="user_id", referencedColumnName="id")
+      },
+      inverseJoinColumns={
+		  @JoinColumn(name="review_id", referencedColumnName="id")
+	  }
+	)
 	private Collection<Review> likes;
+	
 	private Collection<User> following;
+	
 	private Collection<User> followed;
 
 	public User(int id, String username, String password, String email, String name, String picture, int points,
