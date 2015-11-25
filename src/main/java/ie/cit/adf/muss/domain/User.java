@@ -62,14 +62,6 @@ public class User {
 		this.tags = tags;
 	}
 
-	@Override
-	public String toString() {
-		return "User [id=" + id + ", username=" + username + ", password=" + password + ", email=" + email + ", name="
-				+ name + ", picture=" + picture + ", points=" + points + ", tags=" + tags + "]";
-	}
-
-	@Id
-	@GeneratedValue
 	public int getId() {
 		return id;
 	}
@@ -126,7 +118,6 @@ public class User {
 		this.points = points;
 	}
 
-	@OneToMany(mappedBy = "user")
 	public Collection<Tag> getTags() {
 		return tags;
 	}
@@ -135,7 +126,6 @@ public class User {
 		this.tags = tags;
 	}
 
-	@OneToMany(mappedBy = "writer")
 	public Collection<Review> getWritten() {
 		return written;
 	}
@@ -144,7 +134,6 @@ public class User {
 		this.written = written;
 	}
 
-	@ManyToMany
 	public Collection<Review> getLikes() {
 		return likes;
 	}
@@ -152,8 +141,7 @@ public class User {
 	public void setLikes(Collection<Review> likes) {
 		this.likes = likes;
 	}
-	
-	@ManyToMany
+
 	public Collection<User> getFollowing() {
 		return following;
 	}
@@ -161,16 +149,13 @@ public class User {
 	public void setFollowing(Collection<User> following) {
 		this.following = following;
 	}
-	
-	@ManyToMany
+
 	public Collection<User> getFollowed() {
 		return followed;
 	}
 
 	public void setFollowed(Collection<User> followed) {
 		this.followed = followed;
-	}
-	
-	
+	}	
 
 }

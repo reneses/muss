@@ -130,7 +130,6 @@ public class ChObject {
 		images.forEach( image -> image.setObject(this));
 	}
 
-	@OneToMany(mappedBy = "chObject")
 	public Collection<Review> getReviews() {
 		return reviews;
 	}

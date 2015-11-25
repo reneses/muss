@@ -46,6 +46,14 @@ public class Review {
 		this.likes = likes;
 	}
 
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
 	public String getTitle() {
 		return title;
 	}
@@ -78,7 +86,6 @@ public class Review {
 		this.rating = rating;
 	}
 
-	@ManyToOne(optional = false)
 	public ChObject getChObject() {
 		return chObject;
 	}
@@ -87,7 +94,6 @@ public class Review {
 		this.chObject = chObject;
 	}
 
-	@ManyToOne(optional = false)
 	public User getWriter() {
 		return writer;
 	}
@@ -96,29 +102,12 @@ public class Review {
 		this.writer = writer;
 	}
 
-	@ManyToMany
 	public Collection<User> getLikes() {
 		return likes;
 	}
 
 	public void setLikes(Collection<User> likes) {
 		this.likes = likes;
-	}
-
-	@Id
-	@GeneratedValue
-	public int getId() {
-		return id;
-	}
-
-	public void setId(int id) {
-		this.id = id;
-	}
-
-	@Override
-	public String toString() {
-		return "Review [id=" + id + ", title=" + title + ", content=" + content + ", date=" + date + ", rating="
-				+ rating + ", chObject=" + chObject + ", writer=" + writer + ", likes=" + likes + "]";
 	}
 
 }

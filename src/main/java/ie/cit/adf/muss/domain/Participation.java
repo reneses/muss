@@ -45,7 +45,7 @@ public class Participation {
 	public void setId(int id) {
 		this.id = id;
 	}
-
+	
 	public Participant getParticipant() {
 		return participant;
 	}
