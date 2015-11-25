@@ -1,81 +1,81 @@
 package ie.cit.adf.muss.domain;
 
-import javax.persistence.Entity;
-import javax.persistence.Id;
+import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
+import ie.cit.adf.muss.domain.ImageSize;
+import ie.cit.adf.muss.utility.JsonImageDeserializer;
 
-import com.fasterxml.jackson.annotation.JsonBackReference;
-import com.fasterxml.jackson.annotation.JsonProperty;
+import java.util.HashMap;
+import java.util.Map;
 
-@Entity
+/**
+ * Image
+ */
+@JsonDeserialize(using = JsonImageDeserializer.class)
 public class Image {
-	
-	@Id
-	@JsonProperty("image_id")
-	private int id;
-	private String label;
-	private int width;
-	private int height;
-	@JsonProperty("is_primary")
-	private int isPrimary;
-	private String url;
-	
-	@JsonBackReference
-	private ChObject chObject;
-	
-	public int getId() {
-		return id;
-	}
-	
-	public void setId(int id) {
-		this.id = id;
-	}
-	
-	public String getLabel() {
-		return label;
-	}
-	
-	public void setLabel(String label) {
-		this.label = label;
-	}
-	
-	public int getWidth() {
-		return width;
-	}
-	
-	public void setWidth(int width) {
-		this.width = width;
-	}
-	
-	public int getHeight() {
-		return height;
-	}
-	
-	public void setHeight(int height) {
-		this.height = height;
-	}
-	
-	public int isPrimary() {
-		return isPrimary;
-	}
-	
-	public void setPrimary(int isPrimary) {
-		this.isPrimary = isPrimary;
-	}
-	
-	public String getUrl() {
-		return url;
-	}
-	
-	public void setUrl(String url) {
-		this.url = url;
-	}
-	
-	public ChObject getChObject() {
-		return chObject;
-	}
-	
-	public void setChObject(ChObject chObject) {
-		this.chObject = chObject;
-	}
-	
+
+    @JsonIgnore
+    private int id;
+
+    private int originalId;
+
+    private boolean isPrimary;
+
+    @JsonIgnore
+    private ChObject object;
+
+    private Map<String, ImageSize> sizes = new HashMap<>();
+
+
+    /* GETTERS AND SETTERS */
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public int getOriginalId() {
+        return originalId;
+    }
+
+    public void setOriginalId(int originalId) {
+        this.originalId = originalId;
+    }
+
+    public boolean isPrimary() {
+        return isPrimary;
+    }
+
+    public void setPrimary(boolean isPrimary) {
+        this.isPrimary = isPrimary;
+    }
+
+    public ChObject getObject() {
+        return object;
+    }
+
+    public void setObject(ChObject object) {
+        if (this.object != null)
+            throw new IllegalArgumentException("Once set, the object cannot be changed");
+        this.object = object;
+    }
+
+    public Map<String, ImageSize> getSizes() {
+        return sizes;
+    }
+
+    public void setSizes(Map<String, ImageSize> sizes) {
+        this.sizes = sizes;
+    }
+
+    public void addSize(ImageSize size) {
+        sizes.put(size.getLabel(), size);
+    }
+
+    public void removeSize(ImageSize size) {
+        sizes.remove(size.getLabel());
+    }
 }

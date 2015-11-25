@@ -9,7 +9,7 @@ import java.util.List;
 import static java.nio.file.FileVisitResult.CONTINUE;
 
 /**
- * Utility class to recursively get a list of files within a given directory
+ * Utility class to recursively find a list of files within a given directory
  * for a given pattern.
  *  
  * @author Larkin.Cunningham

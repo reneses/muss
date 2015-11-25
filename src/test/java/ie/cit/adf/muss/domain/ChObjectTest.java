@@ -1,6 +1,5 @@
 package ie.cit.adf.muss.domain;
 
-
 import ie.cit.adf.muss.utility.JsonMapper;
 import org.junit.Before;
 import org.junit.Test;
@@ -24,6 +23,7 @@ public class ChObjectTest {
         ChObject object = JsonMapper.mapToClass(file, ChObject.class);
         assertNotNull(object);
 
+        assertEquals(12345, object.getOriginalId());
         assertEquals("TITLE", object.getTitle());
         assertEquals("DATE", object.getDate());
         assertEquals("MEDIUM", object.getMedium());
@@ -33,14 +33,14 @@ public class ChObjectTest {
 
         assertEquals(3, object.getParticipations().size());
         object.getParticipations().forEach( p -> {
-            assertEquals(object, p.getChObject());
+            assertEquals(object, p.getObject());
         });
 
         assertEquals(2, object.getImages().size());
-        //assertTrue(object.getImages().get(0).getSizes().containsKey("A"));
-        //assertTrue(object.getImages().get(0).getSizes().containsKey("B"));
-        //assertTrue(object.getImages().get(1).getSizes().containsKey("C"));
-        //assertTrue(object.getImages().get(1).getSizes().containsKey("D"));
+        assertTrue(object.getImages().get(0).getSizes().containsKey("A"));
+        assertTrue(object.getImages().get(0).getSizes().containsKey("B"));
+        assertTrue(object.getImages().get(1).getSizes().containsKey("C"));
+        assertTrue(object.getImages().get(1).getSizes().containsKey("D"));
 
     }
 

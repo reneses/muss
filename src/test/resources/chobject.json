@@ -1,0 +1,75 @@
+{
+    "id": "12345",
+    "title": "TITLE",
+    "date": "DATE",
+    "medium": "MEDIUM",
+    "creditline": "CREDIT",
+    "description": "DESCRIPTION",
+    "gallery_text": "GALLERY",
+    "images": [
+        {
+            "A": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50226_998af25f40b3b90c_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "50226"
+            },
+            "B": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50226_998af25f40b3b90c_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "50226"
+            }
+        },
+        {
+            "C": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50227_0d46e801963c2287_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "50227"
+            },
+            "D": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50227_0d46e801963c2287_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "50227"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "51676397",
+            "role_id": "35351535",
+            "person_name": "Jake Dyson Products",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676397\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "51676397",
+            "role_id": "35236657",
+            "person_name": "Jake Dyson Products",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676397\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "35456083",
+            "role_id": "35236655",
+            "person_name": "Jake Dyson",
+            "person_date": "English, born 1972",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/35456083\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ]
+}

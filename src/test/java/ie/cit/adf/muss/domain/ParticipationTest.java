@@ -39,13 +39,13 @@ public class ParticipationTest {
         assertNotNull(participation);
 
         assertNotNull(participation.getParticipant());
-        assertEquals(1, participation.getParticipant().getId());
+        assertEquals(1, participation.getParticipant().getOriginalId());
         assertEquals("PersonName", participation.getParticipant().getName());
         assertEquals("2000", participation.getParticipant().getDate());
         assertEquals("personURL", participation.getParticipant().getUrl());
 
         assertNotNull(participation.getRole());
-        assertEquals(2, participation.getRole().getId());
+        assertEquals(2, participation.getRole().getOriginalId());
         assertEquals("RoleName", participation.getRole().getName());
         assertEquals("Role Name", participation.getRole().getDisplayName());
         assertEquals("roleURL", participation.getRole().getUrl());

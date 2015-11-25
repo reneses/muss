@@ -1,9 +1,10 @@
 package ie.cit.adf.muss.services;
 
+import ie.cit.adf.muss.utility.Utils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.repository.CrudRepository;
-
 import java.util.Collection;
+import java.util.List;
 
 abstract class CrudService<E> {
 
@@ -32,8 +33,20 @@ abstract class CrudService<E> {
      * @param id ID of the role
      * @return Model with the given id, null if it does not exist
      */
-    public E get(int id) {
+    public E find(int id) {
         return repository.findOne(id);
+    }
+
+
+    /**
+     * Retrieve a model given its id
+     *
+     * @throws IllegalArgumentException if the id is not a positive integer
+     * @param id ID of the role
+     * @return Model with the given id, null if it does not exist
+     */
+    public E findByOriginalId(int id) {
+        return null; // TODO
     }
 
 
@@ -47,7 +60,7 @@ abstract class CrudService<E> {
      * @throws IllegalArgumentException if the model is null
      */
     public E save(E model) {
-        repository.save(model);
+        return repository.save(model);
     }
 
 
@@ -94,8 +107,8 @@ abstract class CrudService<E> {
      *
      * @return Stored models
      */
-    public Iterable<E> findAll() {
-        return repository.findAll();
+    public List<E> findAll() {
+        return Utils.toList(repository.findAll());
     }
 
 }

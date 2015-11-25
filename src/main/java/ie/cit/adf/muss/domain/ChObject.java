@@ -1,49 +1,67 @@
 package ie.cit.adf.muss.domain;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import com.fasterxml.jackson.annotation.JsonProperty;
+import ie.cit.adf.muss.domain.Image;
+import ie.cit.adf.muss.domain.Participation;
+import ie.cit.adf.muss.domain.Review;
+
+import javax.persistence.FetchType;
+import javax.persistence.OneToMany;
+import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
-import java.util.Map;
 
-import javax.persistence.Entity;
-import javax.persistence.FetchType;
-import javax.persistence.Id;
-import javax.persistence.OneToMany;
-
-import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import com.fasterxml.jackson.annotation.JsonManagedReference;
-import com.fasterxml.jackson.annotation.JsonProperty;
-
-@Entity
+/**
+ * Cultural Heritage Object
+ */
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class ChObject {
 
-	@Id
+	@JsonIgnore
 	private int id;
-	private String title;
-	private String date;
-	private String medium;
+
+	@JsonProperty("id")
+	private int originalId;
+
+	private String title, date, medium, description;
+
 	@JsonProperty("creditline")
 	private String creditLine;
-	private String description;
+
 	@JsonProperty("gallery_text")
 	private String galleryText;
 
-	@OneToMany(fetch=FetchType.LAZY, mappedBy="chObject")
-	private Collection<Review> reviews;
-	
-	@JsonManagedReference
 	@JsonProperty("participants")
 	private List<Participation> participations;
-	
-	@JsonProperty("images")
-	private List<Map<String, Image>> images;
 
+	@JsonIgnoreProperties("images")
+	List<Image> images;
+
+	@OneToMany(fetch= FetchType.LAZY, mappedBy="chObject")
+	private Collection<Review> reviews;
+
+	public ChObject() {
+		participations = new ArrayList<>();
+		images = new ArrayList<>();
+	}
+
+	/* SETTERS AND GETTERS */
 	public int getId() {
 		return id;
 	}
 
 	public void setId(int id) {
 		this.id = id;
+	}
+
+	public int getOriginalId() {
+		return originalId;
+	}
+
+	public void setOriginalId(int originalId) {
+		this.originalId = originalId;
 	}
 
 	public String getTitle() {
@@ -70,20 +88,20 @@ public class ChObject {
 		this.medium = medium;
 	}
 
-	public String getCreditLine() {
-		return creditLine;
-	}
-
-	public void setCreditLine(String creditLine) {
-		this.creditLine = creditLine;
-	}
-
 	public String getDescription() {
 		return description;
 	}
 
 	public void setDescription(String description) {
 		this.description = description;
+	}
+
+	public String getCreditLine() {
+		return creditLine;
+	}
+
+	public void setCreditLine(String creditLine) {
+		this.creditLine = creditLine;
 	}
 
 	public String getGalleryText() {
@@ -94,21 +112,22 @@ public class ChObject {
 		this.galleryText = galleryText;
 	}
 
-	@OneToMany(mappedBy = "chObject")
 	public List<Participation> getParticipations() {
 		return participations;
 	}
 
 	public void setParticipations(List<Participation> participations) {
 		this.participations = participations;
+		participations.forEach( p -> p.setObject(this));
 	}
 
-	public List<Map<String, Image>> getImages() {
+	public List<Image> getImages() {
 		return images;
 	}
 
-	public void setImages(List<Map<String, Image>> images) {
+	public void setImages(List<Image> images) {
 		this.images = images;
+		images.forEach( image -> image.setObject(this));
 	}
 
 	@OneToMany(mappedBy = "chObject")
@@ -120,4 +139,13 @@ public class ChObject {
 		this.reviews = reviews;
 	}
 
+    /* TO STRING */
+
+	@Override
+	public String toString() {
+		return "ChObject{" +
+				"title='" + title + '\'' +
+				", id=" + id +
+				'}';
+	}
 }

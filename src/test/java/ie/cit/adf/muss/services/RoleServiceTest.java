@@ -1,4 +1,4 @@
-package ie.cit.adf.muss.repositories;
+package ie.cit.adf.muss.services;
 
 import ie.cit.adf.muss.MussApplication;
 import ie.cit.adf.muss.domain.Role;
@@ -20,15 +20,16 @@ import static org.junit.Assert.*;
 @ActiveProfiles("test")
 @DirtiesContext(classMode= DirtiesContext.ClassMode.AFTER_EACH_TEST_METHOD)
 //@TransactionConfiguration(defaultRollback=true)
-public class RoleRepositoryTest {
+public class RoleServiceTest {
 
     @Autowired
-    RoleRepository repository;
+    RoleService service;
 
     Role role;
 
     private void assertEqualsRole(Role expected, Role actual) {
         assertEquals(expected.getId(), actual.getId());
+        assertEquals(expected.getOriginalId(), actual.getOriginalId());
         assertEquals(expected.getDisplayName(), actual.getDisplayName());
         assertEquals(expected.getUrl(), actual.getUrl());
         assertEquals(expected.getName(), actual.getName());
@@ -40,29 +41,29 @@ public class RoleRepositoryTest {
         role.setName("roleName");
         role.setDisplayName("Role Name");
         role.setUrl("URL");
-        role.setId(123);
-        assertFalse("Test data is corrupted. Image is not supposed to be saved.", repository.findAll().contains(role));
+        role.setOriginalId(123);
+        assertFalse("Test data is corrupted. Image is not supposed to be saved.", service.findAll().contains(role));
     }
 
     @Test
     public void testFindAll() throws Exception {
-        List<Role> roles = repository.findAll();
+        List<Role> roles = service.findAll();
         assertEquals(2, roles.size());
         assertFalse(roles.get(0).equals(roles.get(1)));
     }
 
     @Test
     public void testFindAllEmpty() throws Exception {
-        List<Role> roles = repository.findAll();
-        roles.forEach(repository::remove);
-        roles = repository.findAll();
+        List<Role> roles = service.findAll();
+        roles.forEach(service::remove);
+        roles = service.findAll();
         assertTrue(roles.isEmpty());
     }
 
     @Test
     public void testGet() throws Exception {
-        Role role = repository.get(1);
-        assertEquals(1001, role.getId());
+        Role role = service.find(1);
+        assertEquals(1001, role.getOriginalId());
         assertEquals("role1", role.getName());
         assertEquals("Role 1", role.getDisplayName());
         assertEquals("role1.ie", role.getUrl());
@@ -70,24 +71,24 @@ public class RoleRepositoryTest {
     
     @Test(expected = IllegalArgumentException.class)
     public void testGetNegative() throws Exception {
-        repository.get(-1);
+        service.find(-1);
     }
 
     @Test(expected = IllegalArgumentException.class)
     public void testGetZero() throws Exception {
-        repository.get(0);
+        service.find(0);
     }
 
     @Test
     public void testGetNotExisting() throws Exception {
-        Role role = repository.get(Integer.MAX_VALUE);
+        Role role = service.find(Integer.MAX_VALUE);
         assertNull(role);
     }
 
     @Test
     public void testGetByOriginalId() throws Exception {
-        Role role = repository.getByOriginalId(1001);
-        assertEquals(1001, role.getId());
+        Role role = service.findByOriginalId(1001);
+        assertEquals(1001, role.getOriginalId());
         assertEquals("role1", role.getName());
         assertEquals("Role 1", role.getDisplayName());
         assertEquals("role1.ie", role.getUrl());
@@ -95,20 +96,20 @@ public class RoleRepositoryTest {
 
     @Test
     public void testGetByOriginalIdNotExisting() throws Exception {
-        Role role = repository.getByOriginalId(Integer.MAX_VALUE);
+        Role role = service.findByOriginalId(Integer.MAX_VALUE);
         assertNull(role);
     }
 
     @Test
     public void testGetByOriginalIdNegative() throws Exception {
-        Role role = repository.getByOriginalId(-1);
+        Role role = service.findByOriginalId(-1);
         assertNull(role);
     }
 
     @Test(expected = IllegalArgumentException.class)
     //@Transactional
     public void testSaveNull() throws Exception {
-        repository.save(null);
+        service.save((Role) null);
     }
 
     @Test
@@ -116,18 +117,18 @@ public class RoleRepositoryTest {
     public void testSaveInserting() throws Exception {
 
         Role role = new Role();
-        role.setId(31);
+        role.setOriginalId(31);
         role.setName("name1");
         role.setDisplayName("Name 1");
         role.setUrl("test1.ie");
 
-        int numberOfItems = repository.findAll().size();
+        int numberOfItems = service.findAll().size();
 
-        repository.save(role);
+        service.save(role);
 
         assertTrue(role.getId() != 0);
-        assertEquals(numberOfItems + 1, repository.findAll().size());
-        Role insertedRole = repository.get(role.getId());
+        assertEquals(numberOfItems + 1, service.findAll().size());
+        Role insertedRole = service.find(role.getId());
         assertNotNull(insertedRole);
         assertEqualsRole(role, insertedRole);
 
@@ -138,17 +139,17 @@ public class RoleRepositoryTest {
     //@Transactional
     public void testSaveUpdating() throws Exception {
 
-        int numberOfItems = repository.findAll().size();
+        int numberOfItems = service.findAll().size();
 
-        repository.save(role);
+        service.save(role);
         role.setName("aaa");
         role.setDisplayName("A A A");
-        role.setId(10);
+        role.setOriginalId(10);
         role.setUrl("new");
-        repository.save(role);
+        service.save(role);
 
-        assertEquals(numberOfItems + 1, repository.findAll().size());
-        assertEqualsRole(role, repository.get(role.getId()));
+        assertEquals(numberOfItems + 1, service.findAll().size());
+        assertEqualsRole(role, service.find(role.getId()));
 
     }
 
@@ -156,32 +157,32 @@ public class RoleRepositoryTest {
     //@Transactional
     public void testRemove() throws Exception {
 
-        repository.save(role);
-        int numberOfItems = repository.findAll().size();
-        repository.remove(role);
+        service.save(role);
+        int numberOfItems = service.findAll().size();
+        service.remove(role);
 
         assertEquals(0, role.getId());                                 // The role id has ben reset
-        assertEquals(numberOfItems == 0? 0 : numberOfItems-1, repository.findAll().size());   // There is role less
-        assertFalse(repository.findAll().contains(role));              // The role is not in the repo any more
+        assertEquals(numberOfItems == 0? 0 : numberOfItems-1, service.findAll().size());   // There is role less
+        assertFalse(service.findAll().contains(role));              // The role is not in the repo any more
 
     }
 
     @Test(expected = IllegalArgumentException.class)
     //@Transactional
     public void testRemoveNull() throws Exception {
-        repository.remove(null);
+        service.remove((Role) null);
     }
 
     @Test
     //@Transactional
     public void testRemoveTwice() throws Exception {
 
-        repository.save(role);
-        int numberOfItems = repository.findAll().size();
-        repository.remove(role);
-        repository.remove(role);
+        service.save(role);
+        int numberOfItems = service.findAll().size();
+        service.remove(role);
+        service.remove(role);
 
-        assertEquals(numberOfItems == 0 ? 0 : numberOfItems - 1, repository.findAll().size());    // There just one less
+        assertEquals(numberOfItems == 0 ? 0 : numberOfItems - 1, service.findAll().size());    // There just one less
 
     }
 
@@ -189,12 +190,12 @@ public class RoleRepositoryTest {
     //@Transactional
     public void testRemoveNotExisting() throws Exception {
 
-        repository.save(role);
-        int numberOfItems = repository.findAll().size();
-        repository.remove(role);
-        repository.remove(role);
+        service.save(role);
+        int numberOfItems = service.findAll().size();
+        service.remove(role);
+        service.remove(role);
 
-        assertEquals(numberOfItems == 0? 0 : numberOfItems-1, repository.findAll().size());    // There just one less
+        assertEquals(numberOfItems == 0? 0 : numberOfItems-1, service.findAll().size());    // There just one less
 
     }
 }

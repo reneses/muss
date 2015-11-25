@@ -1,7 +1,10 @@
-package ie.cit.adf.muss.repositories;
+package ie.cit.adf.muss.services;
 
 import ie.cit.adf.muss.MussApplication;
 import ie.cit.adf.muss.domain.Image;
+import ie.cit.adf.muss.domain.ImageSize;
+import ie.cit.adf.muss.repositories.ChObjectRepository;
+import ie.cit.adf.muss.repositories.ImageRepository;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -13,133 +16,132 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 import java.util.List;
 
+import static junit.framework.TestCase.assertEquals;
 import static org.junit.Assert.*;
 
-/**
- * TODO Test sizes
- */
 @RunWith(SpringJUnit4ClassRunner.class)
 @SpringApplicationConfiguration(classes = MussApplication.class)
 @ActiveProfiles("test")
 @DirtiesContext(classMode= DirtiesContext.ClassMode.AFTER_EACH_TEST_METHOD)
 //@TransactionConfiguration(defaultRollback=true)
-public class ImageRepositoryTest {
+public class ImageServiceTest {
 
     @Autowired
-    ImageRepository repository;
+    ImageService imageService;
 
     @Autowired
-    ChObjectRepository objectRepository;
+    ChObjectService objectService;
 
     Image image;
+    ImageSize size;
 
     private void assertEqualsImage(Image expected, Image actual) {
         assertEquals(expected.getId(), actual.getId());
-        assertEquals(expected.getId(), actual.getId());
+        assertEquals(expected.getOriginalId(), actual.getOriginalId());
         assertEquals(expected.isPrimary(), actual.isPrimary());
-        /*expected.getSizes().forEach( (label, size) -> {
+        expected.getSizes().forEach( (label, size) -> {
             ImageSize actualSize = actual.getSizes().getOrDefault(label, null);
             assertNotNull(actualSize);
             assertEquals(size.getHeight(), actualSize.getHeight());
             assertEquals(size.getWidth(), actualSize.getWidth());
             assertEquals(size.getUrl(), actualSize.getUrl());
-        });*/
+        });
     }
 
     @Before
     public void setUp() throws Exception {
         image = new Image();
-        image.setChObject(objectRepository.get(1));
-        image.setId(123);
-        image.setPrimary(1);
-        /*size = new ImageSize();
+        image.setObject(objectService.find(1));
+        image.setOriginalId(123);
+        image.setPrimary(true);
+        size = new ImageSize();
         size.setHeight(200);
         size.setWidth(200);
         size.setUrl("URL_z");
         size.setLabel("z");
-        image.addSize(size);*/
-        assertFalse("Test data is corrupted. Image is not supposed to be saved.", repository.findAll().contains(image));
+        image.addSize(size);
+        assertFalse("Test data is corrupted. Image is not supposed to be saved.", imageService.findAll().contains(image));
     }
 
     @Test
     public void testFindAll() throws Exception {
-        List<Image> images = repository.findAll();
+        List<Image> images = imageService.findAll();
         assertEquals(2, images.size());
     }
 
     @Test
     public void testFindAllEmpty() throws Exception {
-        List<Image> images = repository.findAll();
-        images.forEach(repository::remove);
-        images = repository.findAll();
+        List<Image> images = imageService.findAll();
+        images.forEach(imageService::remove);
+        images = imageService.findAll();
         assertTrue(images.isEmpty());
     }
 
     @Test
     public void testGet() throws Exception {
-        Image image = repository.get(1);
-        assertEquals(1001, image.getId());
-        assertEquals(1, image.isPrimary());
-        /*assertEquals(200, image.getSizes().get("a").getWidth());
+        Image image = imageService.find(1);
+        assertEquals(1001, image.getOriginalId());
+        assertTrue(image.isPrimary());
+        assertEquals(200, image.getSizes().get("a").getWidth());
         assertEquals(100, image.getSizes().get("a").getHeight());
-        assertEquals("image1.ie_a", image.getSizes().get("a").getUrl());*/
+        assertEquals("image1.ie_a", image.getSizes().get("a").getUrl());
     }
     
     @Test(expected = IllegalArgumentException.class)
     public void testGetNegative() throws Exception {
-        repository.get(-1);
+        imageService.find(-1);
     }
 
     @Test(expected = IllegalArgumentException.class)
     public void testGetZero() throws Exception {
-        repository.get(0);
+        imageService.find(0);
     }
 
     @Test
     public void testGetNotExisting() throws Exception {
-        Image image = repository.get(Integer.MAX_VALUE);
+        Image image = imageService.find(Integer.MAX_VALUE);
         assertNull(image);
     }
 
     @Test
     public void testGetByOriginalId() throws Exception {
-        Image image = repository.getByOriginalId(1001);
-        assertEquals(1001, image.getId());
-        assertEquals(1, image.isPrimary());
-        /*assertEquals(200, image.getSizes().get("a").getWidth());
+        Image image = imageService.findByOriginalId(1001);
+        assertEquals(1001, image.getOriginalId());
+        assertTrue(image.isPrimary());
+        assertEquals(200, image.getSizes().get("a").getWidth());
         assertEquals(100, image.getSizes().get("a").getHeight());
-        assertEquals("image1.ie_a", image.getSizes().get("a").getUrl());*/
+        assertEquals("image1.ie_a", image.getSizes().get("a").getUrl());
     }
 
     @Test
     public void testGetByOriginalIdNotExisting() throws Exception {
-        Image image = repository.getByOriginalId(Integer.MAX_VALUE);
+        Image image = imageService.findByOriginalId(Integer.MAX_VALUE);
         assertNull(image);
     }
 
     @Test
     public void testGetByOriginalIdNegative() throws Exception {
-        Image image = repository.getByOriginalId(-1);
+        Image image = imageService.findByOriginalId(-1);
         assertNull(image);
     }
 
     @Test(expected = IllegalArgumentException.class)
     //@Transactional
     public void testSaveNull() throws Exception {
-        repository.save((Image) null);
+        imageService.save((Image) null);
     }
 
     @Test
     //@Transactional
     public void testSaveInserting() throws Exception {
 
-        int numberOfImages = repository.findAll().size();
+        int numberOfImages = imageService.findAll().size();
 
-        repository.save(image);
+        imageService.save(image);
 
         assertTrue(image.getId() != 0);
-        assertEquals(numberOfImages + 1, repository.findAll().size());
-        Image insertedImage = repository.get(image.getId());
+        assertEquals(numberOfImages + 1, imageService.findAll().size());
+        Image insertedImage = imageService.find(image.getId());
         assertNotNull(insertedImage);
         assertEqualsImage(image, insertedImage);
 
@@ -150,18 +152,19 @@ public class ImageRepositoryTest {
     //@Transactional
     public void testSaveUpdating() throws Exception {
 
-        int numberOfImages = repository.findAll().size();
+        int numberOfImages = imageService.findAll().size();
 
-        repository.save(image);
-        image.setPrimary(1);
-        /*size.setHeight(10);
+        imageService.save(image);
+        image.setPrimary(false);
+        ImageSize size = image.getSizes().get("z");
+        size.setHeight(10);
         size.setWidth(20);
         size.setUrl("X");
-        repository.save(image);
+        imageService.save(image);
 
-        assertEquals(numberOfImages + 1, repository.findAll().size());
-        Image insertedImage = repository.get(image.getId());
-        assertEqualsImage(image, insertedImage);*/
+        assertEquals(numberOfImages + 1, imageService.findAll().size());
+        Image insertedImage = imageService.find(image.getId());
+        assertEqualsImage(image, insertedImage);
 
     }
 
@@ -169,32 +172,32 @@ public class ImageRepositoryTest {
     //@Transactional
     public void testRemove() throws Exception {
 
-        repository.save(image);
-        int numberOfImages = repository.findAll().size();
-        repository.remove(image);
+        imageService.save(image);
+        int numberOfImages = imageService.findAll().size();
+        imageService.remove(image);
 
         assertEquals(0, image.getId());                                 // The image id has ben reset
-        assertEquals(numberOfImages == 0? 0 : numberOfImages-1, repository.findAll().size());    // There is an image less
-        assertFalse(repository.findAll().contains(image));              // The image is not in the repo any more
+        assertEquals(numberOfImages == 0? 0 : numberOfImages-1, imageService.findAll().size());    // There is an image less
+        assertFalse(imageService.findAll().contains(image));              // The image is not in the repo any more
 
     }
 
     @Test(expected = IllegalArgumentException.class)
     //@Transactional
     public void testRemoveNull() throws Exception {
-        repository.remove(null);
+        imageService.remove((Image) null);
     }
 
     @Test
     //@Transactional
     public void testRemoveTwice() throws Exception {
 
-        repository.save(image);
-        int numberOfImages = repository.findAll().size();
-        repository.remove(image);
-        repository.remove(image);
+        imageService.save(image);
+        int numberOfImages = imageService.findAll().size();
+        imageService.remove(image);
+        imageService.remove(image);
 
-        assertEquals(numberOfImages == 0 ? 0 : numberOfImages - 1, repository.findAll().size());    // There just one image less
+        assertEquals(numberOfImages == 0 ? 0 : numberOfImages - 1, imageService.findAll().size());    // There just one image less
 
     }
 
@@ -202,26 +205,26 @@ public class ImageRepositoryTest {
     //@Transactional
     public void testRemoveNotExisting() throws Exception {
 
-        repository.save(image);
-        int numberOfImages = repository.findAll().size();
-        repository.remove(image);
-        repository.remove(image);
+        imageService.save(image);
+        int numberOfImages = imageService.findAll().size();
+        imageService.remove(image);
+        imageService.remove(image);
 
-        assertEquals(numberOfImages == 0? 0 : numberOfImages-1, repository.findAll().size());    // There just one image less
+        assertEquals(numberOfImages == 0? 0 : numberOfImages-1, imageService.findAll().size());    // There just one image less
 
     }
 
     @Test
     public void testFindAllByObject() throws Exception {
 
-        List<Image> images = repository.findAll(objectRepository.get(1));
+        List<Image> images = imageService.findAll(objectService.find(1));
         assertEquals(2, images.size());
-        /*assertEquals(2, images.get(0).getSizes().size());
+        assertEquals(2, images.get(0).getSizes().size());
         assertEquals(2, images.get(1).getSizes().size());
         assertTrue(images.get(0).getSizes().containsKey("a"));
         assertTrue(images.get(0).getSizes().containsKey("b"));
         assertTrue(images.get(1).getSizes().containsKey("a"));
-        assertTrue(images.get(1).getSizes().containsKey("b"));*/
+        assertTrue(images.get(1).getSizes().containsKey("b"));
 
     }
 }

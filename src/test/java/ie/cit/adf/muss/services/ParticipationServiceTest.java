@@ -1,4 +1,4 @@
-package ie.cit.adf.muss.repositories;
+package ie.cit.adf.muss.services;
 
 import ie.cit.adf.muss.MussApplication;
 import ie.cit.adf.muss.domain.ChObject;
@@ -16,23 +16,23 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 import java.util.List;
 
-import static org.junit.Assert.*;
+import static junit.framework.TestCase.*;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @SpringApplicationConfiguration(classes = MussApplication.class)
 @ActiveProfiles("test")
 @DirtiesContext(classMode= DirtiesContext.ClassMode.AFTER_EACH_TEST_METHOD)
 //@TransactionConfiguration(defaultRollback=true)
-public class ParticipationRepositoryTest {
+public class ParticipationServiceTest {
 
     @Autowired
-    ParticipationRepository repository;
+    ParticipationService service;
 
     @Autowired
-    RoleRepository roleRepository;
+    RoleService roleService;
 
     @Autowired
-    ParticipantRepository participantRepository;
+    ParticipantService participantService;
 
     Participation participation;
 
@@ -51,7 +51,7 @@ public class ParticipationRepositoryTest {
         participant.setName("PARTICIPATION");
 
         participation = new Participation();
-        participation.setChObject(object);
+        participation.setObject(object);
         participation.setRole(role);
         participation.setParticipant(participant);
 
@@ -59,22 +59,22 @@ public class ParticipationRepositoryTest {
 
     @Test
     public void testFindAll() throws Exception {
-        List<Participation> participations = repository.findAll();
+        List<Participation> participations = service.findAll();
         assertEquals(2, participations.size());
         assertFalse(participations.get(0).equals(participations.get(1)));
     }
 
     @Test
     public void testFindAllEmpty() throws Exception {
-        List<Participation> participations = repository.findAll();
-        participations.forEach(repository::remove);
-        participations = repository.findAll();
+        List<Participation> participations = service.findAll();
+        participations.forEach(service::remove);
+        participations = service.findAll();
         assertTrue(participations.isEmpty());
     }
 
     @Test
     public void testGet() throws Exception {
-        Participation participation = repository.get(1);
+        Participation participation = service.find(1);
         assertNotNull(participation.getParticipant());
         assertNotNull(participation.getRole());
         assertEquals("participant1", participation.getParticipant().getName());
@@ -83,42 +83,42 @@ public class ParticipationRepositoryTest {
     
     @Test(expected = IllegalArgumentException.class)
     public void testGetNegative() throws Exception {
-        repository.get(-1);
+        service.find(-1);
     }
 
     @Test(expected = IllegalArgumentException.class)
     public void testGetZero() throws Exception {
-        repository.get(0);
+        service.find(0);
     }
 
     @Test
     public void testGetNotExisting() throws Exception {
-        Participation participation = repository.get(Integer.MAX_VALUE);
+        Participation participation = service.find(Integer.MAX_VALUE);
         assertNull(participation);
     }
 
     @Test(expected = IllegalArgumentException.class)
     //@Transactional
     public void testSaveNull() throws Exception {
-        repository.save(null);
+        service.save((Participation) null);
     }
 
     @Test
     //@Transactional
     public void testSaveInserting() throws Exception {
 
-        int numberOfItems = repository.findAll().size();
+        int numberOfItems = service.findAll().size();
 
-        repository.save(participation);
+        service.save(participation);
 
         // Check that the models was saved
-        assertNotNull(roleRepository.get(participation.getRole().getId()));
-        assertNotNull(participantRepository.get(participation.getParticipant().getId()));
+        assertNotNull(roleService.find(participation.getRole().getId()));
+        assertNotNull(participantService.find(participation.getParticipant().getId()));
 
-        // Check that the repo was saved TODO update
-        //assertTrue(participation.getId() != 0);
-        //assertEquals(numberOfItems + 1, repository.findAll().size());
-        //assertNotNull(repository.get(participation.getId()));
+        // Check that the repo was saved
+        assertTrue(participation.getId() != 0);
+        assertEquals(numberOfItems + 1, service.findAll().size());
+        assertNotNull(service.find(participation.getId()));
 
     }
 
@@ -127,20 +127,20 @@ public class ParticipationRepositoryTest {
     //@Transactional
     public void testSaveUpdating() throws Exception {
 
-        int numberOfItems = repository.findAll().size();
+        int numberOfItems = service.findAll().size();
         Role role = new Role();
         role.setName("roleName");
         role.setDisplayName("Role Name");
         role.setUrl("URL");
-        role.setId(123);
+        role.setOriginalId(123);
 
-        repository.save(participation);
+        service.save(participation);
         participation.setRole(role);
-        repository.save(participation);
+        service.save(participation);
 
-        assertEquals(numberOfItems + 1, repository.findAll().size());
+        assertEquals(numberOfItems + 1, service.findAll().size());
         assertTrue(role.getId() > 0);
-        assertEquals("roleName", roleRepository.get(role.getId()).getName());
+        assertEquals("roleName", roleService.find(role.getId()).getName());
 
     }
 
@@ -148,35 +148,34 @@ public class ParticipationRepositoryTest {
     //@Transactional
     public void testRemove() throws Exception {
 
-        List<Participation> participations = repository.findAll();
+        List<Participation> participations = service.findAll();
 
-        repository.save(participation);
-        int numberOfItems = repository.findAll().size();
-        repository.remove(participation);
+        service.save(participation);
+        int numberOfItems = service.findAll().size();
+        service.remove(participation);
 
-        // TODO
-        //assertEquals(0, participation.getId());                                 // The participation id has ben reset
-        //assertEquals(numberOfItems == 0? 0 : numberOfItems-1, repository.findAll().size());   // There is participation less
-        //assertFalse(repository.findAll().contains(participation));              // The participation is not in the repo any more
+        assertEquals(0, participation.getId());                                 // The participation id has ben reset
+        assertEquals(numberOfItems == 0? 0 : numberOfItems-1, service.findAll().size());   // There is participation less
+        assertFalse(service.findAll().contains(participation));              // The participation is not in the repo any more
 
     }
 
     @Test(expected = IllegalArgumentException.class)
     //@Transactional
     public void testRemoveNull() throws Exception {
-        repository.remove(null);
+        service.remove((Participation) null);
     }
 
     @Test
     //@Transactional
     public void testRemoveTwice() throws Exception {
 
-        repository.save(participation);
-        int numberOfItems = repository.findAll().size();
-        repository.remove(participation);
-        repository.remove(participation);
+        service.save(participation);
+        int numberOfItems = service.findAll().size();
+        service.remove(participation);
+        service.remove(participation);
 
-        assertEquals(numberOfItems == 0 ? 0 : numberOfItems - 1, repository.findAll().size());    // There just one less
+        assertEquals(numberOfItems == 0 ? 0 : numberOfItems - 1, service.findAll().size());    // There just one less
 
     }
 
@@ -184,12 +183,12 @@ public class ParticipationRepositoryTest {
     //@Transactional
     public void testRemoveNotExisting() throws Exception {
 
-        repository.save(participation);
-        int numberOfItems = repository.findAll().size();
-        repository.remove(participation);
-        repository.remove(participation);
+        service.save(participation);
+        int numberOfItems = service.findAll().size();
+        service.remove(participation);
+        service.remove(participation);
 
-        assertEquals(numberOfItems == 0? 0 : numberOfItems-1, repository.findAll().size());    // There just one less
+        assertEquals(numberOfItems == 0? 0 : numberOfItems-1, service.findAll().size());    // There just one less
 
     }
 }

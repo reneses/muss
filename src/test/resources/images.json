@@ -1,0 +1,16 @@
+{
+  "a": {
+    "url": "imageURL_a",
+    "width": 1000,
+    "height": 2000,
+    "is_primary": "1",
+    "image_id": "12345"
+  },
+  "b": {
+    "url": "imageURL_b",
+    "width": 100,
+    "height": 200,
+    "is_primary": "1",
+    "image_id": "12345"
+  }
+}
