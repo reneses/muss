@@ -37,7 +37,7 @@ public class ReviewService{
 
 	public Review create(ChObject chObject){
 		Review review = new Review();
-		User user = LoginService.getPrincipal();
+		User user = AuthService.getPrincipal();
 		
 		review.setWriter(user);
 		review.setDate(new Date());
@@ -69,7 +69,7 @@ public class ReviewService{
     // USE CASES:
     
     public void likeReview(Review review){
-    	User user = LoginService.getPrincipal();
+    	User user = AuthService.getPrincipal();
     	Review result = reviewRepository.findOne(review.getId());
     	
     	List<User> users = new ArrayList<> (result.getLikes());
