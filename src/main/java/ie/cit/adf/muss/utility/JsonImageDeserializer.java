@@ -58,7 +58,7 @@ public class JsonImageDeserializer extends JsonDeserializer<Image> {
             size.setUrl(
                     sizeNode.get("url").textValue()
             );
-            image.getSizes().put(sizeLabel, size);
+            image.getSizes().add(size);
 
         }
 

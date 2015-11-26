@@ -5,7 +5,9 @@ import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 import ie.cit.adf.muss.domain.ImageSize;
 import ie.cit.adf.muss.utility.JsonImageDeserializer;
 
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 /**
@@ -24,7 +26,7 @@ public class Image {
     @JsonIgnore
     private ChObject object;
 
-    private Map<String, ImageSize> sizes = new HashMap<>();
+    private List<ImageSize> sizes = new ArrayList<>();
 
 
     /* GETTERS AND SETTERS */
@@ -63,19 +65,19 @@ public class Image {
         this.object = object;
     }
 
-    public Map<String, ImageSize> getSizes() {
+    public List<ImageSize> getSizes() {
         return sizes;
     }
 
-    public void setSizes(Map<String, ImageSize> sizes) {
+    public void setSizes(List<ImageSize> sizes) {
         this.sizes = sizes;
     }
 
     public void addSize(ImageSize size) {
-        sizes.put(size.getLabel(), size);
+        sizes.add(size);
     }
 
     public void removeSize(ImageSize size) {
-        sizes.remove(size.getLabel());
+        sizes.remove(size);
     }
 }
