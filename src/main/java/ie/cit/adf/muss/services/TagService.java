@@ -37,7 +37,7 @@ public class TagService{
 	public Tag create(){
 		Tag tag = new Tag();
 		
-		User user = LoginService.getPrincipal();
+		User user = AuthService.getPrincipal();
 		tag.setUser(user);
 		
 		return tag;
