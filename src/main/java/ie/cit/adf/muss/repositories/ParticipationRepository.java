@@ -18,7 +18,7 @@ public interface ParticipationRepository extends CrudRepository<Participation, I
      * @param object Object from which obtain the relationships
      * @return Model with the given id, null if it does not exist
      */
-    List<Participation> findAllByChObject(ChObject object);
+    List<Participation> findAllByObject(ChObject object);
 
 
 }

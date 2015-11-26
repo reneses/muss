@@ -23,7 +23,7 @@ public class ParticipationService extends CrudService<Participation> {
      * @return Model with the given id, null if it does not exist
      */
     public List<Participation> findAll(ChObject object) {
-        return participationRepository.findAllByChObject(object);
+        return participationRepository.findAllByObject(object);
     }
 
 }

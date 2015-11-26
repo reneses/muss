@@ -35,13 +35,13 @@ public class Tag {
 	)
 	private Collection<ChObject> chObjects;
 
-	public Tag(int id, String name, User user, Collection<ChObject> chObjects) {
-		super();
-		this.id = id;
-		this.name = name;
-		this.user = user;
-		this.chObjects = chObjects;
-	}
+//	public Tag(int id, String name, User user, Collection<ChObject> chObjects) {
+//		super();
+//		this.id = id;
+//		this.name = name;
+//		this.user = user;
+//		this.chObjects = chObjects;
+//	}
 
 	public int getId() {
 		return id;

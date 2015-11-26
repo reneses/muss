@@ -33,18 +33,18 @@ public class Review {
 	@ManyToMany(fetch=FetchType.LAZY, mappedBy="likes")
 	private Collection<User> likes;
 
-	public Review(int id, String title, String content, Date date, Integer rating, ChObject chObject, User writer,
-			Collection<User> likes) {
-		super();
-		this.id = id;
-		this.title = title;
-		this.content = content;
-		this.date = date;
-		this.rating = rating;
-		this.chObject = chObject;
-		this.writer = writer;
-		this.likes = likes;
-	}
+//	public Review(int id, String title, String content, Date date, Integer rating, ChObject chObject, User writer,
+//			Collection<User> likes) {
+//		super();
+//		this.id = id;
+//		this.title = title;
+//		this.content = content;
+//		this.date = date;
+//		this.rating = rating;
+//		this.chObject = chObject;
+//		this.writer = writer;
+//		this.likes = likes;
+//	}
 
 	public int getId() {
 		return id;
