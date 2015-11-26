@@ -29,7 +29,7 @@ public class ParticipationTest {
 
     @Before
     public void setUp() throws Exception {
-        participationFile = new File(ParticipationTest.class.getResource("/participation.json").getFile());
+        participationFile = new File(ParticipationTest.class.getResource("/participation.json").toURI());
     }
 
     @Test

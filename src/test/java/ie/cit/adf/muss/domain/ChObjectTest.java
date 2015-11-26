@@ -14,7 +14,7 @@ public class ChObjectTest {
 
     @Before
     public void setUp() throws Exception {
-        file = new File(ParticipationTest.class.getResource("/chobject.json").getFile());
+        file = new File(ParticipationTest.class.getResource("/chobject.json").toURI());
     }
 
     @Test

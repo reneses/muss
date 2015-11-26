@@ -16,7 +16,7 @@ public class ImageTest {
 
     @Before
     public void setUp() throws Exception {
-        imageFile = new File(ParticipationTest.class.getResource("/images.json").getFile());
+        imageFile = new File(ParticipationTest.class.getResource("/images.json").toURI());
     }
 
     @Test
