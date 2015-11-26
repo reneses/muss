@@ -21,7 +21,7 @@ public class ImageService extends CrudService<Image> {
      * @return Model with the given id, null if it does not exist
      */
      public List<Image> findAll(ChObject object) {
-         return imageRepository.findAllByObject(object);
+         return imageRepository.findAllByChObject(object);
      }
 
 }

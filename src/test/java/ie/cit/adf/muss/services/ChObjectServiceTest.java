@@ -210,10 +210,10 @@ public class ChObjectServiceTest {
         // Check that the participations and images were saved
         imageService
                 .findAll(object)
-                .forEach(image -> assertEqualsChObject(object, image.getObject()));
+                .forEach(image -> assertEqualsChObject(object, image.getChObject()));
         participationService
                 .findAll(object)
-                .forEach( participation -> assertEqualsChObject(object, participation.getObject()));
+                .forEach( participation -> assertEqualsChObject(object, participation.getChObject()));
 
     }
 

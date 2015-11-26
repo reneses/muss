@@ -1,21 +1,30 @@
 package ie.cit.adf.muss.domain;
 
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.persistence.Entity;
+import javax.persistence.FetchType;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.ManyToOne;
+import javax.persistence.OneToMany;
+
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
-import ie.cit.adf.muss.domain.ImageSize;
-import ie.cit.adf.muss.utility.JsonImageDeserializer;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import ie.cit.adf.muss.utility.JsonImageDeserializer;
 
 /**
  * Image
  */
+@Entity
 @JsonDeserialize(using = JsonImageDeserializer.class)
 public class Image {
 
+	@Id
+	@GeneratedValue
     @JsonIgnore
     private int id;
 
@@ -24,8 +33,11 @@ public class Image {
     private boolean isPrimary;
 
     @JsonIgnore
-    private ChObject object;
+    @ManyToOne(fetch=FetchType.LAZY)
+	@JoinColumn(name="chobject_id")
+    private ChObject chObject;
 
+    @OneToMany(fetch= FetchType.LAZY, mappedBy="image")
     private List<ImageSize> sizes = new ArrayList<>();
 
 
@@ -55,17 +67,17 @@ public class Image {
         this.isPrimary = isPrimary;
     }
 
-    public ChObject getObject() {
-        return object;
-    }
 
-    public void setObject(ChObject object) {
-        if (this.object != null)
-            throw new IllegalArgumentException("Once set, the object cannot be changed");
-        this.object = object;
-    }
 
-    public List<ImageSize> getSizes() {
+    public ChObject getChObject() {
+		return chObject;
+	}
+
+	public void setChObject(ChObject chObject) {
+		this.chObject = chObject;
+	}
+
+	public List<ImageSize> getSizes() {
         return sizes;
     }
 

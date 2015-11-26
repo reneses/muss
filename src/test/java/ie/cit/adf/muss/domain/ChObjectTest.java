@@ -33,7 +33,7 @@ public class ChObjectTest {
 
         assertEquals(3, object.getParticipations().size());
         object.getParticipations().forEach( p -> {
-            assertEquals(object, p.getObject());
+            assertEquals(object, p.getChObject());
         });
 
         assertEquals(2, object.getImages().size());

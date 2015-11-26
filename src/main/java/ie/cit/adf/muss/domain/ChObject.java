@@ -7,8 +7,15 @@ import ie.cit.adf.muss.domain.Image;
 import ie.cit.adf.muss.domain.Participation;
 import ie.cit.adf.muss.domain.Review;
 
+import javax.persistence.Entity;
 import javax.persistence.FetchType;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+import javax.persistence.JoinTable;
+import javax.persistence.JoinColumn;
+import javax.persistence.ManyToMany;
 import javax.persistence.OneToMany;
+
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
@@ -16,9 +23,12 @@ import java.util.List;
 /**
  * Cultural Heritage Object
  */
+@Entity
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class ChObject {
 
+	@Id
+	@GeneratedValue
 	@JsonIgnore
 	private int id;
 
@@ -34,13 +44,26 @@ public class ChObject {
 	private String galleryText;
 
 	@JsonProperty("participants")
+	@OneToMany(fetch= FetchType.LAZY, mappedBy="chObject")
 	private List<Participation> participations;
 
 	@JsonIgnoreProperties("images")
-	List<Image> images;
+	@OneToMany(fetch= FetchType.LAZY, mappedBy="chObject")
+	private List<Image> images;
 
 	@OneToMany(fetch= FetchType.LAZY, mappedBy="chObject")
 	private Collection<Review> reviews;
+	
+	@ManyToMany(fetch= FetchType.LAZY)
+	@JoinTable(
+			name="chobjects_tags",
+			joinColumns={@JoinColumn(name="chobject_id", referencedColumnName="id")},
+			inverseJoinColumns={@JoinColumn(name="tag_id", referencedColumnName="id")}
+	)
+	private Collection<Tag> tags;
+	
+	@ManyToMany(fetch= FetchType.LAZY, mappedBy="chObjectLikes")
+	private Collection<User> likes;
 
 	public ChObject() {
 		participations = new ArrayList<>();
@@ -118,7 +141,7 @@ public class ChObject {
 
 	public void setParticipations(List<Participation> participations) {
 		this.participations = participations;
-		participations.forEach( p -> p.setObject(this));
+		participations.forEach( p -> p.setChObject(this));
 	}
 
 	public List<Image> getImages() {
@@ -127,7 +150,23 @@ public class ChObject {
 
 	public void setImages(List<Image> images) {
 		this.images = images;
-		images.forEach( image -> image.setObject(this));
+		images.forEach( image -> image.setChObject(this));
+	}
+
+	public Collection<Tag> getTags() {
+		return tags;
+	}
+
+	public void setTags(Collection<Tag> tags) {
+		this.tags = tags;
+	}
+
+	public Collection<User> getLikes() {
+		return likes;
+	}
+
+	public void setLikes(Collection<User> likes) {
+		this.likes = likes;
 	}
 
 	public Collection<Review> getReviews() {

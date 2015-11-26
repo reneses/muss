@@ -7,7 +7,6 @@ import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
-import javax.persistence.JoinTable;
 import javax.persistence.ManyToMany;
 import javax.persistence.ManyToOne;
 
@@ -17,31 +16,15 @@ public class Tag {
 	@Id
 	@GeneratedValue
 	private int id;
+	
 	private String name;
 
 	@ManyToOne(fetch=FetchType.LAZY)
 	@JoinColumn(name="user_id")
 	private User user;
 
-	@ManyToMany(fetch=FetchType.LAZY)
-	@JoinTable(
-      name="tags_chobject",
-      joinColumns={
-		 @JoinColumn(name="tag_id", referencedColumnName="id")
-      },
-      inverseJoinColumns={
-		  @JoinColumn(name="chobject_id", referencedColumnName="id")
-	  }
-	)
+	@ManyToMany(fetch=FetchType.LAZY, mappedBy="tags")
 	private Collection<ChObject> chObjects;
-
-//	public Tag(int id, String name, User user, Collection<ChObject> chObjects) {
-//		super();
-//		this.id = id;
-//		this.name = name;
-//		this.user = user;
-//		this.chObjects = chObjects;
-//	}
 
 	public int getId() {
 		return id;

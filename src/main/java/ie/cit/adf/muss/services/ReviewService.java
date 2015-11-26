@@ -39,7 +39,7 @@ public class ReviewService{
 		Review review = new Review();
 		User user = AuthService.getPrincipal();
 		
-		review.setWriter(user);
+		review.setUser(user);
 		review.setDate(new Date());
 		review.setChObject(chObject);
 		review.setLikes(new ArrayList<>());

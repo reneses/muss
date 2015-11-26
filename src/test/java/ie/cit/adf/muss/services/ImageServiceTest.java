@@ -51,7 +51,7 @@ public class ImageServiceTest {
     @Before
     public void setUp() throws Exception {
         image = new Image();
-        image.setObject(objectService.find(1));
+        image.setChObject(objectService.find(1));
         image.setOriginalId(123);
         image.setPrimary(true);
         size = new ImageSize();

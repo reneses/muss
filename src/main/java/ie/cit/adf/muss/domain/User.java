@@ -27,12 +27,12 @@ public class User {
 	@OneToMany(fetch=FetchType.LAZY, mappedBy="user")
 	private Collection<Tag> tags;
 	
-	@OneToMany(fetch=FetchType.LAZY, mappedBy="writer")
-	private Collection<Review> written;
+	@OneToMany(fetch=FetchType.LAZY, mappedBy="user")
+	private Collection<Review> reviews;
 	
 	@ManyToMany(fetch=FetchType.LAZY)
 	@JoinTable(
-      name="likes",
+      name="review_likes",
       joinColumns={
 		 @JoinColumn(name="user_id", referencedColumnName="id")
       },
@@ -40,11 +40,19 @@ public class User {
 		  @JoinColumn(name="review_id", referencedColumnName="id")
 	  }
 	)
-	private Collection<Review> likes;
+	private Collection<Review> reviewLikes;
 	
-	private Collection<User> following;
-	
-	private Collection<User> followed;
+	@ManyToMany(fetch=FetchType.LAZY)
+	@JoinTable(
+      name="chobject_likes",
+      joinColumns={
+		 @JoinColumn(name="user_id", referencedColumnName="id")
+      },
+      inverseJoinColumns={
+		  @JoinColumn(name="chobject_id", referencedColumnName="id")
+	  }
+	)
+	private Collection<Review> chObjectLikes;
 
 	public User() {
 	}
@@ -126,36 +134,30 @@ public class User {
 		this.tags = tags;
 	}
 
-	public Collection<Review> getWritten() {
-		return written;
+	
+
+	public Collection<Review> getReviews() {
+		return reviews;
 	}
 
-	public void setWritten(Collection<Review> written) {
-		this.written = written;
+	public void setReviews(Collection<Review> reviews) {
+		this.reviews = reviews;
 	}
 
-	public Collection<Review> getLikes() {
-		return likes;
+	public Collection<Review> getReviewLikes() {
+		return reviewLikes;
 	}
 
-	public void setLikes(Collection<Review> likes) {
-		this.likes = likes;
+	public void setReviewLikes(Collection<Review> reviewLikes) {
+		this.reviewLikes = reviewLikes;
 	}
 
-	public Collection<User> getFollowing() {
-		return following;
+	public Collection<Review> getChObjectLikes() {
+		return chObjectLikes;
 	}
 
-	public void setFollowing(Collection<User> following) {
-		this.following = following;
+	public void setChObjectLikes(Collection<Review> chObjectLikes) {
+		this.chObjectLikes = chObjectLikes;
 	}
-
-	public Collection<User> getFollowed() {
-		return followed;
-	}
-
-	public void setFollowed(Collection<User> followed) {
-		this.followed = followed;
-	}	
 
 }

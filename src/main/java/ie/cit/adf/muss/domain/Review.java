@@ -27,24 +27,11 @@ public class Review {
 	private ChObject chObject;
 	
 	@ManyToOne(fetch=FetchType.LAZY)
-	@JoinColumn(name="writer_id")
-	private User writer;
+	@JoinColumn(name="user_id")
+	private User user;
 	
-	@ManyToMany(fetch=FetchType.LAZY, mappedBy="likes")
+	@ManyToMany(fetch=FetchType.LAZY, mappedBy="reviewLikes")
 	private Collection<User> likes;
-
-//	public Review(int id, String title, String content, Date date, Integer rating, ChObject chObject, User writer,
-//			Collection<User> likes) {
-//		super();
-//		this.id = id;
-//		this.title = title;
-//		this.content = content;
-//		this.date = date;
-//		this.rating = rating;
-//		this.chObject = chObject;
-//		this.writer = writer;
-//		this.likes = likes;
-//	}
 
 	public int getId() {
 		return id;
@@ -94,12 +81,14 @@ public class Review {
 		this.chObject = chObject;
 	}
 
-	public User getWriter() {
-		return writer;
+	
+
+	public User getUser() {
+		return user;
 	}
 
-	public void setWriter(User writer) {
-		this.writer = writer;
+	public void setUser(User user) {
+		this.user = user;
 	}
 
 	public Collection<User> getLikes() {

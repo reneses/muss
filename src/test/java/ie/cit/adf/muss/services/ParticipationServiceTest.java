@@ -51,7 +51,7 @@ public class ParticipationServiceTest {
         participant.setName("PARTICIPATION");
 
         participation = new Participation();
-        participation.setObject(object);
+        participation.setChObject(object);
         participation.setRole(role);
         participation.setParticipant(participant);
 

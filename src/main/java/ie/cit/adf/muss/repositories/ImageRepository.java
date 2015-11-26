@@ -17,6 +17,6 @@ public interface ImageRepository extends CrudRepository<Image, Integer> {
      * @param object Object from which obtain the relationships
      * @return Model with the given id, null if it does not exist
      */
-    List<Image> findAllByObject(ChObject object);
+    List<Image> findAllByChObject(ChObject object);
 
 }

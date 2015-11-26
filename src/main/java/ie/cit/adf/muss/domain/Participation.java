@@ -1,5 +1,12 @@
 package ie.cit.adf.muss.domain;
 
+import javax.persistence.Entity;
+import javax.persistence.FetchType;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.ManyToOne;
+
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonUnwrapped;
@@ -10,32 +17,40 @@ import ie.cit.adf.muss.domain.Role;
 /**
  * Participation
  */
+@Entity
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class Participation {
 
+	@Id
+	@GeneratedValue
 	@JsonIgnore
 	private int id;
 
 	@JsonIgnore
-	private ChObject object;
+	@ManyToOne(fetch=FetchType.LAZY)
+	@JoinColumn(name="chobject_id")
+	private ChObject chObject;
 
 	@JsonUnwrapped
+	@ManyToOne(fetch=FetchType.LAZY)
+	@JoinColumn(name="participant_id")
 	private Participant participant;
 
 	@JsonUnwrapped
+	@ManyToOne(fetch=FetchType.LAZY)
+	@JoinColumn(name="role_id")
 	private Role role;
 
 	public Participation() {
+		
 	}
 
-	public ChObject getObject() {
-		return object;
+	public ChObject getChObject() {
+		return chObject;
 	}
 
-	public void setObject(ChObject object) {
-		if (this.object != null)
-			throw new IllegalArgumentException("Once set, the object cannot be changed");
-		this.object = object;
+	public void setChObject(ChObject chObject) {
+		this.chObject = chObject;
 	}
 
 	public int getId() {

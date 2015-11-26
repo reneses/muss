@@ -26,14 +26,14 @@ public class Main implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
         System.out.println("MUSS HAS BEING EXECUTED");
-        try {
-            List<ChObject> objects = objectService.loadFromFolder();
-            //objects = objectService.findAll();
-            objects.forEach(System.out::println);
-        }
-        catch (Exception e) {
-            e.printStackTrace();
-        }
+//        try {
+//            List<ChObject> objects = objectService.loadFromFolder();
+//            //objects = objectService.findAll();
+//            objects.forEach(System.out::println);
+//        }
+//        catch (Exception e) {
+//            e.printStackTrace();
+//        }
     }
 
 }
