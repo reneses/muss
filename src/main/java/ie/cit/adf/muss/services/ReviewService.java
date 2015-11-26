@@ -69,7 +69,6 @@ public class ReviewService{
     // USE CASES:
     
     public void likeReview(Review review){
-    	
     	User user = LoginService.getPrincipal();
     	Review result = reviewRepository.findOne(review.getId());
     	

@@ -2,7 +2,6 @@ package ie.cit.adf.muss.services;
 
 import java.util.ArrayList;
 import java.util.Collection;
-import java.util.Date;
 import java.util.List;
 
 import javax.transaction.Transactional;
@@ -48,7 +47,7 @@ public class TagService{
     	Assert.notNull(tag);
 
     	// If exists in DB, work over that one
-    	Tag tagDB = tagRepository.findByTag(tag.getTag());
+    	Tag tagDB = tagRepository.findByName(tag.getName());
     	if(tagDB != null)			
     		tag = tagDB;
     	
@@ -73,7 +72,7 @@ public class TagService{
     	Assert.notNull(tag);
 //    	checkPrincipal(tag);
     	
-    	Tag tagDB = tagRepository.findByTag(tag.getTag());
+    	Tag tagDB = tagRepository.findByName(tag.getName());
     	if(tagDB != null){		
     		List<ChObject> chObjects = new ArrayList<>(tag.getChObjects());
     		chObjects.remove(chObject);

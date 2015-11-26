@@ -6,4 +6,6 @@ import ie.cit.adf.muss.domain.Tag;
 
 public interface TagRepository extends CrudRepository<Tag, Integer> {
 
+    public Tag findByName(String name);
+
 }
