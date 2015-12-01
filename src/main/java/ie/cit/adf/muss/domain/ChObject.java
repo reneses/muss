@@ -9,6 +9,9 @@ import ie.cit.adf.muss.domain.Review;
 
 import javax.persistence.*;
 
+import org.hibernate.annotations.Fetch;
+import org.hibernate.annotations.FetchMode;
+
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
@@ -51,7 +54,8 @@ public class ChObject {
 	@OneToMany(fetch= FetchType.EAGER, mappedBy="chObject")
 	private Collection<Review> reviews;
 	
-	@ManyToMany(fetch= FetchType.EAGER)
+	@ManyToMany(fetch= FetchType.EAGER, cascade=CascadeType.ALL)
+	@Fetch(FetchMode.SELECT)
 	@JoinTable(
 			name="chobjects_tags",
 			joinColumns={@JoinColumn(name="chobject_id", referencedColumnName="id")},
@@ -65,6 +69,7 @@ public class ChObject {
 	public ChObject() {
 		participations = new ArrayList<>();
 		images = new ArrayList<>();
+		tags = new ArrayList<>();
 	}
 
 	/* SETTERS AND GETTERS */
@@ -156,6 +161,16 @@ public class ChObject {
 
 	public void setTags(Collection<Tag> tags) {
 		this.tags = tags;
+		tags.forEach(tag -> {
+			if (!tag.getChObjects().contains(this))
+				tag.getChObjects().add(this);
+		});
+	}
+	
+	public void addTag(Tag tag) {
+		tags.add(tag);
+		if (!tag.getChObjects().contains(this))
+			tag.getChObjects().add(this);
 	}
 
 	public Collection<User> getLikes() {

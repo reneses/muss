@@ -1,5 +1,6 @@
 package ie.cit.adf.muss.domain;
 
+import java.util.ArrayList;
 import java.util.Collection;
 
 import javax.persistence.Entity;
@@ -25,6 +26,10 @@ public class Tag {
 
 	@ManyToMany(fetch=FetchType.LAZY, mappedBy="tags")
 	private Collection<ChObject> chObjects;
+	
+	public Tag() {
+		chObjects = new ArrayList<>();
+	}
 
 	public int getId() {
 		return id;
@@ -56,6 +61,17 @@ public class Tag {
 
 	public void setChObjects(Collection<ChObject> chObjects) {
 		this.chObjects = chObjects;
+		chObjects.forEach(chObject -> {
+			if (!chObject.getTags().contains(this))
+				chObject.getTags().add(this);
+		});
 	}
+
+	@Override
+	public String toString() {
+		return "Tag [id=" + id + ", name=" + name + "]";
+	}
+	
+	
 
 }

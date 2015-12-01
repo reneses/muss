@@ -16,6 +16,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import ie.cit.adf.muss.MussApplication;
 import ie.cit.adf.muss.domain.ChObject;
 import ie.cit.adf.muss.domain.Image;
+import ie.cit.adf.muss.domain.Tag;
 import ie.cit.adf.muss.services.ChObjectService;
 
 @RunWith(SpringJUnit4ClassRunner.class)
@@ -28,7 +29,7 @@ public class RelationTests {
 	ChObjectService chObjectService;
 
 	@Test
-	public void test() {
+	public void testChObjectImages() {
 		
 		long numChObjects = chObjectService.count();
 		int newChObjectId = (int) (numChObjects+1);
@@ -71,6 +72,26 @@ public class RelationTests {
 		image2 = images.get(1);
 		assertEquals(newChObjectId, image1.getChObject().getId());
 		assertEquals(newChObjectId, image2.getChObject().getId());
+		
+	}
+	
+	@Test
+	public void testChObjectTags() {
+		
+		ChObject chObject = chObjectService.find(1);
+		assertNotNull(chObject);
+		
+		Tag tag = new Tag();
+		tag.setName("MyTag");
+		
+		chObject.addTag(tag);
+		
+		chObjectService.save(chObject);
+		
+		chObject = null;
+		chObject = chObjectService.find(1);
+		assertNotNull(chObject);
+		assertEquals(1, chObject.getTags().size());
 		
 	}
 	
