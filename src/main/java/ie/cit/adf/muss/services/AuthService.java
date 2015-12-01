@@ -19,7 +19,7 @@ import org.springframework.util.Assert;
  * TODO: add profile picture TODO: work with hashed passwords
  */
 @Service
-public class AuthService implements UserDetailsService {
+public class AuthService {
 
 	@Autowired
 	UserService userService;
@@ -63,7 +63,7 @@ public class AuthService implements UserDetailsService {
 		return null;
 	}
 
-	public static User getPrincipal() {
+	public User getPrincipal() {
 		User result;
 		SecurityContext context;
 		Authentication authentication;
@@ -81,8 +81,10 @@ public class AuthService implements UserDetailsService {
 		authentication = context.getAuthentication();
 		Assert.notNull(authentication);
 		principal = authentication.getPrincipal();
-		Assert.isTrue(principal instanceof User);
-		result = (User) principal;
+//		Assert.isTrue(principal instanceof User);
+		org.springframework.security.core.userdetails.User userDB =
+								(org.springframework.security.core.userdetails.User) principal;
+		result = userService.findByUsername(userDB.getUsername());
 		Assert.notNull(result);
 		Assert.isTrue(result.getId() != 0);
 

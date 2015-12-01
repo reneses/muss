@@ -26,6 +26,9 @@ public class TagService{
     
     // ------------------- Supporting services -------------------
     
+    @Autowired
+	AuthService authService;
+    
     // ----------------------- Constructor -----------------------
     
     // ------------------- Simple CRUD methods -------------------
@@ -37,7 +40,7 @@ public class TagService{
 	public Tag create(){
 		Tag tag = new Tag();
 		
-		User user = AuthService.getPrincipal();
+		User user = authService.getPrincipal();
 		tag.setUser(user);
 		
 		return tag;

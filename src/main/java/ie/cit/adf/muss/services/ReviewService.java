@@ -27,6 +27,9 @@ public class ReviewService{
     
     // ------------------- Supporting services -------------------
 
+    @Autowired
+	AuthService authService;
+    
     // ----------------------- Constructor -----------------------
     
     // ------------------- Simple CRUD methods -------------------
@@ -37,7 +40,7 @@ public class ReviewService{
 
 	public Review create(ChObject chObject){
 		Review review = new Review();
-		User user = AuthService.getPrincipal();
+		User user = authService.getPrincipal();
 		
 		review.setUser(user);
 		review.setDate(new Date());
@@ -69,7 +72,7 @@ public class ReviewService{
     // USE CASES:
     
     public void likeReview(Review review){
-    	User user = AuthService.getPrincipal();
+    	User user = authService.getPrincipal();
     	Review result = reviewRepository.findOne(review.getId());
     	
     	List<User> users = new ArrayList<> (result.getLikes());
