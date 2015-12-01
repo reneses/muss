@@ -39,9 +39,12 @@ public class Image {
     private ChObject chObject;
 
     @OneToMany(fetch= FetchType.EAGER, mappedBy="image", cascade=CascadeType.ALL)
-    private List<ImageSize> sizes = new ArrayList<>();
+    private List<ImageSize> sizes;
 
-
+    public Image() {
+    	sizes = new ArrayList<>();
+    }
+    
     /* GETTERS AND SETTERS */
 
     public int getId() {

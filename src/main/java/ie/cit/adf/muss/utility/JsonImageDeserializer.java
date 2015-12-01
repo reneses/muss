@@ -5,12 +5,10 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.DeserializationContext;
 import com.fasterxml.jackson.databind.JsonDeserializer;
 import com.fasterxml.jackson.databind.JsonNode;
-import com.fasterxml.jackson.databind.node.IntNode;
 import ie.cit.adf.muss.domain.Image;
 import ie.cit.adf.muss.domain.ImageSize;
 
 import java.io.IOException;
-import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 
@@ -48,6 +46,7 @@ public class JsonImageDeserializer extends JsonDeserializer<Image> {
 
             // Create and store the size
             ImageSize size = new ImageSize();
+            size.setImage(image);
             size.setLabel(sizeLabel);
             size.setWidth(
                     sizeNode.get("width").intValue()

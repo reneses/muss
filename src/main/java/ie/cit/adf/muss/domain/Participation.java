@@ -51,6 +51,9 @@ public class Participation {
 
 	public void setChObject(ChObject chObject) {
 		this.chObject = chObject;
+		if (!chObject.getParticipations().contains(this)) {
+			chObject.getParticipations().add(this);
+        }
 	}
 
 	public int getId() {

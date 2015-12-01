@@ -138,7 +138,7 @@ public class ChObject {
 
 	public void setParticipations(List<Participation> participations) {
 		this.participations = participations;
-		participations.forEach( p -> p.setChObject(this));
+		participations.forEach(p -> p.setChObject(this));
 	}
 
 	public List<Image> getImages() {

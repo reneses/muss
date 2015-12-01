@@ -2,6 +2,7 @@ package ie.cit.adf.muss.domain;
 
 import java.util.Collection;
 
+import javax.persistence.CascadeType;
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
@@ -36,7 +37,7 @@ public class Participant {
 	@JsonProperty("person_url")
 	private String url;
 	
-	@OneToMany(fetch=FetchType.LAZY, mappedBy="participant")
+	@OneToMany(fetch=FetchType.LAZY, mappedBy="participant", cascade=CascadeType.ALL)
 	@JsonIgnore
 	private Collection<Participation> participations;
 

@@ -1,6 +1,7 @@
 package ie.cit.adf.muss.domain;
 
 import javax.persistence.Entity;
+import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
@@ -25,7 +26,7 @@ public class ImageSize {
     @JsonIgnore
     private String label;
 
-    @ManyToOne
+    @ManyToOne(fetch=FetchType.LAZY)
     @JoinColumn(name="image_id")
     private Image image;
     
