@@ -2,6 +2,9 @@ package ie.cit.adf.muss.controller;
 
 import ie.cit.adf.muss.domain.User;
 import ie.cit.adf.muss.domain.validation.UserForm;
+import ie.cit.adf.muss.services.UserService;
+
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.validation.BindingResult;
@@ -13,6 +16,9 @@ import javax.validation.Valid;
 
 @Controller
 public class AuthController {
+	
+	@Autowired
+	UserService userService;
 
     @RequestMapping(value = "/registration", method = RequestMethod.GET)
     public String getRegistration(Model model) {
@@ -25,6 +31,9 @@ public class AuthController {
         if (result.hasErrors()) {
             return "registration";
         }
+        
+        userForm = userService.registerUser(userForm);
+        
         model.addAttribute("user", userForm);
         return "profile";
     }
