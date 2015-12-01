@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<!--/*@thymesVar id="object" type="ie.cit.adf.muss.domain.ChObject"*/-->
+
+<head>
+    <meta charset="utf-8"/>
+    <title>Muss</title>
+</head>
+<body>
+    <h1>Muss</h1>
+    <a th:href="@{/gallery}">Back to the gallery</a>
+
+
+    <h2 th:text="${object.title}">[Title]</h2>
+    <h3>Images</h3>
+    <div th:each="image : ${object.images}">
+        <img th:src="${image.sizes.get(0).url}" width="300" height="auto"/>
+    </div>
+    <h3>Description</h3>
+    <table>
+        <tr>
+            <td>Medium</td>
+            <td th:text="${object.medium}"></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td th:text="${object.date}"></td>
+        </tr>
+        <tr>
+            <td>Credit line</td>
+            <td th:text="${object.creditLine}"></td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td th:text="${object.description}"></td>
+        </tr>
+        <tr>
+            <td>Gallery text</td>
+            <td th:text="${object.galleryText}"></td>
+        </tr>
+    </table>
+
+    <h3>Tags</h3>
+    <ul>
+        <li th:each="tag : ${object.tags}" th:text="${tag.name}"></li>
+    </ul>
+
+    <h3>Reviews</h3>
+    <ul>
+    </ul>
+
+</body>
+</html>

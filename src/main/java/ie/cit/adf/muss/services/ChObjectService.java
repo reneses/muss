@@ -2,6 +2,7 @@ package ie.cit.adf.muss.services;
 
 import ie.cit.adf.muss.domain.ChObject;
 import ie.cit.adf.muss.domain.Participation;
+import ie.cit.adf.muss.domain.Tag;
 import ie.cit.adf.muss.loaders.AbstractChObjectLoader;
 import ie.cit.adf.muss.repositories.ChObjectRepository;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -10,7 +11,10 @@ import org.springframework.stereotype.Service;
 
 import java.io.IOException;
 import java.net.URISyntaxException;
+import java.util.ArrayList;
 import java.util.List;
+import java.util.Random;
+import java.util.stream.Stream;
 
 @Service
 public class ChObjectService extends CrudService<ChObject> {
@@ -68,14 +72,13 @@ public class ChObjectService extends CrudService<ChObject> {
      *
      * @return list of objects
      * @throws IOException
-     * @throws URISyntaxException 
+     * @throws URISyntaxException
      */
     public List<ChObject> loadFromFolder() throws IOException, URISyntaxException {
         List<ChObject> objects = loader.loadChObjects();
         try {
             save(objects);
-        }
-        catch (DuplicateKeyException e) {
+        } catch (DuplicateKeyException e) {
             System.err.println("The files were already imported!");
         }
         return objects;
@@ -85,9 +88,9 @@ public class ChObjectService extends CrudService<ChObject> {
     /**
      * Retrieve a model given its original id
      *
-     * @throws IllegalArgumentException if the id is not a positive integer
      * @param id ID of the role
      * @return Model with the given id, null if it does not exist
+     * @throws IllegalArgumentException if the id is not a positive integer
      */
     public ChObject findOneByOriginalId(int id) {
         return objectRepository.findOneByOriginalId(id);
@@ -101,9 +104,9 @@ public class ChObjectService extends CrudService<ChObject> {
         participationService.save(model.getParticipations());
         return super.save(model);
     }
-    
+
     public long count() {
-    	return objectRepository.count();
+        return objectRepository.count();
     }
 
 }

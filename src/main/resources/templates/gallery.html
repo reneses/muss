@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html xmlns:th="http://www.thymeleaf.org">
+<!--/*@thymesVar id="chObjects" type="java.util.List<ie.cit.adf.muss.domain.ChObject>"*/-->
 	<head>
 		<meta charset="utf-8" />
 		<title>Muss</title>
@@ -7,5 +8,14 @@
 	<body>
 		<h1>Muss</h1>
 		<strong>Object</strong>
+
+		<div>
+			<a th:each="object : ${chObjects}" th:href="@{/gallery/{objectID}(objectID=${object.id})}">
+				<div>
+					<h3 th:text="${object.title}"></h3>
+					<img th:src="${object.images.get(0).sizes.get(0).url}" width="300" height="auto"/>
+				</div>
+			</a>
+		</div>
 	</body>
 </html>

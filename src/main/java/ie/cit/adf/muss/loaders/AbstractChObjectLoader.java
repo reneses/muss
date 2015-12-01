@@ -2,13 +2,16 @@ package ie.cit.adf.muss.loaders;
 
 
 import ie.cit.adf.muss.domain.ChObject;
+import ie.cit.adf.muss.domain.Tag;
 import ie.cit.adf.muss.utility.FileFinder;
 
 import java.io.IOException;
 import java.net.URISyntaxException;
 import java.net.URLDecoder;
 import java.nio.file.Path;
+import java.util.ArrayList;
 import java.util.List;
+import java.util.Random;
 import java.util.stream.Collectors;
 
 /**
@@ -39,7 +42,7 @@ public abstract class AbstractChObjectLoader {
      * @throws URISyntaxException 
      */
     protected List<Path> loadFiles() throws IOException, URISyntaxException {
-        String objectsDirectory = AbstractChObjectLoader.class.getResource('/' + this.objectsDirectory).toURI().toString().replaceFirst("file:/", "");
+        String objectsDirectory = AbstractChObjectLoader.class.getResource('/' + this.objectsDirectory).getPath();
         objectsDirectory = URLDecoder.decode(objectsDirectory, "utf-8");
         return FileFinder.getFileList(objectsDirectory, "*." + this.extension);
     }
@@ -62,7 +65,25 @@ public abstract class AbstractChObjectLoader {
      * @throws URISyntaxException 
      */
     public List<ChObject> loadChObjects() throws IOException, URISyntaxException {
-        return loadFiles().stream().map(this::mapFile).collect(Collectors.toList());
+        List<ChObject> objects = loadFiles().stream().map(this::mapFile).collect(Collectors.toList());
+        addRandomTags(objects);
+        return objects;
+    }
+
+    private void addRandomTags(List<ChObject> objects) {
+        Random random = new Random();
+        String[] randomTags = {"Impressive", "Red", "Blue", "Spanish", "American", "Unique", "Expensive", "Glamorous", "Food", "Cultural", "CIT", "Best"};
+        objects.forEach(object -> {
+            List<Tag> tags = new ArrayList<>();
+            int numberOfTags = random.nextInt(3) + 2;
+            for (int i=0; i<numberOfTags; i++) {
+                int idx = random.nextInt(randomTags.length);
+                Tag tag = new Tag();
+                tag.setName(randomTags[idx]);
+                tags.add(tag);
+            }
+            object.setTags(tags);
+        });
     }
 
 }

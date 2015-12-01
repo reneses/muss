@@ -16,6 +16,8 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 
 import ie.cit.adf.muss.utility.JsonImageDeserializer;
+import org.hibernate.annotations.Fetch;
+import org.hibernate.annotations.FetchMode;
 
 /**
  * Image
@@ -39,6 +41,7 @@ public class Image {
     private ChObject chObject;
 
     @OneToMany(fetch= FetchType.EAGER, mappedBy="image", cascade=CascadeType.ALL)
+    @Fetch(FetchMode.SELECT)
     private List<ImageSize> sizes;
 
     public Image() {
