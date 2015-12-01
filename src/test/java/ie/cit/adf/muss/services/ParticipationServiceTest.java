@@ -154,7 +154,6 @@ public class ParticipationServiceTest {
         int numberOfItems = service.findAll().size();
         service.remove(participation);
 
-        assertEquals(0, participation.getId());                                 // The participation id has ben reset
         assertEquals(numberOfItems == 0? 0 : numberOfItems-1, service.findAll().size());   // There is participation less
         assertFalse(service.findAll().contains(participation));              // The participation is not in the repo any more
 

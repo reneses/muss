@@ -24,4 +24,15 @@ public class ImageService extends CrudService<Image> {
          return imageRepository.findAllByChObject(object);
      }
 
+    /**
+     * Retrieve a model given its original id
+     *
+     * @throws IllegalArgumentException if the id is not a positive integer
+     * @param id ID of the role
+     * @return Model with the given id, null if it does not exist
+     */
+    public Image findOneByOriginalId(int id) {
+        return imageRepository.findOneByOriginalId(id);
+    }
+
 }

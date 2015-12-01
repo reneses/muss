@@ -6,6 +6,6 @@ import ie.cit.adf.muss.domain.ChObject;
 
 public interface ChObjectRepository extends CrudRepository<ChObject, Integer> {
 
-	
+	ChObject findOneByOriginalId(int id);
 
 }

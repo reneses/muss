@@ -5,15 +5,19 @@ import ie.cit.adf.muss.domain.Image;
 import ie.cit.adf.muss.domain.ImageSize;
 import ie.cit.adf.muss.repositories.ChObjectRepository;
 import ie.cit.adf.muss.repositories.ImageRepository;
+import org.apache.tomcat.jdbc.pool.DataSource;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.SpringApplicationConfiguration;
+import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.test.annotation.DirtiesContext;
 import org.springframework.test.context.ActiveProfiles;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
+import org.springframework.transaction.annotation.Transactional;
 
+import java.io.File;
 import java.util.List;
 
 import static junit.framework.TestCase.assertEquals;
@@ -23,7 +27,7 @@ import static org.junit.Assert.*;
 @SpringApplicationConfiguration(classes = MussApplication.class)
 @ActiveProfiles("test")
 @DirtiesContext(classMode= DirtiesContext.ClassMode.AFTER_EACH_TEST_METHOD)
-//@TransactionConfiguration(defaultRollback=true)
+//@Transactional
 public class ImageServiceTest {
 
     @Autowired
@@ -31,6 +35,9 @@ public class ImageServiceTest {
 
     @Autowired
     ChObjectService objectService;
+
+    @Autowired
+    JdbcTemplate jdbcTemplate;
 
     Image image;
     ImageSize size;
@@ -50,6 +57,7 @@ public class ImageServiceTest {
 
     @Before
     public void setUp() throws Exception {
+
         image = new Image();
         image.setChObject(objectService.find(1));
         image.setOriginalId(123);
@@ -67,14 +75,6 @@ public class ImageServiceTest {
     public void testFindAll() throws Exception {
         List<Image> images = imageService.findAll();
         assertEquals(2, images.size());
-    }
-
-    @Test
-    public void testFindAllEmpty() throws Exception {
-        List<Image> images = imageService.findAll();
-        images.forEach(imageService::remove);
-        images = imageService.findAll();
-        assertTrue(images.isEmpty());
     }
 
     @Test
@@ -105,7 +105,7 @@ public class ImageServiceTest {
 
     @Test
     public void testGetByOriginalId() throws Exception {
-        Image image = imageService.findByOriginalId(1001);
+        Image image = imageService.findOneByOriginalId(1001);
         assertEquals(1001, image.getOriginalId());
         assertTrue(image.isPrimary());
         //assertEquals(200, image.getSizes().get("a").getWidth());
@@ -115,13 +115,13 @@ public class ImageServiceTest {
 
     @Test
     public void testGetByOriginalIdNotExisting() throws Exception {
-        Image image = imageService.findByOriginalId(Integer.MAX_VALUE);
+        Image image = imageService.findOneByOriginalId(Integer.MAX_VALUE);
         assertNull(image);
     }
 
     @Test
     public void testGetByOriginalIdNegative() throws Exception {
-        Image image = imageService.findByOriginalId(-1);
+        Image image = imageService.findOneByOriginalId(-1);
         assertNull(image);
     }
 
@@ -176,7 +176,6 @@ public class ImageServiceTest {
         int numberOfImages = imageService.findAll().size();
         imageService.remove(image);
 
-        assertEquals(0, image.getId());                                 // The image id has ben reset
         assertEquals(numberOfImages == 0? 0 : numberOfImages-1, imageService.findAll().size());    // There is an image less
         assertFalse(imageService.findAll().contains(image));              // The image is not in the repo any more
 
@@ -191,27 +190,22 @@ public class ImageServiceTest {
     @Test
     //@Transactional
     public void testRemoveTwice() throws Exception {
-
         imageService.save(image);
         int numberOfImages = imageService.findAll().size();
         imageService.remove(image);
         imageService.remove(image);
-
         assertEquals(numberOfImages == 0 ? 0 : numberOfImages - 1, imageService.findAll().size());    // There just one image less
-
     }
 
     @Test
     //@Transactional
     public void testRemoveNotExisting() throws Exception {
-
         imageService.save(image);
         int numberOfImages = imageService.findAll().size();
         imageService.remove(image);
         imageService.remove(image);
-
         assertEquals(numberOfImages == 0? 0 : numberOfImages-1, imageService.findAll().size());    // There just one image less
-
+        assertEquals(numberOfImages == 0? 0 : numberOfImages-1, imageService.findAll().size());    // There just one image less
     }
 
     @Test

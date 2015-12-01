@@ -15,6 +15,12 @@ public class ParticipationService extends CrudService<Participation> {
     @Autowired
     ParticipationRepository participationRepository;
 
+    @Autowired
+    ParticipantService participantService;
+
+    @Autowired
+    RoleService roleService;
+
     /**
      * Retrieve all the participations of a given object
      *
@@ -24,6 +30,15 @@ public class ParticipationService extends CrudService<Participation> {
      */
     public List<Participation> findAll(ChObject object) {
         return participationRepository.findAllByChObject(object);
+    }
+
+    @Override
+    public Participation save(Participation model) {
+        if (model == null)
+            throw new IllegalArgumentException("The model cannot be null");
+        participantService.save(model.getParticipant());
+        roleService.save(model.getRole());
+        return super.save(model);
     }
 
 }

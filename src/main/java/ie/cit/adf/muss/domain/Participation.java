@@ -27,17 +27,17 @@ public class Participation {
 	private int id;
 
 	@JsonIgnore
-	@ManyToOne(fetch=FetchType.LAZY)
+	@ManyToOne(fetch=FetchType.EAGER)
 	@JoinColumn(name="chobject_id")
 	private ChObject chObject;
 
 	@JsonUnwrapped
-	@ManyToOne(fetch=FetchType.LAZY)
+	@ManyToOne(fetch=FetchType.EAGER)
 	@JoinColumn(name="participant_id")
 	private Participant participant;
 
 	@JsonUnwrapped
-	@ManyToOne(fetch=FetchType.LAZY)
+	@ManyToOne(fetch=FetchType.EAGER)
 	@JoinColumn(name="role_id")
 	private Role role;
 

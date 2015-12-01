@@ -19,4 +19,6 @@ public interface ImageRepository extends CrudRepository<Image, Integer> {
      */
     List<Image> findAllByChObject(ChObject object);
 
+    Image findOneByOriginalId(int id);
+
 }

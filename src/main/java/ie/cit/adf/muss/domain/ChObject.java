@@ -41,17 +41,17 @@ public class ChObject {
 	private String galleryText;
 
 	@JsonProperty("participants")
-	@OneToMany(fetch= FetchType.LAZY, mappedBy="chObject")
+	@OneToMany(fetch= FetchType.EAGER, mappedBy="chObject")
 	private List<Participation> participations;
 
 	@JsonIgnoreProperties("images")
-	@OneToMany(fetch= FetchType.LAZY, mappedBy="chObject")
+	@OneToMany(fetch= FetchType.EAGER, mappedBy="chObject")
 	private List<Image> images;
 
-	@OneToMany(fetch= FetchType.LAZY, mappedBy="chObject")
+	@OneToMany(fetch= FetchType.EAGER, mappedBy="chObject")
 	private Collection<Review> reviews;
 	
-	@ManyToMany(fetch= FetchType.LAZY)
+	@ManyToMany(fetch= FetchType.EAGER)
 	@JoinTable(
 			name="chobjects_tags",
 			joinColumns={@JoinColumn(name="chobject_id", referencedColumnName="id")},
@@ -59,7 +59,7 @@ public class ChObject {
 	)
 	private Collection<Tag> tags;
 	
-	@ManyToMany(fetch= FetchType.LAZY, mappedBy="chObjectLikes")
+	@ManyToMany(fetch= FetchType.EAGER, mappedBy="chObjectLikes")
 	private Collection<User> likes;
 
 	public ChObject() {

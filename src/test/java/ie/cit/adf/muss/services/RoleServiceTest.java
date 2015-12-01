@@ -53,14 +53,6 @@ public class RoleServiceTest {
     }
 
     @Test
-    public void testFindAllEmpty() throws Exception {
-        List<Role> roles = service.findAll();
-        roles.forEach(service::remove);
-        roles = service.findAll();
-        assertTrue(roles.isEmpty());
-    }
-
-    @Test
     public void testGet() throws Exception {
         Role role = service.find(1);
         assertEquals(1001, role.getOriginalId());
@@ -87,7 +79,7 @@ public class RoleServiceTest {
 
     @Test
     public void testGetByOriginalId() throws Exception {
-        Role role = service.findByOriginalId(1001);
+        Role role = service.findOneByOriginalId(1001);
         assertEquals(1001, role.getOriginalId());
         assertEquals("role1", role.getName());
         assertEquals("Role 1", role.getDisplayName());
@@ -96,13 +88,13 @@ public class RoleServiceTest {
 
     @Test
     public void testGetByOriginalIdNotExisting() throws Exception {
-        Role role = service.findByOriginalId(Integer.MAX_VALUE);
+        Role role = service.findOneByOriginalId(Integer.MAX_VALUE);
         assertNull(role);
     }
 
     @Test
     public void testGetByOriginalIdNegative() throws Exception {
-        Role role = service.findByOriginalId(-1);
+        Role role = service.findOneByOriginalId(-1);
         assertNull(role);
     }
 
@@ -161,7 +153,6 @@ public class RoleServiceTest {
         int numberOfItems = service.findAll().size();
         service.remove(role);
 
-        assertEquals(0, role.getId());                                 // The role id has ben reset
         assertEquals(numberOfItems == 0? 0 : numberOfItems-1, service.findAll().size());   // There is role less
         assertFalse(service.findAll().contains(role));              // The role is not in the repo any more
 

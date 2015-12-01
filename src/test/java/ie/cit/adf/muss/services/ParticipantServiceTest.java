@@ -53,14 +53,6 @@ public class ParticipantServiceTest {
     }
 
     @Test
-    public void testFindAllEmpty() throws Exception {
-        List<Participant> participants = service.findAll();
-        participants.forEach(service::remove);
-        participants = service.findAll();
-        assertTrue(participants.isEmpty());
-    }
-
-    @Test
     public void testGet() throws Exception {
         Participant participant = service.find(1);
         assertEquals(1001, participant.getOriginalId());
@@ -87,7 +79,7 @@ public class ParticipantServiceTest {
 
     @Test
     public void testGetByOriginalId() throws Exception {
-        Participant participant = service.findByOriginalId(1001);
+        Participant participant = service.findOneByOriginalId(1001);
         assertEquals(1001, participant.getOriginalId());
         assertEquals("3001", participant.getDate());
         assertEquals("participant1", participant.getName());
@@ -96,13 +88,13 @@ public class ParticipantServiceTest {
 
     @Test
     public void testGetByOriginalIdNotExisting() throws Exception {
-        Participant participant = service.findByOriginalId(Integer.MAX_VALUE);
+        Participant participant = service.findOneByOriginalId(Integer.MAX_VALUE);
         assertNull(participant);
     }
 
     @Test
     public void testGetByOriginalIdNegative() throws Exception {
-        Participant participant = service.findByOriginalId(-1);
+        Participant participant = service.findOneByOriginalId(-1);
         assertNull(participant);
     }
 
@@ -160,7 +152,6 @@ public class ParticipantServiceTest {
         int numberOfItems = service.findAll().size();
         service.remove(participant);
 
-        assertEquals(0, participant.getId());                                 // The participant id has ben reset
         assertEquals(numberOfItems == 0? 0 : numberOfItems-1, service.findAll().size());   // There is participant less
         assertFalse(service.findAll().contains(participant));              // The participant is not in the repo any more
 

@@ -1,19 +1,24 @@
 package ie.cit.adf.muss.services;
 
 import ie.cit.adf.muss.domain.ChObject;
+import ie.cit.adf.muss.domain.Participation;
 import ie.cit.adf.muss.loaders.AbstractChObjectLoader;
 import ie.cit.adf.muss.repositories.ChObjectRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.DuplicateKeyException;
+import org.springframework.stereotype.Service;
 
 import java.io.IOException;
 import java.util.List;
 
-@org.springframework.stereotype.Service
+@Service
 public class ChObjectService extends CrudService<ChObject> {
 
     @Autowired
     ChObjectRepository objectRepository;
+
+    @Autowired
+    ParticipationService participationService;
 
     @Autowired
     AbstractChObjectLoader loader;
@@ -72,6 +77,27 @@ public class ChObjectService extends CrudService<ChObject> {
             System.err.println("The files were already imported!");
         }
         return objects;
+    }
+
+
+    /**
+     * Retrieve a model given its original id
+     *
+     * @throws IllegalArgumentException if the id is not a positive integer
+     * @param id ID of the role
+     * @return Model with the given id, null if it does not exist
+     */
+    public ChObject findOneByOriginalId(int id) {
+        return objectRepository.findOneByOriginalId(id);
+    }
+
+
+    @Override
+    public ChObject save(ChObject model) {
+        if (model == null)
+            throw new IllegalArgumentException("The object cannot be null");
+        participationService.save(model.getParticipations());
+        return super.save(model);
     }
 
 }

@@ -6,4 +6,6 @@ import ie.cit.adf.muss.domain.Participant;
 
 public interface ParticipantRepository extends CrudRepository<Participant, Integer> {
 
+    Participant findOneByOriginalId(int id);
+
 }

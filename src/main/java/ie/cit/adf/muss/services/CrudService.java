@@ -34,19 +34,9 @@ abstract class CrudService<E> {
      * @return Model with the given id, null if it does not exist
      */
     public E find(int id) {
+        if (id <= 0)
+            throw new IllegalArgumentException("The ID cannot must be a positive integer");
         return repository.findOne(id);
-    }
-
-
-    /**
-     * Retrieve a model given its id
-     *
-     * @throws IllegalArgumentException if the id is not a positive integer
-     * @param id ID of the role
-     * @return Model with the given id, null if it does not exist
-     */
-    public E findByOriginalId(int id) {
-        return null; // TODO
     }
 
 
@@ -60,6 +50,8 @@ abstract class CrudService<E> {
      * @throws IllegalArgumentException if the model is null
      */
     public E save(E model) {
+        if (model == null)
+            throw new IllegalArgumentException("The model to save cannot be null");
         return repository.save(model);
     }
 
@@ -86,11 +78,13 @@ abstract class CrudService<E> {
      * @throws IllegalArgumentException if the model is null
      */
     public boolean remove(E model) {
+        if (model == null)
+            throw new IllegalArgumentException("The model to remove cannot be null");
         repository.delete(model);
         return true;
     }
 
-    
+
     /**
      * Remove a collection of models from the repository
      *

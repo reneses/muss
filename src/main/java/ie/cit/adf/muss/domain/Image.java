@@ -37,7 +37,7 @@ public class Image {
 	@JoinColumn(name="chobject_id")
     private ChObject chObject;
 
-    @OneToMany(fetch= FetchType.LAZY, mappedBy="image")
+    @OneToMany(fetch= FetchType.EAGER, mappedBy="image")
     private List<ImageSize> sizes = new ArrayList<>();
 
 
