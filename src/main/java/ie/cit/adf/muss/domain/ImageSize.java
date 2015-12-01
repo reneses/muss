@@ -35,6 +35,9 @@ public class ImageSize {
 
 	public void setImage(Image image) {
 		this.image = image;
+		if (!image.getSizes().contains(this)) {
+			image.getSizes().add(this);
+        }
 	}
 
 	public int getWidth() {

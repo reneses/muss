@@ -45,7 +45,7 @@ public class ChObject {
 	private List<Participation> participations;
 
 	@JsonIgnoreProperties("images")
-	@OneToMany(fetch= FetchType.EAGER, mappedBy="chObject")
+	@OneToMany(fetch= FetchType.EAGER, mappedBy="chObject", cascade=CascadeType.ALL)
 	private List<Image> images;
 
 	@OneToMany(fetch= FetchType.EAGER, mappedBy="chObject")
@@ -147,7 +147,7 @@ public class ChObject {
 
 	public void setImages(List<Image> images) {
 		this.images = images;
-		images.forEach( image -> image.setChObject(this));
+		images.forEach(image -> image.setChObject(this));
 	}
 
 	public Collection<Tag> getTags() {

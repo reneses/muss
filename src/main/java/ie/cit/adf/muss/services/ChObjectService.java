@@ -101,5 +101,9 @@ public class ChObjectService extends CrudService<ChObject> {
         participationService.save(model.getParticipations());
         return super.save(model);
     }
+    
+    public long count() {
+    	return objectRepository.count();
+    }
 
 }

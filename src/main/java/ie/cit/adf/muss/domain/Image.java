@@ -3,6 +3,7 @@ package ie.cit.adf.muss.domain;
 import java.util.ArrayList;
 import java.util.List;
 
+import javax.persistence.CascadeType;
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
@@ -37,7 +38,7 @@ public class Image {
 	@JoinColumn(name="chobject_id")
     private ChObject chObject;
 
-    @OneToMany(fetch= FetchType.EAGER, mappedBy="image")
+    @OneToMany(fetch= FetchType.EAGER, mappedBy="image", cascade=CascadeType.ALL)
     private List<ImageSize> sizes = new ArrayList<>();
 
 
@@ -67,14 +68,15 @@ public class Image {
         this.isPrimary = isPrimary;
     }
 
-
-
     public ChObject getChObject() {
 		return chObject;
 	}
 
 	public void setChObject(ChObject chObject) {
 		this.chObject = chObject;
+		if (!chObject.getImages().contains(this)) {
+			chObject.getImages().add(this);
+        }
 	}
 
 	public List<ImageSize> getSizes() {
@@ -83,6 +85,7 @@ public class Image {
 
     public void setSizes(List<ImageSize> sizes) {
         this.sizes = sizes;
+        sizes.forEach(size -> size.setImage(this));
     }
 
     public void addSize(ImageSize size) {
