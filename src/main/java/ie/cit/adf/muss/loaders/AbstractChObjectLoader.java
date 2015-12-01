@@ -5,6 +5,8 @@ import ie.cit.adf.muss.domain.ChObject;
 import ie.cit.adf.muss.utility.FileFinder;
 
 import java.io.IOException;
+import java.net.URISyntaxException;
+import java.net.URLDecoder;
 import java.nio.file.Path;
 import java.util.List;
 import java.util.stream.Collectors;
@@ -34,9 +36,11 @@ public abstract class AbstractChObjectLoader {
      *
      * @return
      * @throws IOException
+     * @throws URISyntaxException 
      */
-    protected List<Path> loadFiles() throws IOException {
-        String objectsDirectory = AbstractChObjectLoader.class.getResource('/' + this.objectsDirectory).getPath();
+    protected List<Path> loadFiles() throws IOException, URISyntaxException {
+        String objectsDirectory = AbstractChObjectLoader.class.getResource('/' + this.objectsDirectory).toURI().toString().replaceFirst("file:/", "");
+        objectsDirectory = URLDecoder.decode(objectsDirectory, "utf-8");
         return FileFinder.getFileList(objectsDirectory, "*." + this.extension);
     }
 
@@ -55,8 +59,9 @@ public abstract class AbstractChObjectLoader {
      *
      * @return
      * @throws IOException
+     * @throws URISyntaxException 
      */
-    public List<ChObject> loadChObjects() throws IOException {
+    public List<ChObject> loadChObjects() throws IOException, URISyntaxException {
         return loadFiles().stream().map(this::mapFile).collect(Collectors.toList());
     }
 

@@ -31,7 +31,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter  {
     protected void configure(HttpSecurity http) throws Exception {
         http
         .authorizeRequests()
-            .antMatchers("/", "/home", "/registration", "/console/**", "/gallery").permitAll()
+            .antMatchers("/", "/home", "/register", "/console/**", "/gallery").permitAll()
             .anyRequest().authenticated()
             .and()
         .formLogin()
@@ -61,7 +61,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter  {
         .passwordEncoder(passwordEncoder)
         .usersByUsernameQuery("SELECT username, password, 'true' AS enabled "
         		+ "FROM User WHERE username = ?")
-        .authoritiesByUsernameQuery("SELECT 'ROLE_USER' AS authorities "
+        .authoritiesByUsernameQuery("SELECT username, 'ROLE_USER' AS authorities "
         		+ "FROM User WHERE username = ?");
     }
 	

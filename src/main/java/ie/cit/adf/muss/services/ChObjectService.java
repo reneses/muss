@@ -9,6 +9,7 @@ import org.springframework.dao.DuplicateKeyException;
 import org.springframework.stereotype.Service;
 
 import java.io.IOException;
+import java.net.URISyntaxException;
 import java.util.List;
 
 @Service
@@ -67,8 +68,9 @@ public class ChObjectService extends CrudService<ChObject> {
      *
      * @return list of objects
      * @throws IOException
+     * @throws URISyntaxException 
      */
-    public List<ChObject> loadFromFolder() throws IOException {
+    public List<ChObject> loadFromFolder() throws IOException, URISyntaxException {
         List<ChObject> objects = loader.loadChObjects();
         try {
             save(objects);
