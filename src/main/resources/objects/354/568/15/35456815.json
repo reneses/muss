@@ -1,0 +1,154 @@
+{
+    "id": "35456815",
+    "tms:id": "274467",
+    "accession_number": "5.2012.1",
+    "title": "Headboard, ca. 1885",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35456815\/",
+    "department_id": "35347495",
+    "period_id": null,
+    "media_id": "68778235",
+    "type_id": "35291967",
+    "date": "ca. 1885",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": null,
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Chased and cut steel, brass, pierced copper over carved and joined teak wood",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Frame H x W x D: 160 x 111.1 x 7.6 cm (5 ft. 3 in. x 43 3\/4 in. x 3 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "7.62",
+            "centimeters"
+        ],
+        "height": [
+            "160.02",
+            "centimeters"
+        ],
+        "width": [
+            "111.13",
+            "centimeters"
+        ]
+    },
+    "creditline": "Lent by Bryn Mawr College",
+    "description": "inlaid steel and brass  on wood with two upright balusters and three panel headboard",
+    "justification": null,
+    "gallery_text": "This headboard may be from a large supply of de Forest furniture commissioned in the mid-1880s by Mary Garrett, one of de Forest\u2019s first major clients. It probably came to Bryn Mawr College when Garrett moved there in 1904, where she was instrumental in the choice of de Forest for some of the college\u2019s interior design.",
+    "label_text": "This headboard may be from a large supply of de Forest furniture commissioned in the mid-1880s by Mary Garrett, one of de Forest\u2019s first major clients. It probably came to Bryn Mawr College when Garrett moved there in 1904, where she was instrumental in the choice of de Forest for some of the college\u2019s interior design.",
+    "videos": null,
+    "on_display": "1",
+    "woe:country": null,
+    "type": "Headboard",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47505_c71f72629da08d60_b.jpg",
+                "width": 651,
+                "height": 814,
+                "is_primary": "1",
+                "image_id": "47505"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47505_c71f72629da08d60_z.jpg",
+                "width": 512,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "47505"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47505_c71f72629da08d60_n.jpg",
+                "width": 256,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "47505"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47505_c71f72629da08d60_d.gif",
+                "width": 256,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "47505"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47505_c71f72629da08d60_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "47505"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68778185",
+            "role_id": "35236685",
+            "person_name": "Ahmedabad Wood Carving Company",
+            "person_date": "Ahmedabad, Gujarat, India, de Forest ownership 1881\u20131908",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68778185\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18065337",
+            "role_id": "35236655",
+            "person_name": "Lockwood de Forest",
+            "person_date": "American, 1850\u20131932",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18065337\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "51676401",
+            "role_id": "51571131",
+            "person_name": "Bryn Mawr College",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676401\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Headboard, ca. 1885. Chased and cut steel, brass, pierced copper over carved and joined teak wood. \nLent by Bryn Mawr College. 5.2012.1"
+    },
+    "colors": [
+        {
+            "color": "#888779",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#68675a",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#d6d3c3",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#b1a988",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#5b522e",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "is_loan_object": 1
+}

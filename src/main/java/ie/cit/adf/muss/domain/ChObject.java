@@ -7,14 +7,7 @@ import ie.cit.adf.muss.domain.Image;
 import ie.cit.adf.muss.domain.Participation;
 import ie.cit.adf.muss.domain.Review;
 
-import javax.persistence.Entity;
-import javax.persistence.FetchType;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
-import javax.persistence.JoinTable;
-import javax.persistence.JoinColumn;
-import javax.persistence.ManyToMany;
-import javax.persistence.OneToMany;
+import javax.persistence.*;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -35,12 +28,16 @@ public class ChObject {
 	@JsonProperty("id")
 	private int originalId;
 
-	private String title, date, medium, description;
+	private String title, date, medium;
+
+	@Column(columnDefinition = "TEXT")
+	private String description;
 
 	@JsonProperty("creditline")
 	private String creditLine;
 
 	@JsonProperty("gallery_text")
+	@Column(columnDefinition = "TEXT")
 	private String galleryText;
 
 	@JsonProperty("participants")
