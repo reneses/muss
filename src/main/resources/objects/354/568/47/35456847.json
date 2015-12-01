@@ -1,0 +1,133 @@
+{
+    "id": "35456847",
+    "tms:id": "274478",
+    "accession_number": "2012-30-1",
+    "title": "May Day Lamp, 1999",
+    "title_raw": "May Day",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35456847\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "68777503",
+    "type_id": "35237335",
+    "date": "1999",
+    "year_start": 1999,
+    "year_end": 1999,
+    "year_acquired": "2012",
+    "decade": "1990",
+    "woe:country_id": "23424853",
+    "medium": "Molded polypropelyne, polycarbonate",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "2012: acquired directly from the manufacturer, Flos",
+    "dimensions": "H x diam.: 53 x 22 cm (20 7\/8 x 8 11\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "22.00",
+            "centimeters"
+        ],
+        "height": [
+            "52.98",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of FLOS",
+    "description": "Funnel-like form composed of translucent opaline polypropylene diffuser topped by orange cap with hook-shaped handle and two prongs serving as cord winder; black on\/off button on side of cap.",
+    "justification": "The minimal, no frills form of the Mayday lamp, designed by the German-born industrial designer Konstantin Grcic, and manufactured by the Italian lighting firm Flos, was inspired in part by the simple form of an auto mechanic\u2019s work lamp. Grcic is an avid fan of Formula One racing. The lamp\u2019s name is also a nod to the idea of work: May Day is International Workers\u2019 Day.\nThe portable lamp\u2019s cone shape is composed of a polypropylene diffuser with a brightly colored cap that incorporates a hook, two prongs, cord, on\/off button, and bulb housing. It is a practical and carefully thought-out design, elegant in its simplicity and proportions. Mayday goes beyond mere utility. The lamp\u2019s large hook allows the lamp to be held or hung from a ceiling, wall, car hood, or work cubicle. The prongs act as a cord winder. The cap (offered in orange, green, blue, and black) adds interest and a pop of color that makes the lamp suitable for a home or office setting. Mayday can also rest stably on its circular diffuser to become a table lamp, providing a soft glow. Grcic designed the lamp for multiple purposes and configurations to meet the varied needs of contemporary life.\nThe Mayday lamp would be the first work by Grcic to enter the museum's collection. The lamp would build on existing holdings of late 20th- and 21st-century lighting, a period that has seen great technical and stylistic innovation since the mid-1980s.",
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "lamp",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51821_9b489224dfa5c4b8_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "51821"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51821_9b489224dfa5c4b8_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "51821"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51821_9b489224dfa5c4b8_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "51821"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51821_9b489224dfa5c4b8_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "51821"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51821_9b489224dfa5c4b8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "51821"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18051029",
+            "role_id": "35236657",
+            "person_name": "Flos",
+            "person_date": "founded 1962",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051029\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "35456093",
+            "role_id": "35236655",
+            "person_name": "Konstantin Grcic",
+            "person_date": "German, born 1965",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/35456093\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18051029",
+            "role_id": "35351535",
+            "person_name": "Flos",
+            "person_date": "founded 1962",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051029\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "May Day Lamp, 1999. Molded polypropelyne, polycarbonate. \nGift of FLOS. 2012-30-1"
+    },
+    "colors": [
+        {
+            "color": "#ad7745",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#322720",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
+}

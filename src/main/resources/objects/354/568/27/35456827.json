@@ -1,0 +1,145 @@
+{
+    "id": "35456827",
+    "tms:id": "274471",
+    "accession_number": "7.2012.3",
+    "title": "Drawing, East Fa\u00e7ade, Olana, 1872",
+    "title_raw": "East Fa\u00e7ade, Olana",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35456827\/",
+    "department_id": "35347495",
+    "period_id": null,
+    "media_id": "35397689",
+    "type_id": "35237093",
+    "date": "1872",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": null,
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Brush and watercolor, pen and ink, graphite on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "37.3 x 55.6 cm (14 11\/16 x 21 7\/8 in.)\nFrame:  50.8 x 2.5 x 66 cm (20 x 1 x 26 in.), approximate",
+    "dimensions_raw": {
+        "depth": [
+            "66.04",
+            "centimeters"
+        ],
+        "height": [
+            "50.80",
+            "centimeters"
+        ],
+        "width": [
+            "2.54",
+            "centimeters"
+        ]
+    },
+    "creditline": "Lent by Olana State Historic Site",
+    "description": null,
+    "justification": null,
+    "gallery_text": "From 1870 to about 1874, Frederic Church designed, built, and decorated the main house at Olana, his estate on the Hudson. For the architecture, he found inspiration from books on Persian architecture including Pascal Coste\u2019s Monuments Modernes de la Perse (1867), which he purchased as library resource material. For the brick-patterned exterior and the beautifully-colored stenciled decoration inside and out, Church consulted sources including Jules Bourgoin\u2019s Les Arts Arabes (1873), also in his collection and displayed nearby.",
+    "label_text": "From 1870 to about 1874, Frederic Church designed, built, and decorated the main house at Olana, his estate on the Hudson. For the architecture, he found inspiration from books on Persian architecture including Pascal Coste\u2019s Monuments Modernes de la Perse (1867), which he purchased as library resource material. For the brick-patterned exterior and the beautifully-colored stenciled decoration inside and out, Church consulted sources including Jules Bourgoin\u2019s Les Arts Arabes (1873), also in his collection and displayed nearby.",
+    "videos": null,
+    "on_display": "1",
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50942_a451bb4f8a122312_b.jpg",
+                "width": 322,
+                "height": 203,
+                "is_primary": "1",
+                "image_id": "50942"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50942_a451bb4f8a122312_z.jpg",
+                "width": 322,
+                "height": 203,
+                "is_primary": "1",
+                "image_id": "50942"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50942_a451bb4f8a122312_n.jpg",
+                "width": 320,
+                "height": 202,
+                "is_primary": "1",
+                "image_id": "50942"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50942_a451bb4f8a122312_d.gif",
+                "width": 320,
+                "height": 202,
+                "is_primary": "1",
+                "image_id": "50942"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50942_a451bb4f8a122312_sq.jpg",
+                "width": 300,
+                "height": 203,
+                "is_primary": "1",
+                "image_id": "50942"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18041941",
+            "role_id": "35236565",
+            "person_name": "Frederic Edwin Church",
+            "person_date": "American, 1826\u20131900",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041941\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        },
+        {
+            "person_id": "18058339",
+            "role_id": "51571131",
+            "person_name": "Olana State Historic Site",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058339\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, East Fa\u00e7ade, Olana, 1872. Brush and watercolor, pen and ink, graphite on paper. \nLent by Olana State Historic Site. 7.2012.3"
+    },
+    "colors": [
+        {
+            "color": "#d2ccc3",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#6c7d8e",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        },
+        {
+            "color": "#96a0a9",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#9d9f8c",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#8fbc8f",
+            "closest_css4": "#8fbc8f"
+        },
+        {
+            "color": "#5f5853",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

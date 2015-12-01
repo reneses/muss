@@ -1,0 +1,139 @@
+{
+    "id": "35456851",
+    "tms:id": "274479",
+    "accession_number": "2012-17-1",
+    "title": "Sony TR-620 Portable Radio, 1960",
+    "title_raw": "Sony TR-620",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35456851\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "68777317",
+    "type_id": "35295159",
+    "date": "1960",
+    "year_start": 1960,
+    "year_end": 1960,
+    "year_acquired": "2012",
+    "decade": "1960",
+    "woe:country_id": "23424856",
+    "medium": "Molded plastic, stamped metal, stamped and pierced sheet metal, cord",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "ca. 1960: purchased new by Max Pine; 2012: acquired by Museum",
+    "dimensions": "H x W x D: 8.9 x 6 x 2.5 cm (3 1\/2 in. x 2 3\/8 in. x 1 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "2.54",
+            "centimeters"
+        ],
+        "height": [
+            "8.89",
+            "centimeters"
+        ],
+        "width": [
+            "6.03",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Max Pine",
+    "description": "Small rectangular white plastic body; front with white metal panel with station indicator, \"SONY\" logo and \"SIX TRANSISTOR,\" above large, circular, gold-toned pierced metal speaker with recessed asterisk-shaped design; black strap handle on left side; two small white control dials on right side; hinged white metal battery compartment in lower rear.",
+    "justification": "The TR-620 radio helped Sony to achieve international acclaim. Over time, Sony miniaturized and simplified its radio designs, offering them in fewer case colors and with less decoration. The TR-620 (1960) is an example of a step in Sony\u2019s design evolution. \nThe TR-55 (1955) was the first of Sony\u2019s transistor radios and its first export. The predecessor to the TR-620, the TR-610 (1958), was the first radio to include the now-ubiquitous Sony logo typeface; with its simple rectangular design of about 4 x 2\u00bd x 1 inches, it was the smallest and lightest AM radio of its day. Sony sold half a million TR-610 sets worldwide between 1958 and 1960. \nThe TR-620 was smaller yet. Easily able to fit into a purse or pocket, it appealed to the burgeoning demand for increasingly diminutive and portable personal electronics. It also had a slightly larger station read-out than the TR-610. Its rectangular form was dominated by a gold-toned pierced circular metal speaker with a simple, recessed, asterisk-like design. The radio came with an earphone and black faux leather case, and was available in several colors, including white, blue, and red. The TR-620 was Sony\u2019s last transistor radio with a speaker marketed as a shirt-pocket radio. By the mid-1960s, Sony engineers further reduced the radio\u2019s size by eliminating the speaker to create an earphone-only radio, which also allowed for the use of cheaper transistors.\nThis TR-620 is being offered as a gift by its original owner, along with its original packaging and accessories. It was purchased new around 1960. It is in excellent condition and would broaden the museum\u2019s collection of radios. At the time of proposed acquisition, the majority of the radios in the collection are table models (1930s\u201350s) and portable radios (late 1960s\u201390s). The TR-620 also relates to media players and other miniature electronics held by the museum.",
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424856",
+    "type": "Portable radio",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49251_5518ecf0c9470bdf_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "49251"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49251_5518ecf0c9470bdf_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "49251"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49251_5518ecf0c9470bdf_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "49251"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49251_5518ecf0c9470bdf_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "49251"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49251_5518ecf0c9470bdf_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "49251"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18061051",
+            "role_id": "35236657",
+            "person_name": "Sony Corporation",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061051\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18041469",
+            "role_id": "35351535",
+            "person_name": "Max Pine",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041469\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sony TR-620 Portable Radio, 1960. Molded plastic, stamped metal, stamped and pierced sheet metal, cord. \nGift of Max Pine. 2012-17-1"
+    },
+    "colors": [
+        {
+            "color": "#d7d5c7",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#817e79",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#64605c",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#2d2a27",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "Japan",
+    "is_loan_object": 0
+}
