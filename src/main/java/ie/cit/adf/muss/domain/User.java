@@ -46,10 +46,10 @@ public class User {
 	@JoinTable(
       name="chobject_likes",
       joinColumns={
-		 @JoinColumn(name="user_id", referencedColumnName="id")
+    	@JoinColumn(name="user_id", referencedColumnName="id")
       },
       inverseJoinColumns={
-		  @JoinColumn(name="chobject_id", referencedColumnName="id")
+    	@JoinColumn(name="chobject_id", referencedColumnName="id")
 	  }
 	)
 	private Collection<Review> chObjectLikes;

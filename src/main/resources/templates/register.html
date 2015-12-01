@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+	<head>
+		<meta charset="utf-8" />
+		<title>Muss - Register</title>
+	</head>
+	<body>
+		<h1>Registration</h1>
+		<form th:object="${userForm}" method="post">
+			<p>Name: <input type="text" th:field="*{name}" /></p>
+	    	<p th:if="${#fields.hasErrors('name')}" th:errors="*{name}">Name Error</p>
+	    	<p>Email: <input type="text" th:field="*{email}" /></p>
+	    	<p th:if="${#fields.hasErrors('email')}" th:errors="*{email}">Email Error</p>
+	        <p>Username: <input type="text" th:field="*{username}" /></p>
+	    	<p th:if="${#fields.hasErrors('username')}" th:errors="*{username}">Username Error</p>
+	        <p>Password: <input type="password" th:field="*{password}" /></p>
+	        <p th:if="${#fields.hasErrors('password')}" th:errors="*{password}">Password Error</p>
+	        <p>
+	        	<input type="submit" value="Register" />
+	        </p>
+	    </form>
+	</body>
+</html>

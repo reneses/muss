@@ -2,26 +2,25 @@ package ie.cit.adf.muss.domain.validation;
 
 import org.hibernate.validator.constraints.Email;
 import org.hibernate.validator.constraints.Length;
-
-import javax.validation.constraints.NotNull;
+import org.hibernate.validator.constraints.NotBlank;
 
 public class UserForm {
 
-    @NotNull
-    @Length(min = 4)
-    private String username;
-
-    @NotNull
+    @NotBlank
     @Length(min = 4)
     private String name;
+    
+    @NotBlank
+    @Email
+    private String email;
 
-    @NotNull
+    @NotBlank
     @Length(min = 8)
     private String password;
 
-    @NotNull
-    @Email
-    private String email;
+    @NotBlank
+    @Length(min = 4)
+    private String username;
 
     public String getUsername() {
         return username;
