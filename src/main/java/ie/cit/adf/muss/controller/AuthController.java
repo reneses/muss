@@ -1,8 +1,8 @@
 package ie.cit.adf.muss.controller;
 
 import ie.cit.adf.muss.domain.User;
-import ie.cit.adf.muss.domain.validation.UserForm;
 import ie.cit.adf.muss.services.UserService;
+import ie.cit.adf.muss.validation.UserForm;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

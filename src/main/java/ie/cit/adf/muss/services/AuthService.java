@@ -11,9 +11,9 @@ import org.springframework.transaction.annotation.Transactional;
 import org.springframework.util.Assert;
 
 import ie.cit.adf.muss.domain.User;
-import ie.cit.adf.muss.domain.validation.UserForm;
 import ie.cit.adf.muss.exceptions.EmailExistsException;
 import ie.cit.adf.muss.exceptions.UsernameExistsException;
+import ie.cit.adf.muss.validation.UserForm;
 
 /**
  * TODO: add profile picture TODO: work with hashed passwords

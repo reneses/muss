@@ -1,8 +1,11 @@
-package ie.cit.adf.muss.domain.validation;
+package ie.cit.adf.muss.validation;
 
 import org.hibernate.validator.constraints.Email;
 import org.hibernate.validator.constraints.Length;
 import org.hibernate.validator.constraints.NotBlank;
+
+import ie.cit.adf.muss.validation.annotation.EmailAvailable;
+import ie.cit.adf.muss.validation.annotation.UsernameAvailable;
 
 public class UserForm {
 
@@ -12,6 +15,7 @@ public class UserForm {
     
     @NotBlank
     @Email
+    @EmailAvailable
     private String email;
 
     @NotBlank
@@ -20,6 +24,7 @@ public class UserForm {
 
     @NotBlank
     @Length(min = 4)
+    @UsernameAvailable
     private String username;
 
     public String getUsername() {
