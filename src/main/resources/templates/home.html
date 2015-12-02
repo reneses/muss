@@ -11,6 +11,8 @@
 		<div sec:authorize="isAuthenticated()">
 			<h3>Hello <span sec:authentication="name">Bob</span></h3>
 	        <a th:href="@{/logout}">Logout</a>
+	        
+	        <a th:href="@{/user/profile}">Profile</a>
 		</div>
 		
 		<div sec:authorize="isAnonymous()">
@@ -20,5 +22,7 @@
 				<li><a th:href="@{/register}">Register</a></li>
 			</ul>
 		</div>
+		
+		
 	</body>
 </html>

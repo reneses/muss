@@ -52,7 +52,22 @@ public class User {
     	@JoinColumn(name="chobject_id", referencedColumnName="id")
 	  }
 	)
-	private Collection<Review> chObjectLikes;
+	private Collection<ChObject> chObjectLikes;
+	
+	@ManyToMany(fetch=FetchType.LAZY)
+	@JoinTable(
+      name="user_following",
+      joinColumns={
+    	@JoinColumn(name="follower_id", referencedColumnName="id")
+      },
+      inverseJoinColumns={
+    	@JoinColumn(name="following_id", referencedColumnName="id")
+	  }
+	)
+	private Collection<User> followed;
+	
+	@ManyToMany(fetch=FetchType.EAGER, mappedBy="followed")
+	private Collection<User> followers;
 
 	public User() {
 	}
@@ -152,12 +167,28 @@ public class User {
 		this.reviewLikes = reviewLikes;
 	}
 
-	public Collection<Review> getChObjectLikes() {
+	public Collection<ChObject> getChObjectLikes() {
 		return chObjectLikes;
 	}
 
-	public void setChObjectLikes(Collection<Review> chObjectLikes) {
+	public void setChObjectLikes(Collection<ChObject> chObjectLikes) {
 		this.chObjectLikes = chObjectLikes;
+	}
+	
+	public Collection<User> getFollowed() {
+		return followed;
+	}
+
+	public void setFollowed(Collection<User> followed) {
+		this.followed = followed;
+	}
+
+	public Collection<User> getFollowers() {
+		return followers;
+	}
+
+	public void setFollowers(Collection<User> followers) {
+		this.followers = followers;
 	}
 
 }

@@ -1,20 +1,16 @@
 package ie.cit.adf.muss.services;
 
-import ie.cit.adf.muss.domain.ChObject;
-import ie.cit.adf.muss.domain.Participation;
-import ie.cit.adf.muss.domain.Tag;
-import ie.cit.adf.muss.loaders.AbstractChObjectLoader;
-import ie.cit.adf.muss.repositories.ChObjectRepository;
+import java.io.IOException;
+import java.net.URISyntaxException;
+import java.util.List;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.DuplicateKeyException;
 import org.springframework.stereotype.Service;
 
-import java.io.IOException;
-import java.net.URISyntaxException;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Random;
-import java.util.stream.Stream;
+import ie.cit.adf.muss.domain.ChObject;
+import ie.cit.adf.muss.loaders.AbstractChObjectLoader;
+import ie.cit.adf.muss.repositories.ChObjectRepository;
 
 @Service
 public class ChObjectService extends CrudService<ChObject> {
