@@ -1,5 +1,7 @@
 package ie.cit.adf.muss.controller;
 
+import java.util.List;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -32,7 +34,7 @@ public class UserController {
 		
 		result = new ModelAndView("user/profile");
 		result.addObject("user", user);
-		result.addObject("principal", true);
+		result.addObject("principal", user);
 		return result;
 	}
 	
@@ -45,7 +47,7 @@ public class UserController {
 
 		result = new ModelAndView("user/profile");
 		result.addObject("user", user);
-		result.addObject("principal", user.equals(principal));
+		result.addObject("principal", principal);
 		return result;
 	}
 
@@ -74,4 +76,22 @@ public class UserController {
 		
 		return profile();
 	}
+	
+	//	Listing ---------------------------------------------------------------
+	
+	@RequestMapping(value = "/list", method = RequestMethod.GET)
+	public ModelAndView list(){	
+		ModelAndView result;
+		List<User> users;
+
+		users = userService.findAll();
+		User principal = authService.getPrincipal();
+
+		result = new ModelAndView("user/list");
+		result.addObject("users", users);
+		result.addObject("principal", principal);
+		
+		return result;
+	}
+
 }

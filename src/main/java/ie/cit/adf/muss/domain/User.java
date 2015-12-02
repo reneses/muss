@@ -191,4 +191,10 @@ public class User {
 		this.followers = followers;
 	}
 
+	public boolean beingFollowed(User principal){
+		return followers.contains(principal);
+	}
+	public boolean isPrincipal(User principal){
+		return this.id == principal.getId();
+	}
 }
