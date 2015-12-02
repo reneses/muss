@@ -1,19 +1,19 @@
 package ie.cit.adf.muss.services;
 
-import ie.cit.adf.muss.domain.User;
-import ie.cit.adf.muss.domain.validation.UserForm;
-import ie.cit.adf.muss.exceptions.EmailExistsException;
-import ie.cit.adf.muss.exceptions.UsernameExistsException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContext;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.core.userdetails.UserDetails;
-import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.util.Assert;
+
+import ie.cit.adf.muss.domain.User;
+import ie.cit.adf.muss.domain.validation.UserForm;
+import ie.cit.adf.muss.exceptions.EmailExistsException;
+import ie.cit.adf.muss.exceptions.UsernameExistsException;
 
 /**
  * TODO: add profile picture TODO: work with hashed passwords

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+	<head>
+		<meta charset="utf-8" />
+		<title>Muss</title>
+	</head>
+	
+	<body>
+	    <h1>Muss</h1>
+	    <a th:href="@{/}">Back to home</a>
+
+		<div th:if="${user.picture == ''}">
+			<h3>Photo</h3>
+			<img th:src="${user.picture}" width="300" height="auto"/>
+		</div>
+	    
+	    <h3>Profile</h3>
+	    <table>
+	        <tr>
+	            <td>Name</td>
+	            <td th:text="${user.name}"></td>
+	        </tr>
+	        <tr>
+	            <td>Username</td>
+	            <td th:text="${user.username}"></td>
+	        </tr>
+	        <tr>
+	            <td>Email</td>
+	            <td th:text="${user.email}"></td>
+	        </tr>
+	        <tr>
+	            <td>Points</td>
+	            <td th:text="${user.points}"></td>
+	        </tr>
+	    </table>
+	    
+	    <h3>Reviews</h3>
+	    <ul>
+	        <li th:each="review : ${user.reviews}" th:text="${review.title}"></li>
+	    </ul>
+	    
+	    <h3>Likes</h3>
+	    <ul>
+	        <li th:each="like : ${user.chObjectLikes}" th:text="${like.title}"></li>
+	    </ul>
+	    
+	    <h3>Followers</h3>
+	    <ul>
+	        <li th:each="follower : ${user.followers}" th:text="${follower.name}"></li>
+	    </ul>
+	    
+	    <h3>Following</h3>
+		<div th:each="followed : ${user.followed}">
+	        <table>
+		        <tr>
+		            <td th:text="${user.name}"></td>
+		            <td>
+						<a th:href="@{/user/unfollow/{userId}(userId=${followed.id})}">Unfollow user</a>
+					</td>
+				</tr>
+			</table>
+		</div>
+	    
+	    <div th:if="${!principal}">
+			<a th:href="@{/user/follow/{userId}(userId=${user.id})}">Follow user</a>
+		</div>
+		
+	</body>
+</html>
