@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+	<head>
+		<meta charset="utf-8" />
+		<title>Muss</title>
+	</head>
+	<body>
+		<h1>Muss</h1>
+	    <a th:href="@{/}">Back to home</a>
+
+		<h3>Users</h3>
+		<div th:each="user : ${users}">
+	        <table>
+	        	<tr>
+	        		<th>PROFILE - </th>
+			        <th>PICTURE - </th>
+			        <th>NAME - </th>
+			        <th>POINTS - </th>
+			        <th>RELATION</th>
+	        	</tr>
+		        <tr>
+		       	 	<td>
+						<a th:href="@{/user/profile/{userId}(userId=${user.id})}">Show</a>
+					</td>
+		            
+		            <td>
+			            <div th:if="${user.picture} == ''">
+							<h3>Photo</h3>
+							<img th:src="${user.picture}" width="300" height="auto"/>
+						</div>
+		            </td>
+		            <td th:text="${user.name}"></td>
+		            <td th:text="${user.points}"></td>
+		            
+		            <td>
+		            	<div th:if="${!user.isPrincipal(principal)}">
+			            	<div th:if="${user.beingFollowed(principal)}">
+								<a th:href="@{/user/unfollow/{userId}(userId=${user.id})}">Unfollow user</a>
+							</div>
+							<div th:if="!${user.beingFollowed(principal)}">
+								<a th:href="@{/user/follow/{userId}(userId=${user.id})}">Follow user</a>
+							</div>
+						</div>						
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>

@@ -65,6 +65,7 @@ public class UserService extends CrudService<User> {
 		User principal = authService.getPrincipal();
 		Assert.notNull(user);
 		Assert.notNull(principal);
+		Assert.isTrue(user.getId() != principal.getId());
 		
 		List<User> followed = new ArrayList<>(principal.getFollowed());
 		
