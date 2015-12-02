@@ -8,17 +8,30 @@
 <body>
 	<div th:fragment="content">
 		<h1>Muss</h1>
-		<strong>Object</strong>
-
+		<div th:each="object : ${chObjects}">
+				<div class="col-sm-6 col-md-4">
+					<div class="thumbnail">
+						<img th:src="${object.images.get(0).sizes.get(0).url}" width="300"
+							height="auto" />
+						<div class="caption">
+							<a th:href="@{/gallery/{objectID}(objectID=${object.id})}"><h3 th:text="${object.title}"/></a>
+							<p th:text="${object.description}"/>
+							<p>
+								<a th:href="@{/gallery/{objectID}(objectID=${object.id})}" class="btn btn-primary" role="button">Details</a> 
+							</p>
+						</div>
+					</div>
+				</div>
+		</div>
 		<div>
-			<a th:each="object : ${chObjects}"
+			<!-- <a th:each="object : ${chObjects}"
 				th:href="@{/gallery/{objectID}(objectID=${object.id})}">
 				<div>
 					<h3 th:text="${object.title}"></h3>
 					<img th:src="${object.images.get(0).sizes.get(0).url}" width="300"
 						height="auto" />
 				</div>
-			</a>
+			</a> -->
 		</div>
 	</div>
 </body>

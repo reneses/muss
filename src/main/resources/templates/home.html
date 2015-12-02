@@ -10,20 +10,7 @@
 	<div th:fragment="content">
 		<h1>Muss</h1>
 
-		<div sec:authorize="isAuthenticated()">
-			<h3>
-				Hello <span sec:authentication="name">Bob</span>
-			</h3>
-			<a th:href="@{/logout}">Logout</a> <a th:href="@{/user/profile}">Profile</a>
-		</div>
-
-		<div sec:authorize="isAnonymous()">
-			<h3>Anonymous user</h3>
-			<ul>
-				<li><a th:href="@{/login}">Login</a></li>
-				<li><a th:href="@{/register}">Register</a></li>
-			</ul>
-		</div>
+		
 	</div>
 
 </body>
