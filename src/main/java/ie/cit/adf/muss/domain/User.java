@@ -16,188 +16,192 @@ import org.hibernate.validator.constraints.Email;
 @Entity
 public class User {
 
-	@Id
-	@GeneratedValue
-	private int id;
-	private String username;
-	private String password;
-	@Email
-	private String email;
-	private String name;
-	private String picture;
-	private int points;
+    @Id
+    @GeneratedValue
+    private int id;
+    private String username;
+    private String password;
+    @Email
+    private String email;
+    private String name;
+    private String picture;
+    private int points;
 
-	@OneToMany(fetch=FetchType.LAZY, mappedBy="user")
-	private Collection<Tag> tags;
-	
-	@OneToMany(fetch=FetchType.LAZY, mappedBy="user")
-	private Collection<Review> reviews;
-	
-	@ManyToMany(fetch=FetchType.LAZY)
-	@JoinTable(
-      name="review_likes",
-      joinColumns={
-		 @JoinColumn(name="user_id", referencedColumnName="id")
-      },
-      inverseJoinColumns={
-		  @JoinColumn(name="review_id", referencedColumnName="id")
-	  }
-	)
-	private Collection<Review> reviewLikes;
-	
-	@ManyToMany(fetch=FetchType.LAZY)
-	@JoinTable(
-      name="chobject_likes",
-      joinColumns={
-    	@JoinColumn(name="user_id", referencedColumnName="id")
-      },
-      inverseJoinColumns={
-    	@JoinColumn(name="chobject_id", referencedColumnName="id")
-	  }
-	)
-	private Collection<ChObject> chObjectLikes;
-	
-	@ManyToMany(fetch=FetchType.LAZY)
-	@JoinTable(
-      name="user_following",
-      joinColumns={
-    	@JoinColumn(name="follower_id", referencedColumnName="id")
-      },
-      inverseJoinColumns={
-    	@JoinColumn(name="following_id", referencedColumnName="id")
-	  }
-	)
-	private Collection<User> followed;
-	
-	@ManyToMany(fetch=FetchType.EAGER, mappedBy="followed")
-	private Collection<User> followers;
+    @OneToMany(fetch = FetchType.LAZY, mappedBy = "user")
+    private Collection<Tag> tags;
 
-	public User() {
-	}
+    @OneToMany(fetch = FetchType.LAZY, mappedBy = "user")
+    private Collection<Review> reviews;
 
-	public User(int id, String username, String password, String email, String name, String picture, int points,
-				Collection<Tag> tags) {
-		super();
-		this.id = id;
-		this.username = username;
-		this.password = password;
-		this.email = email;
-		this.name = name;
-		this.picture = picture;
-		this.points = points;
-		this.tags = tags;
-	}
+    @ManyToMany(fetch = FetchType.LAZY)
+    @JoinTable(
+            name = "review_likes",
+            joinColumns = {
+                    @JoinColumn(name = "user_id", referencedColumnName = "id")
+            },
+            inverseJoinColumns = {
+                    @JoinColumn(name = "review_id", referencedColumnName = "id")
+            }
+    )
+    private Collection<Review> reviewLikes;
 
-	public int getId() {
-		return id;
-	}
+    @ManyToMany(fetch = FetchType.LAZY)
+    @JoinTable(
+            name = "chobject_likes",
+            joinColumns = {
+                    @JoinColumn(name = "user_id", referencedColumnName = "id")
+            },
+            inverseJoinColumns = {
+                    @JoinColumn(name = "chobject_id", referencedColumnName = "id")
+            }
+    )
+    private Collection<ChObject> chObjectLikes;
 
-	public void setId(int id) {
-		this.id = id;
-	}
+    @ManyToMany(fetch = FetchType.LAZY)
+    @JoinTable(
+            name = "user_following",
+            joinColumns = {
+                    @JoinColumn(name = "follower_id", referencedColumnName = "id")
+            },
+            inverseJoinColumns = {
+                    @JoinColumn(name = "following_id", referencedColumnName = "id")
+            }
+    )
+    private Collection<User> followed;
 
-	public String getUsername() {
-		return username;
-	}
+    @ManyToMany(fetch = FetchType.EAGER, mappedBy = "followed")
+    private Collection<User> followers;
 
-	public void setUsername(String username) {
-		this.username = username;
-	}
+    public User() {
+    }
 
-	public String getPassword() {
-		return password;
-	}
+    public User(int id, String username, String password, String email, String name, String picture, int points,
+                Collection<Tag> tags) {
+        super();
+        this.id = id;
+        this.username = username;
+        this.password = password;
+        this.email = email;
+        this.name = name;
+        this.picture = picture;
+        this.points = points;
+        this.tags = tags;
+    }
 
-	public void setPassword(String password) {
-		this.password = password;
-	}
+    public int getId() {
+        return id;
+    }
 
-	public String getEmail() {
-		return email;
-	}
+    public void setId(int id) {
+        this.id = id;
+    }
 
-	public void setEmail(String email) {
-		this.email = email;
-	}
+    public String getUsername() {
+        return username;
+    }
 
-	public String getName() {
-		return name;
-	}
+    public void setUsername(String username) {
+        this.username = username;
+    }
 
-	public void setName(String name) {
-		this.name = name;
-	}
+    public String getPassword() {
+        return password;
+    }
 
-	public String getPicture() {
-		return picture;
-	}
+    public void setPassword(String password) {
+        this.password = password;
+    }
 
-	public void setPicture(String picture) {
-		this.picture = picture;
-	}
+    public String getEmail() {
+        return email;
+    }
 
-	public int getPoints() {
-		return points;
-	}
+    public void setEmail(String email) {
+        this.email = email;
+    }
 
-	public void setPoints(int points) {
-		this.points = points;
-	}
+    public String getName() {
+        return name;
+    }
 
-	public Collection<Tag> getTags() {
-		return tags;
-	}
+    public void setName(String name) {
+        this.name = name;
+    }
 
-	public void setTags(Collection<Tag> tags) {
-		this.tags = tags;
-	}
+    public String getPicture() {
+        return picture;
+    }
 
-	
+    public void setPicture(String picture) {
+        this.picture = picture;
+    }
 
-	public Collection<Review> getReviews() {
-		return reviews;
-	}
+    public int getPoints() {
+        return points;
+    }
 
-	public void setReviews(Collection<Review> reviews) {
-		this.reviews = reviews;
-	}
+    public void setPoints(int points) {
+        this.points = points;
+    }
 
-	public Collection<Review> getReviewLikes() {
-		return reviewLikes;
-	}
+    public Collection<Tag> getTags() {
+        return tags;
+    }
 
-	public void setReviewLikes(Collection<Review> reviewLikes) {
-		this.reviewLikes = reviewLikes;
-	}
+    public void setTags(Collection<Tag> tags) {
+        this.tags = tags;
+    }
 
-	public Collection<ChObject> getChObjectLikes() {
-		return chObjectLikes;
-	}
+    public Collection<Review> getReviews() {
+        return reviews;
+    }
 
-	public void setChObjectLikes(Collection<ChObject> chObjectLikes) {
-		this.chObjectLikes = chObjectLikes;
-	}
-	
-	public Collection<User> getFollowed() {
-		return followed;
-	}
+    public void setReviews(Collection<Review> reviews) {
+        this.reviews = reviews;
+    }
 
-	public void setFollowed(Collection<User> followed) {
-		this.followed = followed;
-	}
+    public Collection<Review> getReviewLikes() {
+        return reviewLikes;
+    }
 
-	public Collection<User> getFollowers() {
-		return followers;
-	}
+    public void setReviewLikes(Collection<Review> reviewLikes) {
+        this.reviewLikes = reviewLikes;
+    }
 
-	public void setFollowers(Collection<User> followers) {
-		this.followers = followers;
-	}
+    public Collection<ChObject> getChObjectLikes() {
+        return chObjectLikes;
+    }
 
-	public boolean beingFollowed(User principal){
-		return followers.contains(principal);
-	}
-	public boolean isPrincipal(User principal){
-		return this.id == principal.getId();
-	}
+    public void setChObjectLikes(Collection<ChObject> chObjectLikes) {
+        this.chObjectLikes = chObjectLikes;
+    }
+
+    public Collection<User> getFollowed() {
+        return followed;
+    }
+
+    public void setFollowed(Collection<User> followed) {
+        this.followed = followed;
+    }
+
+    public Collection<User> getFollowers() {
+        return followers;
+    }
+
+    public void setFollowers(Collection<User> followers) {
+        this.followers = followers;
+    }
+
+    public boolean beingFollowed(User principal) {
+        return followers.contains(principal);
+    }
+
+    public boolean isPrincipal(User principal) {
+        return this.id == principal.getId();
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        return obj instanceof User && id > 0 && id == ((User) obj).getId();
+    }
 }

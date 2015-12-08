@@ -4,6 +4,7 @@
 <!--/*@thymesVar id="object" type="ie.cit.adf.muss.domain.ChObject"*/-->
 <!--/*@thymesVar id="tagForm" type="ie.cit.adf.muss.validation.TagForm"*/-->
 <!--/*@thymesVar id="reviewForm" type="ie.cit.adf.muss.validation.ReviewForm"*/-->
+<!--/*@thymesVar id="isReviewedByUser" type="java.lang.Boolean"*/-->
 
 <head>
     <meta charset="utf-8"/>
@@ -11,18 +12,16 @@
 </head>
 <body>
 <div th:fragment="content">
-    <h1>Muss</h1>
-    <a th:href="@{/gallery}">Back to the gallery</a>
 
+    <h1 th:text="${object.title}">[Title]</h1>
+    <a th:href="@{/gallery}">Go back to the gallery</a>
 
-    <h2 th:text="${object.title}">[Title]</h2>
-
-    <h3>Images</h3>
+    <h2>Images</h2>
 
     <div th:each="image : ${object.images}">
         <img th:src="${image.sizes.get(0).url}" width="300" height="auto"/>
     </div>
-    <h3>Description</h3>
+    <h2>Description</h2>
     <table>
         <tr>
             <td>Medium</td>
@@ -46,7 +45,7 @@
         </tr>
     </table>
 
-    <h3>Tags</h3>
+    <h2>Tags</h2>
 
     <div>
         <a th:each="tag : ${object.tags}" class="btn btn-sm btn-default" href="" th:text="${tag.name}"></a>
@@ -68,48 +67,62 @@
     </form>
     <span sec:authorize="isAnonymous()"><a th:href="@{/login}">Login</a> to add a tag!</span>
 
-    <h3>Reviews</h3>
+    <h2>Reviews</h2>
 
     <style>
+        label {
+            display: block;
+        }
+
         .rated {
             unicode-bidi: bidi-override;
         }
+
         .rated > span {
             position: relative;
         }
+
         .rating {
+            margin-top: 5px;
             unicode-bidi: bidi-override;
             direction: rtl;
-            text-align: center;
+            font-size: 1.3em;
         }
+
         .rating > span {
             position: relative;
             width: 1.1em;
         }
+
         .rated > span {
             color: gold;
+            cursor: pointer;
         }
+
         .rating > span:hover,
         .rating > span:hover ~ span {
             color: transparent;
         }
+
         .rating > span:hover:before,
         .rating > span:hover ~ span:before,
-        .rated > span:before {
+        .rated > span:before,
+        .star-selected:before {
             content: "\2605";
             position: absolute;
             left: 0;
             color: gold;
         }
+
+        .star-selected {
+            color: gold;
+        }
+
         .reviewer {
             font-style: italic;
             margin-left: 5px;
         }
     </style>
-
-    <div class="rating">
-        <span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span>
-    </div>
 
 
     <div class="row">
@@ -120,7 +133,9 @@
                     <span class="rated">
                         <span th:each="i : ${#numbers.sequence( 1, review.rating)}">☆</span>
                     </span>
-                    <span class="reviewer">by <span th:text="${review.user}"></span></span>
+                    <span class="reviewer">by <span th:text="${review.user.name}"></span> (<a
+                            th:href="@{/profile/{username}(username=${review.user.username})}"
+                            th:text="|@${review.user.username}|"></a>)</span>
                 </div>
                 <div class="panel-body" th:text="${review.content}">
                     Panel content
@@ -129,31 +144,80 @@
         </div>
     </div>
 
+    <!-- Add review -->
     <h4>Add Review</h4>
-
-    <form sec:authorize="isAuthenticated()" th:object="${reviewForm}" method="post"
+    <div th:if="${isReviewedByUser}">
+        <span>¡You have already reviewed this item!</span>
+    </div>
+    <form th:unless="${isReviewedByUser}" sec:authorize="isAuthenticated()" th:object="${reviewForm}" method="post"
           th:action="@{/gallery/{objectID}/review(objectID=${object.id})}">
-
-        <label>Title</label>
-        <input type="text" th:field="*{title}"/>
-
-        <p th:if="${#fields.hasErrors('title')}" th:errors="*{title}"></p>
-
-        <label>Rating</label>
-        <input type="number" th:field="*{rating}"/>
-
-        <p th:if="${#fields.hasErrors('title')}" th:errors="*{rating}"></p>
-
-        <label>Message</label>
-        <textarea th:field="*{content}"></textarea>
-
-        <p th:if="${#fields.hasErrors('content')}" th:errors="*{content}"></p>
-
-        <button type="submit">Add a review</button>
-
+        <div class="row">
+            <div class="form-group col-sm-10">
+                <label for="review-title">Title</label>
+                <input th:field="*{title}" type="text" class="form-control" id="review-title" placeholder="Title"/>
+            </div>
+            <div class="form-group col-sm-2">
+                <label for="review-content">Rating</label>
+                <span class="rating">
+                    <span id="star-5">☆</span><span id="star-4">☆</span><span id="star-3">☆</span><span
+                        id="star-2">☆</span><span
+                        id="star-1">☆</span>
+                </span>
+                <input type="hidden" th:field="*{rating}" th:value="1"/>
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="review-content">Message</label>
+            <textarea th:field="*{content}" class="form-control" id="review-content"></textarea>
+        </div>
+        <button type="submit" class="btn btn-default">Post the review</button>
     </form>
-
     <span sec:authorize="isAnonymous()"><a th:href="@{/login}">Login</a> to add a review!</span>
+
+
+    <script>
+        /*<![CDATA[*/
+
+        // Chose an start event
+        function chooseStart(rating) {
+
+            // Visual
+            var i;
+            for (i = 1; i <= rating; i++) {
+                $('#star-' + i).addClass('star-selected');
+            }
+            for (i = rating + 1; i <= 5; i++) {
+                $('#star-' + i).removeClass('star-selected');
+            }
+
+            // Form
+            $('#rating').val(rating);
+
+        }
+
+        // Bind events to starts
+        $('#star-1').click(function () {
+            chooseStart(1);
+        });
+        $('#star-2').click(function () {
+            chooseStart(2);
+        });
+        $('#star-3').click(function () {
+            chooseStart(3);
+        });
+        $('#star-4').click(function () {
+            chooseStart(4);
+        });
+        $('#star-5').click(function () {
+            chooseStart(5);
+        });
+
+        // By default, choose 1 star
+        chooseStart(1);
+
+        /*]]>*/
+    </script>
 </div>
+
 </body>
 </html>

@@ -69,7 +69,7 @@ public class Review {
 		return rating;
 	}
 
-	public void setRating(Integer rating) {
+	public void setRating(int rating) {
 		if (rating < 1  ||  rating > 5)
 			throw new IllegalArgumentException();
 		this.rating = rating;

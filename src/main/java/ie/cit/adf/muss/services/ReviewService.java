@@ -29,6 +29,9 @@ public class ReviewService{
 
     @Autowired
 	AuthService authService;
+
+    @Autowired
+	ChObjectService chObjectService;
     
     // ----------------------- Constructor -----------------------
     
@@ -81,5 +84,27 @@ public class ReviewService{
     	result.setLikes(users);
     	reviewRepository.save(result);
     }
+
+	public void addReview(ChObject object, String title, Integer rating, String content) {
+
+		Review review = new Review();
+		review.setRating(rating);
+		review.setTitle(title);
+		review.setContent(content);
+		review.setDate(new Date());
+		review.setUser(authService.getPrincipal());
+
+		object.addReview(review);
+		chObjectService.save(object);
+	}
+
+	public boolean hasReviewBy(ChObject object, User user) {
+		if (user == null)
+			return false;
+		for (Review review :object.getReviews())
+			if (review.getUser().equals(user))
+				return true;
+		return false;
+	}
  
 }

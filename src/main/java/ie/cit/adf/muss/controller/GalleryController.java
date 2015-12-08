@@ -3,6 +3,7 @@ package ie.cit.adf.muss.controller;
 import ie.cit.adf.muss.domain.Review;
 import ie.cit.adf.muss.domain.Tag;
 import ie.cit.adf.muss.services.AuthService;
+import ie.cit.adf.muss.services.ReviewService;
 import ie.cit.adf.muss.validation.ReviewForm;
 import ie.cit.adf.muss.validation.TagForm;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -24,6 +25,9 @@ public class GalleryController {
 
 	@Autowired
 	ChObjectService objectService;
+
+	@Autowired
+	ReviewService reviewService;
 
 	@Autowired
 	AuthService authService;
@@ -54,6 +58,7 @@ public class GalleryController {
 		model.addAttribute("object", object);
 		model.addAttribute("tagForm", new TagForm());
 		model.addAttribute("reviewForm", new ReviewForm());
+		model.addAttribute("isReviewedByUser", reviewService.hasReviewBy(object, authService.getPrincipal()));
 		return "object";
 	}
 
@@ -85,14 +90,8 @@ public class GalleryController {
 			return object(model, objectID);
 		}
 
-		Review review = new Review();
-		review.setRating(reviewForm.getRating());
-		review.setTitle(reviewForm.getTitle());
-		review.setContent(reviewForm.getContent());
-
 		ChObject object = objectService.find(objectID);
-		object.addReview(review);
-		objectService.save(object);
+		reviewService.addReview(object, reviewForm.getTitle(), reviewForm.getRating(), reviewForm.getContent());
 
 		return object(model, objectID);
 

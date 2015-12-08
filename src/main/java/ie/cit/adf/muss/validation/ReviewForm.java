@@ -1,13 +1,11 @@
 package ie.cit.adf.muss.validation;
 
-import ie.cit.adf.muss.validation.annotation.EmailAvailable;
-import ie.cit.adf.muss.validation.annotation.UsernameAvailable;
-import org.hibernate.validator.constraints.Email;
 import org.hibernate.validator.constraints.Length;
 import org.hibernate.validator.constraints.NotBlank;
 
 import javax.validation.constraints.Max;
 import javax.validation.constraints.Min;
+import javax.validation.constraints.NotNull;
 
 public class ReviewForm {
 
@@ -18,6 +16,7 @@ public class ReviewForm {
     @NotBlank
     private String content;
 
+    @NotNull
     @Min(1)
     @Max(5)
     private Integer rating;
