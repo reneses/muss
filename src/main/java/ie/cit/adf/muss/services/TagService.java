@@ -1,8 +1,8 @@
 package ie.cit.adf.muss.services;
 
-import java.util.ArrayList;
 import java.util.Collection;
-import java.util.List;
+import java.util.HashSet;
+import java.util.Set;
 
 import javax.transaction.Transactional;
 
@@ -10,7 +10,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.util.Assert;
 
-import ie.cit.adf.muss.domain.ChObject;
 import ie.cit.adf.muss.domain.Tag;
 import ie.cit.adf.muss.domain.User;
 import ie.cit.adf.muss.repositories.TagRepository;
@@ -88,6 +87,17 @@ public class TagService{
     // ----------------- Other business methods ------------------
 
     // REPOSITORY:
+    
+    public Set<String> findDistinctTagNames() {
+    	Set<String> result = new HashSet<>();
+    	
+    	Iterable<Tag> tags = tagRepository.findAll();
+    	for (Tag tag : tags) {
+    		result.add(tag.getName());
+    	}
+    	
+    	return result;
+    }
 
     // USE CASES:
     

@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 import ie.cit.adf.muss.domain.ChObject;
 import ie.cit.adf.muss.services.ChObjectService;
+import ie.cit.adf.muss.services.TagService;
 
 @Controller
 public class GalleryController {
@@ -16,10 +17,23 @@ public class GalleryController {
 	@Autowired
 	ChObjectService objectService;
 	
+	@Autowired
+	TagService tagService;
+	
 	@RequestMapping(value="/gallery", method = RequestMethod.GET)
 	public String index(Model model) {
 
 		model.addAttribute("chObjects", objectService.findAll());
+		model.addAttribute("tags", tagService.findDistinctTagNames());
+
+		return "gallery";
+	}
+	
+	@RequestMapping(value="/gallery/tag/{tagName}", method = RequestMethod.GET)
+	public String galleryByTag(Model model, @PathVariable String tagName) {
+
+		model.addAttribute("chObjects", objectService.findByTagName(tagName));
+		model.addAttribute("tags", tagService.findDistinctTagNames());
 
 		return "gallery";
 	}

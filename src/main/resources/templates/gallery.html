@@ -8,6 +8,28 @@
 <body>
 	<div th:fragment="content">
 		<h1>Muss</h1>
+		
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<h1 class="panel-title">Search</h1>
+			</div>
+			<div class="panel-body">
+				<form class="form form-inline">
+					<input class="form-control" type="text" name="" placeholder="Search by name, description.."></input>
+					<a class="btn btn-primary">Search</a>
+				</form>
+			</div>
+		</div>
+		
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<h1 class="panel-title">Search by Tag</h1>
+			</div>
+			<div class="panel-body">
+				<a th:each="tag : ${tags}" class="btn btn-sm btn-default" href="" th:text="${tag}"></a>
+			</div>
+		</div>
+		
 		<div th:each="object : ${chObjects}">
 				<div class="col-sm-6 col-md-4">
 					<div class="thumbnail">

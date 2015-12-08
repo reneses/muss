@@ -104,5 +104,11 @@ public class ChObjectService extends CrudService<ChObject> {
     public long count() {
         return objectRepository.count();
     }
+    
+    public List<ChObject> findByTagName(String name) {
+    	
+    	return objectRepository.findByTagName(name);
+    	
+    }
 
 }
