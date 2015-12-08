@@ -26,7 +26,7 @@
 				<h1 class="panel-title">Search by Tag</h1>
 			</div>
 			<div class="panel-body">
-				<a th:each="tag : ${tags}" class="btn btn-sm btn-default" href="" th:text="${tag}"></a>
+				<a th:each="tag : ${tags}" class="btn btn-sm" th:classappend="${selectedTag} == ${tag} ?  btn-primary :  btn-default" th:href="@{/gallery/tag/{tagName}(tagName=${tag})}" th:text="${tag}"></a>
 			</div>
 		</div>
 		
