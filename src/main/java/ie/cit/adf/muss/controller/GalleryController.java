@@ -13,6 +13,7 @@ import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
 
 import ie.cit.adf.muss.domain.ChObject;
 import ie.cit.adf.muss.services.ChObjectService;
@@ -36,9 +37,15 @@ public class GalleryController {
 	TagService tagService;
 
 	@RequestMapping(value="/gallery", method = RequestMethod.GET)
-	public String index(Model model) {
+	public String index(Model model, @RequestParam(value="s", required=false) String search) {
+		
+		if (search != null) {
+			// TODO the filter...
+		}
+		
 		model.addAttribute("chObjects", objectService.findAll());
 		model.addAttribute("tags", tagService.findDistinctTagNames());
+		
 		return "gallery";
 	}
 
@@ -71,7 +78,7 @@ public class GalleryController {
 		}
 
 		Tag tag = new Tag();
-		tag.setName(tagForm.getName());
+		tag.setName(tagForm.getName().replace("/", "-"));
 		tag.setUser(authService.getPrincipal());
 
 		ChObject object = objectService.find(objectID);
