@@ -46,23 +46,23 @@ public class TagService{
 		return tag;
     }
 
-    public void save(Tag tag, ChObject chObject){
-    	Assert.notNull(tag);
-
-    	// If exists in DB, work over that one
-    	Tag tagDB = tagRepository.findByName(tag.getName());
-    	if(tagDB != null)			
-    		tag = tagDB;
-    	
-    	// If the Object does not have the Tag, add it
-    	List<ChObject> chObjects = new ArrayList<>(tag.getChObjects());
-    	if(!chObjects.contains(chObject)){
-    		chObjects.add(chObject);
-    		tag.setChObjects(chObjects);
-    	}
-    	
-    	tagRepository.save(tag);
-    }
+//    public void save(Tag tag, ChObject chObject){
+//    	Assert.notNull(tag);
+//
+//    	// If exists in DB, work over that one
+//    	Tag tagDB = tagRepository.findByName(tag.getName());
+//    	if(tagDB != null)			
+//    		tag = tagDB;
+//    	
+//    	// If the Object does not have the Tag, add it
+//    	List<ChObject> chObjects = new ArrayList<>(tag.getChObjects());
+//    	if(!chObjects.contains(chObject)){
+//    		chObjects.add(chObject);
+//    		tag.setChObjects(chObjects);
+//    	}
+//    	
+//    	tagRepository.save(tag);
+//    }
 
     public void delete (Tag tag){
     	Assert.notNull(tag);
@@ -71,19 +71,19 @@ public class TagService{
     	tagRepository.delete(tag);
     }
     
-    public void deleteObjectFromTag (Tag tag, ChObject chObject){
-    	Assert.notNull(tag);
-//    	checkPrincipal(tag);
-    	
-    	Tag tagDB = tagRepository.findByName(tag.getName());
-    	if(tagDB != null){		
-    		List<ChObject> chObjects = new ArrayList<>(tag.getChObjects());
-    		chObjects.remove(chObject);
-    		tagDB.setChObjects(chObjects);
-    	}
-    	
-    	tagRepository.delete(tag);
-    }
+//    public void deleteObjectFromTag (Tag tag, ChObject chObject){
+//    	Assert.notNull(tag);
+////    	checkPrincipal(tag);
+//    	
+//    	Tag tagDB = tagRepository.findByName(tag.getName());
+//    	if(tagDB != null){		
+//    		List<ChObject> chObjects = new ArrayList<>(tag.getChObjects());
+//    		chObjects.remove(chObject);
+//    		tagDB.setChObjects(chObjects);
+//    	}
+//    	
+//    	tagRepository.delete(tag);
+//    }
     
     // ----------------- Other business methods ------------------
 

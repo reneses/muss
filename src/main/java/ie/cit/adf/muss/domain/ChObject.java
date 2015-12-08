@@ -55,13 +55,8 @@ public class ChObject {
 	@Fetch(FetchMode.SELECT)
 	private Collection<Review> reviews;
 	
-	@ManyToMany(fetch= FetchType.EAGER, cascade=CascadeType.ALL)
+	@OneToMany(fetch= FetchType.EAGER, mappedBy="chObject", cascade=CascadeType.ALL)
 	@Fetch(FetchMode.SELECT)
-	@JoinTable(
-			name="chobjects_tags",
-			joinColumns={@JoinColumn(name="chobject_id", referencedColumnName="id")},
-			inverseJoinColumns={@JoinColumn(name="tag_id", referencedColumnName="id")}
-	)
 	private Collection<Tag> tags;
 	
 	@ManyToMany(fetch= FetchType.EAGER, mappedBy="chObjectLikes")
@@ -162,16 +157,12 @@ public class ChObject {
 
 	public void setTags(Collection<Tag> tags) {
 		this.tags = tags;
-		tags.forEach(tag -> {
-			if (!tag.getChObjects().contains(this))
-				tag.getChObjects().add(this);
-		});
+		tags.forEach(tag -> tag.setChObject(this));
 	}
 	
 	public void addTag(Tag tag) {
 		tags.add(tag);
-		if (!tag.getChObjects().contains(this))
-			tag.getChObjects().add(this);
+		tag.setChObject(this);
 	}
 
 	public Collection<User> getLikes() {
