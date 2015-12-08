@@ -20,6 +20,7 @@
 	<div class="navbar navbar-inverse navbar-fixed-top"
 		th:fragment="header">
 		<div class="container">
+		
 			<div class="navbar-header">
 				<button type="button" class="navbar-toggle" data-toggle="collapse"
 					data-target=".nav-collapse">
@@ -28,10 +29,16 @@
 				</button>
 				<a class="navbar-brand" href="#" th:href="@{/}">Muss</a>
 			</div>
+			
 			<div class="navbar-collapse collapse">
+			
 				<ul class="nav navbar-nav">
 					<li><a href="/gallery" th:href="@{/gallery}">Gallery</a></li>
+					<li>
+						<a th:href="@{/user/list}">User list</a>
+					</li>
 				</ul>
+				
 				<ul class="nav navbar-nav navbar-right">
 					<li sec:authorize="isAuthenticated()">
 
@@ -40,19 +47,24 @@
 							Hello <span sec:authentication="name">Bob</span>
 						</p>
 					</li>
-					<li sec:authorize="isAuthenticated()"><a th:href="@{/logout}">Logout</a>
+					<li sec:authorize="isAuthenticated()">
+						<a th:href="@{/logout}">Logout</a>
 					</li>
-					<li sec:authorize="isAuthenticated()"><a
-						th:href="@{/user/profile}">Profile</a></li>
+					<li sec:authorize="isAuthenticated()">
+						<a th:href="@{/user/profile}">Profile</a>
+					</li>
 
-					<li sec:authorize="isAnonymous()"><a th:href="@{/login}">Login</a>
+					<li sec:authorize="isAnonymous()">
+						<a th:href="@{/login}">Login</a>
 					</li>
-					<li sec:authorize="isAnonymous()"><a th:href="@{/register}">Register</a>
+					<li sec:authorize="isAnonymous()">
+						<a th:href="@{/register}">Register</a>
 					</li>
 
 				</ul>
 			</div>
 			<!--/.nav-collapse -->
+			
 		</div>
 	</div>
 </body>
