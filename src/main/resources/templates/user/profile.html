@@ -54,17 +54,21 @@
 		<div th:each="followed : ${user.followed}">
 			<table>
 				<tr>
-					<td th:text="${user.name}"></td>
-					<td><a
-						th:href="@{/user/unfollow/{userId}(userId=${followed.id})}">Unfollow
-							user</a></td>
+					<td th:text="${followed.name}"></td>
+					<td th:if="${user.id} == ${principal.id}">
+						<a th:href="@{/user/unfollow/{userId}(userId=${followed.id})}">Unfollow user</a>
+					</td>
 				</tr>
 			</table>
 		</div>
 
 		<div th:if="${user.id} != ${principal.id}">
-			<a th:href="@{/user/follow/{userId}(userId=${user.id})}">Follow
-				user</a>
+			<div th:if="${#lists.contains(principal.followed, user)}">
+				<a th:href="@{/user/unfollow/{userId}(userId=${user.id})}">Unfollow user</a>
+			</div>
+			<div th:if="not ${#lists.contains(principal.followed, user)}">
+				<a th:href="@{/user/follow/{userId}(userId=${user.id})}">Follow user</a>
+			</div>
 		</div>
 	</div>
 </body>
