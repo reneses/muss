@@ -95,6 +95,10 @@ public class RelationTests {
 		assertNotNull(chObject);
 		assertEquals(1, chObject.getTags().size());
 		
+		List<Tag> tags = new ArrayList<>(chObject.getTags());
+		tag = tags.get(0);
+		assertEquals("MyTag", tag.getName());
+		
 	}
 	
 	@Test
@@ -114,6 +118,10 @@ public class RelationTests {
 		chObject = chObjectService.find(1);
 		assertNotNull(chObject);
 		assertEquals(1, chObject.getReviews().size());
+		
+		List<Review> reviews = new ArrayList<>(chObject.getReviews());
+		review = reviews.get(0);
+		assertEquals("My Review", review.getTitle());
 	}
 	
 }
