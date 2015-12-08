@@ -34,6 +34,7 @@ public class GalleryController {
 
 		model.addAttribute("chObjects", objectService.findByTagName(tagName));
 		model.addAttribute("tags", tagService.findDistinctTagNames());
+		model.addAttribute("selectedTag", tagName);
 
 		return "gallery";
 	}

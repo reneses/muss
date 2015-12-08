@@ -11,7 +11,7 @@ public interface ChObjectRepository extends CrudRepository<ChObject, Integer> {
 
 	ChObject findOneByOriginalId(int id);
 	
-	@Query("SELECT o FROM ChObject o JOIN o.tags t WHERE t.name = :name")
+	@Query("SELECT o FROM ChObject o JOIN o.tags t WHERE t.name = ?1")
 	List<ChObject> findByTagName(String name);
 
 }

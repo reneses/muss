@@ -11,6 +11,8 @@ import javax.persistence.JoinTable;
 import javax.persistence.ManyToMany;
 import javax.persistence.OneToMany;
 
+import org.hibernate.validator.constraints.Email;
+
 @Entity
 public class User {
 
@@ -19,6 +21,7 @@ public class User {
 	private int id;
 	private String username;
 	private String password;
+	@Email
 	private String email;
 	private String name;
 	private String picture;
