@@ -79,6 +79,9 @@ public class Review {
 
 	public void setChObject(ChObject chObject) {
 		this.chObject = chObject;
+		if (!chObject.getReviews().contains(this)) {
+			chObject.getReviews().add(this);
+		}
 	}
 
 	

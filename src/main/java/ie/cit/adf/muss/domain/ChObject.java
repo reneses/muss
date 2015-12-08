@@ -187,6 +187,12 @@ public class ChObject {
 
 	public void setReviews(Collection<Review> reviews) {
 		this.reviews = reviews;
+		reviews.forEach(review -> review.setChObject(this));
+	}
+	
+	public void addReview(Review review) {
+		reviews.add(review);
+		review.setChObject(this);
 	}
 
     /* TO STRING */
