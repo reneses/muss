@@ -3,7 +3,12 @@ package ie.cit.adf.muss.loaders;
 
 import ie.cit.adf.muss.domain.ChObject;
 import ie.cit.adf.muss.domain.Tag;
+import ie.cit.adf.muss.domain.User;
+import ie.cit.adf.muss.repositories.UserRepository;
+import ie.cit.adf.muss.services.AuthService;
+import ie.cit.adf.muss.services.UserService;
 import ie.cit.adf.muss.utility.FileFinder;
+import org.springframework.beans.factory.annotation.Autowired;
 
 import java.io.IOException;
 import java.net.URISyntaxException;
@@ -20,6 +25,9 @@ import java.util.stream.Collectors;
 public abstract class AbstractChObjectLoader {
 
     private String extension, objectsDirectory;
+
+    @Autowired
+    UserService userService; // TODO remove
 
 
     /**
@@ -73,6 +81,7 @@ public abstract class AbstractChObjectLoader {
     public List<ChObject> loadChObjects() throws IOException, URISyntaxException {
         List<ChObject> objects = loadFiles().stream().map(this::mapFile).collect(Collectors.toList());
         addRandomTags(objects);
+        generateTestUsers();
         return objects;
     }
 
@@ -90,6 +99,20 @@ public abstract class AbstractChObjectLoader {
             }
             object.setTags(tags);
         });
+    }
+
+    /**
+     * TODO: remove from here
+     *
+     * user@password: reneses@reneses
+     */
+    private void generateTestUsers() {
+        User user = new User();
+        user.setName("Álvaro Reneses");
+        user.setEmail("me@reneses.io");
+        user.setPassword("$2a$10$RMcliTmE5pcyYm8XLyeNG.AohlqrJtKSmNuBrmJ4sSGt5udmNSeD.");
+        user.setUsername("reneses");
+        userService.save(user);
     }
 
 }

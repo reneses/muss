@@ -19,7 +19,7 @@ public class UserForm {
     private String email;
 
     @NotBlank
-    @Length(min = 8)
+    @Length(min = 4)
     private String password;
 
     @NotBlank
