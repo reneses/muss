@@ -42,9 +42,15 @@ public abstract class AbstractChObjectLoader {
      * @throws URISyntaxException 
      */
     protected List<Path> loadFiles() throws IOException, URISyntaxException {
-        String objectsDirectory = AbstractChObjectLoader.class.getResource('/' + this.objectsDirectory).getPath();
-        objectsDirectory = URLDecoder.decode(objectsDirectory, "utf-8");
-        return FileFinder.getFileList(objectsDirectory, "*." + this.extension);
+    	try {
+    		String objectsDirectory = AbstractChObjectLoader.class.getResource('/' + this.objectsDirectory).getPath();
+            objectsDirectory = URLDecoder.decode(objectsDirectory, "utf-8");
+            return FileFinder.getFileList(objectsDirectory, "*." + this.extension);
+    	} catch (Exception e) {
+    		String objectsDirectory = AbstractChObjectLoader.class.getResource('/' + this.objectsDirectory).toURI().toString().replace("file:/", "");
+            objectsDirectory = URLDecoder.decode(objectsDirectory, "utf-8");
+            return FileFinder.getFileList(objectsDirectory, "*." + this.extension);
+    	}    
     }
 
 
