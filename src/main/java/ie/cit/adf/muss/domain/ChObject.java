@@ -51,7 +51,7 @@ public class ChObject {
 	@OneToMany(fetch= FetchType.EAGER, mappedBy="chObject", cascade=CascadeType.ALL)
 	private List<Image> images;
 
-	@OneToMany(fetch= FetchType.EAGER, mappedBy="chObject")
+	@OneToMany(fetch= FetchType.EAGER, mappedBy="chObject", cascade=CascadeType.ALL)
 	private Collection<Review> reviews;
 	
 	@ManyToMany(fetch= FetchType.EAGER, cascade=CascadeType.ALL)
