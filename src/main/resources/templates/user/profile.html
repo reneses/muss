@@ -62,7 +62,7 @@
 			</table>
 		</div>
 
-		<div th:if="${!principal}">
+		<div th:if="!${principal}">
 			<a th:href="@{/user/follow/{userId}(userId=${user.id})}">Follow
 				user</a>
 		</div>
