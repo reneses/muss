@@ -34,15 +34,22 @@
 				</ul>
 				<ul class="nav navbar-nav navbar-right">
 					<li sec:authorize="isAuthenticated()">
-						<h3>
+
+
+						<p class="navbar-text">
 							Hello <span sec:authentication="name">Bob</span>
-						</h3> <a th:href="@{/logout}">Logout</a> <a th:href="@{/user/profile}">Profile</a>
+						</p>
 					</li>
+					<li sec:authorize="isAuthenticated()"><a th:href="@{/logout}">Logout</a>
+					</li>
+					<li sec:authorize="isAuthenticated()"><a
+						th:href="@{/user/profile}">Profile</a></li>
 
 					<li sec:authorize="isAnonymous()"><a th:href="@{/login}">Login</a>
 					</li>
 					<li sec:authorize="isAnonymous()"><a th:href="@{/register}">Register</a>
 					</li>
+
 				</ul>
 			</div>
 			<!--/.nav-collapse -->
