@@ -1,17 +1,16 @@
 package ie.cit.adf.muss.domain;
 
-import java.util.ArrayList;
-import java.util.Collection;
-
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
-import javax.persistence.ManyToMany;
 import javax.persistence.ManyToOne;
+import javax.persistence.Table;
+import javax.persistence.UniqueConstraint;
 
 @Entity
+@Table(uniqueConstraints=@UniqueConstraint(columnNames = {"name", "chobject_id"})) 
 public class Tag {
 
 	@Id
@@ -24,12 +23,9 @@ public class Tag {
 	@JoinColumn(name="user_id")
 	private User user;
 
-	@ManyToMany(fetch=FetchType.LAZY, mappedBy="tags")
-	private Collection<ChObject> chObjects;
-	
-	public Tag() {
-		chObjects = new ArrayList<>();
-	}
+	@ManyToOne(fetch=FetchType.LAZY)
+	@JoinColumn(name="chobject_id")
+	private ChObject chObject;
 
 	public int getId() {
 		return id;
@@ -55,23 +51,17 @@ public class Tag {
 		this.user = user;
 	}
 
-	public Collection<ChObject> getChObjects() {
-		return chObjects;
+	public ChObject getChObject() {
+		return chObject;
 	}
 
-	public void setChObjects(Collection<ChObject> chObjects) {
-		this.chObjects = chObjects;
-		chObjects.forEach(chObject -> {
-			if (!chObject.getTags().contains(this))
-				chObject.getTags().add(this);
-		});
+	public void setChObject(ChObject chObject) {
+		this.chObject = chObject;
 	}
 
 	@Override
 	public String toString() {
 		return "Tag [id=" + id + ", name=" + name + "]";
 	}
-	
-	
 
 }

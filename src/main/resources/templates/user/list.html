@@ -1,26 +1,27 @@
 <!DOCTYPE html>
-<html xmlns:th="http://www.thymeleaf.org">
+<html xmlns:th="http://www.thymeleaf.org" th:include="layout :: page">
 	<head>
 		<meta charset="utf-8" />
 		<title>Muss</title>
 	</head>
 	<body>
-		<h1>Muss</h1>
-	    <a th:href="@{/}">Back to home</a>
-
-		<h3>Users</h3>
-		<div th:each="user : ${users}">
-	        <table>
-	        	<tr>
+		<div th:fragment="content">
+		
+			<h1>Muss</h1>
+		    <a th:href="@{/}" class="btn btn-primary" role="button">Back to home</a>
+	
+			<h3>Users</h3>
+			<table>
+				<tr>
 	        		<th>PROFILE - </th>
 			        <th>PICTURE - </th>
 			        <th>NAME - </th>
 			        <th>POINTS - </th>
 			        <th>RELATION</th>
 	        	</tr>
-		        <tr>
+				<tr th:each="user : ${users}">	    
 		       	 	<td>
-						<a th:href="@{/user/profile/{userId}(userId=${user.id})}">Show</a>
+						<a th:href="@{/user/profile/{userId}(userId=${user.id})}" class="btn btn-primary" role="button">Show</a>
 					</td>
 		            
 		            <td>
@@ -35,15 +36,16 @@
 		            <td>
 		            	<div th:if="${!user.isPrincipal(principal)}">
 			            	<div th:if="${user.beingFollowed(principal)}">
-								<a th:href="@{/user/unfollow/{userId}(userId=${user.id})}">Unfollow user</a>
+								<a th:href="@{/user/unfollow/{userId}(userId=${user.id})}" class="btn btn-primary" role="button">Unfollow user</a>
 							</div>
 							<div th:if="!${user.beingFollowed(principal)}">
-								<a th:href="@{/user/follow/{userId}(userId=${user.id})}">Follow user</a>
+								<a th:href="@{/user/follow/{userId}(userId=${user.id})}" class="btn btn-primary" role="button">Follow user</a>
 							</div>
 						</div>						
 					</td>
 				</tr>
 			</table>
+			
 		</div>
 	</body>
 </html>

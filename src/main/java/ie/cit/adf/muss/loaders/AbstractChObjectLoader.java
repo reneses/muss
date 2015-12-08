@@ -4,7 +4,6 @@ package ie.cit.adf.muss.loaders;
 import ie.cit.adf.muss.domain.ChObject;
 import ie.cit.adf.muss.domain.Tag;
 import ie.cit.adf.muss.domain.User;
-import ie.cit.adf.muss.repositories.UserRepository;
 import ie.cit.adf.muss.services.UserService;
 import ie.cit.adf.muss.utility.FileFinder;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -13,9 +12,10 @@ import java.io.IOException;
 import java.net.URISyntaxException;
 import java.net.URLDecoder;
 import java.nio.file.Path;
-import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Random;
+import java.util.Set;
 import java.util.stream.Collectors;
 
 /**
@@ -88,20 +88,25 @@ public abstract class AbstractChObjectLoader {
         Random random = new Random();
         String[] randomTags = {"Impressive", "Red", "Blue", "Spanish", "American", "Unique", "Expensive", "Glamorous", "Food", "Cultural", "CIT", "Best"};
         objects.forEach(object -> {
-            List<Tag> tags = new ArrayList<>();
+            Set<String> tags = new HashSet<>();
             int numberOfTags = random.nextInt(3) + 2;
             for (int i=0; i<numberOfTags; i++) {
                 int idx = random.nextInt(randomTags.length);
-                Tag tag = new Tag();
-                tag.setName(randomTags[idx]);
+                String tag = randomTags[idx];
                 tags.add(tag);
             }
-            object.setTags(tags);
+
+            for (String tag : tags) {
+            	Tag tagObj = new Tag();
+            	tagObj.setName(tag);
+            	object.addTag(tagObj);
+            }
+
         });
     }
 
     /**
-     * TODO: remove fro here
+     * TODO: remove from here
      *
      * user@password: reneses@reneses
      */

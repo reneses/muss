@@ -2,11 +2,9 @@ package ie.cit.adf.muss.controller;
 
 import ie.cit.adf.muss.domain.Review;
 import ie.cit.adf.muss.domain.Tag;
-import ie.cit.adf.muss.domain.User;
 import ie.cit.adf.muss.services.AuthService;
 import ie.cit.adf.muss.validation.ReviewForm;
 import ie.cit.adf.muss.validation.TagForm;
-import ie.cit.adf.muss.validation.UserForm;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -17,6 +15,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 import ie.cit.adf.muss.domain.ChObject;
 import ie.cit.adf.muss.services.ChObjectService;
+import ie.cit.adf.muss.services.TagService;
 
 import javax.validation.Valid;
 
@@ -28,10 +27,23 @@ public class GalleryController {
 
 	@Autowired
 	AuthService authService;
-	
+
+	@Autowired
+	TagService tagService;
+
 	@RequestMapping(value="/gallery", method = RequestMethod.GET)
 	public String index(Model model) {
 		model.addAttribute("chObjects", objectService.findAll());
+		model.addAttribute("tags", tagService.findDistinctTagNames());
+		return "gallery";
+	}
+
+	@RequestMapping(value="/gallery/tag/{tagName}", method = RequestMethod.GET)
+	public String galleryByTag(Model model, @PathVariable String tagName) {
+
+		model.addAttribute("chObjects", objectService.findByTagName(tagName));
+		model.addAttribute("tags", tagService.findDistinctTagNames());
+
 		return "gallery";
 	}
 
@@ -84,5 +96,5 @@ public class GalleryController {
 		return object(model, objectID);
 
 	}
-	
+
 }
