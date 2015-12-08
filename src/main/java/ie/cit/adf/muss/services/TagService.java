@@ -36,14 +36,12 @@ public class TagService{
 		return (Collection<Tag>) tagRepository.findAll();
 	}
 
-	public Tag create(){
+	public Tag create(String name, User user) {
 		Tag tag = new Tag();
-		
-		User user = authService.getPrincipal();
+		tag.setName(name);
 		tag.setUser(user);
-		
 		return tag;
-    }
+	}
 
 //    public void save(Tag tag, ChObject chObject){
 //    	Assert.notNull(tag);
@@ -100,5 +98,6 @@ public class TagService{
     }
 
     // USE CASES:
+
     
 }

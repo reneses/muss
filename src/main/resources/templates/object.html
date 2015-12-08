@@ -2,73 +2,16 @@
 <html xmlns:th="http://www.thymeleaf.org" xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity3"
       th:include="layout :: page">
 <!--/*@thymesVar id="object" type="ie.cit.adf.muss.domain.ChObject"*/-->
+<!--/*@thymesVar id="user" type="ie.cit.adf.muss.domain.User"*/-->
 <!--/*@thymesVar id="tagForm" type="ie.cit.adf.muss.validation.TagForm"*/-->
 <!--/*@thymesVar id="reviewForm" type="ie.cit.adf.muss.validation.ReviewForm"*/-->
 <!--/*@thymesVar id="isReviewedByUser" type="java.lang.Boolean"*/-->
 
-<head>
-    <meta charset="utf-8"/>
-    <title>Muss</title>
-</head>
 <body>
+
 <div th:fragment="content">
 
-    <h1 th:text="${object.title}">[Title]</h1>
-    <a th:href="@{/gallery}">Go back to the gallery</a>
-
-    <h2>Images</h2>
-
-    <div th:each="image : ${object.images}">
-        <img th:src="${image.sizes.get(0).url}" width="300" height="auto"/>
-    </div>
-    <h2>Description</h2>
-    <table>
-        <tr>
-            <td>Medium</td>
-            <td th:text="${object.medium}"></td>
-        </tr>
-        <tr>
-            <td>Date</td>
-            <td th:text="${object.date}"></td>
-        </tr>
-        <tr>
-            <td>Credit line</td>
-            <td th:text="${object.creditLine}"></td>
-        </tr>
-        <tr>
-            <td>Description</td>
-            <td th:text="${object.description}"></td>
-        </tr>
-        <tr>
-            <td>Gallery text</td>
-            <td th:text="${object.galleryText}"></td>
-        </tr>
-    </table>
-
-    <h2>Tags</h2>
-
-    <div>
-        <a th:each="tag : ${object.tags}" class="btn btn-sm btn-default" href="" th:text="${tag.name}"></a>
-    </div>
-
-
-    <form sec:authorize="isAuthenticated()" th:object="${tagForm}" method="post"
-          th:action="@{/gallery/{objectID}/tag(objectID=${object.id})}">
-        <p>
-            Add tag: <input type="text" th:field="*{name}"/>
-        </p>
-
-        <p th:if="${#fields.hasErrors('name')}" th:errors="*{name}">Name
-            Error</p>
-
-        <p>
-            <input type="submit" value="Add tag"/>
-        </p>
-    </form>
-    <span sec:authorize="isAnonymous()"><a th:href="@{/login}">Login</a> to add a tag!</span>
-
-    <h2>Reviews</h2>
-
+    <!-- Style TODO: extract to its own file -->
     <style>
         label {
             display: block;
@@ -122,9 +65,85 @@
             font-style: italic;
             margin-left: 5px;
         }
+
+        #tagForm {
+            display: inline;
+        }
+        #tagForm * {
+            width: auto;
+            display: inline;
+        }
+
+        .no-break {
+            white-space: nowrap;
+        }
+
+        .tag {
+            margin-right: 5px;
+        }
+
+        .no-displayed {
+            display: none !important;
+        }
+
     </style>
 
+    <h1 th:text="${object.title}">[Title]</h1>
+    <a th:href="@{/gallery}">Go back to the gallery</a>
 
+    <h2>Images</h2>
+
+    <div th:each="image : ${object.images}">
+        <img th:src="${image.sizes.get(0).url}" width="300" height="auto"/>
+    </div>
+    <h2>Description</h2>
+    <table>
+        <tr>
+            <td>Medium</td>
+            <td th:text="${object.medium}"></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td th:text="${object.date}"></td>
+        </tr>
+        <tr>
+            <td>Credit line</td>
+            <td th:text="${object.creditLine}"></td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td th:text="${object.description}"></td>
+        </tr>
+        <tr>
+            <td>Gallery text</td>
+            <td th:text="${object.galleryText}"></td>
+        </tr>
+    </table>
+
+
+    <!-- TAGS -->
+    <h2>Tags</h2>
+    <div>
+
+        <!-- List of tags -->
+        <span id="tags">Loading...</span>
+
+        <!-- Tag form -->
+        <form sec:authorize="isAuthenticated()" method="post" id="tagForm">
+            <button id="showTagFormWrapper" type="submit" class="btn btn-primary">+</button>
+            <span id="tagFormWrapper" class="no-break no-displayed">
+                <input type="text" id="tag" placeholder="New tag" class="form-control"/>
+                <button type="submit" class="btn btn-primary">Add Tag</button>
+            </span>
+        </form>
+    </div>
+    <span sec:authorize="isAnonymous()"><a th:href="@{/login}">Login</a> to add a tag!</span>
+
+
+    <!-- REVIEWS -->
+    <h2>Reviews</h2>
+
+    <!-- List of reviews -->
     <div class="row">
         <div class="col-xs-6" th:each="review : ${object.reviews}">
             <div class="panel panel-default">
@@ -149,8 +168,9 @@
     <div th:if="${isReviewedByUser}">
         <span>¡You have already reviewed this item!</span>
     </div>
+    <span sec:authorize="isAnonymous()"><a th:href="@{/login}">Login</a> to add a review!</span>
     <form th:unless="${isReviewedByUser}" sec:authorize="isAuthenticated()" th:object="${reviewForm}" method="post"
-          th:action="@{/gallery/{objectID}/review(objectID=${object.id})}">
+          th:action="@{/gallery/{objectID}(objectID=${object.id})}">
         <div class="row">
             <div class="form-group col-sm-10">
                 <label for="review-title">Title</label>
@@ -170,13 +190,68 @@
             <label for="review-content">Message</label>
             <textarea th:field="*{content}" class="form-control" id="review-content"></textarea>
         </div>
-        <button type="submit" class="btn btn-default">Post the review</button>
+        <button type="submit" class="btn btn-primary">Post the review</button>
     </form>
-    <span sec:authorize="isAnonymous()"><a th:href="@{/login}">Login</a> to add a review!</span>
 
-
-    <script>
+    <!-- Javascript TODO: extract to its own file -->
+    <script sec:authorize="isAuthenticated()" th:inline="javascript">
         /*<![CDATA[*/
+        var userID = [[${user.id}]];
+        /*]]>*/
+    </script>
+    <script th:inline="javascript">
+
+        /*<![CDATA[*/
+
+        // Current object ID
+        var objectID = [[${object.id}]];
+
+        /* TAGS */
+
+        // Show tag form
+        function showTagForm() {
+            $('#tagFormWrapper').removeClass('no-displayed');
+            $('#tag').focus();
+        }
+        function hideTagForm() {
+            $('#tagFormWrapper').addClass('no-displayed');
+        }
+        $('#showTagFormWrapper').click(function (evt) {
+            evt.preventDefault();
+            showTagForm();
+            $(this).addClass('no-displayed');
+        });
+
+        // Reload the tags
+        function loadTags() {
+            var url = "/gallery/" + objectID + "/tags";
+            $.get(url, function (tags) {
+                var html = '';
+                tags.forEach(function (tag) {
+                    html += '<a class="btn btn-md btn-default tag" href="/gallery/tag/' + tag + '">' + tag + '</a>';
+                });
+                $('#tags').html(html);
+            });
+        }
+        loadTags();
+
+        // Post a new tag
+        var tagInput = $('#tag');
+        function postTags() {
+            var tag = tagInput.val();
+            var url = "/gallery/" + objectID + "/tags";
+            $.post(url, {'tag': tag, 'userID': userID}, function () {
+                loadTags();
+                tagInput.val('');
+            });
+        }
+        $('#tagForm').submit(function (evt) {
+            evt.preventDefault();
+            postTags();
+        });
+
+
+        /* RATING */
 
         // Chose an start event
         function chooseStart(rating) {
