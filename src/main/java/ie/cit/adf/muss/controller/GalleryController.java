@@ -66,7 +66,7 @@ public class GalleryController {
 		}
 
 		Tag tag = new Tag();
-		tag.setName(tagForm.getName());
+		tag.setName(tagForm.getName().replace("/", "-"));
 		tag.setUser(authService.getPrincipal());
 
 		ChObject object = objectService.find(objectID);
