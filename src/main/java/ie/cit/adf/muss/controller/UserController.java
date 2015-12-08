@@ -37,10 +37,10 @@ public class UserController {
 		return "user/profile";
 	}
 	
-	@RequestMapping(value="/profile/{userID}", method = RequestMethod.GET)
-	public String profile(@PathVariable int userID, Model model) {
+	@RequestMapping(value="/profile/{username}", method = RequestMethod.GET)
+	public String profile(@PathVariable String username, Model model) {
 		
-		User user = userService.find(userID);
+		User user = userService.findByUsername(username);
 		User principal = authService.getPrincipal();
 
 		model.addAttribute("user", user);
