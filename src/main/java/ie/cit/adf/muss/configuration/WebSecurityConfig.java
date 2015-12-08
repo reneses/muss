@@ -49,11 +49,6 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter  {
 
     @Autowired
     public void configureGlobal(AuthenticationManagerBuilder auth) throws Exception {
-    	// Usuarios en memoria, para pruebas rápidas.. Eliminar en producción!!
-    	auth
-    	.inMemoryAuthentication()
-        	.withUser("user").password("password").roles("USER");
-    	
     	// Usuarios de la base de datos
         auth
         .jdbcAuthentication()
