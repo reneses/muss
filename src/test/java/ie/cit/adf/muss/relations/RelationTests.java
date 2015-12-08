@@ -3,6 +3,7 @@ package ie.cit.adf.muss.relations;
 import static org.junit.Assert.*;
 
 import java.util.ArrayList;
+import java.util.Calendar;
 import java.util.List;
 
 import org.junit.Test;
@@ -16,6 +17,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import ie.cit.adf.muss.MussApplication;
 import ie.cit.adf.muss.domain.ChObject;
 import ie.cit.adf.muss.domain.Image;
+import ie.cit.adf.muss.domain.Review;
 import ie.cit.adf.muss.domain.Tag;
 import ie.cit.adf.muss.services.ChObjectService;
 
@@ -93,6 +95,25 @@ public class RelationTests {
 		assertNotNull(chObject);
 		assertEquals(1, chObject.getTags().size());
 		
+	}
+	
+	@Test
+	public void testChObjectReviews() {		
+		Review review = new Review();
+		review.setTitle("My Review");
+		review.setContent("This is my review...");
+		review.setDate(Calendar.getInstance().getTime());
+		review.setRating(5);
+	
+		ChObject chObject = chObjectService.find(1);
+		assertNotNull(chObject);
+		chObject.addReview(review);
+		chObjectService.save(chObject);
+		
+		chObject = null;
+		chObject = chObjectService.find(1);
+		assertNotNull(chObject);
+		assertEquals(1, chObject.getReviews().size());
 	}
 	
 }
