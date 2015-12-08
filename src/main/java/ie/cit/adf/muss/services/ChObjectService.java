@@ -22,6 +22,9 @@ public class ChObjectService extends CrudService<ChObject> {
     ParticipationService participationService;
 
     @Autowired
+    TagService tagService;
+
+    @Autowired
     AbstractChObjectLoader loader;
 
     /**
@@ -97,7 +100,7 @@ public class ChObjectService extends CrudService<ChObject> {
     public ChObject save(ChObject model) {
         if (model == null)
             throw new IllegalArgumentException("The object cannot be null");
-        participationService.save(model.getParticipations());
+        participationService.save(model.getParticipations()); // TODO: remove this line?
         return super.save(model);
     }
 

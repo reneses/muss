@@ -5,7 +5,6 @@ import ie.cit.adf.muss.domain.ChObject;
 import ie.cit.adf.muss.domain.Tag;
 import ie.cit.adf.muss.domain.User;
 import ie.cit.adf.muss.repositories.UserRepository;
-import ie.cit.adf.muss.services.AuthService;
 import ie.cit.adf.muss.services.UserService;
 import ie.cit.adf.muss.utility.FileFinder;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -102,7 +101,7 @@ public abstract class AbstractChObjectLoader {
     }
 
     /**
-     * TODO: remove from here
+     * TODO: remove fro here
      *
      * user@password: reneses@reneses
      */

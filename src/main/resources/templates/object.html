@@ -1,54 +1,159 @@
 <!DOCTYPE html>
-<html xmlns:th="http://www.thymeleaf.org" th:include="layout :: page">
+<html xmlns:th="http://www.thymeleaf.org" xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity3"
+      th:include="layout :: page">
 <!--/*@thymesVar id="object" type="ie.cit.adf.muss.domain.ChObject"*/-->
+<!--/*@thymesVar id="tagForm" type="ie.cit.adf.muss.validation.TagForm"*/-->
+<!--/*@thymesVar id="reviewForm" type="ie.cit.adf.muss.validation.ReviewForm"*/-->
 
 <head>
-<meta charset="utf-8" />
-<title>Muss</title>
+    <meta charset="utf-8"/>
+    <title>Muss</title>
 </head>
 <body>
-	<div th:fragment="content">
-		<h1>Muss</h1>
-		<a th:href="@{/gallery}">Back to the gallery</a>
+<div th:fragment="content">
+    <h1>Muss</h1>
+    <a th:href="@{/gallery}">Back to the gallery</a>
 
 
-		<h2 th:text="${object.title}">[Title]</h2>
-		<h3>Images</h3>
-		<div th:each="image : ${object.images}">
-			<img th:src="${image.sizes.get(0).url}" width="300" height="auto" />
-		</div>
-		<h3>Description</h3>
-		<table>
-			<tr>
-				<td>Medium</td>
-				<td th:text="${object.medium}"></td>
-			</tr>
-			<tr>
-				<td>Date</td>
-				<td th:text="${object.date}"></td>
-			</tr>
-			<tr>
-				<td>Credit line</td>
-				<td th:text="${object.creditLine}"></td>
-			</tr>
-			<tr>
-				<td>Description</td>
-				<td th:text="${object.description}"></td>
-			</tr>
-			<tr>
-				<td>Gallery text</td>
-				<td th:text="${object.galleryText}"></td>
-			</tr>
-		</table>
+    <h2 th:text="${object.title}">[Title]</h2>
 
-		<h3>Tags</h3>
-		<ul>
-			<li th:each="tag : ${object.tags}" th:text="${tag.name}"></li>
-		</ul>
+    <h3>Images</h3>
 
-		<h3>Reviews</h3>
-		<ul>
-		</ul>
-	</div>
+    <div th:each="image : ${object.images}">
+        <img th:src="${image.sizes.get(0).url}" width="300" height="auto"/>
+    </div>
+    <h3>Description</h3>
+    <table>
+        <tr>
+            <td>Medium</td>
+            <td th:text="${object.medium}"></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td th:text="${object.date}"></td>
+        </tr>
+        <tr>
+            <td>Credit line</td>
+            <td th:text="${object.creditLine}"></td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td th:text="${object.description}"></td>
+        </tr>
+        <tr>
+            <td>Gallery text</td>
+            <td th:text="${object.galleryText}"></td>
+        </tr>
+    </table>
+
+    <h3>Tags</h3>
+
+    <div>
+        <a th:each="tag : ${object.tags}" class="btn btn-sm btn-default" href="" th:text="${tag.name}"></a>
+    </div>
+
+
+    <form sec:authorize="isAuthenticated()" th:object="${tagForm}" method="post"
+          th:action="@{/gallery/{objectID}/tag(objectID=${object.id})}">
+        <p>
+            Add tag: <input type="text" th:field="*{name}"/>
+        </p>
+
+        <p th:if="${#fields.hasErrors('name')}" th:errors="*{name}">Name
+            Error</p>
+
+        <p>
+            <input type="submit" value="Add tag"/>
+        </p>
+    </form>
+    <span sec:authorize="isAnonymous()"><a th:href="@{/login}">Login</a> to add a tag!</span>
+
+    <h3>Reviews</h3>
+
+    <style>
+        .rated {
+            unicode-bidi: bidi-override;
+        }
+        .rated > span {
+            position: relative;
+        }
+        .rating {
+            unicode-bidi: bidi-override;
+            direction: rtl;
+            text-align: center;
+        }
+        .rating > span {
+            position: relative;
+            width: 1.1em;
+        }
+        .rated > span {
+            color: gold;
+        }
+        .rating > span:hover,
+        .rating > span:hover ~ span {
+            color: transparent;
+        }
+        .rating > span:hover:before,
+        .rating > span:hover ~ span:before,
+        .rated > span:before {
+            content: "\2605";
+            position: absolute;
+            left: 0;
+            color: gold;
+        }
+        .reviewer {
+            font-style: italic;
+            margin-left: 5px;
+        }
+    </style>
+
+    <div class="rating">
+        <span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span>
+    </div>
+
+
+    <div class="row">
+        <div class="col-xs-6" th:each="review : ${object.reviews}">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title" th:text="${review.title}"></h3>
+                    <span class="rated">
+                        <span th:each="i : ${#numbers.sequence( 1, review.rating)}">☆</span>
+                    </span>
+                    <span class="reviewer">by <span th:text="${review.user}"></span></span>
+                </div>
+                <div class="panel-body" th:text="${review.content}">
+                    Panel content
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <h4>Add Review</h4>
+
+    <form sec:authorize="isAuthenticated()" th:object="${reviewForm}" method="post"
+          th:action="@{/gallery/{objectID}/review(objectID=${object.id})}">
+
+        <label>Title</label>
+        <input type="text" th:field="*{title}"/>
+
+        <p th:if="${#fields.hasErrors('title')}" th:errors="*{title}"></p>
+
+        <label>Rating</label>
+        <input type="number" th:field="*{rating}"/>
+
+        <p th:if="${#fields.hasErrors('title')}" th:errors="*{rating}"></p>
+
+        <label>Message</label>
+        <textarea th:field="*{content}"></textarea>
+
+        <p th:if="${#fields.hasErrors('content')}" th:errors="*{content}"></p>
+
+        <button type="submit">Add a review</button>
+
+    </form>
+
+    <span sec:authorize="isAnonymous()"><a th:href="@{/login}">Login</a> to add a review!</span>
+</div>
 </body>
 </html>

@@ -1,8 +1,16 @@
 package ie.cit.adf.muss.controller;
 
+import ie.cit.adf.muss.domain.Review;
+import ie.cit.adf.muss.domain.Tag;
+import ie.cit.adf.muss.domain.User;
+import ie.cit.adf.muss.services.AuthService;
+import ie.cit.adf.muss.validation.ReviewForm;
+import ie.cit.adf.muss.validation.TagForm;
+import ie.cit.adf.muss.validation.UserForm;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
+import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
@@ -10,27 +18,71 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import ie.cit.adf.muss.domain.ChObject;
 import ie.cit.adf.muss.services.ChObjectService;
 
+import javax.validation.Valid;
+
 @Controller
 public class GalleryController {
 
 	@Autowired
 	ChObjectService objectService;
+
+	@Autowired
+	AuthService authService;
 	
 	@RequestMapping(value="/gallery", method = RequestMethod.GET)
 	public String index(Model model) {
-
 		model.addAttribute("chObjects", objectService.findAll());
-
 		return "gallery";
 	}
 
-	@RequestMapping(value="/gallery/{objectID}", method = RequestMethod.GET)
+	@RequestMapping(value={"/gallery/{objectID}", "/gallery/{objectID}/tag", "/gallery/{objectID}/review"}, method = RequestMethod.GET)
 	public String object(Model model, @PathVariable int objectID) {
+		ChObject object = objectService.find(objectID);
+		model.addAttribute("object", object);
+		model.addAttribute("tagForm", new TagForm());
+		model.addAttribute("reviewForm", new ReviewForm());
+		return "object";
+	}
+
+	// TODO: check that the tag is not repeated
+	@RequestMapping(value="/gallery/{objectID}/tag", method=RequestMethod.POST)
+	public String addTagToObject(@Valid TagForm tagForm, BindingResult bindingResult, Model model, @PathVariable int objectID) {
+
+		if (bindingResult.hasErrors()) {
+			return object(model, objectID);
+		}
+
+		Tag tag = new Tag();
+		tag.setName(tagForm.getName());
+		tag.setUser(authService.getPrincipal());
 
 		ChObject object = objectService.find(objectID);
+		object.addTag(tag);
+		objectService.save(object);
 
-		model.addAttribute("object", object);
-		return "object";
+		return object(model, objectID);
+	}
+
+
+	// TODO: check that the tag is not repeated
+	@RequestMapping(value="/gallery/{objectID}/review", method=RequestMethod.POST)
+	public String addReviewToObject(@Valid ReviewForm reviewForm, BindingResult bindingResult, Model model, @PathVariable int objectID) {
+
+		if (bindingResult.hasErrors()) {
+			return object(model, objectID);
+		}
+
+		Review review = new Review();
+		review.setRating(reviewForm.getRating());
+		review.setTitle(reviewForm.getTitle());
+		review.setContent(reviewForm.getContent());
+
+		ChObject object = objectService.find(objectID);
+		object.addReview(review);
+		objectService.save(object);
+
+		return object(model, objectID);
+
 	}
 	
 }
