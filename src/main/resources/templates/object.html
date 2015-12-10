@@ -69,6 +69,7 @@
         #tagForm {
             display: inline;
         }
+
         #tagForm * {
             width: auto;
             display: inline;
@@ -85,37 +86,63 @@
         .no-displayed {
             display: none !important;
         }
+        #gallery {
+            text-align: center;
+        }
+
+        #gallery-main {
+            height: 400px;
+        }
+
+        .gallery-thumbnail {
+            width: 100px;
+            height: 100px;
+            display: inline-block;
+            background-size: cover;
+            margin: 20px 5px 0;
+            cursor: pointer;
+        }
+        #description td {
+            padding: 2px 5px;
+        }
+
 
     </style>
 
     <h1 th:text="${object.title}">[Title]</h1>
     <a th:href="@{/gallery}">Go back to the gallery</a>
 
-    <h2>Images</h2>
-
-    <div th:each="image : ${object.images}">
-        <img th:src="${image.sizes.get(0).url}" width="300" height="auto"/>
+    <div id="gallery">
+        <img id="gallery-main" th:src="${object.images.get(0).sizes.get(0).url}"/>
+        <div id="gallery-thumbnails">
+            <a class="gallery-thumbnail"
+               th:each="image : ${object.images}"
+               th:href="|javascript:changeImage('${image.sizes.get(0).url}')|"
+               th:style="|background-image:url(${image.sizes.get(0).url})|">
+            </a>
+        </div>
     </div>
+
     <h2>Description</h2>
-    <table>
+    <table id="description">
         <tr>
-            <td>Medium</td>
+            <td><strong>Medium</strong></td>
             <td th:text="${object.medium}"></td>
         </tr>
         <tr>
-            <td>Date</td>
+            <td><strong>Date</strong></td>
             <td th:text="${object.date}"></td>
         </tr>
         <tr>
-            <td>Credit line</td>
+            <td><strong>Credit line</strong></td>
             <td th:text="${object.creditLine}"></td>
         </tr>
         <tr>
-            <td>Description</td>
+            <td><strong>Description</strong></td>
             <td th:text="${object.description}"></td>
         </tr>
         <tr>
-            <td>Gallery text</td>
+            <td><strong>Gallery text</strong></td>
             <td th:text="${object.galleryText}"></td>
         </tr>
     </table>
@@ -123,6 +150,7 @@
 
     <!-- TAGS -->
     <h2>Tags</h2>
+
     <div>
 
         <!-- List of tags -->
@@ -165,10 +193,12 @@
 
     <!-- Add review -->
     <h4>Add Review</h4>
+
     <div th:if="${isReviewedByUser}">
         <span>¡You have already reviewed this item!</span>
     </div>
     <span sec:authorize="isAnonymous()"><a th:href="@{/login}">Login</a> to add a review!</span>
+
     <form th:unless="${isReviewedByUser}" sec:authorize="isAuthenticated()" th:object="${reviewForm}" method="post"
           th:action="@{/gallery/{objectID}(objectID=${object.id})}">
         <div class="row">
@@ -202,6 +232,11 @@
     <script th:inline="javascript">
 
         /*<![CDATA[*/
+
+        // Gallery
+        function changeImage(url) {
+            document.getElementById('gallery-main').src = url;
+        }
 
         // Current object ID
         var objectID = [[${object.id}]];
