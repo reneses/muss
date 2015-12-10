@@ -2,59 +2,79 @@
 <html xmlns:th="http://www.thymeleaf.org" th:include="layout :: page">
 <!--/*@thymesVar id="chObjects" type="java.util.List<ie.cit.adf.muss.domain.ChObject>"*/-->
 <head>
-<meta charset="utf-8" />
-<title>Muss</title>
+    <meta charset="utf-8"/>
+    <title>Muss</title>
 </head>
 <body>
-	<div th:fragment="content">
-		<h1>Muss</h1>
-		
-		<div class="panel panel-default">
-			<div class="panel-heading">
-				<h1 class="panel-title">Search</h1>
-			</div>
-			<div class="panel-body">
-				<form class="form form-inline" method="get">
-					<input class="form-control" type="text" name="s" placeholder="Name, description..."></input>
-					<button type="submit" class="btn btn-primary">Search</button>
-				</form>
-			</div>
-		</div>
-		
-		<div class="panel panel-default">
-			<div class="panel-heading">
-				<h1 class="panel-title">Search by Tag</h1>
-			</div>
-			<div class="panel-body">
-				<a th:each="tag : ${tags}" class="btn btn-sm" th:classappend="${selectedTag} == ${tag} ?  btn-primary :  btn-default" th:href="@{/gallery/tag/{tagName}(tagName=${tag})}" th:text="${tag}"></a>
-			</div>
-		</div>
-		
-		<div th:each="object : ${chObjects}">
-				<div class="col-sm-6 col-md-4">
-					<div class="thumbnail">
-						<img th:src="${object.images.get(0).sizes.get(0).url}" width="300"
-							height="auto" />
-						<div class="caption">
-							<a th:href="@{/gallery/{objectID}(objectID=${object.id})}"><h3 th:text="${object.title}"/></a>
-							<p th:text="${object.description}"/>
-							<p>
-								<a th:href="@{/gallery/{objectID}(objectID=${object.id})}" class="btn btn-primary" role="button">Details</a> 
-							</p>
-						</div>
-					</div>
-				</div>
-		</div>
-		<div>
-			<!-- <a th:each="object : ${chObjects}"
-				th:href="@{/gallery/{objectID}(objectID=${object.id})}">
-				<div>
-					<h3 th:text="${object.title}"></h3>
-					<img th:src="${object.images.get(0).sizes.get(0).url}" width="300"
-						height="auto" />
-				</div>
-			</a> -->
-		</div>
-	</div>
+<div th:fragment="content">
+
+    <h1>Muss</h1>
+
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h1 class="panel-title">Search</h1>
+        </div>
+        <div class="panel-body">
+            <form class="form form-inline" method="get">
+                <input class="form-control" type="text" name="s" placeholder="Name, description..."/>
+                <button type="submit" class="btn btn-primary">Search</button>
+            </form>
+        </div>
+    </div>
+
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h1 class="panel-title">Search by Tag</h1>
+        </div>
+        <div class="panel-body">
+            <a th:each="tag : ${tags}" class="btn btn-sm"
+               th:classappend="${selectedTag} == ${tag} ?  btn-primary :  btn-default"
+               th:href="@{/gallery/tag/{tagName}(tagName=${tag})}" th:text="${tag}"></a>
+        </div>
+    </div>
+
+    <style>
+        .grid{
+            -moz-column-count:1;
+            -moz-column-gap:20px;
+            -webkit-column-count:1;
+            -webkit-column-gap:20px;
+            column-count: 1;
+            column-gap: 20px;
+        }
+        .cell{
+            display: inline-block;
+            width: 100%;
+        }
+        @media screen and (min-width: 600px) {
+            .grid{
+                -moz-column-count:2;
+                -webkit-column-count:2;
+                column-count: 2;
+            }
+        }
+        @media screen and (min-width: 992px) {
+            .grid{
+                -moz-column-count:3;
+                -webkit-column-count:3;
+                column-count: 3;
+            }
+        }
+    </style>
+    <div class="grid">
+        <div class="cell" th:each="object : ${chObjects}">
+            <div class="thumbnail">
+                <a th:href="@{/gallery/{objectID}(objectID=${object.id})}">
+                    <img th:src="${object.images.get(0).sizes.get(0).url}" />
+                </a>
+                <div class="caption">
+                    <a th:href="@{/gallery/{objectID}(objectID=${object.id})}"><h3 th:text="${object.title}"></h3></a>
+                    <p th:text="${object.description}"></p>
+                    <a th:href="@{/gallery/{objectID}(objectID=${object.id})}" class="btn btn-primary" role="button">Details</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 </body>
 </html>
