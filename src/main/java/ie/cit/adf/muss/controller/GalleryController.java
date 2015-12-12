@@ -1,25 +1,33 @@
 package ie.cit.adf.muss.controller;
 
-import ie.cit.adf.muss.domain.Review;
-import ie.cit.adf.muss.domain.Tag;
-import ie.cit.adf.muss.domain.User;
-import ie.cit.adf.muss.services.*;
-import ie.cit.adf.muss.validation.ReviewForm;
-import ie.cit.adf.muss.validation.TagForm;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Controller;
-import org.springframework.ui.Model;
-import org.springframework.validation.BindingResult;
-import org.springframework.web.bind.annotation.*;
-
-import ie.cit.adf.muss.domain.ChObject;
-
-import javax.servlet.http.HttpServletRequest;
-import javax.validation.Valid;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.validation.Valid;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.validation.BindingResult;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.ResponseBody;
+
+import ie.cit.adf.muss.domain.ChObject;
+import ie.cit.adf.muss.domain.Tag;
+import ie.cit.adf.muss.domain.User;
+import ie.cit.adf.muss.services.AuthService;
+import ie.cit.adf.muss.services.ChObjectService;
+import ie.cit.adf.muss.services.ReviewService;
+import ie.cit.adf.muss.services.TagService;
+import ie.cit.adf.muss.services.UserService;
+import ie.cit.adf.muss.validation.ReviewForm;
+import ie.cit.adf.muss.validation.TagForm;
 
 @Controller
 public class GalleryController {

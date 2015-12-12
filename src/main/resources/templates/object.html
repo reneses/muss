@@ -7,107 +7,108 @@
 <!--/*@thymesVar id="reviewForm" type="ie.cit.adf.muss.validation.ReviewForm"*/-->
 <!--/*@thymesVar id="isReviewedByUser" type="java.lang.Boolean"*/-->
 
+<!-- Style TODO: extract to its own file -->
+<style>
+    label {
+        display: block;
+    }
+
+    .rated {
+        unicode-bidi: bidi-override;
+    }
+
+    .rated > span {
+        position: relative;
+    }
+
+    .rating {
+        margin-top: 5px;
+        unicode-bidi: bidi-override;
+        direction: rtl;
+        font-size: 1.3em;
+    }
+
+    .rating > span {
+        position: relative;
+        width: 1.1em;
+    }
+
+    .rated > span {
+        color: gold;
+        cursor: pointer;
+    }
+
+    .rating > span:hover,
+    .rating > span:hover ~ span {
+        color: transparent;
+    }
+
+    .rating > span:hover:before,
+    .rating > span:hover ~ span:before,
+    .rated > span:before,
+    .star-selected:before {
+        content: "\2605";
+        position: absolute;
+        left: 0;
+        color: gold;
+    }
+
+    .star-selected {
+        color: gold;
+    }
+
+    .reviewer {
+        font-style: italic;
+        margin-left: 5px;
+    }
+
+    #tagForm {
+        display: inline;
+    }
+
+    #tagForm * {
+        width: auto;
+        display: inline;
+    }
+
+    .no-break {
+        white-space: nowrap;
+    }
+
+    .tag {
+        margin-right: 5px;
+    }
+
+    .no-displayed {
+        display: none !important;
+    }
+    #gallery {
+        text-align: center;
+    }
+
+    #gallery-main {
+        height: 400px;
+    }
+
+    .gallery-thumbnail {
+        width: 100px;
+        height: 100px;
+        display: inline-block;
+        background-size: cover;
+        margin: 20px 5px 0;
+        cursor: pointer;
+    }
+    #description td {
+        padding: 2px 5px;
+    }
+
+
+</style>
 <body>
 
 <div th:fragment="content">
 
-    <!-- Style TODO: extract to its own file -->
-    <style>
-        label {
-            display: block;
-        }
-
-        .rated {
-            unicode-bidi: bidi-override;
-        }
-
-        .rated > span {
-            position: relative;
-        }
-
-        .rating {
-            margin-top: 5px;
-            unicode-bidi: bidi-override;
-            direction: rtl;
-            font-size: 1.3em;
-        }
-
-        .rating > span {
-            position: relative;
-            width: 1.1em;
-        }
-
-        .rated > span {
-            color: gold;
-            cursor: pointer;
-        }
-
-        .rating > span:hover,
-        .rating > span:hover ~ span {
-            color: transparent;
-        }
-
-        .rating > span:hover:before,
-        .rating > span:hover ~ span:before,
-        .rated > span:before,
-        .star-selected:before {
-            content: "\2605";
-            position: absolute;
-            left: 0;
-            color: gold;
-        }
-
-        .star-selected {
-            color: gold;
-        }
-
-        .reviewer {
-            font-style: italic;
-            margin-left: 5px;
-        }
-
-        #tagForm {
-            display: inline;
-        }
-
-        #tagForm * {
-            width: auto;
-            display: inline;
-        }
-
-        .no-break {
-            white-space: nowrap;
-        }
-
-        .tag {
-            margin-right: 5px;
-        }
-
-        .no-displayed {
-            display: none !important;
-        }
-        #gallery {
-            text-align: center;
-        }
-
-        #gallery-main {
-            height: 400px;
-        }
-
-        .gallery-thumbnail {
-            width: 100px;
-            height: 100px;
-            display: inline-block;
-            background-size: cover;
-            margin: 20px 5px 0;
-            cursor: pointer;
-        }
-        #description td {
-            padding: 2px 5px;
-        }
-
-
-    </style>
+    
 
     <h1 th:text="${object.title}">[Title]</h1>
     <a th:href="@{/gallery}">Go back to the gallery</a>

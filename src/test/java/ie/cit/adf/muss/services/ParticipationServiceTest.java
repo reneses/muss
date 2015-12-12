@@ -1,10 +1,13 @@
 package ie.cit.adf.muss.services;
 
-import ie.cit.adf.muss.MussApplication;
-import ie.cit.adf.muss.domain.ChObject;
-import ie.cit.adf.muss.domain.Participant;
-import ie.cit.adf.muss.domain.Participation;
-import ie.cit.adf.muss.domain.Role;
+import static junit.framework.TestCase.assertEquals;
+import static junit.framework.TestCase.assertFalse;
+import static junit.framework.TestCase.assertNotNull;
+import static junit.framework.TestCase.assertNull;
+import static junit.framework.TestCase.assertTrue;
+
+import java.util.List;
+
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -14,9 +17,11 @@ import org.springframework.test.annotation.DirtiesContext;
 import org.springframework.test.context.ActiveProfiles;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
-import java.util.List;
-
-import static junit.framework.TestCase.*;
+import ie.cit.adf.muss.MussApplication;
+import ie.cit.adf.muss.domain.ChObject;
+import ie.cit.adf.muss.domain.Participant;
+import ie.cit.adf.muss.domain.Participation;
+import ie.cit.adf.muss.domain.Role;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @SpringApplicationConfiguration(classes = MussApplication.class)
@@ -148,7 +153,7 @@ public class ParticipationServiceTest {
     //@Transactional
     public void testRemove() throws Exception {
 
-        List<Participation> participations = service.findAll();
+//        List<Participation> participations = service.findAll();
 
         service.save(participation);
         int numberOfItems = service.findAll().size();
