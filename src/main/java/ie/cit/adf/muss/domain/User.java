@@ -1,6 +1,7 @@
 package ie.cit.adf.muss.domain;
 
 import java.util.Collection;
+import java.util.List;
 
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
@@ -16,6 +17,10 @@ import org.hibernate.validator.constraints.Email;
 @Entity
 public class User {
 
+	// --------------------------- Values ----------------------------
+	
+	// ------------------------- Attributes --------------------------
+	
 	@Id
 	@GeneratedValue
 	private int id;
@@ -26,8 +31,11 @@ public class User {
 	private String name;
 	private String picture;
 	private int points;
+	
+	// -------------------------- Relations --------------------------
+	
 
-    @OneToMany(fetch = FetchType.LAZY, mappedBy = "user")
+	@OneToMany(fetch = FetchType.LAZY, mappedBy = "user")
     private Collection<Tag> tags;
 
     @OneToMany(fetch = FetchType.LAZY, mappedBy = "user")
@@ -71,7 +79,11 @@ public class User {
 
     @ManyToMany(fetch = FetchType.EAGER, mappedBy = "followed")
     private Collection<User> followers;
-
+    
+    private List<Badge> badges;
+    
+    // ------------------------- Constructor -------------------------
+    
     public User() {
     }
 
@@ -88,6 +100,8 @@ public class User {
         this.tags = tags;
     }
 
+    // ---------------------- Getters & Setters ----------------------
+    
     public int getId() {
         return id;
     }
@@ -191,7 +205,17 @@ public class User {
     public void setFollowers(Collection<User> followers) {
         this.followers = followers;
     }
+    
+    public List<Badge> getBadges() {
+ 		return badges;
+ 	}
 
+ 	public void setBadges(List<Badge> badges) {
+ 		this.badges = badges;
+ 	}
+
+    // ------------------------ Quick methods ------------------------
+    
     public boolean beingFollowed(User principal) {
         return followers.contains(principal);
     }
@@ -199,7 +223,7 @@ public class User {
     public boolean isPrincipal(User principal) {
         return this.id == principal.getId();
     }
-
+    
     @Override
     public boolean equals(Object obj) {
         return obj instanceof User && id > 0 && id == ((User) obj).getId();

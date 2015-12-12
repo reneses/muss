@@ -8,6 +8,7 @@ import javax.persistence.Id;
 import javax.persistence.ManyToOne;
 import javax.validation.Valid;
 import javax.validation.constraints.NotNull;
+import javax.validation.constraints.Pattern;
 
 import org.hibernate.validator.constraints.NotBlank;
 
@@ -17,7 +18,8 @@ public class Badge {
 	
 	// --------------------------- Values ----------------------------
 	
-	public static final String USERS = "USERS";
+	public static final String FOLLOWING = "FOLLOWING";
+	public static final String FOLLOWERS = "FOLLOWERS";
 	public static final String POINTS = "POINTS";
 	public static final String COMPLETED = "COMPLETED";
 //	private static enum types { USERS, POINTS, COMPLETED };
@@ -32,7 +34,7 @@ public class Badge {
 	private String name;
 	@NotNull
 	private Integer quantity;
-	
+	@Pattern(regexp = "^" + FOLLOWING + "|" + FOLLOWERS + "|" + POINTS + "|" + COMPLETED + "$")
 	private String type;
 
 	// ---------------------- Getters & Setters ----------------------
