@@ -16,16 +16,16 @@ import org.hibernate.validator.constraints.Email;
 @Entity
 public class User {
 
-    @Id
-    @GeneratedValue
-    private int id;
-    private String username;
-    private String password;
-    @Email
-    private String email;
-    private String name;
-    private String picture;
-    private int points;
+	@Id
+	@GeneratedValue
+	private int id;
+	private String username;
+	private String password;
+	@Email
+	private String email;
+	private String name;
+	private String picture;
+	private int points;
 
     @OneToMany(fetch = FetchType.LAZY, mappedBy = "user")
     private Collection<Tag> tags;
