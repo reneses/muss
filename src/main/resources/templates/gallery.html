@@ -3,32 +3,32 @@
 <!--/*@thymesVar id="chObjects" type="java.util.List<ie.cit.adf.muss.domain.ChObject>"*/-->
 
 <style>
-   .grid{
-       -moz-column-count:1;
-       -moz-column-gap:20px;
-       -webkit-column-count:1;
-       -webkit-column-gap:20px;
-       column-count: 1;
-       column-gap: 20px;
-   }
-   .cell{
-       display: inline-block;
-       width: 100%;
-   }
-   @media screen and (min-width: 600px) {
-       .grid{
-           -moz-column-count:2;
-           -webkit-column-count:2;
-           column-count: 2;
-       }
-   }
-   @media screen and (min-width: 992px) {
-       .grid{
-           -moz-column-count:3;
-           -webkit-column-count:3;
-           column-count: 3;
-       }
-   }
+    .grid{
+        -moz-column-count:1;
+        -moz-column-gap:20px;
+        -webkit-column-count:1;
+        -webkit-column-gap:20px;
+        column-count: 1;
+        column-gap: 20px;
+    }
+    .cell{
+        display: inline-block;
+        width: 100%;
+    }
+    @media screen and (min-width: 600px) {
+        .grid{
+            -moz-column-count:2;
+            -webkit-column-count:2;
+            column-count: 2;
+        }
+    }
+    @media screen and (min-width: 992px) {
+        .grid{
+            -moz-column-count:3;
+            -webkit-column-count:3;
+            column-count: 3;
+        }
+    }
 </style>
 <head>
     <meta charset="utf-8"/>
@@ -70,7 +70,7 @@
                 </a>
                 <div class="caption">
                 	<h3>
-                    	<a th:href="@{/gallery/{objectID}(objectID=${object.id})}"> ${object.title}"</a>
+                    	<a th:href="@{/gallery/{objectID}(objectID=${object.id})}" th:text="${object.title}"></a>
                     </h3>
                     <p th:text="${object.description}"></p>
                     <a th:href="@{/gallery/{objectID}(objectID=${object.id})}" class="btn btn-primary" role="button">Details</a>
