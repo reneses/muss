@@ -32,8 +32,6 @@ public class BadgeService{
 	AuthService authService;
     @Autowired
 	UserService userService;
-    @Autowired
-  	BadgeService badgeService;
     
     // ----------------------- Constructor -----------------------
     
