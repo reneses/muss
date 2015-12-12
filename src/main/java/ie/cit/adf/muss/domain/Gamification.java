@@ -1,7 +1,5 @@
 package ie.cit.adf.muss.domain;
 
-import javax.persistence.Access;
-import javax.persistence.AccessType;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
@@ -10,7 +8,6 @@ import javax.validation.constraints.NotNull;
 import org.hibernate.validator.constraints.Range;
 
 @Entity
-@Access(AccessType.PROPERTY)
 public class Gamification {
 
 	// --------------------------- Values ----------------------------

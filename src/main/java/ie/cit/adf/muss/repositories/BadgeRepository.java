@@ -9,7 +9,7 @@ import ie.cit.adf.muss.domain.Badge;
 
 public interface BadgeRepository extends CrudRepository<Badge, Integer> {
 
-	@Query("select b from Badges b where b.type=?1 and b.quantity <= ?2")
+	@Query("select b from Badge b where b.type=?1 and b.quantity <= ?2")
 	List<Badge> findAssignableBadges(String type, Integer quantity);
 
 	List<Badge> findByName(String name);

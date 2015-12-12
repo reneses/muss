@@ -80,6 +80,7 @@ public class User {
     @ManyToMany(fetch = FetchType.EAGER, mappedBy = "followed")
     private Collection<User> followers;
     
+    @OneToMany
     private List<Badge> badges;
     
     // ------------------------- Constructor -------------------------

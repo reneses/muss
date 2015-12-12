@@ -1,19 +1,14 @@
 package ie.cit.adf.muss.domain;
 
-import javax.persistence.Access;
-import javax.persistence.AccessType;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
-import javax.persistence.ManyToOne;
-import javax.validation.Valid;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Pattern;
 
 import org.hibernate.validator.constraints.NotBlank;
 
 @Entity
-@Access(AccessType.PROPERTY)
 public class Badge {
 	
 	// --------------------------- Values ----------------------------
@@ -69,16 +64,16 @@ public class Badge {
 	
 	// -------------------------- Relations --------------------------
 	
-	private User user;
-	
-	@Valid
-	@ManyToOne
-	public User getUser() {
-		return user;
-	}
-	public void setUser(User user) {
-		this.user = user;
-	}
+//	private User user;
+//	
+//	@Valid
+//	@ManyToOne
+//	public User getUser() {
+//		return user;
+//	}
+//	public void setUser(User user) {
+//		this.user = user;
+//	}
 	
 	// ------------------------ Quick methods ------------------------
 
