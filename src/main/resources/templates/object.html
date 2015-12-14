@@ -6,6 +6,7 @@
 <!--/*@thymesVar id="tagForm" type="ie.cit.adf.muss.validation.TagForm"*/-->
 <!--/*@thymesVar id="reviewForm" type="ie.cit.adf.muss.validation.ReviewForm"*/-->
 <!--/*@thymesVar id="isReviewedByUser" type="java.lang.Boolean"*/-->
+<!--/*@thymesVar id="isLikedByUser" type="java.lang.Boolean"*/-->
 
 <body>
 
@@ -169,6 +170,17 @@
 
 
     <!-- REVIEWS -->
+    <h2>Likes</h2>
+
+    <div>
+        <span id="objectLikes">Loading...</span>
+        <button th:unless="${isLikedByUser}" sec:authorize="isAuthenticated()" id="likeObjectButton" type="submit" class="btn btn-danger">Like</button>
+        <button th:if="${isLikedByUser}" sec:authorize="isAuthenticated()" id="unlikeObjectButton" type="submit" class="btn btn-disabled">Unlike</button>
+    </div>
+    <p sec:authorize="isAnonymous()"><a th:href="@{/login}">Login</a> to like the object!</p>
+
+
+    <!-- REVIEWS -->
     <h2>Reviews</h2>
 
     <!-- List of reviews -->
@@ -272,7 +284,7 @@
 
         // Post a new tag
         var tagInput = $('#tag');
-        function postTags() {
+        function postTag() {
             var tag = tagInput.val();
             var url = "/gallery/" + objectID + "/tags";
             $.post(url, {'tag': tag, 'userID': userID}, function () {
@@ -282,8 +294,43 @@
         }
         $('#tagForm').submit(function (evt) {
             evt.preventDefault();
-            postTags();
+            postTag();
         });
+
+
+        // Likes
+        function loadObjectLikes() {
+            var url = "/gallery/" + objectID + "/likes";
+            console.log(url);
+            $.get(url, function (usernames) {
+                alert(usernames);
+                console.log(usernames);
+                var html = '';
+                usernames.forEach(function (username) {
+                    html += '<a class="btn btn-md btn-default tag" href="/gallery/likes/' + username + '">' + username + '</a>';
+                });
+                $('#objectLikes').html(html);
+            }).fail(function (s){
+                alert('no');
+                console.log(s);
+            });
+        }
+        loadObjectLikes();
+
+        function likeObject() {
+            var url = "/gallery/" + objectID + "/likes";
+            $.post(url, {'userID': userID}, function (evt) {
+                $('#likeObjectButton').css('display', 'none');
+                loadObjectLikes();
+            });
+        }
+        $('#likeObjectButton').click(function () {
+            likeObject();
+        });
+
+
+
+
 
 
         /* RATING */

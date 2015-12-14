@@ -60,23 +60,6 @@ public class GalleryController {
     }
 
     /**
-     * Filter the objects by the suplied tag
-     *
-     * @param model
-     * @param tagName
-     * @return Gallery view
-     */
-    /*@RequestMapping(value = "/gallery/tag/{tagName}", method = RequestMethod.GET)
-    public String filterByTag(Model model, @PathVariable String tagName) {
-
-        model.addAttribute("chObjects", objectService.findByTagName(tagName));
-        model.addAttribute("tags", tagService.findDistinctTagNames());
-        model.addAttribute("selectedTag", tagName);
-
-        return "gallery";
-    }*/
-
-    /**
      * Show an object
      *
      * @param model
@@ -91,6 +74,7 @@ public class GalleryController {
         model.addAttribute("tagForm", new TagForm());
         model.addAttribute("reviewForm", new ReviewForm());
         model.addAttribute("isReviewedByUser", reviewService.hasReviewBy(object, authService.getPrincipal()));
+        model.addAttribute("isLikedByUser", objectService.isLikedBy(object, authService.getPrincipal()));
         model.addAttribute("user", authService.getPrincipal());
 
         return "object";
@@ -160,6 +144,71 @@ public class GalleryController {
             object.addTag(tagService.create(name, user));
             objectService.save(object);
 
+            return "OK";
+
+        } catch (Exception e) {
+            return "FAIL";
+        }
+    }
+
+    /**
+     * Get the likes of an object
+     *
+     * @param objectID
+     * @return JSON representation of the tags of the object
+     */
+    @RequestMapping(value = "/gallery/{objectID}/likes", method = RequestMethod.GET, produces = "application/json")
+    @ResponseBody
+    public List<String> getObjectLikes(@PathVariable int objectID) {
+        ChObject object = objectService.find(objectID);
+        if (object == null)
+            return new ArrayList<>();
+        return object.getLikes().stream().map(User::getUsername).collect(Collectors.toList());
+    }
+
+    /**
+     * Like an object
+     *
+     * @param objectID
+     * @param request
+     * @return "OK" if success
+     */
+    @RequestMapping(value = "/gallery/{objectID}/likes", method = RequestMethod.POST, produces = "text/plain")
+    @ResponseBody
+    public String postLike(@PathVariable int objectID, HttpServletRequest request) {
+
+        try {
+
+            int userID = Integer.valueOf(request.getParameter("userID"));
+            ChObject object = objectService.find(objectID);
+            User user = userService.find(userID);
+            object.addLike(user);
+            objectService.save(object);
+            return "OK";
+
+        } catch (Exception e) {
+            return "FAIL";
+        }
+    }
+
+    /**
+     * Unlike an object
+     *
+     * @param objectID
+     * @param request
+     * @return "OK" if success
+     */
+    @RequestMapping(value = "/gallery/{objectID}/unlike", method = RequestMethod.POST, produces = "text/plain")
+    @ResponseBody
+    public String postUnlike(@PathVariable int objectID, HttpServletRequest request) {
+
+        try {
+
+            int userID = Integer.valueOf(request.getParameter("userID"));
+            ChObject object = objectService.find(objectID);
+            User user = userService.find(userID);
+            object.removeLike(user);
+            objectService.save(object);
             return "OK";
 
         } catch (Exception e) {

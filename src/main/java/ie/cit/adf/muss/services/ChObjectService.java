@@ -116,4 +116,13 @@ public class ChObjectService extends CrudService<ChObject> {
     	
     }
 
+    public boolean isLikedBy(ChObject object, User user) {
+        if (object == null  ||  user == null)
+            return false;
+        for (ChObject liked : user.getChObjectLikes())
+            if (liked.equals(object))
+                return true;
+        return false;
+    }
+
 }
