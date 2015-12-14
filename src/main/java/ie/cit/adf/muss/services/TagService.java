@@ -37,6 +37,8 @@ public class TagService{
 	}
 
 	public Tag create(String name, User user) {
+		if (name == null || name.isEmpty())
+			throw new IllegalArgumentException();
 		Tag tag = new Tag();
 		tag.setName(name);
 		tag.setUser(user);

@@ -1,5 +1,6 @@
 package ie.cit.adf.muss.services;
 
+import java.awt.*;
 import java.io.IOException;
 import java.net.URISyntaxException;
 import java.util.List;
@@ -129,5 +130,20 @@ public class ChObjectService extends CrudService<ChObject> {
             if (liked.equals(object))
                 return true;
         return false;
+    }
+
+    public void addTag(ChObject object, String tag, User user) {
+        object.addTag(tagService.create(tag, user));
+        save(object);
+    }
+
+    public void addLike(ChObject object, User user) {
+        object.addLike(user);
+        save(object);
+    }
+
+    public void removeLike(ChObject object, User user) {
+        object.removeLike(user);
+        save(object);
     }
 }
