@@ -1,11 +1,13 @@
 package ie.cit.adf.muss.services;
 
-import ie.cit.adf.muss.MussApplication;
-import ie.cit.adf.muss.domain.Image;
-import ie.cit.adf.muss.domain.ImageSize;
-import ie.cit.adf.muss.repositories.ChObjectRepository;
-import ie.cit.adf.muss.repositories.ImageRepository;
-import org.apache.tomcat.jdbc.pool.DataSource;
+import static junit.framework.TestCase.assertEquals;
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertNotNull;
+import static org.junit.Assert.assertNull;
+import static org.junit.Assert.assertTrue;
+
+import java.util.List;
+
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -15,13 +17,10 @@ import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.test.annotation.DirtiesContext;
 import org.springframework.test.context.ActiveProfiles;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
-import org.springframework.transaction.annotation.Transactional;
 
-import java.io.File;
-import java.util.List;
-
-import static junit.framework.TestCase.assertEquals;
-import static org.junit.Assert.*;
+import ie.cit.adf.muss.MussApplication;
+import ie.cit.adf.muss.domain.Image;
+import ie.cit.adf.muss.domain.ImageSize;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @SpringApplicationConfiguration(classes = MussApplication.class)

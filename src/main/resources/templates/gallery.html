@@ -1,6 +1,35 @@
 <!DOCTYPE html>
 <html xmlns:th="http://www.thymeleaf.org" th:include="layout :: page">
 <!--/*@thymesVar id="chObjects" type="java.util.List<ie.cit.adf.muss.domain.ChObject>"*/-->
+
+<style>
+    .grid{
+        -moz-column-count:1;
+        -moz-column-gap:20px;
+        -webkit-column-count:1;
+        -webkit-column-gap:20px;
+        column-count: 1;
+        column-gap: 20px;
+    }
+    .cell{
+        display: inline-block;
+        width: 100%;
+    }
+    @media screen and (min-width: 600px) {
+        .grid{
+            -moz-column-count:2;
+            -webkit-column-count:2;
+            column-count: 2;
+        }
+    }
+    @media screen and (min-width: 992px) {
+        .grid{
+            -moz-column-count:3;
+            -webkit-column-count:3;
+            column-count: 3;
+        }
+    }
+</style>
 <head>
     <meta charset="utf-8"/>
     <title>Muss</title>
@@ -24,43 +53,17 @@
 
     <div class="panel panel-default">
         <div class="panel-heading">
-            <h1 class="panel-title">Search by Tag</h1>
+            <h1 class="panel-title">Filter by Tag</h1>
         </div>
         <div class="panel-body">
             <a th:each="tag : ${tags}" class="btn btn-sm"
-               th:classappend="${selectedTag} == ${tag} ?  btn-primary :  btn-default"
-               th:href="@{/gallery/tag/{tagName}(tagName=${tag})}" th:text="${tag}"></a>
+               th:classappend="${selectedTag} == ${tag} ? btn-primary : btn-default"
+               th:href="(${selectedTag} == ${tag} ? @{/gallery} : @{/gallery/tag/{tagName}(tagName=${tag})}) + (${search} ? '?s='+${search} : '')" th:text="${tag}"></a>
         </div>
     </div>
+    
+    <h4 th:if="${search}" th:text="'Showing results for: ' + ${search}"></h4>
 
-    <style>
-        .grid{
-            -moz-column-count:1;
-            -moz-column-gap:20px;
-            -webkit-column-count:1;
-            -webkit-column-gap:20px;
-            column-count: 1;
-            column-gap: 20px;
-        }
-        .cell{
-            display: inline-block;
-            width: 100%;
-        }
-        @media screen and (min-width: 600px) {
-            .grid{
-                -moz-column-count:2;
-                -webkit-column-count:2;
-                column-count: 2;
-            }
-        }
-        @media screen and (min-width: 992px) {
-            .grid{
-                -moz-column-count:3;
-                -webkit-column-count:3;
-                column-count: 3;
-            }
-        }
-    </style>
     <div class="grid">
         <div class="cell" th:each="object : ${chObjects}">
             <div class="thumbnail">
@@ -68,7 +71,9 @@
                     <img th:src="${object.images.get(0).sizes.get(0).url}" />
                 </a>
                 <div class="caption">
-                    <a th:href="@{/gallery/{objectID}(objectID=${object.id})}"><h3 th:text="${object.title}"></h3></a>
+                	<h3>
+                    	<a th:href="@{/gallery/{objectID}(objectID=${object.id})}" th:text="${object.title}"></a>
+                    </h3>
                     <p th:text="${object.description}"></p>
                     <a th:href="@{/gallery/{objectID}(objectID=${object.id})}" class="btn btn-primary" role="button">Details</a>
                 </div>

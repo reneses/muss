@@ -1,9 +1,14 @@
 package ie.cit.adf.muss.services;
 
-import ie.cit.adf.muss.MussApplication;
-import ie.cit.adf.muss.domain.ChObject;
-import ie.cit.adf.muss.domain.Image;
-import ie.cit.adf.muss.domain.ImageSize;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertNotNull;
+import static org.junit.Assert.assertNull;
+import static org.junit.Assert.assertTrue;
+
+import java.util.ArrayList;
+import java.util.List;
+
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -13,11 +18,10 @@ import org.springframework.test.annotation.DirtiesContext;
 import org.springframework.test.context.ActiveProfiles;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
-import java.util.ArrayList;
-import java.util.List;
-
-import static org.junit.Assert.*;
-import static org.mockito.Matchers.any;
+import ie.cit.adf.muss.MussApplication;
+import ie.cit.adf.muss.domain.ChObject;
+import ie.cit.adf.muss.domain.Image;
+import ie.cit.adf.muss.domain.ImageSize;
 
 /**
  * ChObjectServiceTest
