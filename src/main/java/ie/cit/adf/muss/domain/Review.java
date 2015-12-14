@@ -123,7 +123,7 @@ public class Review {
 
 	public void removeLike(User user) {
 		this.likes.remove(user);
-		user.getChObjectLikes().remove(this);
+		user.getReviewLikes().remove(this);
 	}
 
 }

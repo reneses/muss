@@ -86,6 +86,7 @@
         .no-displayed {
             display: none !important;
         }
+
         #gallery {
             text-align: center;
         }
@@ -102,8 +103,18 @@
             margin: 20px 5px 0;
             cursor: pointer;
         }
+
         #description td {
             padding: 2px 5px;
+        }
+
+        .panel-footer {
+            padding-top: 3px;
+            padding-bottom: 3px;
+        }
+        .panel-footer > button
+        {
+            padding: 2px 8px;
         }
 
 
@@ -114,6 +125,7 @@
 
     <div id="gallery">
         <img id="gallery-main" th:src="${object.images.get(0).sizes.get(0).url}"/>
+
         <div id="gallery-thumbnails">
             <a class="gallery-thumbnail"
                th:each="image : ${object.images}"
@@ -173,8 +185,12 @@
 
     <div>
         <span id="objectLikes">Loading...</span>
-        <button sec:authorize="isAuthenticated()" id="likeObjectButton" type="submit" class="btn btn-danger no-displayed">Like</button>
-        <button sec:authorize="isAuthenticated()" id="unlikeObjectButton" type="submit" class="btn btn-disabled no-displayed">Unlike</button>
+        <button sec:authorize="isAuthenticated()" id="likeObjectButton" type="submit"
+                class="btn btn-danger no-displayed">Like
+        </button>
+        <button sec:authorize="isAuthenticated()" id="unlikeObjectButton" type="submit"
+                class="btn btn-disabled no-displayed">Unlike
+        </button>
     </div>
     <p sec:authorize="isAnonymous()"><a th:href="@{/login}">Login</a> to like the object!</p>
 
@@ -185,8 +201,8 @@
     <!-- List of reviews -->
     <div class="row">
         <div class="col-xs-6" th:each="review : ${object.reviews}">
-            <div class="panel panel-default">
-                <div class="panel-heading">
+            <div class="review panel panel-default" th:id="|review-${review.id}|">
+                <header class="panel-heading">
                     <h3 class="panel-title" th:text="${review.title}"></h3>
                     <span class="rated">
                         <span th:each="i : ${#numbers.sequence( 1, review.rating)}">☆</span>
@@ -194,10 +210,19 @@
                     <span class="reviewer">by <span th:text="${review.user.name}"></span> (<a
                             th:href="@{/profile/{username}(username=${review.user.username})}"
                             th:text="|@${review.user.username}|"></a>)</span>
-                </div>
+                </header>
                 <div class="panel-body" th:text="${review.content}">
                     Panel content
                 </div>
+                <footer class="panel-footer">
+                    <span>Loading...</span>
+                    <button sec:authorize="isAuthenticated()" th:id="|likeReview${review.id}Button|" type="submit"
+                            class="btn btn-danger no-displayed">Like
+                    </button>
+                    <button sec:authorize="isAuthenticated()" th:id="|unlikeReview${review.id}Button|" type="submit"
+                            class="btn btn-disabled no-displayed">Unlike
+                    </button>
+                </footer>
             </div>
         </div>
     </div>
@@ -276,7 +301,7 @@
 
         // Reload the tags
         function loadTags() {
-            var url = "/gallery/" + objectID + "/tags";
+            var url = "/api/objects/" + objectID + "/tags";
             $.get(url, function (tags) {
                 var html = '';
                 tags.forEach(function (tag) {
@@ -291,7 +316,7 @@
         var tagInput = $('#tag');
         function postTag() {
             var tag = tagInput.val();
-            var url = "/gallery/" + objectID + "/tags";
+            var url = "/api/objects/" + objectID + "/tags";
             $.post(url, {'tag': tag, 'userID': userID}, function () {
                 loadTags();
                 tagInput.val('');
@@ -303,17 +328,19 @@
         });
 
 
-        // Likes
+        // Object likes
         function loadObjectLikes() {
-            var url = "/gallery/" + objectID + "/likes/";
+            var url = "/api/objects/" + objectID + "/likes/";
             $.get(url, function (usernames) {
                 var html = '';
                 var userHasLiked = false;
-                usernames.forEach(function (u) {
-                    if (username === u)
-                        userHasLiked = true;
-                    html += '<a class="btn btn-md btn-default tag" href="/gallery/likes/' + u + '">' + u + '</a>';
-                });
+                if (usernames != '') {
+                    usernames.forEach(function (u) {
+                        if (username === u)
+                            userHasLiked = true;
+                        html += '<a class="btn btn-md btn-default tag" href="/profile/' + u + '">' + u + '</a>';
+                    });
+                }
                 if (userID > 0) {
                     if (userHasLiked) {
                         $('#likeObjectButton').addClass('no-displayed');
@@ -330,13 +357,13 @@
         loadObjectLikes();
 
         function likeObject() {
-            var url = "/gallery/" + objectID + "/likes";
+            var url = "/api/objects/" + objectID + "/likes";
             $.post(url, {'userID': userID}, function () {
                 loadObjectLikes();
             });
         }
         function unlikeObject() {
-            var url = "/gallery/" + objectID + "/likes/" + userID;
+            var url = "/api/objects/" + objectID + "/likes/" + userID;
             $.ajax({
                 url: url,
                 type: 'DELETE',
@@ -350,6 +377,71 @@
             unlikeObject();
         });
 
+
+        // Like reviews
+        function loadReviewLikes(reviewID) {
+            var url = "/api/reviews/" + reviewID + "/likes/";
+            $.get(url, function (usernames) {
+                var html = 'Liked by';
+                var userHasLiked = false;
+                if (usernames != '') {
+                    usernames.forEach(function (u) {
+                        if (username === u)
+                            userHasLiked = true;
+                        html += ' <a href="/profile/' + u + '">' + u + '</a>';
+                    });
+                }
+                else {
+                    html += ' no one';
+                }
+                if (userID > 0) {
+                    if (userHasLiked) {
+                        $('#likeReview' + reviewID + 'Button').addClass('no-displayed');
+                        $('#unlikeReview' + reviewID + 'Button').removeClass('no-displayed');
+                    }
+                    else {
+                        $('#unlikeReview' + reviewID + 'Button').addClass('no-displayed');
+                        $('#likeReview' + reviewID + 'Button').removeClass('no-displayed');
+                    }
+                }
+                $('#review-' + reviewID + ' > footer > span').html(html);
+            });
+        }
+        var areButtonsLoaded = false;
+        function loadReviewsLikes() {
+            $('.review').each(function (i, review) {
+                var reviewID = review.id.split("-")[1];
+                loadReviewLikes(reviewID);
+                if (!areButtonsLoaded) {
+                    document.getElementById('likeReview'+reviewID+'Button').addEventListener('click', function () {
+                        likeReview(reviewID);
+                    });
+                    document.getElementById('unlikeReview'+reviewID+'Button').addEventListener('click', function () {
+                        unlikeReview(reviewID);
+                    });
+                }
+            });
+            if (!areButtonsLoaded)
+                areButtonsLoaded = true;
+        }
+        loadReviewsLikes();
+
+        function likeReview(reviewID) {
+            var url = "/api/reviews/" + reviewID + "/likes";
+            $.post(url, {'userID': userID}, function () {
+                loadReviewLikes(reviewID)
+            });
+        }
+        function unlikeReview(reviewID) {
+            var url = "/api/reviews/" + reviewID + "/likes/" + userID;
+            $.ajax({
+                url: url,
+                type: 'DELETE',
+                success: function(ev) {
+                    loadReviewLikes(reviewID)
+                }
+            });
+        }
 
 
         /* RATING */

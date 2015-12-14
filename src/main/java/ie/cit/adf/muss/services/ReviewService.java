@@ -110,5 +110,15 @@ public class ReviewService{
 				return true;
 		return false;
 	}
+
+	public void addLike(Review review, User user) {
+		review.addLike(user);
+		save(review);
+	}
+
+	public void removeLike(Review review, User user) {
+		review.removeLike(user);
+		save(review);
+	}
  
 }
