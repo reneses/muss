@@ -2,14 +2,7 @@ package ie.cit.adf.muss.domain;
 
 import java.util.Collection;
 
-import javax.persistence.Entity;
-import javax.persistence.FetchType;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
-import javax.persistence.JoinColumn;
-import javax.persistence.JoinTable;
-import javax.persistence.ManyToMany;
-import javax.persistence.OneToMany;
+import javax.persistence.*;
 
 import org.hibernate.validator.constraints.Email;
 
@@ -48,6 +41,9 @@ public class User {
     @ManyToMany(fetch = FetchType.LAZY)
     @JoinTable(
             name = "chobject_likes",
+            uniqueConstraints =
+            @UniqueConstraint(name = "user_object_unique",
+                    columnNames = {"user_id", "chobject_id"}),
             joinColumns = {
                     @JoinColumn(name = "user_id", referencedColumnName = "id")
             },

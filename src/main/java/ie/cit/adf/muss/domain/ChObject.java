@@ -59,7 +59,8 @@ public class ChObject {
 	@Fetch(FetchMode.SELECT)
 	private Collection<Tag> tags;
 	
-	@ManyToMany(fetch= FetchType.EAGER, mappedBy="chObjectLikes")
+	@ManyToMany(fetch= FetchType.EAGER, mappedBy="chObjectLikes", cascade=CascadeType.ALL)
+	@Fetch(FetchMode.SELECT)
 	private Collection<User> likes;
 
 	public ChObject() {
@@ -171,6 +172,14 @@ public class ChObject {
 
 	public void setLikes(Collection<User> likes) {
 		this.likes = likes;
+	}
+
+	public void addLike(User user) {
+		this.likes.add(user);
+	}
+
+	public void removeLike(User user) {
+		this.likes.remove(user);
 	}
 
 	public Collection<Review> getReviews() {
