@@ -70,24 +70,6 @@ public class ChObjectService extends CrudService<ChObject> {
 
 
     /**
-     * Load the objects from the disk
-     *
-     * @return list of objects
-     * @throws IOException
-     * @throws URISyntaxException
-     */
-    public List<ChObject> loadFromFolder() throws IOException, URISyntaxException {
-        List<ChObject> objects = loader.loadChObjects();
-        try {
-            save(objects);
-        } catch (DuplicateKeyException e) {
-            System.err.println("The files were already imported!");
-        }
-        return objects;
-    }
-
-
-    /**
      * Retrieve a model given its original id
      *
      * @param id ID of the role

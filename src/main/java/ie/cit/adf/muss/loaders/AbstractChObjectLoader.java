@@ -25,10 +25,6 @@ public abstract class AbstractChObjectLoader {
 
     private String extension, objectsDirectory;
 
-    @Autowired
-    UserService userService; // TODO remove
-
-
     /**
      * Abstract loader constructor
      *
@@ -79,44 +75,7 @@ public abstract class AbstractChObjectLoader {
      */
     public List<ChObject> loadChObjects() throws IOException, URISyntaxException {
         List<ChObject> objects = loadFiles().stream().map(this::mapFile).collect(Collectors.toList());
-        addRandomTags(objects);
-        generateTestUsers();
         return objects;
-    }
-
-    private void addRandomTags(List<ChObject> objects) {
-        Random random = new Random();
-        String[] randomTags = {"Impressive", "Red", "Blue", "Spanish", "American", "Unique", "Expensive", "Glamorous", "Food", "Cultural", "CIT", "Best"};
-        objects.forEach(object -> {
-            Set<String> tags = new HashSet<>();
-            int numberOfTags = random.nextInt(3) + 2;
-            for (int i=0; i<numberOfTags; i++) {
-                int idx = random.nextInt(randomTags.length);
-                String tag = randomTags[idx];
-                tags.add(tag);
-            }
-
-            for (String tag : tags) {
-            	Tag tagObj = new Tag();
-            	tagObj.setName(tag);
-            	object.addTag(tagObj);
-            }
-
-        });
-    }
-
-    /**
-     * TODO: remove from here
-     *
-     * user@password: reneses@reneses
-     */
-    private void generateTestUsers() {
-        User user = new User();
-        user.setName("Álvaro Reneses");
-        user.setEmail("me@reneses.io");
-        user.setPassword("$2a$10$RMcliTmE5pcyYm8XLyeNG.AohlqrJtKSmNuBrmJ4sSGt5udmNSeD.");
-        user.setUsername("reneses");
-        userService.save(user);
     }
 
 }
