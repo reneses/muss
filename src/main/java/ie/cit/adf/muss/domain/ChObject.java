@@ -172,14 +172,23 @@ public class ChObject {
 
 	public void setLikes(Collection<User> likes) {
 		this.likes = likes;
+		likes.forEach(user -> {
+			if (!user.getChObjectLikes().contains(this))
+				user.getChObjectLikes().add(this);
+		});
 	}
 
 	public void addLike(User user) {
-		this.likes.add(user);
+		if (!this.likes.contains(user)) {
+			this.likes.add(user);
+			if (!user.getChObjectLikes().contains(this))
+				user.getChObjectLikes().add(this);
+		}
 	}
 
 	public void removeLike(User user) {
 		this.likes.remove(user);
+		user.getChObjectLikes().remove(this);
 	}
 
 	public Collection<Review> getReviews() {

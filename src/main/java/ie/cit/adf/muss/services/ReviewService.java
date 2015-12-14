@@ -36,6 +36,10 @@ public class ReviewService{
     // ----------------------- Constructor -----------------------
     
     // ------------------- Simple CRUD methods -------------------
+    
+    public Review find(int id) {
+    	return reviewRepository.findOne(id);
+    }
 
 	public Collection<Review> findAll(){
 		return (Collection<Review>) reviewRepository.findAll();

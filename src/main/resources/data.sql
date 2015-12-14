@@ -27,3 +27,9 @@ INSERT INTO participation (chobject_id, role_id, participant_id)
 VALUES
     (1, 1, 1),
     (1, 2, 2);
+INSERT INTO user (username, password, email, name, picture, points)
+VALUES
+    ('User1', 'MyPassword', 'user1@test.com', 'MyName', '', 0);
+INSERT INTO review (title, content, date, rating, chobject_id, user_id)
+VALUES
+    ('MyReview', 'MyContent', null, 5, 1 ,1);

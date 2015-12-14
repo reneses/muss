@@ -34,9 +34,12 @@ public class User {
     @OneToMany(fetch = FetchType.LAZY, mappedBy = "user")
     private Collection<Review> reviews;
 
-    @ManyToMany(fetch = FetchType.LAZY)
+    @ManyToMany(fetch = FetchType.EAGER)
     @JoinTable(
             name = "review_likes",
+    		uniqueConstraints = {
+            		@UniqueConstraint(name = "user_review_unique", columnNames = {"user_id", "review_id"})
+            },
             joinColumns = {
                     @JoinColumn(name = "user_id", referencedColumnName = "id")
             },
@@ -46,12 +49,12 @@ public class User {
     )
     private Collection<Review> reviewLikes;
 
-    @ManyToMany(fetch = FetchType.LAZY)
+    @ManyToMany(fetch = FetchType.EAGER)
     @JoinTable(
             name = "chobject_likes",
-            uniqueConstraints =
-            @UniqueConstraint(name = "user_object_unique",
-                    columnNames = {"user_id", "chobject_id"}),
+            uniqueConstraints = {
+            		@UniqueConstraint(name = "user_object_unique", columnNames = {"user_id", "chobject_id"})
+            },
             joinColumns = {
                     @JoinColumn(name = "user_id", referencedColumnName = "id")
             },

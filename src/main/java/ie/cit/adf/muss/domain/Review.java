@@ -3,6 +3,7 @@ package ie.cit.adf.muss.domain;
 import java.util.Collection;
 import java.util.Date;
 
+import javax.persistence.CascadeType;
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
@@ -10,6 +11,9 @@ import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToMany;
 import javax.persistence.ManyToOne;
+
+import org.hibernate.annotations.Fetch;
+import org.hibernate.annotations.FetchMode;
 
 @Entity
 public class Review {
@@ -30,7 +34,8 @@ public class Review {
 	@JoinColumn(name="user_id")
 	private User user;
 	
-	@ManyToMany(fetch=FetchType.LAZY, mappedBy="reviewLikes")
+	@ManyToMany(fetch=FetchType.EAGER, mappedBy="reviewLikes", cascade=CascadeType.ALL)
+	@Fetch(FetchMode.SELECT)
 	private Collection<User> likes;
 
 	public int getId() {
@@ -102,6 +107,23 @@ public class Review {
 
 	public void setLikes(Collection<User> likes) {
 		this.likes = likes;
+		likes.forEach(user -> {
+			if (!user.getReviewLikes().contains(this))
+				user.getReviewLikes().add(this);
+		});
+	}
+
+	public void addLike(User user) {
+		if (!this.likes.contains(user)) {
+			this.likes.add(user);
+			if (!user.getReviewLikes().contains(this))
+				user.getReviewLikes().add(this);
+		}
+	}
+
+	public void removeLike(User user) {
+		this.likes.remove(user);
+		user.getChObjectLikes().remove(this);
 	}
 
 }

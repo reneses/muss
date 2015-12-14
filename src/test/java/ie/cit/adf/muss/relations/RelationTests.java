@@ -19,7 +19,10 @@ import ie.cit.adf.muss.domain.ChObject;
 import ie.cit.adf.muss.domain.Image;
 import ie.cit.adf.muss.domain.Review;
 import ie.cit.adf.muss.domain.Tag;
+import ie.cit.adf.muss.domain.User;
 import ie.cit.adf.muss.services.ChObjectService;
+import ie.cit.adf.muss.services.ReviewService;
+import ie.cit.adf.muss.services.UserService;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @SpringApplicationConfiguration(classes = MussApplication.class)
@@ -29,6 +32,10 @@ public class RelationTests {
 	
 	@Autowired
 	ChObjectService chObjectService;
+	@Autowired
+	ReviewService reviewService;
+	@Autowired
+	UserService userService;
 
 	@Test
 	public void testChObjectImages() {
@@ -111,17 +118,62 @@ public class RelationTests {
 	
 		ChObject chObject = chObjectService.find(1);
 		assertNotNull(chObject);
+		
+		int numReviews = chObject.getReviews().size();
+		
 		chObject.addReview(review);
 		chObjectService.save(chObject);
 		
 		chObject = null;
 		chObject = chObjectService.find(1);
 		assertNotNull(chObject);
-		assertEquals(1, chObject.getReviews().size());
+		assertEquals(numReviews+1, chObject.getReviews().size());
 		
 		List<Review> reviews = new ArrayList<>(chObject.getReviews());
-		review = reviews.get(0);
+		review = reviews.get(reviews.size()-1);
 		assertEquals("My Review", review.getTitle());
+	}
+	
+	@Test
+	public void testChObjectLikes() {
+		User user = userService.find(1);
+		assertNotNull(user);	
+		ChObject chObject = chObjectService.find(1);
+		assertNotNull(chObject);
+		
+		chObject.addLike(user);
+		
+		chObjectService.save(chObject);
+		
+		chObject = null;
+		chObject = chObjectService.find(1);
+		assertNotNull(chObject);
+		assertEquals(1, chObject.getLikes().size());
+		
+		List<User> likes = new ArrayList<>(chObject.getLikes());
+		user = likes.get(0);
+		assertEquals("MyName", user.getName());
+	}
+	
+	@Test
+	public void testReviewLikes() {
+		User user = userService.find(1);
+		assertNotNull(user);	
+		Review review = reviewService.find(1);
+		assertNotNull(review);
+		
+		review.addLike(user);
+		
+		reviewService.save(review);
+		
+		review = null;
+		review = reviewService.find(1);
+		assertNotNull(review);
+		assertEquals(1, review.getLikes().size());
+		
+		List<User> likes = new ArrayList<>(review.getLikes());
+		user = likes.get(0);
+		assertEquals("MyName", user.getName());
 	}
 	
 }
