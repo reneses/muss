@@ -109,9 +109,14 @@ public class ChObjectService extends CrudService<ChObject> {
     }
     
     public List<ChObject> findByTagName(String name) {
-    	
     	return objectRepository.findByTagName(name);
-    	
     }
 
+    public List<ChObject> findByTitleOrDescription(String search) {
+    	return objectRepository.findByTitleOrDescription(search);
+    }
+    
+    public List<ChObject> findByTitleOrDescriptionAndTagName(String search, String tagName) {
+    	return objectRepository.findByTitleOrDescriptionAndTagName(search, tagName);
+    }
 }

@@ -50,18 +50,23 @@ public class GalleryController {
     @RequestMapping(value = {"/gallery", "/gallery/tag/{tagName}", "gallery/tag"}, method = RequestMethod.GET)
     public String index(Model model, @RequestParam(value = "s", required = false) String search, @PathVariable(value = "tagName") Optional<String> tagName) {
 
-        if (search != null) {
-            // TODO the filter...
-        }
+    	if (search != null)
+    		model.addAttribute("search", search);
+    	
+    	model.addAttribute("tags", tagService.findDistinctTagNames());
 
         if (tagName.isPresent()) {
-            model.addAttribute("chObjects", objectService.findByTagName(tagName.get()));
-            model.addAttribute("tags", tagService.findDistinctTagNames());
-            model.addAttribute("selectedTag", tagName.get());
+        	model.addAttribute("selectedTag", tagName.get());
+        	if (search != null)
+        		model.addAttribute("chObjects", objectService.findByTitleOrDescriptionAndTagName(search, tagName.get()));
+        	else
+        		model.addAttribute("chObjects", objectService.findByTagName(tagName.get()));
         }
         else {
-            model.addAttribute("chObjects", objectService.findAll());
-            model.addAttribute("tags", tagService.findDistinctTagNames());
+        	if (search != null)
+        		model.addAttribute("chObjects", objectService.findByTitleOrDescription(search));
+        	else
+        		model.addAttribute("chObjects", objectService.findAll());
         }
 
         return "gallery";

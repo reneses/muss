@@ -53,14 +53,16 @@
 
     <div class="panel panel-default">
         <div class="panel-heading">
-            <h1 class="panel-title">Search by Tag</h1>
+            <h1 class="panel-title">Filter by Tag</h1>
         </div>
         <div class="panel-body">
             <a th:each="tag : ${tags}" class="btn btn-sm"
                th:classappend="${selectedTag} == ${tag} ? btn-primary : btn-default"
-               th:href="${selectedTag} == ${tag} ? @{/gallery} : @{/gallery/tag/{tagName}(tagName=${tag})}" th:text="${tag}"></a>
+               th:href="(${selectedTag} == ${tag} ? @{/gallery} : @{/gallery/tag/{tagName}(tagName=${tag})}) + (${search} ? '?s='+${search} : '')" th:text="${tag}"></a>
         </div>
     </div>
+    
+    <h4 th:if="${search}" th:text="'Showing results for: ' + ${search}"></h4>
 
     <div class="grid">
         <div class="cell" th:each="object : ${chObjects}">
