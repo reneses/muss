@@ -6,7 +6,6 @@
 <!--/*@thymesVar id="tagForm" type="ie.cit.adf.muss.validation.TagForm"*/-->
 <!--/*@thymesVar id="reviewForm" type="ie.cit.adf.muss.validation.ReviewForm"*/-->
 <!--/*@thymesVar id="isReviewedByUser" type="java.lang.Boolean"*/-->
-<!--/*@thymesVar id="isLikedByUser" type="java.lang.Boolean"*/-->
 
 <body>
 
@@ -174,8 +173,8 @@
 
     <div>
         <span id="objectLikes">Loading...</span>
-        <button th:unless="${isLikedByUser}" sec:authorize="isAuthenticated()" id="likeObjectButton" type="submit" class="btn btn-danger">Like</button>
-        <button th:if="${isLikedByUser}" sec:authorize="isAuthenticated()" id="unlikeObjectButton" type="submit" class="btn btn-disabled">Unlike</button>
+        <button sec:authorize="isAuthenticated()" id="likeObjectButton" type="submit" class="btn btn-danger no-displayed">Like</button>
+        <button sec:authorize="isAuthenticated()" id="unlikeObjectButton" type="submit" class="btn btn-disabled no-displayed">Unlike</button>
     </div>
     <p sec:authorize="isAnonymous()"><a th:href="@{/login}">Login</a> to like the object!</p>
 
@@ -239,11 +238,17 @@
     <script sec:authorize="isAuthenticated()" th:inline="javascript">
         /*<![CDATA[*/
         var userID = [[${user.id}]];
+        var username = [[${user.username}]];
         /*]]>*/
     </script>
     <script th:inline="javascript">
 
         /*<![CDATA[*/
+
+        if (typeof userID === 'undefined') {
+            var userID = -1;
+            var username = '';
+        }
 
         // Gallery
         function changeImage(url) {
@@ -300,35 +305,52 @@
 
         // Likes
         function loadObjectLikes() {
-            var url = "/gallery/" + objectID + "/likes";
-            console.log(url);
+            var url = "/gallery/" + objectID + "/likes/";
             $.get(url, function (usernames) {
-                alert(usernames);
-                console.log(usernames);
                 var html = '';
-                usernames.forEach(function (username) {
-                    html += '<a class="btn btn-md btn-default tag" href="/gallery/likes/' + username + '">' + username + '</a>';
+                var userHasLiked = false;
+                usernames.forEach(function (u) {
+                    if (username === u)
+                        userHasLiked = true;
+                    html += '<a class="btn btn-md btn-default tag" href="/gallery/likes/' + u + '">' + u + '</a>';
                 });
+                if (userID > 0) {
+                    if (userHasLiked) {
+                        $('#likeObjectButton').addClass('no-displayed');
+                        $('#unlikeObjectButton').removeClass('no-displayed');
+                    }
+                    else {
+                        $('#unlikeObjectButton').addClass('no-displayed');
+                        $('#likeObjectButton').removeClass('no-displayed');
+                    }
+                }
                 $('#objectLikes').html(html);
-            }).fail(function (s){
-                alert('no');
-                console.log(s);
             });
         }
         loadObjectLikes();
 
         function likeObject() {
             var url = "/gallery/" + objectID + "/likes";
-            $.post(url, {'userID': userID}, function (evt) {
-                $('#likeObjectButton').css('display', 'none');
+            $.post(url, {'userID': userID}, function () {
                 loadObjectLikes();
+            });
+        }
+        function unlikeObject() {
+            var url = "/gallery/" + objectID + "/likes/" + userID;
+            $.ajax({
+                url: url,
+                type: 'DELETE',
+                success: loadObjectLikes
             });
         }
         $('#likeObjectButton').click(function () {
             likeObject();
         });
+        $('#unlikeObjectButton').click(function () {
+            unlikeObject();
+        });
 
-        
+
 
         /* RATING */
 

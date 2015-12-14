@@ -87,7 +87,6 @@ public class GalleryController {
         model.addAttribute("tagForm", new TagForm());
         model.addAttribute("reviewForm", new ReviewForm());
         model.addAttribute("isReviewedByUser", reviewService.hasReviewBy(object, authService.getPrincipal()));
-        model.addAttribute("isLikedByUser", objectService.isLikedBy(object, authService.getPrincipal()));
         model.addAttribute("user", authService.getPrincipal());
 
         return "object";
@@ -179,6 +178,8 @@ public class GalleryController {
         return object.getLikes().stream().map(User::getUsername).collect(Collectors.toList());
     }
 
+    // TODO : api return http codes instead of 'OK'
+
     /**
      * Like an object
      *
@@ -211,13 +212,12 @@ public class GalleryController {
      * @param request
      * @return "OK" if success
      */
-    @RequestMapping(value = "/gallery/{objectID}/unlike", method = RequestMethod.POST, produces = "text/plain")
+    @RequestMapping(value = "/gallery/{objectID}/likes/{userID}", method = RequestMethod.DELETE, produces = "text/plain")
     @ResponseBody
-    public String postUnlike(@PathVariable int objectID, HttpServletRequest request) {
+    public String postUnlike(@PathVariable int objectID, @PathVariable int userID, HttpServletRequest request) {
 
         try {
 
-            int userID = Integer.valueOf(request.getParameter("userID"));
             ChObject object = objectService.find(objectID);
             User user = userService.find(userID);
             object.removeLike(user);

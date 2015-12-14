@@ -228,4 +228,9 @@ public class User {
     public boolean equals(Object obj) {
         return obj instanceof User && id > 0 && id == ((User) obj).getId();
     }
+
+    @Override
+    public int hashCode() {
+        return id * username.hashCode() * email.hashCode();
+    }
 }
