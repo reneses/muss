@@ -81,6 +81,11 @@
 
         .tag {
             margin-right: 5px;
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+        .tag > i {
+            margin-right: 5px;
         }
 
         .no-displayed {
@@ -114,14 +119,14 @@
         }
         .panel-footer > button
         {
-            padding: 2px 8px;
+            margin-left: 5px;
+            padding: 0px 5px;
         }
 
 
     </style>
 
-    <h1 th:text="${object.title}">[Title]</h1>
-    <a th:href="@{/gallery}">Go back to the gallery</a>
+    <h1><a th:href="@{/gallery}"><i class="fa fa-arrow-circle-left"></i></a> <span th:text="${object.title}">[Title]</span></h1>
 
     <div id="gallery">
         <img id="gallery-main" th:src="${object.images.get(0).sizes.get(0).url}"/>
@@ -186,10 +191,10 @@
     <div>
         <span id="objectLikes">Loading...</span>
         <button sec:authorize="isAuthenticated()" id="likeObjectButton" type="submit"
-                class="btn btn-danger no-displayed">Like
+                class="btn btn-danger no-displayed"><i class="fa fa-heart"></i>
         </button>
         <button sec:authorize="isAuthenticated()" id="unlikeObjectButton" type="submit"
-                class="btn btn-disabled no-displayed">Unlike
+                class="btn btn-disabled no-displayed"><i class="fa fa-thumbs-down"></i>
         </button>
     </div>
     <p sec:authorize="isAnonymous()"><a th:href="@{/login}">Login</a> to like the object!</p>
@@ -217,10 +222,10 @@
                 <footer class="panel-footer">
                     <span>Loading...</span>
                     <button sec:authorize="isAuthenticated()" th:id="|likeReview${review.id}Button|" type="submit"
-                            class="btn btn-danger no-displayed">Like
+                            class="btn btn-danger no-displayed"><i class="fa fa-heart"></i>
                     </button>
                     <button sec:authorize="isAuthenticated()" th:id="|unlikeReview${review.id}Button|" type="submit"
-                            class="btn btn-disabled no-displayed">Unlike
+                            class="btn btn-disabled no-displayed"><i class="fa fa-thumbs-down"></i>
                     </button>
                 </footer>
             </div>
@@ -305,7 +310,7 @@
             $.get(url, function (tags) {
                 var html = '';
                 tags.forEach(function (tag) {
-                    html += '<a class="btn btn-md btn-default tag" href="/gallery/tag/' + tag + '">' + tag + '</a>';
+                    html += '<a class="btn btn-md btn-default tag" href="/gallery/tag/' + tag + '"><i class="fa fa-tag"></i>' + tag + '</a>';
                 });
                 $('#tags').html(html);
             });
