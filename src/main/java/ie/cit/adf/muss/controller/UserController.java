@@ -18,6 +18,7 @@ import ie.cit.adf.muss.domain.User;
 import ie.cit.adf.muss.services.APIService;
 import ie.cit.adf.muss.services.AuthService;
 import ie.cit.adf.muss.services.UserService;
+import ie.cit.adf.muss.validation.ChangePasswordForm;
 import ie.cit.adf.muss.validation.EditProfileForm;
 
 @Controller
@@ -123,12 +124,34 @@ public class UserController {
 	
 	@RequestMapping(value="/changePassword", method=RequestMethod.GET)
 	public String changePassword(Model model) {
+		
+		model.addAttribute("form", new ChangePasswordForm());
+		
 		return "user/changePassword";
 	}
 	
 	@RequestMapping(value="/changePassword", method=RequestMethod.POST)
-	public String changePasswordPost() {
-		return "";
+	public String changePasswordPost(@Valid @ModelAttribute("form") ChangePasswordForm form, BindingResult bindingResult) {
+		
+		User user = authService.getPrincipal();
+		
+		if (!userService.passwordMatches(user, form.getOldPassword())) {
+			bindingResult.rejectValue("oldPassword", "IncorrectPassword", "Incorrect password");	
+		}
+
+		if (!form.getNewPassword().equals(form.getConfirmPassword())) {
+			bindingResult.rejectValue("confirmPassword", "PasswordNotMatch", "Password don't match");	
+		}
+		
+		if (bindingResult.hasErrors()) {
+            return "user/changePassword";
+        }
+		
+		user.setPassword(userService.encodePassword(form.getNewPassword()));
+		
+		user = userService.save(user);
+        
+        return "redirect:/user/profile";
 	}
 
 	//	Follow & Unfollow -----------------------------------------------------
