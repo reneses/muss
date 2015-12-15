@@ -8,7 +8,7 @@ function loadObjectLikes() {
             usernames.forEach(function (u) {
                 if (username === u)
                     userHasLiked = true;
-                html += '<a class="btn btn-md btn-default tag" href="/profile/' + u + '">' + u + '</a>';
+                html += '<a class="btn btn-md btn-default tag" href="/user/profile/' + u + '">' + u + '</a>';
             });
         }
         if (userID > 0) {
@@ -56,7 +56,7 @@ function loadReviewLikes(reviewID) {
             usernames.forEach(function (u) {
                 if (username === u)
                     userHasLiked = true;
-                html += ' <a href="/profile/' + u + '">' + u + '</a>';
+                html += ' <a href="/user/profile/' + u + '">' + u + '</a>';
             });
         }
         else {

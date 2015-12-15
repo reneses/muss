@@ -45,7 +45,7 @@
 		                        <span th:each="i : ${#numbers.sequence( 1, review.rating)}">☆</span>
 		                    </span>
 		                    <span class="reviewer">by <span th:text="${review.user.name}"></span> (<a
-		                            th:href="@{/profile/{username}(username=${review.user.username})}"
+		                            th:href="@{/user/profile/{username}(username=${review.user.username})}"
 		                            th:text="|@${review.user.username}|"></a>)</span>
 		                </header>
 		                <div class="panel-body" th:text="${review.content}">
