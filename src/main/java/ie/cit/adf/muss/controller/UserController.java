@@ -1,8 +1,10 @@
 package ie.cit.adf.muss.controller;
 
+import java.io.File;
 import java.util.Date;
 import java.util.List;
 
+import javax.servlet.http.HttpServletRequest;
 import javax.validation.Valid;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -13,6 +15,8 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.multipart.MultipartFile;
 
 import ie.cit.adf.muss.domain.User;
 import ie.cit.adf.muss.services.APIService;
@@ -118,8 +122,36 @@ public class UserController {
 	}
 	
 	@RequestMapping(value="/changePicture", method=RequestMethod.POST)
-	public String changePicturePost() {
-		return "";
+	public String changePicturePost(@RequestParam("file") MultipartFile file, HttpServletRequest request) {
+		
+		User user = authService.getPrincipal();
+
+		if (!file.isEmpty()) {
+            try {
+            	
+            	String saveDirectory = request.getSession().getServletContext().getRealPath("/") + "images\\";
+            	
+            	File directory = new File(String.valueOf(saveDirectory));
+                if (!directory.exists()){
+                    directory.mkdir();
+                }
+            	
+            	String fileName = user.getId() + "_" + file.getOriginalFilename();
+            	file.transferTo(new File(saveDirectory + fileName));
+            	
+            	user.setPicture(fileName);
+            	userService.save(user);
+
+                return "redirect:/user/profile";
+                
+            } catch (Exception e) {
+            	System.out.println(e.getMessage());
+                return "user/changePicture";
+            }
+        } else {
+        	return "user/changePicture";
+        }
+		
 	}
 	
 	@RequestMapping(value="/changePassword", method=RequestMethod.GET)
