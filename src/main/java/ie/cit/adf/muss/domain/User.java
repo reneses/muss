@@ -5,6 +5,8 @@ import java.util.List;
 
 import javax.persistence.*;
 
+import org.hibernate.annotations.Fetch;
+import org.hibernate.annotations.FetchMode;
 import org.hibernate.validator.constraints.Email;
 
 @Entity
@@ -47,6 +49,7 @@ public class User {
                     @JoinColumn(name = "review_id", referencedColumnName = "id")
             }
     )
+    @Fetch(FetchMode.SELECT)
     private Collection<Review> reviewLikes;
 
     @ManyToMany(fetch = FetchType.EAGER)
@@ -62,6 +65,7 @@ public class User {
                     @JoinColumn(name = "chobject_id", referencedColumnName = "id")
             }
     )
+    @Fetch(FetchMode.SELECT)
     private Collection<ChObject> chObjectLikes;
 
     @ManyToMany(fetch = FetchType.LAZY)

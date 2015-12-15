@@ -1,17 +1,12 @@
 package ie.cit.adf.muss.services;
 
-import java.awt.*;
-import java.io.IOException;
-import java.net.URISyntaxException;
 import java.util.List;
 
-import ie.cit.adf.muss.domain.Review;
-import ie.cit.adf.muss.domain.User;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.dao.DuplicateKeyException;
 import org.springframework.stereotype.Service;
 
 import ie.cit.adf.muss.domain.ChObject;
+import ie.cit.adf.muss.domain.User;
 import ie.cit.adf.muss.loaders.AbstractChObjectLoader;
 import ie.cit.adf.muss.repositories.ChObjectRepository;
 
