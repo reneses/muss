@@ -40,13 +40,11 @@ public class ApplicationLoader {
     public void load() {
         try {
 
-            // Objects
+            // Objects & tags
             List<ChObject> objects = objectLoader.loadChObjects();
+            addRandomTags(objects);
             objectService.save(objects);
             objectService.findAll().forEach(System.out::println);
-
-            // Tags
-            addRandomTags(objects);
 
             // Users
             addTestUsers();
