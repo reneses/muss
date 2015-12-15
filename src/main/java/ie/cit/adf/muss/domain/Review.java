@@ -1,16 +1,10 @@
 package ie.cit.adf.muss.domain;
 
+import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Date;
 
-import javax.persistence.CascadeType;
-import javax.persistence.Entity;
-import javax.persistence.FetchType;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
-import javax.persistence.JoinColumn;
-import javax.persistence.ManyToMany;
-import javax.persistence.ManyToOne;
+import javax.persistence.*;
 
 import org.hibernate.annotations.Fetch;
 import org.hibernate.annotations.FetchMode;
@@ -22,9 +16,11 @@ public class Review {
 	@GeneratedValue
 	private int id;
 	private String title;
-	private String content;
 	private Date date;
 	private Integer rating;
+
+	@Column(columnDefinition = "TEXT")
+	private String content;
 
 	@ManyToOne(fetch=FetchType.LAZY)
 	@JoinColumn(name="chobject_id")
@@ -37,6 +33,10 @@ public class Review {
 	@ManyToMany(fetch=FetchType.EAGER, mappedBy="reviewLikes", cascade=CascadeType.ALL)
 	@Fetch(FetchMode.SELECT)
 	private Collection<User> likes;
+
+	public Review() {
+		this.likes = new ArrayList<>();
+	}
 
 	public int getId() {
 		return id;

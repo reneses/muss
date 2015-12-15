@@ -67,6 +67,8 @@ public class ChObject {
 		participations = new ArrayList<>();
 		images = new ArrayList<>();
 		tags = new ArrayList<>();
+		reviews = new ArrayList<>();
+		likes = new ArrayList<>();
 	}
 
 	/* SETTERS AND GETTERS */
