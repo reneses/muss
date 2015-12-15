@@ -12,8 +12,10 @@
 <body>
 
 <div th:fragment="content">
-
+	
     <h1><a th:href="@{/gallery}"><i class="fa fa-arrow-circle-left"></i></a> <span th:text="${object.title}">[Title]</span></h1>
+
+	<a class="twitter-share-button" th:href="'https://twitter.com/intent/tweet?text='+${object.title}">Tweet</a>
 
     <div id="gallery">
         <img id="gallery-main" th:src="${object.images.get(0).sizes.get(0).url}"/>
@@ -178,6 +180,7 @@
 
         /*]]>*/
     </script>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 </div>
 
 </body>
