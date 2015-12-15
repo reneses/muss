@@ -1,3 +1,54 @@
+/* TAGS */
+
+// Show tag form
+function showTagForm() {
+    $('#tagFormWrapper').removeClass('no-displayed');
+    $('#tag').focus();
+}
+
+function hideTagForm() {
+    $('#tagFormWrapper').addClass('no-displayed');
+}
+
+$('#showTagFormWrapper').click(function (evt) {
+    evt.preventDefault();
+    showTagForm();
+    $(this).addClass('no-displayed');
+});
+
+// Reload the tags
+function loadTags() {
+    var url = "/api/objects/" + objectID + "/tags";
+    $.get(url, function (tags) {
+        var html = '';
+        tags.forEach(function (tag) {
+            html += '<a class="btn btn-md btn-default tag" href="/gallery/tag/' + tag + '"><i class="fa fa-tag"></i>' + tag + '</a>';
+        });
+        $('#tags').html(html);
+    });
+}
+
+
+if (objectID >= 0)
+    loadTags();
+
+// Post a new tag
+var tagInput = $('#tag');
+function postTag() {
+    var tag = tagInput.val();
+    var url = "/api/objects/" + objectID + "/tags";
+    $.post(url, {'tag': tag, 'userID': userID, 'time': time, 'HMAC': HMAC}, function () {
+        loadTags();
+        tagInput.val('');
+    });
+}
+$('#tagForm').submit(function (evt) {
+    evt.preventDefault();
+    postTag();
+});
+
+
+/* LIKES */
 // Object likes
 function loadObjectLikes() {
     var url = "/api/objects/" + objectID + "/likes/";
@@ -26,7 +77,7 @@ function loadObjectLikes() {
 }
 
 if (objectID >= 0)
-	loadObjectLikes();
+    loadObjectLikes();
 
 function likeObject() {
     var url = "/api/objects/" + objectID + "/likes";
@@ -81,12 +132,18 @@ function loadReviewsLikes() {
         var reviewID = review.id.split("-")[1];
         loadReviewLikes(reviewID);
         if (!areButtonsLoaded) {
-            document.getElementById('likeReview'+reviewID+'Button').addEventListener('click', function () {
-                likeReview(reviewID);
-            });
-            document.getElementById('unlikeReview'+reviewID+'Button').addEventListener('click', function () {
-                unlikeReview(reviewID);
-            });
+            var likeButton = document.getElementById('likeReview' + reviewID + 'Button');
+            if (likeButton != null) {
+                likeButton.addEventListener('click', function () {
+                    likeReview(reviewID);
+                });
+            }
+            var unlikeButton = document.getElementById('unlikeReview' + reviewID + 'Button');
+            if (unlikeButton != null) {
+                unlikeButton.addEventListener('click', function () {
+                    unlikeReview(reviewID);
+                });
+            }
         }
     });
     if (!areButtonsLoaded)
@@ -105,4 +162,50 @@ function unlikeReview(reviewID) {
     $.post(url, {'userID': userID, 'time': time, 'HMAC': HMAC}, function () {
         loadReviewLikes(reviewID)
     });
+}
+
+
+/* RATING */
+
+// Chose an start event
+function chooseStart(rating) {
+
+    // Visual
+    var i;
+    for (i = 1; i <= rating; i++) {
+        $('#star-' + i).addClass('star-selected');
+    }
+    for (i = rating + 1; i <= 5; i++) {
+        $('#star-' + i).removeClass('star-selected');
+    }
+
+    // Form
+    $('#rating').val(rating);
+
+}
+
+// Bind events to starts
+$('#star-1').click(function () {
+    chooseStart(1);
+});
+$('#star-2').click(function () {
+    chooseStart(2);
+});
+$('#star-3').click(function () {
+    chooseStart(3);
+});
+$('#star-4').click(function () {
+    chooseStart(4);
+});
+$('#star-5').click(function () {
+    chooseStart(5);
+});
+
+// By default, choose 1 star
+chooseStart(1);
+
+
+/* GALLERY */
+function changeImage(url) {
+    document.getElementById('gallery-main').src = url;
 }
