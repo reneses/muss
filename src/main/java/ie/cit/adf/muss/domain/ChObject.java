@@ -216,4 +216,14 @@ public class ChObject {
 				", id=" + id +
 				'}';
 	}
+	
+	@Override
+    public boolean equals(Object obj) {
+        return obj instanceof ChObject && id > 0 && id == ((ChObject) obj).getId();
+    }
+
+    @Override
+    public int hashCode() {
+        return id * title.hashCode();
+    }
 }

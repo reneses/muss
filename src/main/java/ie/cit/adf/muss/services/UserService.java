@@ -50,6 +50,15 @@ public class UserService extends CrudService<User> {
 	}
 
     // ----------------- Other business methods ------------------
+		
+	public String encodePassword(String rawPassword) {
+		String encodedPassword = passwordEncoder.encode(rawPassword);
+		return encodedPassword;
+	}
+	
+	public boolean passwordMatches(User user, String rawPassword) {
+		return passwordEncoder.matches(rawPassword, user.getPassword());
+	}
 
     // REPOSITORY:
 
