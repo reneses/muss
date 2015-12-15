@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns:th="http://www.thymeleaf.org" th:include="layout :: page">
+<html xmlns:th="http://www.thymeleaf.org" xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity3" th:include="layout :: page">
 	<head>
 		<meta charset="utf-8" />
 		<title>Muss</title>
@@ -36,9 +36,33 @@
 		    </table>
 		    
 		    <h3>Reviews</h3>
-		    <ul>
-		        <li th:each="review : ${user.reviews}" th:text="${review.title}"></li>
-		    </ul>
+		    <div class="row">
+		        <div class="col-xs-6" th:each="review : ${user.reviews}">
+		            <div class="review panel panel-default" th:id="|review-${review.id}|">
+		                <header class="panel-heading">
+		                    <h3 class="panel-title" th:text="${review.title}"></h3>
+		                    <span class="rated">
+		                        <span th:each="i : ${#numbers.sequence( 1, review.rating)}">☆</span>
+		                    </span>
+		                    <span class="reviewer">by <span th:text="${review.user.name}"></span> (<a
+		                            th:href="@{/profile/{username}(username=${review.user.username})}"
+		                            th:text="|@${review.user.username}|"></a>)</span>
+		                </header>
+		                <div class="panel-body" th:text="${review.content}">
+		                    Panel content
+		                </div>
+		                <footer class="panel-footer">
+		                    <span>Loading...</span>
+		                    <button sec:authorize="isAuthenticated()" th:id="|likeReview${review.id}Button|" type="submit"
+		                            class="btn btn-danger no-displayed"><i class="fa fa-heart"></i>
+		                    </button>
+		                    <button sec:authorize="isAuthenticated()" th:id="|unlikeReview${review.id}Button|" type="submit"
+		                            class="btn btn-disabled no-displayed"><i class="fa fa-thumbs-down"></i>
+		                    </button>
+		                </footer>
+		            </div>
+		        </div>
+		    </div>
 		    
 		    <h3>Likes</h3>
 		    <ul>
@@ -74,6 +98,25 @@
 					<a th:href="@{/user/unfollow/{userId}(userId=${user.id})}" class="btn btn-primary" role="button">Unfollow user</a>
 				</div>
 			</div>
+			<!-- Javascript TODO: extract to its own file -->
+		    <script sec:authorize="isAuthenticated()" th:inline="javascript">
+		    /*<![CDATA[*/
+		    var userID = [[${user.id}]];
+		    var username = [[${user.username}]];
+		    var time = [[${time}]];
+		    var HMAC = [[${HMAC}]];
+		    /*]]>*/
+		    </script>
+		    <script th:inline="javascript">
+		        /*<![CDATA[*/
+		        if (typeof userID === 'undefined') {
+		            var userID = -1;
+		            var username = '';
+		        }
+		        // Current object ID
+		        var objectID = -1;
+		        /*]]>*/
+		    </script>
 		</div>
 	</body>
 </html>

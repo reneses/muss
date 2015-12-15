@@ -16,3 +16,113 @@ body {
     display: inline-block;
     margin: auto;
 }
+
+label {
+    display: block;
+}
+
+.rated {
+    unicode-bidi: bidi-override;
+}
+
+.rated > span {
+    position: relative;
+}
+
+.rating {
+    margin-top: 5px;
+    unicode-bidi: bidi-override;
+    direction: rtl;
+    font-size: 1.3em;
+}
+
+.rating > span {
+    position: relative;
+    width: 1.1em;
+}
+
+.rated > span {
+    color: gold;
+    cursor: pointer;
+}
+
+.rating > span:hover,
+.rating > span:hover ~ span {
+    color: transparent;
+}
+
+.rating > span:hover:before,
+.rating > span:hover ~ span:before,
+.rated > span:before,
+.star-selected:before {
+    content: "\2605";
+    position: absolute;
+    left: 0;
+    color: gold;
+}
+
+.star-selected {
+    color: gold;
+}
+
+.reviewer {
+    font-style: italic;
+    margin-left: 5px;
+}
+
+#tagForm {
+    display: inline;
+}
+
+#tagForm * {
+    width: auto;
+    display: inline;
+}
+
+.no-break {
+    white-space: nowrap;
+}
+
+.tag {
+    margin-right: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.tag > i {
+    margin-right: 5px;
+}
+
+.no-displayed {
+    display: none !important;
+}
+
+#gallery {
+    text-align: center;
+}
+
+#gallery-main {
+    height: 400px;
+}
+
+.gallery-thumbnail {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    background-size: cover;
+    margin: 20px 5px 0;
+    cursor: pointer;
+}
+
+#description td {
+    padding: 2px 5px;
+}
+
+.panel-footer {
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.panel-footer > button
+{
+    margin-left: 5px;
+    padding: 0px 5px;
+}

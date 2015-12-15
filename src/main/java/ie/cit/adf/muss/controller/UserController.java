@@ -1,5 +1,6 @@
 package ie.cit.adf.muss.controller;
 
+import java.util.Date;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -10,6 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 import ie.cit.adf.muss.domain.User;
+import ie.cit.adf.muss.services.APIService;
 import ie.cit.adf.muss.services.AuthService;
 import ie.cit.adf.muss.services.UserService;
 
@@ -23,6 +25,8 @@ public class UserController {
 	UserService userService;
 	@Autowired
 	AuthService authService;
+	@Autowired
+    APIService apiService;
 	
 	//	Profile ---------------------------------------------------------------
 	
@@ -31,8 +35,12 @@ public class UserController {
 		
 		User user = authService.getPrincipal();
 		
+		Date date = new Date();
+		
 		model.addAttribute("user", user);
 		model.addAttribute("principal", user);
+        model.addAttribute("time", date.getTime());
+        model.addAttribute("HMAC", user == null? "" : apiService.getHMAC(user, date));
 		
 		return "user/profile";
 	}
@@ -42,9 +50,13 @@ public class UserController {
 		
 		User user = userService.findByUsername(username);
 		User principal = authService.getPrincipal();
+		
+		Date date = new Date();
 
 		model.addAttribute("user", user);
 		model.addAttribute("principal", principal);
+        model.addAttribute("time", date.getTime());
+        model.addAttribute("HMAC", user == null? "" : apiService.getHMAC(user, date));
 		
 		return "user/profile";
 	}
