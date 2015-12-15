@@ -20,7 +20,7 @@
 		        	<div class="col-xs-3">
 				    	<img th:src="${user.picture} ? ${user.picture} : 'http://www.hit4hit.org/img/login/user-icon-6.png' " width="100%"/>
 					</div>
-		        	<div class="col-xs-6">
+		        	<div class="col-xs-3">
 		        		<div class="form-group">
 				        	<label>Name</label>
 				            <p th:text="${user.name}"></p>
@@ -38,15 +38,18 @@
 				            <p th:text="${user.points}"></p>
 			        	</div>
 		        	</div>
-		        	<div class="col-xs-3">
-		        		<div th:if="${principal.id!=user.id}">
-						    <div th:if="${user.beingFollowed(principal)} == false">
-								<a th:href="@{/user/follow/{userId}(userId=${user.id})}" class="btn btn-primary" role="button">Follow user</a>
-								
-							</div>
-							<div th:if="${user.beingFollowed(principal)}">
-								<a th:href="@{/user/unfollow/{userId}(userId=${user.id})}" class="btn btn-primary" role="button">Unfollow user</a>
-							</div>
+		        	<div class="col-xs-3" th:if="${principal.id==user.id}">
+		        		<p><a class="btn btn-success" th:href="@{/user/editProfile}">Edit profile</a></p>
+		        		<p><a class="btn btn-success" th:href="@{/user/changePicture}">Change picture</a></p>
+		        		<p><a class="btn btn-success" th:href="@{/user/changePassword}">Change password</a></p>
+		        	</div>
+		        	<div class="col-xs-3" th:if="${principal.id!=user.id}">
+					    <div th:if="${user.beingFollowed(principal)} == false">
+							<a th:href="@{/user/follow/{userId}(userId=${user.id})}" class="btn btn-primary" role="button">Follow user</a>
+							
+						</div>
+						<div th:if="${user.beingFollowed(principal)}">
+							<a th:href="@{/user/unfollow/{userId}(userId=${user.id})}" class="btn btn-primary" role="button">Unfollow user</a>
 						</div>
 		        	</div>
 		        </div>
