@@ -1,6 +1,8 @@
 spring:
   profiles.active: default
 ---
+muss:
+  key: Vml4sPtxOzA2s1a71zYn8xI29k0Y4wAG
 spring:
   profiles: default
 spring.datasource:

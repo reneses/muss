@@ -34,10 +34,14 @@ public class GalleryAPIController {
     @Autowired
     TagService tagService;
 
+    @Autowired
+    APIService apiService;
+
 
     // HTTP responses
     private static final ResponseEntity<String> OK = new ResponseEntity<>("OK", HttpStatus.OK);
     private static final ResponseEntity<String> ERROR = new ResponseEntity<>("ERROR", HttpStatus.BAD_REQUEST);
+    private static final ResponseEntity<String> FORBIDDEN = new ResponseEntity<>("FORBIDDEN", HttpStatus.FORBIDDEN);
 
 
     // TAGS
@@ -66,16 +70,23 @@ public class GalleryAPIController {
      */
     @RequestMapping(value = "/api/objects/{objectID}/tags", method = RequestMethod.POST, produces = "text/plain")
     @ResponseBody
-    public String postTag(@PathVariable int objectID, HttpServletRequest request) {
+    public ResponseEntity<String> postTag(@PathVariable int objectID, HttpServletRequest request) {
         try {
+            User user = userService.find(Integer.valueOf(request.getParameter("userID")));
+            apiService.validateRequest(request.getParameter("HMAC"),
+                    user.getId(),
+                    Long.parseLong(request.getParameter("time"))
+            );
             objectService.addTag(
                     objectService.find(objectID),
                     request.getParameter("tag"),
-                    userService.find(Integer.valueOf(request.getParameter("userID")))
+                    user
             );
-            return "OK";
+            return OK;
+        } catch (IllegalAccessException e) {
+            return FORBIDDEN;
         } catch (Exception e) {
-            return "FAIL";
+            return ERROR;
         }
     }
 
@@ -110,8 +121,14 @@ public class GalleryAPIController {
         try {
             ChObject object = objectService.find(objectID);
             User user = userService.find(Integer.valueOf(request.getParameter("userID")));
+            apiService.validateRequest(request.getParameter("HMAC"),
+                    user.getId(),
+                    Long.parseLong(request.getParameter("time"))
+            );
             objectService.addLike(object, user);
             return OK;
+        } catch (IllegalAccessException e) {
+            return FORBIDDEN;
         } catch (Exception e) {
             return ERROR;
         }
@@ -123,12 +140,19 @@ public class GalleryAPIController {
      * @param objectID
      * @return "OK" if success
      */
-    @RequestMapping(value = "/api/objects/{objectID}/likes/{userID}", method = RequestMethod.DELETE, produces = "text/plain")
+    @RequestMapping(value = "/api/objects/{objectID}/unlike", method = RequestMethod.POST, produces = "text/plain")
     @ResponseBody
-    public ResponseEntity<String> postObjectUnlike(@PathVariable int objectID, @PathVariable int userID) {
+    public ResponseEntity<String> postObjectUnlike(@PathVariable int objectID, HttpServletRequest request) {
         try {
-            objectService.removeLike(objectService.find(objectID), userService.find(userID));
+            User user = userService.find(Integer.parseInt(request.getParameter("userID")));
+            apiService.validateRequest(request.getParameter("HMAC"),
+                    user.getId(),
+                    Long.parseLong(request.getParameter("time"))
+            );
+            objectService.removeLike(objectService.find(objectID), user);
             return OK;
+        } catch (IllegalAccessException e) {
+            return FORBIDDEN;
         } catch (Exception e) {
             return ERROR;
         }
@@ -165,8 +189,14 @@ public class GalleryAPIController {
         try {
             Review review = reviewService.find(reviewID);
             User user = userService.find(Integer.valueOf(request.getParameter("userID")));
+            apiService.validateRequest(request.getParameter("HMAC"),
+                    user.getId(),
+                    Long.parseLong(request.getParameter("time"))
+            );
             reviewService.addLike(review, user);
             return OK;
+        } catch (IllegalAccessException e) {
+            return FORBIDDEN;
         } catch (Exception e) {
             return ERROR;
         }
@@ -178,12 +208,19 @@ public class GalleryAPIController {
      * @param reviewID
      * @return "OK" if success
      */
-    @RequestMapping(value = "/api/reviews/{reviewID}/likes/{userID}", method = RequestMethod.DELETE, produces = "text/plain")
+    @RequestMapping(value = "/api/reviews/{reviewID}/unlike", method = RequestMethod.POST, produces = "text/plain")
     @ResponseBody
-    public ResponseEntity<String> postReviewUnlike(@PathVariable int reviewID, @PathVariable int userID) {
+    public ResponseEntity<String> postReviewUnlike(@PathVariable int reviewID, HttpServletRequest request) {
         try {
-            reviewService.removeLike(reviewService.find(reviewID), userService.find(userID));
+            User user = userService.find(Integer.parseInt(request.getParameter("userID")));
+            apiService.validateRequest(request.getParameter("HMAC"),
+                    user.getId(),
+                    Long.parseLong(request.getParameter("time"))
+            );
+            reviewService.removeLike(reviewService.find(reviewID), user);
             return OK;
+        } catch (IllegalAccessException e) {
+            return FORBIDDEN;
         } catch (Exception e) {
             return ERROR;
         }

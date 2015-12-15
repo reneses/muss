@@ -1,8 +1,11 @@
 package ie.cit.adf.muss.controller;
 
+import java.util.Date;
 import java.util.Optional;
 import javax.validation.Valid;
 
+import ie.cit.adf.muss.domain.User;
+import ie.cit.adf.muss.services.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -13,11 +16,6 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 
 import ie.cit.adf.muss.domain.ChObject;
-import ie.cit.adf.muss.services.AuthService;
-import ie.cit.adf.muss.services.ChObjectService;
-import ie.cit.adf.muss.services.ReviewService;
-import ie.cit.adf.muss.services.TagService;
-import ie.cit.adf.muss.services.UserService;
 import ie.cit.adf.muss.validation.ReviewForm;
 import ie.cit.adf.muss.validation.TagForm;
 
@@ -38,6 +36,9 @@ public class GalleryController {
 
     @Autowired
     TagService tagService;
+
+    @Autowired
+    APIService apiService;
 
     @RequestMapping(value = {"/gallery", "/gallery/tag/{tagName}", "gallery/tag"}, method = RequestMethod.GET)
     public String index(Model model, @RequestParam(value = "s", required = false) String search, @PathVariable(value = "tagName") Optional<String> tagName) {
@@ -75,11 +76,16 @@ public class GalleryController {
     public String object(Model model, @PathVariable int objectID) {
         ChObject object = objectService.find(objectID);
 
+        User user = authService.getPrincipal();
+        Date date = new Date();
+
         model.addAttribute("object", object);
         model.addAttribute("tagForm", new TagForm());
         model.addAttribute("reviewForm", new ReviewForm());
         model.addAttribute("isReviewedByUser", reviewService.hasReviewBy(object, authService.getPrincipal()));
-        model.addAttribute("user", authService.getPrincipal());
+        model.addAttribute("user", user);
+        model.addAttribute("time", date.getTime());
+        model.addAttribute("HMAC", user == null? "" : apiService.getHMAC(user, date));
 
         return "object";
     }

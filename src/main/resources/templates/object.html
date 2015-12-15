@@ -6,6 +6,8 @@
 <!--/*@thymesVar id="tagForm" type="ie.cit.adf.muss.validation.TagForm"*/-->
 <!--/*@thymesVar id="reviewForm" type="ie.cit.adf.muss.validation.ReviewForm"*/-->
 <!--/*@thymesVar id="isReviewedByUser" type="java.lang.Boolean"*/-->
+<!--/*@thymesVar id="time" type="java.lang.Long"*/-->
+<!--/*@thymesVar id="HMAC" type="java.lang.String"*/-->
 
 <body>
 
@@ -269,6 +271,8 @@
         /*<![CDATA[*/
         var userID = [[${user.id}]];
         var username = [[${user.username}]];
+        var time = [[${time}]];
+        var HMAC = [[${HMAC}]];
         /*]]>*/
     </script>
     <script th:inline="javascript">
@@ -322,7 +326,7 @@
         function postTag() {
             var tag = tagInput.val();
             var url = "/api/objects/" + objectID + "/tags";
-            $.post(url, {'tag': tag, 'userID': userID}, function () {
+            $.post(url, {'tag': tag, 'userID': userID, 'time': time, 'HMAC': HMAC}, function () {
                 loadTags();
                 tagInput.val('');
             });
@@ -363,17 +367,13 @@
 
         function likeObject() {
             var url = "/api/objects/" + objectID + "/likes";
-            $.post(url, {'userID': userID}, function () {
+            $.post(url, {'userID': userID, 'time': time, 'HMAC': HMAC}, function () {
                 loadObjectLikes();
             });
         }
         function unlikeObject() {
-            var url = "/api/objects/" + objectID + "/likes/" + userID;
-            $.ajax({
-                url: url,
-                type: 'DELETE',
-                success: loadObjectLikes
-            });
+            var url = "/api/objects/" + objectID + "/unlike";
+            $.post(url, {'userID': userID, 'time': time, 'HMAC': HMAC}, loadObjectLikes);
         }
         $('#likeObjectButton').click(function () {
             likeObject();
@@ -433,18 +433,14 @@
 
         function likeReview(reviewID) {
             var url = "/api/reviews/" + reviewID + "/likes";
-            $.post(url, {'userID': userID}, function () {
+            $.post(url, {'userID': userID, 'time': time, 'HMAC': HMAC}, function () {
                 loadReviewLikes(reviewID)
             });
         }
         function unlikeReview(reviewID) {
-            var url = "/api/reviews/" + reviewID + "/likes/" + userID;
-            $.ajax({
-                url: url,
-                type: 'DELETE',
-                success: function(ev) {
-                    loadReviewLikes(reviewID)
-                }
+            var url = "/api/reviews/" + reviewID + "/unlike";
+            $.post(url, {'userID': userID, 'time': time, 'HMAC': HMAC}, function () {
+                loadReviewLikes(reviewID)
             });
         }
 
