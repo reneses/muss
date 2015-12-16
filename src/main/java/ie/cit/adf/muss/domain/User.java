@@ -24,7 +24,8 @@ public class User {
 	@Email
 	private String email;
 	private String name;
-	private String picture;
+	@Lob
+	private byte[] picture;
 	private int points;
 	
 	// -------------------------- Relations --------------------------
@@ -91,7 +92,7 @@ public class User {
     public User() {
     }
 
-    public User(int id, String username, String password, String email, String name, String picture, int points,
+    public User(int id, String username, String password, String email, String name, byte[] picture, int points,
                 Collection<Tag> tags) {
         super();
         this.id = id;
@@ -146,11 +147,11 @@ public class User {
         this.name = name;
     }
 
-    public String getPicture() {
+    public byte[] getPicture() {
         return picture;
     }
 
-    public void setPicture(String picture) {
+    public void setPicture(byte[] picture) {
         this.picture = picture;
     }
 

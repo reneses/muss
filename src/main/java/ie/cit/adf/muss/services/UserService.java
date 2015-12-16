@@ -59,7 +59,7 @@ public class UserService extends CrudService<User> {
 	public boolean passwordMatches(User user, String rawPassword) {
 		return passwordEncoder.matches(rawPassword, user.getPassword());
 	}
-
+	
     // REPOSITORY:
 
 	public User findByUsername(String username) {

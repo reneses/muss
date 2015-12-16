@@ -18,7 +18,7 @@
 		    	</div>
 		        <div class="panel-body">
 		        	<div class="col-xs-3">
-				    	<img th:src="${user.picture} ? @{'../images/'+${user.picture}} : 'http://www.hit4hit.org/img/login/user-icon-6.png' " width="100%"/>
+				    	<img th:src="${user.picture} ? @{/user/{id}/picture(id=${user.id})} : 'http://www.hit4hit.org/img/login/user-icon-6.png' " width="100%"/>
 					</div>
 		        	<div class="col-xs-3">
 		        		<div class="form-group">
