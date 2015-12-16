@@ -101,7 +101,8 @@ label {
 }
 
 #gallery-main {
-    height: 400px;
+    max-height: 400px;
+    max-width: 90vw;
 }
 
 .gallery-thumbnail {

@@ -95,7 +95,7 @@
 
     <!-- List of reviews -->
     <div class="row">
-        <div class="col-xs-6" th:each="review : ${object.reviews}">
+        <div class="col-sm-6" th:each="review : ${object.reviews}">
             <div class="review panel panel-default" th:id="|review-${review.id}|">
                 <header class="panel-heading">
                     <h3 class="panel-title" th:text="${review.title}"></h3>
