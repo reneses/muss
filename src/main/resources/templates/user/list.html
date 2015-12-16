@@ -21,7 +21,7 @@
 	        	</tr>
 				<tr th:each="user : ${users}">	    
 		       	 	<td>
-						<a th:href="@{/user/profile/{userId}(userId=${user.id})}" class="btn btn-primary" role="button">Show</a>
+						<a th:href="@{/user/profile/{username}(username=${user.username})}" class="btn btn-primary" role="button">Show</a>
 					</td>
 		            
 		            <td>
