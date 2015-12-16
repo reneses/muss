@@ -1,10 +1,18 @@
 package ie.cit.adf.muss.domain;
 
-import java.util.Arrays;
 import java.util.Collection;
 import java.util.List;
 
-import javax.persistence.*;
+import javax.persistence.Entity;
+import javax.persistence.FetchType;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.JoinTable;
+import javax.persistence.Lob;
+import javax.persistence.ManyToMany;
+import javax.persistence.OneToMany;
+import javax.persistence.UniqueConstraint;
 
 import org.hibernate.annotations.Fetch;
 import org.hibernate.annotations.FetchMode;
@@ -240,11 +248,4 @@ public class User {
         return id * username.hashCode() * email.hashCode();
     }
 
-	@Override
-	public String toString() {
-		return "User [id=" + id + ", username=" + username + ", password=" + password + ", email=" + email + ", name="
-				+ name + ", picture=" + Arrays.toString(picture) + ", points=" + points + ", tags=" + tags
-				+ ", reviews=" + reviews + ", reviewLikes=" + reviewLikes + ", chObjectLikes=" + chObjectLikes
-				+ ", followed=" + followed + ", followers=" + followers + ", badges=" + badges + "]";
-	}
 }
