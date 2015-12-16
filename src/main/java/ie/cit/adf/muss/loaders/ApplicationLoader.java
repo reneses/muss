@@ -8,12 +8,14 @@ import ie.cit.adf.muss.services.ReviewService;
 import ie.cit.adf.muss.services.UserService;
 import org.apache.commons.io.IOUtils;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.EnableAspectJAutoProxy;
 import org.springframework.dao.DuplicateKeyException;
 import org.springframework.stereotype.Component;
 
 import java.io.IOException;
 import java.util.*;
 
+@EnableAspectJAutoProxy
 @Component
 public class ApplicationLoader {
 

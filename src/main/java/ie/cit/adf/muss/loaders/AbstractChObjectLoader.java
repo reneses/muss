@@ -7,6 +7,7 @@ import ie.cit.adf.muss.domain.User;
 import ie.cit.adf.muss.services.UserService;
 import ie.cit.adf.muss.utility.FileFinder;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.EnableAspectJAutoProxy;
 
 import java.io.IOException;
 import java.net.URISyntaxException;
@@ -21,6 +22,7 @@ import java.util.stream.Collectors;
 /**
  * ChObject
  */
+@EnableAspectJAutoProxy
 public abstract class AbstractChObjectLoader {
 
     private String extension, objectsDirectory;

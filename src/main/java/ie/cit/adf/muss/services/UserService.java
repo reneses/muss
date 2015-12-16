@@ -83,6 +83,7 @@ public class UserService extends CrudService<User> {
 			principal.setFollowed(followed);
 			save(principal);
 		}
+		follow();
 	}
 
 	public void unFollowUser(int userID) {
@@ -98,6 +99,10 @@ public class UserService extends CrudService<User> {
 			principal.setFollowed(followed);
 			save(principal);
 		}
+	}
+	
+	public void follow(){
+		System.out.println("nein");
 	}
 
 }
