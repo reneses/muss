@@ -1,16 +1,17 @@
 package ie.cit.adf.muss.loaders;
 
-import ie.cit.adf.muss.domain.ChObject;
 import ie.cit.adf.muss.domain.Review;
 import ie.cit.adf.muss.domain.Tag;
 import ie.cit.adf.muss.domain.User;
 import ie.cit.adf.muss.services.ChObjectService;
 import ie.cit.adf.muss.services.ReviewService;
 import ie.cit.adf.muss.services.UserService;
+import org.apache.commons.io.IOUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.DuplicateKeyException;
 import org.springframework.stereotype.Component;
 
+import java.io.IOException;
 import java.util.*;
 
 @Component
@@ -91,6 +92,9 @@ public class ApplicationLoader {
         user.setEmail("reneses@muss.ie");
         user.setPassword(DEFAULT_PASSWORD);
         user.setUsername("reneses");
+        try {
+            user.setPicture(IOUtils.toByteArray(ApplicationLoader.class.getResourceAsStream("/sample/reneses.jpg")));
+        } catch (IOException ignored) {}
         userService.save(user);
 
         User user2 = new User();
