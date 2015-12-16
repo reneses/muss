@@ -1,0 +1,39 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:aop="http://www.springframework.org/schema/aop"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans-3.0.xsd 
+	http://www.springframework.org/schema/aop 
+	http://www.springframework.org/schema/aop/spring-aop-3.0.xsd ">
+
+	<aop:aspectj-autoproxy />
+
+	<!-- Aspect -->
+	<bean id="gamAspect" class="ie.cit.adf.muss.aspects.GamificationAspect" />
+
+	<aop:config>
+
+		<aop:aspect id="aspectGamming" ref="gamAspect" >
+
+			<!-- @Before -->
+			<aop:pointcut id="pointCutBefore"
+				expression="execution(* follow(*))" />
+
+			<aop:after method="logAfter" pointcut-ref="pointCutBefore" />
+			
+			<!-- @After -->
+			<aop:pointcut id="pointCutAfter"
+				expression="execution(* follow(*))" />
+
+			<aop:after method="logAfter" pointcut-ref="pointCutAfter" />
+			
+			<!-- @AfterReturning -->
+
+			<!-- @AfterThrowing -->
+	
+			<!-- @Around -->
+
+		</aop:aspect>
+
+	</aop:config>
+
+</beans>
