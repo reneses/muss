@@ -13,35 +13,28 @@
         <div class="navbar-collapse collapse">
 
             <ul class="nav navbar-nav">
-                <li><a href="/gallery" th:href="@{/gallery}">Gallery</a></li>
-                <li>
+                <li th:class="${#httpServletRequest.getRequestURI() == '/gallery' ? 'active':''}">
+                	<a th:href="@{/gallery}">Gallery</a>
+                </li>
+                <li th:class="${#httpServletRequest.getRequestURI() == '/user/list' ? 'active':''}">
                     <a th:href="@{/user/list}">User list</a>
                 </li>
             </ul>
-
-            <ul class="nav navbar-nav navbar-right">
-                <li sec:authorize="isAuthenticated()">
-
-
-                    <p class="navbar-text">
-                        Hello <span sec:authentication="name">Bob</span>
-                    </p>
+            
+            <div sec:authorize="isAuthenticated()" class="navbar-form navbar-right">
+           		<a th:href="@{/logout}" class="btn btn-sm btn-danger">Logout</a>
+			</div>
+			
+			<ul sec:authorize="isAuthenticated()" class="nav navbar-nav navbar-right">
+                <li th:class="${#httpServletRequest.getRequestURI() == '/user/profile' ? 'active':''}">
+                    <a th:href="@{/user/profile}" sec:authentication="name"></a>
                 </li>
-                <li sec:authorize="isAuthenticated()">
-                    <a th:href="@{/logout}">Logout</a>
-                </li>
-                <li sec:authorize="isAuthenticated()">
-                    <a th:href="@{/user/profile}">Profile</a>
-                </li>
-
-                <li sec:authorize="isAnonymous()">
-                    <a th:href="@{/login}">Login</a>
-                </li>
-                <li sec:authorize="isAnonymous()">
-                    <a th:href="@{/register}">Register</a>
-                </li>
-
-            </ul>
+           	</ul>
+			
+			<div sec:authorize="isAnonymous()" class="navbar-form navbar-right">
+            	<a th:href="@{/login}" class="btn btn-sm btn-success">Login</a>
+                <a th:href="@{/register}" class="btn btn-sm btn-primary">Register</a>
+            </div>
         </div>
         <!--/.nav-collapse -->
 
