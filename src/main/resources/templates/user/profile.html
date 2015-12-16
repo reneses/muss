@@ -57,50 +57,56 @@
 		    
 		    <h3>Reviews</h3>
 		    <p th:if="${#lists.isEmpty(user.reviews)}">The user doesn't have reviews.</p>
-			<div class="col-sm-6" th:each="review : ${user.reviews}">
-				<div class="review panel panel-default" th:id="|review-${review.id}|">
-					<header class="panel-heading">
-						<a th:href="@{/gallery/{objId}(objId=${review.chObject.id})}">
-							<h3 class="panel-title" th:text="${review.title}"></h3>
-						</a>
+			<div class="row">
+				<div class="col-sm-6" th:each="review : ${user.reviews}">
+					<div class="review panel panel-default" th:id="|review-${review.id}|">
+						<header class="panel-heading">
+							<a th:href="@{/gallery/{objId}(objId=${review.chObject.id})}">
+								<h3 class="panel-title" th:text="${review.title}"></h3>
+							</a>
 						<span class="rated">
 							<span th:each="i : ${#numbers.sequence( 1, review.rating)}">☆</span>
 						</span>
 						<span class="reviewer">by <span th:text="${review.user.name}"></span> (<a
 								th:href="@{/user/profile/{username}(username=${review.user.username})}"
 								th:text="|@${review.user.username}|"></a>)</span>
-					</header>
-					<div class="panel-body" th:text="${review.content}">
-						Panel content
+						</header>
+						<div class="panel-body" th:text="${review.content}">
+							Panel content
+						</div>
 					</div>
 				</div>
 			</div>
 
 		    <h3>Object Likes</h3>
 		    <p th:if="${#lists.isEmpty(user.chObjectLikes)}">The user doesn't have objects likes.</p>
-			<div class="col-sm-6 col-md-3" th:each="object : ${user.chObjectLikes}">
-				<a th:href="@{/gallery/{objectID}(objectID=${object.id})}">
-				<div class="square-image" th:style="|background-image:url(${object.images.get(0).sizes.get(0).url})|"></div>
-				</a>
+			<div class="row">
+				<div class="col-sm-6 col-md-3" th:each="object : ${user.chObjectLikes}">
+					<a th:href="@{/gallery/{objectID}(objectID=${object.id})}">
+						<div class="square-image" th:style="|background-image:url(${object.images.get(0).sizes.get(0).url})|"></div>
+					</a>
+				</div>
 			</div>
 
 		    <h3>Review Likes</h3>
 		    <p th:if="${#lists.isEmpty(user.reviewLikes)}">The user doesn't have review likes.</p>
-			<div class="col-sm-6" th:each="review : ${user.reviewLikes}">
-				<div class="review panel panel-default" th:id="|review-${review.id}|">
-					<header class="panel-heading">
-						<a th:href="@{/gallery/{objId}(objId=${review.chObject.id})}">
-							<h3 class="panel-title" th:text="${review.title}"></h3>
-						</a>
+			<div class="row">
+				<div class="col-sm-6" th:each="review : ${user.reviewLikes}">
+					<div class="review panel panel-default" th:id="|review-${review.id}|">
+						<header class="panel-heading">
+							<a th:href="@{/gallery/{objId}(objId=${review.chObject.id})}">
+								<h3 class="panel-title" th:text="${review.title}"></h3>
+							</a>
 						<span class="rated">
 							<span th:each="i : ${#numbers.sequence( 1, review.rating)}">☆</span>
 						</span>
 						<span class="reviewer">by <span th:text="${review.user.name}"></span> (<a
 								th:href="@{/user/profile/{username}(username=${review.user.username})}"
 								th:text="|@${review.user.username}|"></a>)</span>
-					</header>
-					<div class="panel-body" th:text="${review.content}">
-						Panel content
+						</header>
+						<div class="panel-body" th:text="${review.content}">
+							Panel content
+						</div>
 					</div>
 				</div>
 			</div>
