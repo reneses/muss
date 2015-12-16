@@ -1,5 +1,6 @@
 package ie.cit.adf.muss.domain;
 
+import java.util.Arrays;
 import java.util.Collection;
 import java.util.List;
 
@@ -238,4 +239,12 @@ public class User {
     public int hashCode() {
         return id * username.hashCode() * email.hashCode();
     }
+
+	@Override
+	public String toString() {
+		return "User [id=" + id + ", username=" + username + ", password=" + password + ", email=" + email + ", name="
+				+ name + ", picture=" + Arrays.toString(picture) + ", points=" + points + ", tags=" + tags
+				+ ", reviews=" + reviews + ", reviewLikes=" + reviewLikes + ", chObjectLikes=" + chObjectLikes
+				+ ", followed=" + followed + ", followers=" + followers + ", badges=" + badges + "]";
+	}
 }

@@ -130,11 +130,13 @@ public class UserController {
 		
 		if (bindingResult.hasErrors()) {
             return "user/editProfile";
-        }
+        }			
 
 		user.setName(form.getName());
 		user.setEmail(form.getEmail());
 		user.setUsername(form.getUsername());
+		
+		authService.updatePrincipal(user);
 		
 		user = userService.save(user);
         
