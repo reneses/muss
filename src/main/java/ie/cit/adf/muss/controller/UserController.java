@@ -1,10 +1,11 @@
 package ie.cit.adf.muss.controller;
 
-import java.io.File;
+import java.io.IOException;
 import java.util.Date;
 import java.util.List;
 
 import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
 import javax.validation.Valid;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -71,6 +72,30 @@ public class UserController {
 		return "user/profile";
 	}
 	
+	//	Photo ------------------------------------------------------------------
+	
+	@RequestMapping("/{id}/picture") 
+	public void showPicture(
+			HttpServletRequest request,
+			HttpServletResponse response,
+			@PathVariable int id) {
+		
+		User user = userService.find(id);
+		byte[] picture = user.getPicture();
+		
+		if (picture == null) {
+			
+		} else {
+			response.setContentType("image/jpeg, image/jpg, image/png, image/gif");
+			try {
+				response.getOutputStream().write(picture);
+				response.getOutputStream().close();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		}
+	}
+	
 	//	Edit ------------------------------------------------------------------
 	
 	@RequestMapping(value="/editProfile", method=RequestMethod.GET)
@@ -129,17 +154,7 @@ public class UserController {
 		if (!file.isEmpty()) {
             try {
             	
-            	String saveDirectory = request.getSession().getServletContext().getRealPath("/") + "images\\";
-            	
-            	File directory = new File(String.valueOf(saveDirectory));
-                if (!directory.exists()){
-                    directory.mkdir();
-                }
-            	
-            	String fileName = user.getId() + "_" + file.getOriginalFilename();
-            	file.transferTo(new File(saveDirectory + fileName));
-            	
-            	user.setPicture(fileName);
+            	user.setPicture(file.getBytes());
             	userService.save(user);
 
                 return "redirect:/user/profile";
