@@ -12,6 +12,7 @@ import org.springframework.context.annotation.DependsOn;
 import org.springframework.stereotype.Controller;
 import org.springframework.stereotype.Service;
 
+import ie.cit.adf.muss.configuration.SpringApplicationContextHolder;
 import ie.cit.adf.muss.domain.User;
 import ie.cit.adf.muss.services.AuthService;
 import ie.cit.adf.muss.services.GamificationService;
@@ -22,28 +23,30 @@ import ie.cit.adf.muss.services.GamificationService;
 //@Configurable
 //@Configured
 public class GamificationAspect {
-
-//	@Autowired
-//	AuthService authService;
+	
 	@Autowired
 	GamificationService gamificationService;
 	
-	private Integer temporalIN, temporalOUT;
+	public GamificationService aspectOf() {
+		return SpringApplicationContextHolder.getApplicationContext().getBean(GamificationService.class);
+    }
+	
+//	private Integer temporalIN, temporalOUT;
 	
 	@Before("execution(* follow*(..))")
 	public void beforeFriends() {
-		System.out.println("Test1");
-//		User principal = authService.getPrincipal();
-//		System.out.println(principal.getName());
-		
-		
-		System.out.println(gamificationService);
+		System.out.println("beforeMethod IN");
+
+		System.out.println("gamificationServic Autowire SUCCESS: " + gamificationService);
 		gamificationService.test();
+		
+		System.out.println("beforeMethod OUT");
 	}
 	
 	@After("execution(* follow*(..))")
 	public void afterFriends() {
-		System.out.println("Test2");
+		System.out.println("afterMethod IN");
+		System.out.println("afterMethod OUT");
 	}
 	
 	

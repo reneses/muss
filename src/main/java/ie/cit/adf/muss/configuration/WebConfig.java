@@ -2,9 +2,11 @@ package ie.cit.adf.muss.configuration;
 
 import org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.EnableAspectJAutoProxy;
 import org.springframework.context.annotation.Profile;
 import org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry;
 
+@EnableAspectJAutoProxy
 @Configuration
 @Profile("default")
 public class WebConfig extends WebMvcAutoConfiguration.WebMvcAutoConfigurationAdapter {

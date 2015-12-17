@@ -113,6 +113,9 @@ public class GamificationService{
     }
     
     public void test(){
-    	System.out.println("YA ERA HORA!!!");
+    	System.out.println("IN");
+    	System.out.println("gamificationService.test() SUCCESS");
+    	System.out.println("authService.getPrincipal() SUCCESS: " + authService.getPrincipal());
+    	System.out.println("OUT");
     }
 }
