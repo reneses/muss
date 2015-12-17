@@ -7,45 +7,46 @@
 	<body>
 		<div th:fragment="content">
 		
-			<h1>Muss</h1>
-		    <a th:href="@{/}" class="btn btn-primary" role="button">Back to home</a>
+		    <p>
+		    	<a th:href="@{/}" class="btn btn-primary" role="button">Back to home</a>
+		    </p>
 	
-			<h3>Users</h3>
-			<table>
-				<tr>
-	        		<th>PROFILE - </th>
-			        <th>PICTURE - </th>
-			        <th>NAME - </th>
-			        <th>POINTS - </th>
-			        <th>RELATION</th>
-	        	</tr>
-				<tr th:each="user : ${users}">	    
-		       	 	<td>
-						<a th:href="@{/user/profile/{username}(username=${user.username})}" class="btn btn-primary" role="button">Show</a>
-					</td>
-		            
-		            <td>
-			            <div th:if="${user.picture} == ''">
-							<h3>Photo</h3>
-							<img th:src="${user.picture}" width="300" height="auto"/>
-						</div>
-		            </td>
-		            <td th:text="${user.name}"></td>
-		            <td th:text="${user.points}"></td>
-		            
-		            <td>
-		            	<div th:if="${!user.isPrincipal(principal)}">
-			            	<div th:if="${user.beingFollowed(principal)}">
-								<a th:href="@{/user/unfollow/{userId}(userId=${user.id})}" class="btn btn-primary" role="button">Unfollow user</a>
-							</div>
-							<div th:if="!${user.beingFollowed(principal)}">
-								<a th:href="@{/user/follow/{userId}(userId=${user.id})}" class="btn btn-primary" role="button">Follow user</a>
-							</div>
-						</div>						
-					</td>
-				</tr>
+			<div class="panel panel-default">
+				<div class="panel-heading">
+					<h3 class="panel-title">Users</h3>
+				</div>
+				<table class="table">
+					<thead>
+						<tr>
+			        		<th width="64px">Picture</th>
+					        <th>Username</th>
+					        <th>Points</th>
+					        <th></th>
+			        	</tr>
+					</thead>
+					<tbody>
+						<tr th:each="user : ${users}">	    			            
+				            <td>
+					            <img th:src="${user.picture} ? @{/user/{id}/picture(id=${user.id})} : 'http://www.hit4hit.org/img/login/user-icon-6.png' " width="100%"/>
+				            </td>
+				            <td>
+								<a th:href="@{/user/profile/{username}(username=${user.username})}" class="btn btn-info" th:text="${'@'+user.username}"></a>
+							</td>
+				            <td th:text="${user.points}"></td>
+				            <td>
+				            	<div th:if="${!user.isPrincipal(principal)}">
+					            	<div th:if="${user.beingFollowed(principal)}">
+										<a th:href="@{/user/unfollow/{userId}(userId=${user.id})}" class="btn btn-primary" role="button">Unfollow user</a>
+									</div>
+									<div th:if="!${user.beingFollowed(principal)}">
+										<a th:href="@{/user/follow/{userId}(userId=${user.id})}" class="btn btn-primary" role="button">Follow user</a>
+									</div>
+								</div>						
+							</td>
+						</tr>
+					</tbody>
 			</table>
-			
+			</div>
 		</div>
 	</body>
 </html>

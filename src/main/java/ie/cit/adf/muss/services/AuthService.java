@@ -1,7 +1,10 @@
 package ie.cit.adf.muss.services;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
+import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
+import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
@@ -55,7 +58,27 @@ public class AuthService {
         // If it is, return find it and return it
         org.springframework.security.core.userdetails.User userDB =
                 (org.springframework.security.core.userdetails.User) principal;
+
         return userService.findByUsername(userDB.getUsername());
+    }
+    
+    public void updatePrincipal(User user) {
+    	
+    	UserDetails currentPrincipal;
+    	currentPrincipal = (UserDetails) SecurityContextHolder
+                .getContext()
+                .getAuthentication()
+                .getPrincipal();
+    	    	
+    	UserDetails newPrincipal;
+    	newPrincipal = new org.springframework.security.core.userdetails.User(
+    			user.getUsername(),
+    			user.getPassword(),
+    			currentPrincipal.getAuthorities());
+    	
+    	Authentication authentication = new UsernamePasswordAuthenticationToken(newPrincipal, newPrincipal.getPassword(), newPrincipal.getAuthorities());
+    	SecurityContextHolder.getContext().setAuthentication(authentication);
+
     }
 
 }
