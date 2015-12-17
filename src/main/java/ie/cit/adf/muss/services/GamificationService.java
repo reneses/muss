@@ -3,6 +3,7 @@ package ie.cit.adf.muss.services;
 import javax.naming.OperationNotSupportedException;
 import javax.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Configurable;
 import org.springframework.stereotype.Service;
 import org.springframework.util.Assert;
 import ie.cit.adf.muss.domain.Gamification;
@@ -11,6 +12,7 @@ import ie.cit.adf.muss.repositories.GamificationRepository;
 
 @Service
 @Transactional
+@Configurable
 public class GamificationService{
 
 	// ------------------- Managed repository --------------------
@@ -108,5 +110,9 @@ public class GamificationService{
     	if(type == Gamification.FOLLOWING || type == Gamification.FOLLOWERS)
     		badgeService.assignBadgeFriends();
     	badgeService.assignBadgePoints();
+    }
+    
+    public void test(){
+    	System.out.println("YA ERA HORA!!!");
     }
 }

@@ -69,7 +69,7 @@ public class UserService extends CrudService<User> {
     // USE CASES:
 	
 	public void followUser(int userID) {
-		
+		System.out.println("followUser");
 		User user = find(userID);
 		User principal = authService.getPrincipal();
 		Assert.notNull(user);
@@ -83,7 +83,6 @@ public class UserService extends CrudService<User> {
 			principal.setFollowed(followed);
 			save(principal);
 		}
-		follow();
 	}
 
 	public void unFollowUser(int userID) {
@@ -100,9 +99,4 @@ public class UserService extends CrudService<User> {
 			save(principal);
 		}
 	}
-	
-	public void follow(){
-		System.out.println("nein");
-	}
-
 }
