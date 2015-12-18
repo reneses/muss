@@ -22,11 +22,11 @@ public class Review {
 	@Column(columnDefinition = "TEXT")
 	private String content;
 
-	@ManyToOne(fetch=FetchType.LAZY)
+	@ManyToOne(fetch=FetchType.EAGER)
 	@JoinColumn(name="chobject_id")
 	private ChObject chObject;
 	
-	@ManyToOne(fetch=FetchType.LAZY)
+	@ManyToOne(fetch=FetchType.EAGER)
 	@JoinColumn(name="user_id")
 	private User user;
 	
