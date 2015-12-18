@@ -1,6 +1,8 @@
 package ie.cit.adf.muss.controller;
 
+import java.util.ArrayList;
 import java.util.Date;
+import java.util.List;
 import java.util.Optional;
 import javax.validation.Valid;
 
@@ -40,27 +42,49 @@ public class GalleryController {
     @Autowired
     APIService apiService;
 
-    @RequestMapping(value = {"/gallery", "/gallery/tag/{tagName}", "gallery/tag"}, method = RequestMethod.GET)
-    public String index(Model model, @RequestParam(value = "s", required = false) String search, @PathVariable(value = "tagName") Optional<String> tagName) {
+    @RequestMapping(value = {"/gallery", "/gallery/p", "/gallery/p/{page}", "/gallery/p/{page}/tag/{tagName}", "gallery/p/{page}/tag"}, method = RequestMethod.GET)
+    public String index(Model model, @RequestParam(value = "s", required = false) String search, @PathVariable(value = "page") Optional<Integer> page, @PathVariable(value = "tagName") Optional<String> tagName) {
 
-    	if (search != null)
-    		model.addAttribute("search", search);
+        // Load page number
+        int pageNumber = page.isPresent() ? page.get() : 1;
+        if (pageNumber < 1)
+            pageNumber = 1;
 
-    	model.addAttribute("tags", tagService.findDistinctTagNames());
+        // Set search
+        if (search != null)
+            model.addAttribute("search", search);
 
+        // Set tags
+        model.addAttribute("tags", tagService.findDistinctTagNames());
+
+        // Load objects
+        List<ChObject> objects;
         if (tagName.isPresent()) {
-        	model.addAttribute("selectedTag", tagName.get());
-        	if (search != null)
-        		model.addAttribute("chObjects", objectService.findByTitleOrDescriptionAndTagName(search, tagName.get()));
-        	else
-        		model.addAttribute("chObjects", objectService.findByTagName(tagName.get()));
+            model.addAttribute("selectedTag", tagName.get());
+            if (search != null)
+                objects = objectService.findByTitleOrDescriptionAndTagName(search, tagName.get());
+            else
+                objects = objectService.findByTagName(tagName.get());
+        } else {
+            if (search != null)
+                objects = objectService.findByTitleOrDescription(search);
+            else
+                objects = objectService.findAll();
         }
-        else {
-        	if (search != null)
-        		model.addAttribute("chObjects", objectService.findByTitleOrDescription(search));
-        	else
-        		model.addAttribute("chObjects", objectService.findAll());
-        }
+
+        // Pages
+        List<Integer> pages = new ArrayList<>();
+        for (int i = 1; i <= objectService.numberOfPages(objects); i++)
+            pages.add(i);
+        model.addAttribute("pages", pages);
+        model.addAttribute("currentPage", pageNumber);
+        model.addAttribute("previousPage", pageNumber == 1 ? 1 : pageNumber - 1);
+        model.addAttribute("nextPage", pageNumber == pages.size() ? pages.size() : pageNumber + 1);
+
+        // Objects acording to the pagination
+        System.out.println("PAGE " + pageNumber);
+        objects = objectService.paginate(objects, pageNumber);
+        model.addAttribute("chObjects", objects);
 
         return "gallery";
     }
@@ -85,7 +109,7 @@ public class GalleryController {
         model.addAttribute("isReviewedByUser", reviewService.hasReviewBy(object, authService.getPrincipal()));
         model.addAttribute("user", user);
         model.addAttribute("time", date.getTime());
-        model.addAttribute("HMAC", user == null? "" : apiService.getHMAC(user, date));
+        model.addAttribute("HMAC", user == null ? "" : apiService.getHMAC(user, date));
 
         return "object";
     }

@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html xmlns:th="http://www.thymeleaf.org" th:include="layout :: page">
 <!--/*@thymesVar id="chObjects" type="java.util.List<ie.cit.adf.muss.domain.ChObject>"*/-->
+<!--/*@thymesVar id="chObjects" type="java.util.List<java.lang.Integer>"*/-->
 
 <head>
     <meta charset="utf-8"/>
@@ -64,7 +65,7 @@
                th:href="(${selectedTag} == ${tag} ? @{/gallery} : @{/gallery/tag/{tagName}(tagName=${tag})}) + (${search} ? '?s='+${search} : '')" th:text="${tag}"></a>
         </div>
     </div>
-    
+
     <h4 th:if="${search}" th:text="'Showing results for: ' + ${search}"></h4>
 
     <div class="grid">
@@ -83,6 +84,27 @@
             </div>
         </div>
     </div>
+
+
+    <nav style="text-align: center">
+        <ul class="pagination">
+            <li>
+                <a th:href="@{/gallery/p/{page}(page=${previousPage})}" aria-label="Previous">
+                    <span aria-hidden="true">&laquo;</span>
+                </a>
+            </li>
+            <li th:each="i : ${pages}" th:class="(${i == currentPage}) ? 'active' : ''">
+            <a th:href="@{/gallery/p/{page}(page=${i})}"
+                   th:text="${i}"></a>
+            </li>
+            <li>
+                <a th:href="@{/gallery/p/{page}(page=${nextPage})}" aria-label="Next">
+                    <span aria-hidden="true">&raquo;</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+
 </div>
 </body>
 </html>

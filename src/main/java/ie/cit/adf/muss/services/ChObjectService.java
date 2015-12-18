@@ -1,6 +1,7 @@
 package ie.cit.adf.muss.services;
 
 import java.util.List;
+import java.util.stream.Collectors;
 
 import ie.cit.adf.muss.domain.Review;
 import ie.cit.adf.muss.domain.Tag;
@@ -19,7 +20,9 @@ import ie.cit.adf.muss.repositories.ChObjectRepository;
 @Service
 public class ChObjectService extends CrudService<ChObject> {
 
-	// ------------------- Managed repository --------------------
+    private static final int DEFAULT_ITEMS_PER_PAGE = 9;
+
+    // ------------------- Managed repository --------------------
 
     @Autowired
     ChObjectRepository objectRepository;
@@ -69,23 +72,23 @@ public class ChObjectService extends CrudService<ChObject> {
     public long count() {
         return objectRepository.count();
     }
-    
+
     public List<ChObject> findByTagName(String name) {
-    	return objectRepository.findByTagName(name);
+        return objectRepository.findByTagName(name);
     }
 
     public List<ChObject> findByTitleOrDescription(String search) {
-    	return objectRepository.findByTitleOrDescription(search);
+        return objectRepository.findByTitleOrDescription(search);
     }
 
     public List<ChObject> findByTitleOrDescriptionAndTagName(String search, String tagName) {
-    	return objectRepository.findByTitleOrDescriptionAndTagName(search, tagName);
+        return objectRepository.findByTitleOrDescriptionAndTagName(search, tagName);
     }
 
     // USE CASES:
 
     public boolean isLikedBy(ChObject object, User user) {
-        if (object == null  ||  user == null)
+        if (object == null || user == null)
             return false;
         for (ChObject liked : user.getChObjectLikes())
             if (liked.equals(object))
@@ -115,19 +118,18 @@ public class ChObjectService extends CrudService<ChObject> {
         try {
             if (real)
                 gamificationService.assignPoints(Gamification.LIKEGIVEN, user);
-        }
-        catch (NullPointerException e) {
+        } catch (NullPointerException e) {
             // TODO fix
 
         }
     }
 
     public void removeLike(ChObject object, User user) {
-    	boolean real = object.removeLike(user);
+        boolean real = object.removeLike(user);
         save(object);
 
-        if(real)
-			gamificationService.removePoints(Gamification.LIKEGIVEN, user);
+        if (real)
+            gamificationService.removePoints(Gamification.LIKEGIVEN, user);
     }
 
     public void addReview(ChObject object, Review review) {
@@ -137,4 +139,28 @@ public class ChObjectService extends CrudService<ChObject> {
         ReviewNotification notification = new ReviewNotification(review);
         notificationService.notificateFollowers(notification, review.getUser());
     }
+
+    public List<ChObject> paginate(List<ChObject> objects, int currentPage) {
+        return paginate(objects, currentPage, DEFAULT_ITEMS_PER_PAGE);
+    }
+
+    public List<ChObject> paginate(List<ChObject> objects, int currentPage, int itemsPerPage) {
+        int elementsToSkip = currentPage * itemsPerPage;
+        return objects.stream()
+                .skip(elementsToSkip)
+                .limit(itemsPerPage)
+                .collect(Collectors.toList());
+    }
+
+    public int numberOfPages(List<ChObject> objects, int itemsPerPage) {
+        float result = (float) objects.size() / (float) itemsPerPage;
+        if (result % 1 > 0)
+            return Math.round(result);
+        return Math.round(result) - 1;
+    }
+
+    public int numberOfPages(List<ChObject> objects) {
+        return numberOfPages(objects, DEFAULT_ITEMS_PER_PAGE);
+    }
+
 }
