@@ -1,10 +1,6 @@
 package ie.cit.adf.muss.services;
 
 
-import ie.cit.adf.muss.domain.Gamification;
-import ie.cit.adf.muss.domain.User;
-import ie.cit.adf.muss.repositories.UserRepository;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -12,6 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.util.Assert;
 
+import ie.cit.adf.muss.domain.Gamification;
 import ie.cit.adf.muss.domain.User;
 import ie.cit.adf.muss.domain.notifications.FollowNotification;
 import ie.cit.adf.muss.repositories.UserRepository;
