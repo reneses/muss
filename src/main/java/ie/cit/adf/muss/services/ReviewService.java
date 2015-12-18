@@ -92,16 +92,19 @@ public class ReviewService{
     }
 
 	public void addReview(ChObject object, String title, Integer rating, String content) {
-
+		User principal = authService.getPrincipal();
+		
 		Review review = new Review();
 		review.setRating(rating);
 		review.setTitle(title);
 		review.setContent(content);
 		review.setDate(new Date());
-		review.setUser(authService.getPrincipal());
+		review.setUser(principal);
 
 		object.addReview(review);
 		chObjectService.save(object);
+		
+		gamificationService.assignPoints(Gamification.REVIEW, principal);
 	}
 
 	public boolean hasReviewBy(ChObject object, User user) {
