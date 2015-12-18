@@ -1,0 +1,178 @@
+{
+    "id": "68243961",
+    "tms:id": "276435",
+    "accession_number": "2014-16-1",
+    "title": "Ring (USA), 1961",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68243961\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402685",
+    "type_id": "35236865",
+    "date": "1961",
+    "year_start": 1961,
+    "year_end": 1961,
+    "year_acquired": "2014",
+    "decade": "1960",
+    "woe:country_id": "23424977",
+    "medium": "gold",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "2013, donor bequest to Cooper-Hewitt. Wedding ring commisioned by the donor at the time of her marriage in 1961.",
+    "dimensions": "H x diam.: 1.4 x 2.2 cm (9\/16 x 7\/8 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "2.20",
+            "centimeters"
+        ],
+        "height": [
+            "1.40",
+            "centimeters"
+        ]
+    },
+    "creditline": "Bequest of Merle Sternberg",
+    "description": "Roughly circular form of irregularly curved strands of gold with two narrow solid segments opposite eachother.",
+    "justification": "This ring is part of a group of jewelry offered as a gift to the collection as a bequest from the original owner. The group represents a sampling of Art Smith's work in precious metals and a variety of stones. The individual pieces\u2014a ring and a silver neck ring with five interchangeable pendants\u2014speak not only of mid-20th-century trends in jewelry design but also of the designer and his friendship with the donor, Merle Sternberg. Sternberg commissioned Smith to make the gold ring as her wedding ring in 1961; she married later that year.\nAt the time of proposed acquisition, the museum\u2019s collection includes two works by Smith, a silver bracelet and a pair of gold earrings (ca. 1950), which are different in character from the group of jewelry under consideration. The addition of these pieces would help the museum better tell Smith\u2019s story and the story of 20th-century American jewelry design.",
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Ring",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89134_9a711faa5e0c29f6_b.jpg",
+                "width": 1024,
+                "height": 731,
+                "is_primary": "1",
+                "image_id": "89134"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89134_9a711faa5e0c29f6_z.jpg",
+                "width": 640,
+                "height": 457,
+                "is_primary": "1",
+                "image_id": "89134"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89134_9a711faa5e0c29f6_n.jpg",
+                "width": 320,
+                "height": 228,
+                "is_primary": "1",
+                "image_id": "89134"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89134_9a711faa5e0c29f6_d.gif",
+                "width": 320,
+                "height": 228,
+                "is_primary": "1",
+                "image_id": "89134"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89134_9a711faa5e0c29f6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "89134"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90905_b3b13666ecb9cfe6_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "90905"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90905_b3b13666ecb9cfe6_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "90905"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90905_b3b13666ecb9cfe6_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "90905"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90905_b3b13666ecb9cfe6_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "90905"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90905_b3b13666ecb9cfe6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "90905"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18049319",
+            "role_id": "35236685",
+            "person_name": "Art Smith",
+            "person_date": "American, 1917\u20131982",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049319\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "68243857",
+            "role_id": "35351537",
+            "person_name": "Merle Sternberg",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68243857\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Ring (USA), 1961. gold. Bequest of Merle Sternberg. 2014-16-1."
+    },
+    "colors": [
+        {
+            "color": "#ab9c75",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#8a8883",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#7e6b4c",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#454137",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#d6c8a4",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

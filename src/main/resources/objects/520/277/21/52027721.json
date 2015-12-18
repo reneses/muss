@@ -1,0 +1,216 @@
+{
+    "id": "52027721",
+    "tms:id": "276381",
+    "accession_number": "2013-49-10",
+    "title": "Kayserzinn Crumber, 1898\u20131900",
+    "title_raw": "Kayserzinn",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/52027721\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35369931",
+    "type_id": "52027719",
+    "date": "1898\u20131900",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "2013",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "cast pewter",
+    "markings": "Kayserzinn 4232",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "2013, Gift to CHNDM by Penelope Hunter-Stiebel and Gerald Stiebel",
+    "dimensions": "L x W x D: 29.8 x 7.6 x 2.9 cm (11 3\/4 in. x 3 in. x 1 1\/8 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "2.86",
+            "centimeters"
+        ],
+        "length": [
+            "29.85",
+            "centimeters"
+        ],
+        "width": [
+            "7.62",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Gerald G. Stiebel and Penelope Hunter-Stiebel",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Crumber",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103315_c2376da422b1a29e_b.jpg",
+                "width": 1024,
+                "height": 589,
+                "is_primary": "1",
+                "image_id": "103315"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103315_c2376da422b1a29e_z.jpg",
+                "width": 640,
+                "height": 368,
+                "is_primary": "1",
+                "image_id": "103315"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103315_c2376da422b1a29e_n.jpg",
+                "width": 320,
+                "height": 184,
+                "is_primary": "1",
+                "image_id": "103315"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103315_c2376da422b1a29e_d.gif",
+                "width": 320,
+                "height": 184,
+                "is_primary": "1",
+                "image_id": "103315"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103315_c2376da422b1a29e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "103315"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97268_46a6a4974aa394dd_b.jpg",
+                "width": 1024,
+                "height": 529,
+                "is_primary": "0",
+                "image_id": "97268"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97268_46a6a4974aa394dd_z.jpg",
+                "width": 640,
+                "height": 331,
+                "is_primary": "0",
+                "image_id": "97268"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97268_46a6a4974aa394dd_n.jpg",
+                "width": 320,
+                "height": 165,
+                "is_primary": "0",
+                "image_id": "97268"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97268_46a6a4974aa394dd_d.gif",
+                "width": 320,
+                "height": 165,
+                "is_primary": "0",
+                "image_id": "97268"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97268_46a6a4974aa394dd_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "97268"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94822_065c2920f7e88b64_b.jpg",
+                "width": 1024,
+                "height": 529,
+                "is_primary": "0",
+                "image_id": "94822"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94822_065c2920f7e88b64_z.jpg",
+                "width": 640,
+                "height": 331,
+                "is_primary": "0",
+                "image_id": "94822"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94822_065c2920f7e88b64_n.jpg",
+                "width": 320,
+                "height": 165,
+                "is_primary": "0",
+                "image_id": "94822"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94822_065c2920f7e88b64_d.gif",
+                "width": 320,
+                "height": 165,
+                "is_primary": "0",
+                "image_id": "94822"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94822_065c2920f7e88b64_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "94822"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68244845",
+            "role_id": "35236657",
+            "person_name": "J. P. Kayser & Sohn",
+            "person_date": "Krefeld, Germany, 1894\u20131925",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68244845\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "52015469",
+            "role_id": "35351535",
+            "person_name": "Gerald G. Stiebel",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/52015469\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18064669",
+            "role_id": "35351535",
+            "person_name": "Penelope Hunter-Stiebel",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18064669\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Kayserzinn Crumber, 1898\u20131900. cast pewter. Gift of Gerald G. Stiebel and Penelope Hunter-Stiebel. 2013-49-10."
+    },
+    "colors": [
+        {
+            "color": "#958f84",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#726c60",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#565048",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "is_loan_object": 0
+}

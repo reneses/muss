@@ -1,0 +1,146 @@
+{
+    "id": "52027723",
+    "tms:id": "276382",
+    "accession_number": "2013-49-11",
+    "title": "Kayserzinn Basket, 1900\u20131902",
+    "title_raw": "Kayserzinn",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/52027723\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35369931",
+    "type_id": "35261681",
+    "date": "1900\u20131902",
+    "year_start": null,
+    "year_end": 1902,
+    "year_acquired": "2013",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "cast pewter",
+    "markings": "Kayserzinn 4407 with Roman capital  I",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "2013, Gift to CHNDM by Penelope Hunter-Stiebel and Gerald Stiebel",
+    "dimensions": "H x diam.: 14.3 x 9.5 cm (5 5\/8 x 3 3\/4 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "9.53",
+            "centimeters"
+        ],
+        "height": [
+            "14.29",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Gerald G. Stiebel and Penelope Hunter-Stiebel",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "basket",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103335_7f04b96c0337bbd6_b.jpg",
+                "width": 726,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "103335"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103335_7f04b96c0337bbd6_z.jpg",
+                "width": 454,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "103335"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103335_7f04b96c0337bbd6_n.jpg",
+                "width": 227,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "103335"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103335_7f04b96c0337bbd6_d.gif",
+                "width": 227,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "103335"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103335_7f04b96c0337bbd6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "103335"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103488_d2a52a23ac661f61_b.jpg",
+                "width": 968,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "103488"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103488_d2a52a23ac661f61_z.jpg",
+                "width": 605,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "103488"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103488_d2a52a23ac661f61_n.jpg",
+                "width": 303,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "103488"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103488_d2a52a23ac661f61_d.gif",
+                "width": 303,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "103488"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103488_d2a52a23ac661f61_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "103488"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Kayserzinn Basket, 1900\u20131902. cast pewter. Gift of Gerald G. Stiebel and Penelope Hunter-Stiebel. 2013-49-11."
+    },
+    "colors": [
+        {
+            "color": "#877d6f",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#c4bca9",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#5a564f",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
+}

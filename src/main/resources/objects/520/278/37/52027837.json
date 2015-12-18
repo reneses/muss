@@ -1,0 +1,188 @@
+{
+    "id": "52027837",
+    "tms:id": "276426",
+    "accession_number": "2013-45-2",
+    "title": "Textile, Pinstripe, 2012",
+    "title_raw": "Pinstripe",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/52027837\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "52027835",
+    "type_id": "35251739",
+    "date": "2012",
+    "year_start": 2012,
+    "year_end": 2012,
+    "year_acquired": "2013",
+    "decade": "2010",
+    "woe:country_id": "23424977",
+    "medium": "82% polyester, 18% nylon",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "2013: acquired by Museum",
+    "dimensions": "H x W: 304.8 x 124.8 cm (10 ft. x 49 1\/8 in.)\nRepeat H: 0.6 cm (1\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "0.64",
+            "centimeters"
+        ],
+        "width": [
+            "124.78",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Elizabeth Whelan",
+    "description": "Translucent stretch mesh in clear yarns with a vertical pinstripe of brilliant yellow. Color: Cadmium Yellow.",
+    "justification": "Textile designer Elizabeth Whelan has played a critical role in the development of ergonomic task chair design. Her sleekly beautiful mesh fabrics for Humanscale are integral to the structure and function of the chairs for which they were designed. \nAfter their successful collaboration on Humanscale\u2019s Liberty Chair, in 2009, Diffrient and Whelan began work on a new, lighter-weight task chair, with both a mesh back and seat. The advanced demands of this chair required a new mesh, one which was lighter in weight, more transparent, and yet provided primary support a 300 pound person, in keeping with the goals of the chair. To make the seat comfortable while it provided support, Whelan tested different types of elasticity in the monofilament stretch yarns. The final product uses yarns that have two different elastomer levels, one to provide support and the other recovery. The fabric conforms to the curves of the chair back, providing lumbar support, and the appropriate level of give in the seat relieves contact stress behind the knees. \nHumanscale wanted a simple floating line of color, and Whelan found inspiration in the cables of the Brooklyn Bridge. The thicker, colored yarns mimic the role of the vertical \u2018suspenders\u2019 that hang down from the suspension cables. This sparing use of intense color in a transparent field uses 50% less dye than her earlier Monofilament Stripe mesh. \nThe World Chair, which wouldn\u2019t function ergonomically without Whelan\u2019s fabrics, has won numerous awards including the Best of the Best in the Red Dot Competition 2010, and Best GIO Design Award, 2012.",
+    "gallery_text": null,
+    "label_text": "This high-performance mesh was designed for Humanscale\u2019s 2012 Diffrient World chair (designed by Niels Diffrient). The fabric provides body and lumbar support, and enough elasticity in the seat to relieve stress behind the knees. Humanscale wanted a simple floating line of color, and Whelan found her inspiration in the cables of the Brooklyn Bridge.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91240_bf300c9e5acc59b5_b.jpg",
+                "width": 821,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "91240"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91240_bf300c9e5acc59b5_z.jpg",
+                "width": 513,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "91240"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91240_bf300c9e5acc59b5_n.jpg",
+                "width": 257,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "91240"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91240_bf300c9e5acc59b5_d.gif",
+                "width": 257,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "91240"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91240_bf300c9e5acc59b5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "91240"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91241_7308a66287ba1a09_b.jpg",
+                "width": 800,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "91241"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91241_7308a66287ba1a09_z.jpg",
+                "width": 500,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "91241"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91241_7308a66287ba1a09_n.jpg",
+                "width": 250,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "91241"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91241_7308a66287ba1a09_d.gif",
+                "width": 250,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "91241"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91241_7308a66287ba1a09_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "91241"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "52016051",
+            "role_id": "35236655",
+            "person_name": "Elizabeth Whelan",
+            "person_date": "American, b. 1961",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/52016051\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "52016051",
+            "role_id": "35351535",
+            "person_name": "Elizabeth Whelan",
+            "person_date": "American, b. 1961",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/52016051\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18058829",
+            "role_id": "35236675",
+            "person_name": "Humanscale",
+            "person_date": "",
+            "role_name": "For",
+            "role_display_name": "Made for",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058829\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236675\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile, Pinstripe, 2012. 82% polyester, 18% nylon. Gift of Elizabeth Whelan. 2013-45-2."
+    },
+    "colors": [
+        {
+            "color": "#f1cb3b",
+            "closest_crayola": "#ffcf48",
+            "closest_css3": "#daa520",
+            "closest_css4": "#daa520"
+        },
+        {
+            "color": "#a9a39b",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#87827e",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#645a53",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#e0c085",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#deb887",
+            "closest_css4": "#deb887"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

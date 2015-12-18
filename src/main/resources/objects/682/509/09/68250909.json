@@ -1,0 +1,154 @@
+{
+    "id": "68250909",
+    "tms:id": "276817",
+    "accession_number": "8.2014.6",
+    "title": "Photograph, Baby Terrier Crate Opener, by Bridgeport Hardware Mfg. Corp., 69 cents, 1955",
+    "title_raw": "Baby Terrier Crate Opener, by Bridgeport Hardware Mfg. Corp., 69 cents",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68250909\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "35419767",
+    "type_id": "35247381",
+    "date": "1955",
+    "year_start": 1955,
+    "year_end": 1955,
+    "year_acquired": null,
+    "decade": "1950",
+    "woe:country_id": "23424977",
+    "medium": "gelatin silver print",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 25 \u00d7 20 cm (9 7\/8 \u00d7 7 7\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "25.00",
+            "centimeters"
+        ],
+        "width": [
+            "20.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "The J. Paul Getty Museum, Los Angeles, 84.XM.956.1060",
+    "description": null,
+    "justification": null,
+    "gallery_text": "In the July 1955 issue of Fortune Magazine, the American photographer Walker Evans celebrated iconic hand tools in a photographic essay, \"Beauties of the Common Tool.\" Referring to the hardware store as an \"offbeat museum show,\" Evans praised the \"undesigned\" forms of classic tools and chided the \"design-happy manufacturers\" who dared to change the least detail. Tin snips, a bricklayer\u2019s trowel, chain-nose pliers, and a crate opener were, in Evans\u2019s eyes, standards of \"elegance, candor, and purity.\" Ultimately, what Evans valued was the design, the construction that resulted from the maker\u2019s understanding of function, efficiency of form, and material.",
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "photograph",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88439_46413a8327ca7aa1_b.jpg",
+                "width": 282,
+                "height": 345,
+                "is_primary": "1",
+                "image_id": "88439"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88439_46413a8327ca7aa1_z.jpg",
+                "width": 282,
+                "height": 345,
+                "is_primary": "1",
+                "image_id": "88439"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88439_46413a8327ca7aa1_n.jpg",
+                "width": 262,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "88439"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88439_46413a8327ca7aa1_d.gif",
+                "width": 262,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "88439"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88439_46413a8327ca7aa1_sq.jpg",
+                "width": 282,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "88439"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113749_087837767d572385_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113749"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113749_087837767d572385_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113749"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113749_087837767d572385_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113749"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113749_087837767d572385_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113749"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113749_087837767d572385_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113749"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68248381",
+            "role_id": "35236631",
+            "person_name": "Walker Evans",
+            "person_date": "(American, 1903 - 1975)",
+            "role_name": "Photographer",
+            "role_display_name": "Photographed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248381\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236631\/"
+        },
+        {
+            "person_id": "18058979",
+            "role_id": "51571131",
+            "person_name": "The J. Paul Getty Museum",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058979\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Photograph, Baby Terrier Crate Opener, by Bridgeport Hardware Mfg. Corp., 69 cents, 1955. gelatin silver print. The J. Paul Getty Museum, Los Angeles, 84.XM.956.1060. 8.2014.6."
+    },
+    "colors": [
+        {
+            "color": "#d2cecb",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

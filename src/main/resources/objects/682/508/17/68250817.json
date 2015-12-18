@@ -1,0 +1,139 @@
+{
+    "id": "68250817",
+    "tms:id": "276787",
+    "accession_number": "2014-38-14",
+    "title": "Handmade Model Of Blocks And Grid, Blocks and Grid, 2012",
+    "title_raw": "Blocks and Grid",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68250817\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "68267739",
+    "type_id": "68267735",
+    "date": "2012",
+    "year_start": 2012,
+    "year_end": 2012,
+    "year_acquired": "2014",
+    "decade": "2010",
+    "woe:country_id": "23424909",
+    "medium": "paper, polyester",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 29 x 20.4 cm (11 7\/16 x 8 1\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "29.00",
+            "centimeters"
+        ],
+        "width": [
+            "20.40",
+            "centimeters"
+        ]
+    },
+    "creditline": "Museum purchase from General Acquisitions Endowment Fund",
+    "description": "Irregular grid of white machine stitching on paper printed in three shades of pale blue. Backed with fiberfill.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": "These samples show the developmental stages of Grid (see finished textile behind you), which Dutch designers Stefan Scholten (b. 1972) and Carole Baijings (b. 1973) either handmade in their studio or wove on industrial looms at the TextielMuseum\u2019s TextielLab in Tilburg, Netherlands. Exploring material, color, and densities of the grid, the designers adjusted their design based on these experiments.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "Handmade model of Blocks and Grid",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88841_eb8998357e4dd584_b.jpg",
+                "width": 732,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "88841"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88841_eb8998357e4dd584_z.jpg",
+                "width": 458,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "88841"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88841_eb8998357e4dd584_n.jpg",
+                "width": 229,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "88841"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88841_eb8998357e4dd584_d.gif",
+                "width": 229,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "88841"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88841_eb8998357e4dd584_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "88841"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18048535",
+            "role_id": "35352247",
+            "person_name": "General Acquisitions Endowment",
+            "person_date": "",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048535\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        },
+        {
+            "person_id": "68248227",
+            "role_id": "35352249",
+            "person_name": "Scholten & Baijings",
+            "person_date": "Amsterdam, Netherlands, founded 2000",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248227\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "68248227",
+            "role_id": "35236655",
+            "person_name": "Scholten & Baijings",
+            "person_date": "Amsterdam, Netherlands, founded 2000",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248227\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Handmade Model Of Blocks And Grid, Blocks and Grid, 2012. paper, polyester. Museum purchase from General Acquisitions Endowment Fund. 2014-38-14."
+    },
+    "colors": [
+        {
+            "color": "#a2a7b0",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#7c8c9e",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        },
+        {
+            "color": "#3e4c61",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
+}

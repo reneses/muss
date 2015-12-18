@@ -1,0 +1,178 @@
+{
+    "id": "52027807",
+    "tms:id": "276413",
+    "accession_number": "2013-30-1",
+    "title": "Poster, Wozzeck, 1964",
+    "title_raw": "Wozzeck",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/52027807\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35399021",
+    "type_id": "35238163",
+    "date": "1964",
+    "year_start": 1964,
+    "year_end": 1964,
+    "year_acquired": "2013",
+    "decade": "1960",
+    "woe:country_id": "23424923",
+    "medium": "offset lithograph on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Martijn Le Coultre; 2013: acquired by Museum (from Christie's London) [1] \n\n\n\n\n\n\n\n\n\n\n\n\n\n[1] Sale 9462, Graphic Masterworks, 2 October 2013.",
+    "dimensions": "H x W: 97.3 \u00d7 67.6 cm (38 5\/16 \u00d7 26 5\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "96.52",
+            "centimeters"
+        ],
+        "width": [
+            "67.31",
+            "centimeters"
+        ]
+    },
+    "creditline": "Museum purchase from Friends of Drawings & Prints Fund",
+    "description": "Poster for Warsaw production of the 1914-22 opera by Alban Berg.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": "This poster depicts a scene from Alban Berg\u2019s atonal opera Wozzeck. The title character stabs the mother of his child and throws the bloodied weapon into a lake. He later drowns while trying to retrieve the knife. The illustration unites Wozzeck\u2019s cries with the currents of the bloodied water and the blood-red moon above.",
+    "videos": null,
+    "on_display": "1",
+    "woe:country": "23424923",
+    "type": "poster",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120709_4a69e384076388e8_b.jpg",
+                "width": 714,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "120709"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120709_4a69e384076388e8_z.jpg",
+                "width": 446,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "120709"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120709_4a69e384076388e8_n.jpg",
+                "width": 223,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "120709"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120709_4a69e384076388e8_d.gif",
+                "width": 223,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "120709"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120709_4a69e384076388e8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "120709"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85150_ca4ca28ac12c1777_b.jpg",
+                "width": 750,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "85150"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85150_ca4ca28ac12c1777_z.jpg",
+                "width": 469,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "85150"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85150_ca4ca28ac12c1777_n.jpg",
+                "width": 234,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "85150"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85150_ca4ca28ac12c1777_d.gif",
+                "width": 234,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "85150"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85150_ca4ca28ac12c1777_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "85150"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18041599",
+            "role_id": "35352249",
+            "person_name": "Christie's",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041599\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "18062853",
+            "role_id": "35236655",
+            "person_name": "Jan Lenica",
+            "person_date": "Polish, 1928 - 2001",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18062853\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, Wozzeck, 1964. offset lithograph on paper. Museum purchase from Friends of Drawings & Prints Fund. 2013-30-1."
+    },
+    "colors": [
+        {
+            "color": "#b33822",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#a52a2a",
+            "closest_css4": "#a52a2a"
+        },
+        {
+            "color": "#413a35",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#d34e20",
+            "closest_crayola": "#c46210",
+            "closest_css3": "#d2691e",
+            "closest_css4": "#d2691e"
+        },
+        {
+            "color": "#7c2524",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#d46975",
+            "closest_crayola": "#cc6666",
+            "closest_css3": "#cd5c5c",
+            "closest_css4": "#cd5c5c"
+        }
+    ],
+    "woe:country_name": "Poland",
+    "is_loan_object": 0
+}

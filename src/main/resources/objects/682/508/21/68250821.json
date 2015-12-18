@@ -1,0 +1,161 @@
+{
+    "id": "68250821",
+    "tms:id": "276789",
+    "accession_number": "2014-38-16",
+    "title": "Industrial Model Of Grid, Blocks and Grid, 2012",
+    "title_raw": "Blocks and Grid",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68250821\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "68267749",
+    "type_id": "68267751",
+    "date": "2012",
+    "year_start": 2012,
+    "year_end": 2012,
+    "year_acquired": "2014",
+    "decade": "2010",
+    "woe:country_id": "23424909",
+    "medium": "cotton, linen, wool, acetate",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 62.2 x 162.5 cm (24 1\/2 in. x 5 ft. 4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "62.20",
+            "centimeters"
+        ],
+        "width": [
+            "162.50",
+            "centimeters"
+        ]
+    },
+    "creditline": "Museum purchase from General Acquisitions Endowment Fund",
+    "description": "Sample woven in shades of off-white and red showing multiple patterns of grids and lines.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": "These samples show the developmental stages of Grid (see finished textile behind you), which Dutch designers Stefan Scholten (b. 1972) and Carole Baijings (b. 1973) either handmade in their studio or wove on industrial looms at the TextielMuseum\u2019s TextielLab in Tilburg, Netherlands. Exploring material, color, and densities of the grid, the designers adjusted their design based on these experiments.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "Industrial model of Grid",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88843_9fb5d5077f74639e_b.jpg",
+                "width": 1024,
+                "height": 700,
+                "is_primary": "1",
+                "image_id": "88843"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88843_9fb5d5077f74639e_z.jpg",
+                "width": 640,
+                "height": 438,
+                "is_primary": "1",
+                "image_id": "88843"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88843_9fb5d5077f74639e_n.jpg",
+                "width": 320,
+                "height": 219,
+                "is_primary": "1",
+                "image_id": "88843"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88843_9fb5d5077f74639e_d.gif",
+                "width": 320,
+                "height": 219,
+                "is_primary": "1",
+                "image_id": "88843"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88843_9fb5d5077f74639e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "88843"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18048535",
+            "role_id": "35352247",
+            "person_name": "General Acquisitions Endowment",
+            "person_date": "",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048535\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        },
+        {
+            "person_id": "68247977",
+            "role_id": "35236745",
+            "person_name": "Textile Museum",
+            "person_date": "Tilburg, Netherlands",
+            "role_name": "Weaver",
+            "role_display_name": "Woven by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68247977\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236745\/"
+        },
+        {
+            "person_id": "68248227",
+            "role_id": "35352249",
+            "person_name": "Scholten & Baijings",
+            "person_date": "Amsterdam, Netherlands, founded 2000",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248227\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "68248227",
+            "role_id": "35236655",
+            "person_name": "Scholten & Baijings",
+            "person_date": "Amsterdam, Netherlands, founded 2000",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248227\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Industrial Model Of Grid, Blocks and Grid, 2012. cotton, linen, wool, acetate. Museum purchase from General Acquisitions Endowment Fund. 2014-38-16."
+    },
+    "colors": [
+        {
+            "color": "#a40f0d",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#b22222",
+            "closest_css4": "#b22222"
+        },
+        {
+            "color": "#eae3cc",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#faebd7",
+            "closest_css4": "#faebd7"
+        },
+        {
+            "color": "#e70a02",
+            "closest_crayola": "#ff2b2b",
+            "closest_css3": "#ff0000",
+            "closest_css4": "#ff0000"
+        },
+        {
+            "color": "#cc8479",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#c9b5a5",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
+}

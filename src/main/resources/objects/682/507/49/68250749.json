@@ -1,0 +1,119 @@
+{
+    "id": "68250749",
+    "tms:id": "276762",
+    "accession_number": "1968-135-75-v",
+    "title": "Fan Leaf (France), late 19th\u2013early 20th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68250749\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "102199975",
+    "type_id": "35256973",
+    "date": "late 19th\u2013early 20th century",
+    "year_start": null,
+    "year_end": 1925,
+    "year_acquired": "1968",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "leaf painted with gouache",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Pre-1968: Harvey Smith; 1968: acquired by the Museum.",
+    "dimensions": "H x W (v): 35.6 x 71.1 cm (14 x 28 in.)",
+    "dimensions_raw": {
+        "height": [
+            "35.56",
+            "centimeters"
+        ],
+        "width": [
+            "71.12",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Harvey Smith",
+    "description": "Black fan leaf painted with gouache showing a scene of birds in front of a cottage.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Fan leaf",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89061_f1df4b9746635214_b.jpg",
+                "width": 1024,
+                "height": 609,
+                "is_primary": "1",
+                "image_id": "89061"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89061_f1df4b9746635214_z.jpg",
+                "width": 640,
+                "height": 380,
+                "is_primary": "1",
+                "image_id": "89061"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89061_f1df4b9746635214_n.jpg",
+                "width": 320,
+                "height": 190,
+                "is_primary": "1",
+                "image_id": "89061"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89061_f1df4b9746635214_d.gif",
+                "width": 320,
+                "height": 190,
+                "is_primary": "1",
+                "image_id": "89061"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89061_f1df4b9746635214_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "89061"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18049985",
+            "role_id": "35351535",
+            "person_name": "Harvey Smith",
+            "person_date": "American, 1906 - 1994",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Fan Leaf (France), late 19th\u2013early 20th century. leaf painted with gouache. Gift of Harvey Smith. 1968-135-75-v."
+    },
+    "colors": [
+        {
+            "color": "#57524b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#78756c",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#aca89a",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

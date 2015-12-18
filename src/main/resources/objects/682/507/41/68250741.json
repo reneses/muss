@@ -1,0 +1,125 @@
+{
+    "id": "68250741",
+    "tms:id": "276758",
+    "accession_number": "1968-135-75-r",
+    "title": "Fan Leaf (France), late 19th\u2013early 20th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68250741\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "102199975",
+    "type_id": "35256973",
+    "date": "late 19th\u2013early 20th century",
+    "year_start": null,
+    "year_end": 1925,
+    "year_acquired": "1968",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "leaf painted with gouache",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Pre-1968: Harvey Smith; 1968: acquired by the Museum.",
+    "dimensions": "H x W (r): 35.6 x 71.8 cm (14 in. x 28 1\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "35.56",
+            "centimeters"
+        ],
+        "width": [
+            "71.76",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Harvey Smith",
+    "description": "Black fan leaf painted with gouache showing insects in flight with purple flowers and orange buds.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Fan leaf",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89057_e6ccc1a05890e026_b.jpg",
+                "width": 1024,
+                "height": 572,
+                "is_primary": "1",
+                "image_id": "89057"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89057_e6ccc1a05890e026_z.jpg",
+                "width": 640,
+                "height": 357,
+                "is_primary": "1",
+                "image_id": "89057"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89057_e6ccc1a05890e026_n.jpg",
+                "width": 320,
+                "height": 179,
+                "is_primary": "1",
+                "image_id": "89057"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89057_e6ccc1a05890e026_d.gif",
+                "width": 320,
+                "height": 179,
+                "is_primary": "1",
+                "image_id": "89057"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89057_e6ccc1a05890e026_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "89057"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18049985",
+            "role_id": "35351535",
+            "person_name": "Harvey Smith",
+            "person_date": "American, 1906 - 1994",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Fan Leaf (France), late 19th\u2013early 20th century. leaf painted with gouache. Gift of Harvey Smith. 1968-135-75-r."
+    },
+    "colors": [
+        {
+            "color": "#837e78",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#493e39",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#bcb6af",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#765b54",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

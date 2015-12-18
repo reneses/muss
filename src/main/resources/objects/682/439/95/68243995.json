@@ -1,0 +1,143 @@
+{
+    "id": "68243995",
+    "tms:id": "276449",
+    "accession_number": "2013-50-7",
+    "title": "Tale Stool, 1951",
+    "title_raw": "Tale",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68243995\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "68250455",
+    "type_id": "35238045",
+    "date": "1951",
+    "year_start": 1951,
+    "year_end": 1951,
+    "year_acquired": "2013",
+    "decade": "1950",
+    "woe:country_id": "23424812",
+    "medium": "painted wood, mahogany-veneered molded plywood",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Acquired by Cooper Hewitt from donor, 2013. Acquired by donor in 2006.",
+    "dimensions": "H x W x D: 40.5 x 67.6 x 55.9 cm (15 15\/16 in. x 26 5\/8 in. x 22 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "55.88",
+            "centimeters"
+        ],
+        "height": [
+            "40.48",
+            "centimeters"
+        ],
+        "width": [
+            "67.63",
+            "centimeters"
+        ]
+    },
+    "creditline": "The Linda and Irwin R. Berman Stool Collection",
+    "description": "Curved triangular plywood seat on white-painted tripod base with three tapering legs.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424812",
+    "type": "stool",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/102592_871186f3dea86caf_b.jpg",
+                "width": 1024,
+                "height": 986,
+                "is_primary": "1",
+                "image_id": "102592"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/102592_871186f3dea86caf_z.jpg",
+                "width": 640,
+                "height": 616,
+                "is_primary": "1",
+                "image_id": "102592"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/102592_871186f3dea86caf_n.jpg",
+                "width": 320,
+                "height": 308,
+                "is_primary": "1",
+                "image_id": "102592"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/102592_871186f3dea86caf_d.gif",
+                "width": 320,
+                "height": 308,
+                "is_primary": "1",
+                "image_id": "102592"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/102592_871186f3dea86caf_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "102592"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18538409",
+            "role_id": "35236657",
+            "person_name": "Asko Oy",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538409\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18056281",
+            "role_id": "35236655",
+            "person_name": "Ilmari Tapiovaara",
+            "person_date": "Finnish, 1914 - 1999",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056281\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18056929",
+            "role_id": "35351535",
+            "person_name": "Irwin R. Berman",
+            "person_date": "American",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056929\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Tale Stool, 1951. painted wood, mahogany-veneered molded plywood. The Linda and Irwin R. Berman Stool Collection. 2013-50-7."
+    },
+    "colors": [
+        {
+            "color": "#836452",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#e1ddcb",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
+        },
+        {
+            "color": "#8b7d72",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "Finland",
+    "is_loan_object": 0
+}

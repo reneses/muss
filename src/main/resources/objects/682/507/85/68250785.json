@@ -1,0 +1,180 @@
+{
+    "id": "68250785",
+    "tms:id": "276774",
+    "accession_number": "2014-38-1",
+    "title": "Paper Porcelain Espresso Cup, Concept Model, 2009",
+    "title_raw": "Paper Porcelain",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68250785\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "68267685",
+    "type_id": "68267687",
+    "date": "2009",
+    "year_start": 2009,
+    "year_end": 2009,
+    "year_acquired": "2014",
+    "decade": "2000",
+    "woe:country_id": "23424909",
+    "medium": "cut, scored, assembled cardboard, paper tape, applied pencil line",
+    "markings": "\"1\" penciled on top of tab handle",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "2014, acquired by Cooper-Hewitt directly from the designers.",
+    "dimensions": "H x W x D: 5.7 x 7.5 x 5.4 cm (2 1\/4 x 2 15\/16 x 2 1\/8 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "5.40",
+            "centimeters"
+        ],
+        "height": [
+            "5.72",
+            "centimeters"
+        ],
+        "width": [
+            "7.46",
+            "centimeters"
+        ]
+    },
+    "creditline": "Museum purchase from General Acquisitions Endowment Fund",
+    "description": "Cylindrical cup with straight sides, squared D-shaped tab handle and tapered curved base. Cut and scored light gray cardboard; applied paper tape on body and underside; \u201c1\u201d penciled on top of tab handle",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": "The Paper Porcelain tableware series was conceived as a project to translate paper models\u2014an integral part of the designer\u2019s process\u2014into porcelain. Dutch designers Stefan Scholten (b. 1972) and Carole Baijings (b. 1973) started by drawing to figure out forms, geometry, and color. Next, they created cut, folded, scored, and taped cardboard models, and then unglazed porcelain prototypes. To recreate the cardboard\u2019s spotted, gray surface in the porcelain prototypes, the designers developed a specific mix of porcelain to which they added metal drill dust. Strips of paper tape on the cardboard models were recreated using ceramic glazes. Pencil lines applied by hand to the porcelain prototypes indicated the scored lines of the cardboard. The final tableware manufactured by Hay is made of molded and glazed porcelain, and faithfully mimics the spotted gray of the original cardboard and the beige \u201cpaper tape.\u201d",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "Espresso cup, concept model",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90653_9af948d240094dcc_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "90653"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90653_9af948d240094dcc_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "90653"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90653_9af948d240094dcc_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90653"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90653_9af948d240094dcc_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90653"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90653_9af948d240094dcc_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "90653"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118829_42f3b26e8bbfdca3_b.jpg",
+                "width": 1024,
+                "height": 840,
+                "is_primary": "0",
+                "image_id": "118829"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118829_42f3b26e8bbfdca3_z.jpg",
+                "width": 640,
+                "height": 525,
+                "is_primary": "0",
+                "image_id": "118829"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118829_42f3b26e8bbfdca3_n.jpg",
+                "width": 320,
+                "height": 263,
+                "is_primary": "0",
+                "image_id": "118829"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118829_42f3b26e8bbfdca3_d.gif",
+                "width": 320,
+                "height": 263,
+                "is_primary": "0",
+                "image_id": "118829"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118829_42f3b26e8bbfdca3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "118829"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18048535",
+            "role_id": "35352247",
+            "person_name": "General Acquisitions Endowment",
+            "person_date": "",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048535\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        },
+        {
+            "person_id": "68248227",
+            "role_id": "35352249",
+            "person_name": "Scholten & Baijings",
+            "person_date": "Amsterdam, Netherlands, founded 2000",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248227\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "68248227",
+            "role_id": "35236655",
+            "person_name": "Scholten & Baijings",
+            "person_date": "Amsterdam, Netherlands, founded 2000",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248227\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Paper Porcelain Espresso Cup, Concept Model, 2009. cut, scored, assembled cardboard, paper tape, applied pencil line. Museum purchase from General Acquisitions Endowment Fund. 2014-38-1."
+    },
+    "colors": [
+        {
+            "color": "#ede6d0",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#faebd7",
+            "closest_css4": "#faebd7"
+        },
+        {
+            "color": "#c3b79d",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#9a8d75",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
+}

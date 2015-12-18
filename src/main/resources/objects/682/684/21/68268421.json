@@ -1,0 +1,215 @@
+{
+    "id": "68268421",
+    "tms:id": "277012",
+    "accession_number": "2014-14-1",
+    "title": "Saltillo Serape (northern Mexico), ca. 1880",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68268421\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "68268417",
+    "type_id": "68268419",
+    "date": "ca. 1880",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "2014",
+    "decade": null,
+    "woe:country_id": "23424900",
+    "medium": "two-ply machine spun undyed cotton (warp); handspun undyed wool (brown and white), handspun indigo-dyed wool, handspun synthetic-dyed wool (weft)",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "2014: acquired by Museum from Mr. Paul Cahn",
+    "dimensions": "H x W: 198.1 \u00d7 121.9 cm (78 \u00d7 48 in.)",
+    "dimensions_raw": {
+        "height": [
+            "198.12",
+            "centimeters"
+        ],
+        "width": [
+            "121.92",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Paul and Elissa Cahn",
+    "description": "Late Classic Saltillo serape with a brown field and a central aggregate diamond. Brown field has a repeating red dot pattern with a white wavy dot stripe on either side. Warp ends have multicolored stripes and short off-white fringe. Side borders are stacked, variegated rhombuses in red, purple, yellow-green, dark blue, and light blue.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424900",
+    "type": "Saltillo serape",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91280_229ad70149d6b87e_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "91280"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91280_229ad70149d6b87e_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "91280"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91280_229ad70149d6b87e_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "91280"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91280_229ad70149d6b87e_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "91280"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91280_229ad70149d6b87e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "91280"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91297_4e7285cda739c1a6_b.jpg",
+                "width": 1024,
+                "height": 607,
+                "is_primary": "0",
+                "image_id": "91297"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91297_4e7285cda739c1a6_z.jpg",
+                "width": 640,
+                "height": 379,
+                "is_primary": "0",
+                "image_id": "91297"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91297_4e7285cda739c1a6_n.jpg",
+                "width": 320,
+                "height": 190,
+                "is_primary": "0",
+                "image_id": "91297"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91297_4e7285cda739c1a6_d.gif",
+                "width": 320,
+                "height": 190,
+                "is_primary": "0",
+                "image_id": "91297"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91297_4e7285cda739c1a6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "91297"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91296_635f184d523697a9_b.jpg",
+                "width": 893,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "91296"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91296_635f184d523697a9_z.jpg",
+                "width": 558,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "91296"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91296_635f184d523697a9_n.jpg",
+                "width": 279,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "91296"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91296_635f184d523697a9_d.gif",
+                "width": 279,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "91296"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91296_635f184d523697a9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "91296"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68724125",
+            "role_id": "35351535",
+            "person_name": "Elissa Cahn",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68724125\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "68264157",
+            "role_id": "35351535",
+            "person_name": "Paul Cahn",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68264157\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Saltillo Serape (northern Mexico), ca. 1880. two-ply machine spun undyed cotton (warp); handspun undyed wool (brown and white), handspun indigo-dyed wool, handspun synthetic-dyed wool (weft). Gift of Paul and Elissa Cahn. 2014-14-1."
+    },
+    "colors": [
+        {
+            "color": "#b4120a",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#b22222",
+            "closest_css4": "#b22222"
+        },
+        {
+            "color": "#ad9f39",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#e0aa86",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#deb887",
+            "closest_css4": "#deb887"
+        },
+        {
+            "color": "#86181a",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#8b0000",
+            "closest_css4": "#8b0000"
+        },
+        {
+            "color": "#634335",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "Mexico",
+    "is_loan_object": 0
+}

@@ -1,0 +1,178 @@
+{
+    "id": "68268323",
+    "tms:id": "276982",
+    "accession_number": "2015-1-28",
+    "title": "Textile, Fly-Tox, 1999",
+    "title_raw": "Fly-Tox",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68268323\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35398435",
+    "type_id": "35251739",
+    "date": "1999",
+    "year_start": 1999,
+    "year_end": 1999,
+    "year_acquired": "2015",
+    "decade": "1990",
+    "woe:country_id": "23424909",
+    "medium": "100% cotton",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Guaranteed Dutch Wax Vlisco 0A0020  (printed in selvedge)",
+    "provenance": "2014: acquired by the Museum from the Vlisco archives.",
+    "dimensions": "H x W: 183.5 x 119.4 cm (72 1\/4 x 47 in.)",
+    "dimensions_raw": {
+        "height": [
+            "183.52",
+            "centimeters"
+        ],
+        "width": [
+            "119.38",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Vlisco",
+    "description": "Hands spraying aerosol cans on a background of small dots. Printed in brown, blue and purple on an off-white ground.",
+    "justification": "Vlisco is the last remaining European manufacturer of \u201cDutch wax prints,\u201d the vibrantly patterned cottons worn throughout western Africa and the diaspora. In the art and design world, they have been made well-known through the work of artist Yinka Shonibare, who deploys them frequently as a commentary on colonialism. But they remain, for many, a symbol of authentic African-ness. \nThese types of fabrics were originally designed for the Indonesian market, the wax-resist process a mechanized version of batik. The fabrics found a more receptive audience in West Africa, and over time the design and coloration was adapted to this market, although effects unique to the wax process, like crackle and bubbles, are still apparent. The designs are created in the Netherlands through a unique collaborative process with traders\u2014primarily women who run the open-air markets where the fabrics are sold. The traders can get an exclusive on a particular design or colorway, or suggest themes for designs. They also assign names to the designs, which may give them particular local resonance. \nFrom the mid-19th to mid-20th century, Vlisco was one among many competitors in this market, with major centers in Mulhouse, France and Manchester, England. Today the competition comes primarily from China, with printed copies. But Vlisco\u2019s dedication to the traditional wax-resist technique, along with consistently high-quality and innovative designs, has made the \u201cVlisco Real Dutch Wax\u201d label into a global status symbol.",
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/142993_08494dba3569fdb3_b.jpg",
+                "width": 975,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "142993"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/142993_08494dba3569fdb3_z.jpg",
+                "width": 609,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "142993"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/142993_08494dba3569fdb3_n.jpg",
+                "width": 305,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "142993"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/142993_08494dba3569fdb3_d.gif",
+                "width": 305,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "142993"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/142993_08494dba3569fdb3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "142993"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90879_d2f6ff1c2d8d4265_b.jpg",
+                "width": 398,
+                "height": 472,
+                "is_primary": "0",
+                "image_id": "90879"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90879_d2f6ff1c2d8d4265_z.jpg",
+                "width": 398,
+                "height": 472,
+                "is_primary": "0",
+                "image_id": "90879"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90879_d2f6ff1c2d8d4265_n.jpg",
+                "width": 270,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "90879"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90879_d2f6ff1c2d8d4265_d.gif",
+                "width": 270,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "90879"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90879_d2f6ff1c2d8d4265_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "90879"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68263925",
+            "role_id": "35236655",
+            "person_name": "Misja van Daal",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68263925\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "68263859",
+            "role_id": "35236657",
+            "person_name": "Vlisco",
+            "person_date": "Helmond, Netherlands, founded 1846",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68263859\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile, Fly-Tox, 1999. 100% cotton. Gift of Vlisco. 2015-1-28."
+    },
+    "colors": [
+        {
+            "color": "#736857",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#584c3e",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#414d7b",
+            "closest_crayola": "#58427c",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        },
+        {
+            "color": "#d0d0b7",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#3c2c29",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
+}

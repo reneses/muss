@@ -1,0 +1,139 @@
+{
+    "id": "68244089",
+    "tms:id": "276490",
+    "accession_number": "2013-50-47",
+    "title": "Mondrian Stool, 2007",
+    "title_raw": "Mondrian",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68244089\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "68267591",
+    "type_id": "35238045",
+    "date": "2007",
+    "year_start": 2007,
+    "year_end": 2007,
+    "year_acquired": "2013",
+    "decade": "2000",
+    "woe:country_id": "23424977",
+    "medium": "plexiglass (edgelite green), softballs",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 59.7 x 73 x 46 cm (23 1\/2 x 28 3\/4 x 18 1\/8 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "46.04",
+            "centimeters"
+        ],
+        "height": [
+            "59.69",
+            "centimeters"
+        ],
+        "width": [
+            "73.03",
+            "centimeters"
+        ]
+    },
+    "creditline": "The Linda and Irwin R. Berman Stool Collection",
+    "description": "Rectilinear form of thick, polished Plexiglass with green edges; moveable seat flanked on left and right by two sets of softballs, above and below; seat lowers with sitters' weight, making it possible for sitter to rock on lower set of softballs.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "stool",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103587_ef712b639e905087_b.jpg",
+                "width": 1024,
+                "height": 928,
+                "is_primary": "1",
+                "image_id": "103587"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103587_ef712b639e905087_z.jpg",
+                "width": 640,
+                "height": 580,
+                "is_primary": "1",
+                "image_id": "103587"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103587_ef712b639e905087_n.jpg",
+                "width": 320,
+                "height": 290,
+                "is_primary": "1",
+                "image_id": "103587"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103587_ef712b639e905087_d.gif",
+                "width": 320,
+                "height": 290,
+                "is_primary": "1",
+                "image_id": "103587"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103587_ef712b639e905087_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "103587"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18056929",
+            "role_id": "35236655",
+            "person_name": "Irwin R. Berman",
+            "person_date": "American",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056929\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18056929",
+            "role_id": "35351535",
+            "person_name": "Irwin R. Berman",
+            "person_date": "American",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056929\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Mondrian Stool, 2007. plexiglass (edgelite green), softballs. The Linda and Irwin R. Berman Stool Collection. 2013-50-47."
+    },
+    "colors": [
+        {
+            "color": "#8e9b9a",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        },
+        {
+            "color": "#4e7870",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#96a98e",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#8fbc8f",
+            "closest_css4": "#8fbc8f"
+        },
+        {
+            "color": "#d6e5a6",
+            "closest_crayola": "#edd19c",
+            "closest_css3": "#eee8aa",
+            "closest_css4": "#eee8aa"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

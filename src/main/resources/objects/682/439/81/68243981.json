@@ -1,0 +1,133 @@
+{
+    "id": "68243981",
+    "tms:id": "276444",
+    "accession_number": "2013-50-2",
+    "title": "Lukki Stool, 1952",
+    "title_raw": "Lukki",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68243981\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "68250445",
+    "type_id": "35238045",
+    "date": "1952",
+    "year_start": 1952,
+    "year_end": 1952,
+    "year_acquired": "2013",
+    "decade": "1950",
+    "woe:country_id": "23424812",
+    "medium": "bent wood, painted bent tubular steel, plastic (feet)",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "2013, acquired by Cooper-Hewitt from donor. Acquired by donor before 2003.",
+    "dimensions": "H x W x D: 43.5 x 35.7 x 33.2 cm (17 1\/8 x 14 1\/16 x 13 1\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "33.18",
+            "centimeters"
+        ],
+        "height": [
+            "43.50",
+            "centimeters"
+        ],
+        "width": [
+            "35.72",
+            "centimeters"
+        ]
+    },
+    "creditline": "The Linda and Irwin R. Berman Stool Collection",
+    "description": "Triangular seat fromed of circular plywood panel with downward-molded edges; seat mounted on black-painted tubular metal three-legged base; red caps on feet.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424812",
+    "type": "stool",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103026_b32d5c688446a5f0_b.jpg",
+                "width": 817,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "103026"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103026_b32d5c688446a5f0_z.jpg",
+                "width": 511,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "103026"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103026_b32d5c688446a5f0_n.jpg",
+                "width": 255,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "103026"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103026_b32d5c688446a5f0_d.gif",
+                "width": 255,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "103026"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103026_b32d5c688446a5f0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "103026"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18056281",
+            "role_id": "35236655",
+            "person_name": "Ilmari Tapiovaara",
+            "person_date": "Finnish, 1914 - 1999",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056281\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18056929",
+            "role_id": "35351535",
+            "person_name": "Irwin R. Berman",
+            "person_date": "American",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056929\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Lukki Stool, 1952. bent wood, painted bent tubular steel, plastic (feet). The Linda and Irwin R. Berman Stool Collection. 2013-50-2."
+    },
+    "colors": [
+        {
+            "color": "#b59b6d",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#4d4845",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#decaa0",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#deb887",
+            "closest_css4": "#deb887"
+        }
+    ],
+    "woe:country_name": "Finland",
+    "is_loan_object": 0
+}

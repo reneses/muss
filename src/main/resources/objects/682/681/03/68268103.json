@@ -1,0 +1,225 @@
+{
+    "id": "68268103",
+    "tms:id": "276908",
+    "accession_number": "2014-9-6",
+    "title": "Drawing, Preparatory Drawings for Thermostat, August 15, 2011",
+    "title_raw": "Preparatory Drawings for Thermostat",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68268103\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "68268101",
+    "type_id": "35237093",
+    "date": "August 15, 2011",
+    "year_start": 2011,
+    "year_end": 2011,
+    "year_acquired": "2014",
+    "decade": "2010",
+    "woe:country_id": "23424977",
+    "medium": "pen and red, black ink on cream sketchbook paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Nest Labs to Cooper-Hewitt, March 2014",
+    "dimensions": "H x W: 14.8 x 10.5 cm (5 13\/16 x 4 1\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "14.80",
+            "centimeters"
+        ],
+        "width": [
+            "10.50",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Nest Labs, Inc.",
+    "description": "Preparatory drawing for thermostat manufactured by Nest Labs, Inc. Design for thermostat with annotations, profile and back views. Verso: design and annotations.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90776_4f6b7d0799b1ca70_b.jpg",
+                "width": 723,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "90776"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90776_4f6b7d0799b1ca70_z.jpg",
+                "width": 452,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "90776"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90776_4f6b7d0799b1ca70_n.jpg",
+                "width": 226,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90776"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90776_4f6b7d0799b1ca70_d.gif",
+                "width": 226,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90776"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90776_4f6b7d0799b1ca70_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "90776"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/224082_303574ea69ba2b60_b.jpg",
+                "width": 757,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "224082"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/224082_303574ea69ba2b60_z.jpg",
+                "width": 473,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "224082"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/224082_303574ea69ba2b60_n.jpg",
+                "width": 237,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "224082"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/224082_303574ea69ba2b60_d.gif",
+                "width": 237,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "224082"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/224082_303574ea69ba2b60_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "224082"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90777_71706cb84dab6a9f_b.jpg",
+                "width": 728,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "90777"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90777_71706cb84dab6a9f_z.jpg",
+                "width": 455,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "90777"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90777_71706cb84dab6a9f_n.jpg",
+                "width": 228,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "90777"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90777_71706cb84dab6a9f_d.gif",
+                "width": 228,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "90777"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90777_71706cb84dab6a9f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "90777"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "51676507",
+            "role_id": "35236657",
+            "person_name": "Nest Labs, Inc.",
+            "person_date": "USA",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676507\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "68263733",
+            "role_id": "35236655",
+            "person_name": "John Benjamin Filson",
+            "person_date": "American, b. 1977",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68263733\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "51676507",
+            "role_id": "35351535",
+            "person_name": "Nest Labs, Inc.",
+            "person_date": "USA",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676507\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Preparatory Drawings for Thermostat, August 15, 2011. pen and red, black ink on cream sketchbook paper. Gift of Nest Labs, Inc.. 2014-9-6."
+    },
+    "colors": [
+        {
+            "color": "#bb7157",
+            "closest_crayola": "#b4674d",
+            "closest_css3": "#cd5c5c",
+            "closest_css4": "#cd5c5c"
+        },
+        {
+            "color": "#d6b1a1",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#e8ead5",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#faebd7",
+            "closest_css4": "#faebd7"
+        },
+        {
+            "color": "#965944",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#a6897d",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

@@ -1,0 +1,162 @@
+{
+    "id": "52027769",
+    "tms:id": "276400",
+    "accession_number": "2013-49-29",
+    "title": "Sugar Bowl, 1902",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/52027769\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "136274281",
+    "type_id": "35249119",
+    "date": "1902",
+    "year_start": 1902,
+    "year_end": 1902,
+    "year_acquired": "2013",
+    "decade": "1900",
+    "woe:country_id": null,
+    "medium": "rolled,  stamped and cut silver",
+    "markings": "Maker's mark CH, and assay marks for Birmingham England 1902",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "2013, Gift to CHNDM by Penelope Hunter-Stiebel and Gerald Stiebel",
+    "dimensions": "H x W x D: 8.3 x 12.7 x 8.3 cm (3 1\/4 in. x 5 in. x 3 1\/4 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "8.26",
+            "centimeters"
+        ],
+        "height": [
+            "8.26",
+            "centimeters"
+        ],
+        "width": [
+            "12.70",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Gerald G. Stiebel and Penelope Hunter-Stiebel",
+    "description": "Of oval form; strap handles on left and right; oval cover, hinged at back, curled strap latch at front.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "sugar bowl",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/203995_7f48b36faf43638f_b.jpg",
+                "width": 1024,
+                "height": 848,
+                "is_primary": "1",
+                "image_id": "203995"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/203995_7f48b36faf43638f_z.jpg",
+                "width": 640,
+                "height": 530,
+                "is_primary": "1",
+                "image_id": "203995"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/203995_7f48b36faf43638f_n.jpg",
+                "width": 320,
+                "height": 265,
+                "is_primary": "1",
+                "image_id": "203995"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/203995_7f48b36faf43638f_d.gif",
+                "width": 320,
+                "height": 265,
+                "is_primary": "1",
+                "image_id": "203995"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/203995_7f48b36faf43638f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "203995"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123855_5ca1ee3879d817a8_b.jpg",
+                "width": 994,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "123855"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123855_5ca1ee3879d817a8_z.jpg",
+                "width": 621,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "123855"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123855_5ca1ee3879d817a8_n.jpg",
+                "width": 311,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "123855"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123855_5ca1ee3879d817a8_d.gif",
+                "width": 311,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "123855"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123855_5ca1ee3879d817a8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "123855"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68244837",
+            "role_id": "35236657",
+            "person_name": "Charles Horner Ltd.",
+            "person_date": "England, 1867\u20131984",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68244837\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "52015469",
+            "role_id": "35351535",
+            "person_name": "Gerald G. Stiebel",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/52015469\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18064669",
+            "role_id": "35351535",
+            "person_name": "Penelope Hunter-Stiebel",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18064669\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sugar Bowl, 1902. rolled,  stamped and cut silver. Gift of Gerald G. Stiebel and Penelope Hunter-Stiebel. 2013-49-29."
+    },
+    "colors": [
+
+    ],
+    "is_loan_object": 0
+}

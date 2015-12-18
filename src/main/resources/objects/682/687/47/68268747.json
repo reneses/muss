@@ -1,0 +1,217 @@
+{
+    "id": "68268747",
+    "tms:id": "277104",
+    "accession_number": "1981-49-9-c,d",
+    "title": "Caster With Lid (England), 1717",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68268747\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389463",
+    "type_id": "68268745",
+    "date": "1717",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1981",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "silver",
+    "markings": "On underside of each: maker's mark: \"Grimbode 3093\" and lion's head erased on bezel of each cover.",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Mr. and Mrs. William M. Cahn, Jr.; 1981: acquired by Museum",
+    "dimensions": "H x W x D: 16 \u00d7 6.5 \u00d7 6.5 cm (6 5\/16 \u00d7 2 9\/16 \u00d7 2 9\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "6.50",
+            "centimeters"
+        ],
+        "height": [
+            "16.00",
+            "centimeters"
+        ],
+        "width": [
+            "6.50",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Mr. and Mrs. William M. Cahn, Jr. in memory of Rosalie S. and William M. Cahn",
+    "description": "Small George I caster with lid. Octagonal, pear-shaped, baluster form on molded foot. Panels of domed, octagonal cover pierced with alternate scrolls and stylized urns and bouquets; each cover with baluster finial; fitted with bezel closure.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Caster with lid",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120814_4563f00e5f3f4ebf_b.jpg",
+                "width": 567,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "120814"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120814_4563f00e5f3f4ebf_z.jpg",
+                "width": 354,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "120814"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120814_4563f00e5f3f4ebf_n.jpg",
+                "width": 177,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "120814"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120814_4563f00e5f3f4ebf_d.gif",
+                "width": 177,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "120814"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120814_4563f00e5f3f4ebf_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "120814"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46106_ef1b2456a9507fcb_b.jpg",
+                "width": null,
+                "height": null,
+                "is_primary": "0",
+                "image_id": "46106"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46106_ef1b2456a9507fcb_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "46106"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46106_ef1b2456a9507fcb_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "46106"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46106_ef1b2456a9507fcb_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "46106"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46106_ef1b2456a9507fcb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "46106"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21722_cb45aa6f5c2da1cc_b.jpg",
+                "width": 1024,
+                "height": 755,
+                "is_primary": "0",
+                "image_id": "21722"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21722_cb45aa6f5c2da1cc_z.jpg",
+                "width": 640,
+                "height": 472,
+                "is_primary": "0",
+                "image_id": "21722"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21722_cb45aa6f5c2da1cc_n.jpg",
+                "width": 320,
+                "height": 236,
+                "is_primary": "0",
+                "image_id": "21722"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21722_cb45aa6f5c2da1cc_d.gif",
+                "width": 320,
+                "height": 236,
+                "is_primary": "0",
+                "image_id": "21722"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21722_cb45aa6f5c2da1cc_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "21722"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18058109",
+            "role_id": "35236685",
+            "person_name": "Samuel Welder",
+            "person_date": "",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058109\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18535943",
+            "role_id": "35351535",
+            "person_name": "Mrs. William M. Cahn, Jr.",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535943\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18535941",
+            "role_id": "35351535",
+            "person_name": "William M. Cahn, Jr.",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535941\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Caster With Lid (England), 1717. silver. Gift of Mr. and Mrs. William M. Cahn, Jr. in memory of Rosalie S. and William M. Cahn. 1981-49-9-c,d."
+    },
+    "colors": [
+        {
+            "color": "#382f2b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#5f5650",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#948a82",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
+}

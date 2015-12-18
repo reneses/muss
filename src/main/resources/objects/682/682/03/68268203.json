@@ -1,0 +1,151 @@
+{
+    "id": "68268203",
+    "tms:id": "276934",
+    "accession_number": "2014-12-3",
+    "title": "Folder, Trees, 1960",
+    "title_raw": "Trees",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68268203\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "68268191",
+    "type_id": "35294781",
+    "date": "1960",
+    "year_start": 1960,
+    "year_end": 1960,
+    "year_acquired": "2014",
+    "decade": "1960",
+    "woe:country_id": "23424977",
+    "medium": "luxograph print on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Donor purchased at auction at LA Modern; given to Cooper-Hewitt in 2014.",
+    "dimensions": "L x W (closed): 35.6 x 22.2 cm (14 in. x 8 3\/4 in.)",
+    "dimensions_raw": {
+        "length": [
+            "35.56",
+            "centimeters"
+        ],
+        "width": [
+            "22.23",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Marilyn Friedman",
+    "description": "The mural combines the majesty of structure with the tender delicacy of detail. The cover detail shows the canopy of a group of trees. Printed in actual size, texture and one of the available colorways. Inside shows miniature of the full set of panels with dimensions, available colorways, and suggestions for wall arrangements. Printed in black on white paper.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "folder",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90404_2016fc5a2193bb6c_b.jpg",
+                "width": 1024,
+                "height": 832,
+                "is_primary": "1",
+                "image_id": "90404"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90404_2016fc5a2193bb6c_z.jpg",
+                "width": 640,
+                "height": 520,
+                "is_primary": "1",
+                "image_id": "90404"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90404_2016fc5a2193bb6c_n.jpg",
+                "width": 320,
+                "height": 260,
+                "is_primary": "1",
+                "image_id": "90404"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90404_2016fc5a2193bb6c_d.gif",
+                "width": 320,
+                "height": 260,
+                "is_primary": "1",
+                "image_id": "90404"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90404_2016fc5a2193bb6c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "90404"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68263961",
+            "role_id": "35236657",
+            "person_name": "Design Group Inc.",
+            "person_date": "American",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68263961\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18042721",
+            "role_id": "35236655",
+            "person_name": "Ilonka Karasz",
+            "person_date": "American, b. Hungary, 1896\u20131981",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042721\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18536037",
+            "role_id": "35351535",
+            "person_name": "Marilyn Friedman",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18536037\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Folder, Trees, 1960. luxograph print on paper. Gift of Marilyn Friedman. 2014-12-3."
+    },
+    "colors": [
+        {
+            "color": "#a87c6a",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#d2ac9b",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#886254",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#c8916a",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#e9967a",
+            "closest_css4": "#e9967a"
+        },
+        {
+            "color": "#40322f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

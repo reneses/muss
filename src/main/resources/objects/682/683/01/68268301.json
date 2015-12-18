@@ -1,0 +1,178 @@
+{
+    "id": "68268301",
+    "tms:id": "276973",
+    "accession_number": "2015-1-18",
+    "title": "Textile (Netherlands), 2011",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68268301\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35398435",
+    "type_id": "35251739",
+    "date": "2011",
+    "year_start": 2011,
+    "year_end": 2011,
+    "year_acquired": "2015",
+    "decade": "2010",
+    "woe:country_id": "23424909",
+    "medium": "100% cotton",
+    "markings": "Paper labels: Guaranteed Real Dutch Wax Block Prints  Printed in Holland\n161\/A 1450 SU\n124\/28.176\/2\n513589",
+    "signed": null,
+    "inscribed": "Guaranteed Dutch Wax Vlisco (printed in selvedge)",
+    "provenance": "2014: acquired by the Museum new directly from Vlisco.",
+    "dimensions": "H x W: 548.6 x 120 cm (18 ft. x 47 1\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "548.64",
+            "centimeters"
+        ],
+        "width": [
+            "120.02",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Vlisco",
+    "description": "Women's high-heeled shoes. Printed in indigo, emerald green, lime green, and yellow on a white ground.",
+    "justification": "Vlisco is the last remaining European manufacturer of \u201cDutch wax prints,\u201d the vibrantly patterned cottons worn throughout western Africa and the diaspora. In the art and design world, they have been made well-known through the work of artist Yinka Shonibare, who deploys them frequently as a commentary on colonialism. But they remain, for many, a symbol of authentic African-ness. \nThese types of fabrics were originally designed for the Indonesian market, the wax-resist process a mechanized version of batik. The fabrics found a more receptive audience in West Africa, and over time the design and coloration was adapted to this market, although effects unique to the wax process, like crackle and bubbles, are still apparent. The designs are created in the Netherlands through a unique collaborative process with traders\u2014primarily women who run the open-air markets where the fabrics are sold. The traders can get an exclusive on a particular design or colorway, or suggest themes for designs. They also assign names to the designs, which may give them particular local resonance. \nFrom the mid-19th to mid-20th century, Vlisco was one among many competitors in this market, with major centers in Mulhouse, France and Manchester, England. Today the competition comes primarily from China, with printed copies. But Vlisco\u2019s dedication to the traditional wax-resist technique, along with consistently high-quality and innovative designs, has made the \u201cVlisco Real Dutch Wax\u201d label into a global status symbol.",
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113110_072753f4445ec027_b.jpg",
+                "width": 838,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "113110"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113110_072753f4445ec027_z.jpg",
+                "width": 523,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "113110"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113110_072753f4445ec027_n.jpg",
+                "width": 262,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "113110"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113110_072753f4445ec027_d.gif",
+                "width": 262,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "113110"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113110_072753f4445ec027_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "113110"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90880_db5194ba65c6a24d_b.jpg",
+                "width": 473,
+                "height": 398,
+                "is_primary": "0",
+                "image_id": "90880"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90880_db5194ba65c6a24d_z.jpg",
+                "width": 473,
+                "height": 398,
+                "is_primary": "0",
+                "image_id": "90880"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90880_db5194ba65c6a24d_n.jpg",
+                "width": 320,
+                "height": 269,
+                "is_primary": "0",
+                "image_id": "90880"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90880_db5194ba65c6a24d_d.gif",
+                "width": 320,
+                "height": 269,
+                "is_primary": "0",
+                "image_id": "90880"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90880_db5194ba65c6a24d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "90880"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68263909",
+            "role_id": "35236655",
+            "person_name": "Marjo Penninx",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68263909\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "68263859",
+            "role_id": "35236657",
+            "person_name": "Vlisco",
+            "person_date": "Helmond, Netherlands, founded 1846",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68263859\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile (Netherlands), 2011. 100% cotton. Gift of Vlisco. 2015-1-18."
+    },
+    "colors": [
+        {
+            "color": "#64b545",
+            "closest_crayola": "#87a96b",
+            "closest_css3": "#6b8e23",
+            "closest_css4": "#6b8e23"
+        },
+        {
+            "color": "#303042",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#b7e155",
+            "closest_crayola": "#b2ec5d",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#e7f7e7",
+            "closest_crayola": "#fddde6",
+            "closest_css3": "#f0fff0",
+            "closest_css4": "#f0fff0"
+        },
+        {
+            "color": "#c2d799",
+            "closest_crayola": "#c5e384",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
+}

@@ -1,0 +1,219 @@
+{
+    "id": "68245571",
+    "tms:id": "276625",
+    "accession_number": "2013-55-2",
+    "title": "Brooch (England), 1908",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68245571\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "68245567",
+    "type_id": "35251201",
+    "date": "1908",
+    "year_start": 1908,
+    "year_end": 1908,
+    "year_acquired": "2013",
+    "decade": "1900",
+    "woe:country_id": "23424975",
+    "medium": "cut and entwined ribbon silver, with basse-taille enamel",
+    "markings": "CH, Assay Marks for Chester, England, 1908",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Provenance: 2013 Museum gift from Judy F. Zankel, purchased by donor approximately 30 years ago in  English antiques shop.",
+    "dimensions": "H x W x D: 3.8 x 3.2 x 0.6 cm (1 1\/2 x 1 1\/4 x 1\/4 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "0.64",
+            "centimeters"
+        ],
+        "height": [
+            "3.81",
+            "centimeters"
+        ],
+        "width": [
+            "3.18",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Judy Francis Zankel",
+    "description": "blue-green enamel set in entrelac loops of silver moulded to shape",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": "Charles Horner's firm used a mix of mass production and handmade techniques in creating jewelry in arts-and-crafts style. A template could provide shapes for silver wire and ribbon, but enameling was done by hand. Basse-taille \u2013 a technique of shallow-cutting into the silver and covering in translucent enamel to varying degrees \u2013 produced rich tonal qualities.",
+    "videos": null,
+    "on_display": "1",
+    "woe:country": "23424975",
+    "type": "brooch",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92508_2334e2c4ad30d51f_b.jpg",
+                "width": 1024,
+                "height": 939,
+                "is_primary": "1",
+                "image_id": "92508"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92508_2334e2c4ad30d51f_z.jpg",
+                "width": 640,
+                "height": 587,
+                "is_primary": "1",
+                "image_id": "92508"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92508_2334e2c4ad30d51f_n.jpg",
+                "width": 320,
+                "height": 293,
+                "is_primary": "1",
+                "image_id": "92508"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92508_2334e2c4ad30d51f_d.gif",
+                "width": 320,
+                "height": 293,
+                "is_primary": "1",
+                "image_id": "92508"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92508_2334e2c4ad30d51f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92508"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/135962_3ba4cec3013a32a4_b.jpg",
+                "width": 1024,
+                "height": 578,
+                "is_primary": "0",
+                "image_id": "135962"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/135962_3ba4cec3013a32a4_z.jpg",
+                "width": 640,
+                "height": 361,
+                "is_primary": "0",
+                "image_id": "135962"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/135962_3ba4cec3013a32a4_n.jpg",
+                "width": 320,
+                "height": 181,
+                "is_primary": "0",
+                "image_id": "135962"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/135962_3ba4cec3013a32a4_d.gif",
+                "width": 320,
+                "height": 181,
+                "is_primary": "0",
+                "image_id": "135962"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/135962_3ba4cec3013a32a4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "135962"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92507_1f8b0c16fb46794f_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "92507"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92507_1f8b0c16fb46794f_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "92507"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92507_1f8b0c16fb46794f_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "92507"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92507_1f8b0c16fb46794f_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "92507"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92507_1f8b0c16fb46794f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "92507"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68244837",
+            "role_id": "35236685",
+            "person_name": "Charles Horner Ltd.",
+            "person_date": "England, 1867\u20131984",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68244837\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18062603",
+            "role_id": "35351535",
+            "person_name": "Judy Francis Zankel",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18062603\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Brooch (England), 1908. cut and entwined ribbon silver, with basse-taille enamel. Gift of Judy Francis Zankel. 2013-55-2."
+    },
+    "colors": [
+        {
+            "color": "#64615a",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#535ddb",
+            "closest_crayola": "#5d76cb",
+            "closest_css3": "#4169e1",
+            "closest_css4": "#4169e1"
+        },
+        {
+            "color": "#0b157e",
+            "closest_crayola": "#1a4876",
+            "closest_css3": "#191970",
+            "closest_css4": "#191970"
+        },
+        {
+            "color": "#7583c1",
+            "closest_crayola": "#6699cc",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        },
+        {
+            "color": "#3a4393",
+            "closest_crayola": "#2e5894",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
+}

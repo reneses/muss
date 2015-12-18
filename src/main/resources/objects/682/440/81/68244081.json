@@ -1,0 +1,131 @@
+{
+    "id": "68244081",
+    "tms:id": "276487",
+    "accession_number": "2013-50-44",
+    "title": "Appoggio Adjustable Stool, 1971",
+    "title_raw": "Appoggio",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68244081\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "68267581",
+    "type_id": "68267585",
+    "date": "1971",
+    "year_start": 1971,
+    "year_end": 1971,
+    "year_acquired": "2013",
+    "decade": "1970",
+    "woe:country_id": "23424853",
+    "medium": "molded fiberglass,chrome-plated and bent, enameled tubular steel",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 118.1 x 55.9 x 50.8 cm (46 1\/2 in. x 22 in. x 20 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "50.80",
+            "centimeters"
+        ],
+        "height": [
+            "118.11",
+            "centimeters"
+        ],
+        "width": [
+            "55.88",
+            "centimeters"
+        ]
+    },
+    "creditline": "The Linda and Irwin R. Berman Stool Collection",
+    "description": "White molded fiberglass seat rising to high narrow rectangular back, mounted on chrome-plated steel post housed in black, bent tubular steel base with small loop as footrest; post can be raised and lowered; dial to lock and unlock post located under seat.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Adjustable stool",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104381_4e8ae764ce5346d7_b.jpg",
+                "width": 731,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "104381"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104381_4e8ae764ce5346d7_z.jpg",
+                "width": 457,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "104381"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104381_4e8ae764ce5346d7_n.jpg",
+                "width": 228,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "104381"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104381_4e8ae764ce5346d7_d.gif",
+                "width": 228,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "104381"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104381_4e8ae764ce5346d7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "104381"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18055747",
+            "role_id": "35236657",
+            "person_name": "Sormani",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055747\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "68263759",
+            "role_id": "35236655",
+            "person_name": "Claudio Salocchi",
+            "person_date": "Italian, born 1934",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68263759\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18056929",
+            "role_id": "35351535",
+            "person_name": "Irwin R. Berman",
+            "person_date": "American",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056929\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Appoggio Adjustable Stool, 1971. molded fiberglass,chrome-plated and bent, enameled tubular steel. The Linda and Irwin R. Berman Stool Collection. 2013-50-44."
+    },
+    "colors": [
+        {
+            "color": "#f5f0d8",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#f5f5dc",
+            "closest_css4": "#f5f5dc"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
+}

@@ -1,0 +1,172 @@
+{
+    "id": "68268059",
+    "tms:id": "276897",
+    "accession_number": "2014-5-1",
+    "title": "Musical Clock Stand (France), 1745\u201349",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68268059\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "68268055",
+    "type_id": "68268057",
+    "date": "1745\u201349",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "2014",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "molded and chased gilt bronze",
+    "markings": "stamped with the crowned \"C\" tax mark on one foot.",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Gift of Gerald Stiebel, 2014, \nWith Rosenberg and Stiebel continuously from prior to 1965.",
+    "dimensions": "H x W x D: 10.2 x 48.9 x 29.2 cm (4 in. x 19 1\/4 in. x 11 1\/2 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "29.21",
+            "centimeters"
+        ],
+        "height": [
+            "10.16",
+            "centimeters"
+        ],
+        "width": [
+            "48.90",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Gerald Stiebel in memory of Eric Stiebel",
+    "description": "formed of a series of S-curves in ormolu, surrounding a grille on the top with curvy scroll decoration, the front and back of different scroll forms, the front with central asymmetrical shell",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": "1",
+    "woe:country": "23424819",
+    "type": "Musical clock stand",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90659_0ddbf050793cf3a6_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "90659"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90659_0ddbf050793cf3a6_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "90659"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90659_0ddbf050793cf3a6_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90659"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90659_0ddbf050793cf3a6_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90659"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90659_0ddbf050793cf3a6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "90659"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90658_33da4d303dd910d1_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "90658"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90658_33da4d303dd910d1_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "90658"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90658_33da4d303dd910d1_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "90658"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90658_33da4d303dd910d1_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "90658"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90658_33da4d303dd910d1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "90658"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "52015469",
+            "role_id": "35351535",
+            "person_name": "Gerald G. Stiebel",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/52015469\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Musical Clock Stand (France), 1745\u201349. molded and chased gilt bronze. Gift of Gerald Stiebel in memory of Eric Stiebel. 2014-5-1."
+    },
+    "colors": [
+        {
+            "color": "#796738",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#958249",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#423927",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#b8ab72",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#cec7a9",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

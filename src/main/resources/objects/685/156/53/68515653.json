@@ -1,0 +1,123 @@
+{
+    "id": "68515653",
+    "tms:id": "277147",
+    "accession_number": "2014-34-5",
+    "title": "Drawing, Sketches for \"Vivo in Typo\" Poster with Punctuation Marks, 2008",
+    "title_raw": "Sketches for \"Vivo in Typo\" Poster with Punctuation Marks",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68515653\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35519411",
+    "type_id": "35237093",
+    "date": "2008",
+    "year_start": 2008,
+    "year_end": 2008,
+    "year_acquired": "2014",
+    "decade": "2000",
+    "woe:country_id": "23424819",
+    "medium": "pen and black ink on white paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Philippe Apeloig to Cooper Hewitt, June 2014",
+    "dimensions": "30.1 \u00d7 22.6 cm (11 7\/8 \u00d7 8 7\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "30.10",
+            "centimeters"
+        ],
+        "width": [
+            "22.60",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Philippe Apeloig",
+    "description": "Vivo in Typo written in four rectangles of varying size, oriented vertically. The phrase also appears twice without a rectangular framework. Elsewhere on the page, series of dots and dashes are drawn, as if in code.",
+    "justification": "In 2006 Philippe Apeloig designed a poster for an installation of his posters at Espace Topographie de l\u2019Art in Paris, entitled Vivo in Typo.  A group of nineteen preparatory drawings and prints document Apeloig\u2019s design process for creating Vivo in Typo, documenting the evolution of this poster design.  Apeloig\u2019s compositional studies are worked out in pen and ink by hand.  On one of these sheets, he also jots down his thoughts for the matrix (foundational elements) out of which the poster will be created.  The matrix is composed of different punctuation marks-- dashes, semicolons, and vertical bars.  The digital prints highlight moments in the designer\u2019s computer process.  Using the computer, Apeloig or a member of his studio built up layers of markings, applying different kernings or adjustments to the spacing of individual letter forms and then laid these examples one on top of another.  One of these later process prints shows the letters placed on a red ground, which comes close t",
+    "gallery_text": "Apeloig\u2019s working method moves seamlessly between hand drawings and computer-generated graphics. For the Vivo in Typo poster, advertising an exhibition of his own work, he began with pen and ink drawings to wrestle with different lettering layouts and turned to the computer to compose a system of punctuation marks that became the matrix from which the letters would emerge. The digital prints on view show how he built up, through multiple layers of marks with varied spacing and colored inks, a rich textural and vibrating surface. For Apeloig, typography is not only a tool, but the material itself.",
+    "label_text": "Apeloig\u2019s working method moves seamlessly between hand drawings and computer-generated graphics. For the Vivo in Typo poster, advertising an exhibition of his own work, he began with pen and ink drawings to wrestle with different lettering layouts and turned to the computer to compose a system of punctuation marks that became the matrix from which the letters would emerge. The digital prints on view show how he built up, through multiple layers of marks with varied spacing and colored inks, a rich textural and vibrating surface. For Apeloig, typography is not only a tool, but the material itself.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93602_12716ac00c5e7cbc_b.jpg",
+                "width": 772,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "93602"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93602_12716ac00c5e7cbc_z.jpg",
+                "width": 483,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "93602"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93602_12716ac00c5e7cbc_n.jpg",
+                "width": 241,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93602"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93602_12716ac00c5e7cbc_d.gif",
+                "width": 241,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93602"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93602_12716ac00c5e7cbc_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93602"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "35459765",
+            "role_id": "35351535",
+            "person_name": "Philippe Apeloig",
+            "person_date": "French, b. 1962",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/35459765\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "35459765",
+            "role_id": "35236655",
+            "person_name": "Philippe Apeloig",
+            "person_date": "French, b. 1962",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/35459765\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Sketches for \"Vivo in Typo\" Poster with Punctuation Marks, 2008. pen and black ink on white paper. Gift of Philippe Apeloig. 2014-34-5."
+    },
+    "colors": [
+        {
+            "color": "#4f4744",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#78726f",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

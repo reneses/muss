@@ -1,0 +1,117 @@
+{
+    "id": "68268353",
+    "tms:id": "276992",
+    "accession_number": "2014-37-3",
+    "title": "Sidewall, Drywall #3, 2013",
+    "title_raw": "Drywall #3",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68268353\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "68268343",
+    "type_id": "35256475",
+    "date": "2013",
+    "year_start": 2013,
+    "year_end": 2013,
+    "year_acquired": "2014",
+    "decade": "2010",
+    "woe:country_id": "23424977",
+    "medium": "inkjet print on nylon reinforced paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Given new to Cooper-Hewitt by the artist in 2014.",
+    "dimensions": "L x W (design): 243.8 x 121.9 cm (8 ft. x 48 in.)",
+    "dimensions_raw": {
+        "length": [
+            "262.26",
+            "centimeters"
+        ],
+        "width": [
+            "127.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Urs Fischer",
+    "description": "Photographically captured panel of drywall, marked with graphite and prepped with joint compound. This is one panel from a series of ten, each slightly different.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sidewall",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93050_377175dd5c603564_b.jpg",
+                "width": 501,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "93050"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93050_377175dd5c603564_z.jpg",
+                "width": 313,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "93050"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93050_377175dd5c603564_n.jpg",
+                "width": 157,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93050"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93050_377175dd5c603564_d.gif",
+                "width": 157,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93050"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93050_377175dd5c603564_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93050"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68264071",
+            "role_id": "35351535",
+            "person_name": "Urs Fischer",
+            "person_date": "Swiss, active USA, b. 1973",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68264071\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "68264071",
+            "role_id": "35236655",
+            "person_name": "Urs Fischer",
+            "person_date": "Swiss, active USA, b. 1973",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68264071\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sidewall, Drywall #3, 2013. inkjet print on nylon reinforced paper. Gift of Urs Fischer. 2014-37-3."
+    },
+    "colors": [
+        {
+            "color": "#000000",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

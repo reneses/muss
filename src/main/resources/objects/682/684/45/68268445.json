@@ -1,0 +1,160 @@
+{
+    "id": "68268445",
+    "tms:id": "277019",
+    "accession_number": "2014-24-1",
+    "title": "Floating Vessel Vase, 2014",
+    "title_raw": "Floating Vessel",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68268445\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "68268443",
+    "type_id": "35237225",
+    "date": "2014",
+    "year_start": 2014,
+    "year_end": 2014,
+    "year_acquired": "2014",
+    "decade": "2010",
+    "woe:country_id": "23424796",
+    "medium": "hand-sculpted frit porcelain with hand-painted blue glaze at rim, double fired with glazed interior",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "2014 Acquired through J. Lohmann Gallery, directly from the designer",
+    "dimensions": "H x diam.: 24.1 \u00d7 20.3 cm (9 1\/2 in. \u00d7 8 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "20.32",
+            "centimeters"
+        ],
+        "height": [
+            "24.13",
+            "centimeters"
+        ]
+    },
+    "creditline": "Museum purchase from Charles E. Sampson Memorial Fund",
+    "description": "grey-white spiral-ruffles in extremely thin pinched porcelain with blue glazed edges and biscuit exterior surrounding a narrow glazed opening",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": "1",
+    "woe:country": "23424796",
+    "type": "Vase",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92565_f5825354c11d4065_b.jpg",
+                "width": 888,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "92565"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92565_f5825354c11d4065_z.jpg",
+                "width": 555,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "92565"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92565_f5825354c11d4065_n.jpg",
+                "width": 278,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92565"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92565_f5825354c11d4065_d.gif",
+                "width": 278,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92565"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92565_f5825354c11d4065_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92565"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92566_0556458406c18979_b.jpg",
+                "width": 969,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "92566"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92566_0556458406c18979_z.jpg",
+                "width": 606,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "92566"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92566_0556458406c18979_n.jpg",
+                "width": 303,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "92566"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92566_0556458406c18979_d.gif",
+                "width": 303,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "92566"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92566_0556458406c18979_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "92566"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68264169",
+            "role_id": "35236655",
+            "person_name": "Sandra Davolio (Italian, b. 1951, active Denmark, 1974-present)",
+            "person_date": "(Italian, b. 1951, active Denmark, 1974-present)",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68264169\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "68737279",
+            "role_id": "35352249",
+            "person_name": "Mr. Joern Lohmann",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68737279\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Floating Vessel Vase, 2014. hand-sculpted frit porcelain with hand-painted blue glaze at rim, double fired with glazed interior. Museum purchase from Charles E. Sampson Memorial Fund. 2014-24-1."
+    },
+    "colors": [
+        {
+            "color": "#929cae",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#747f94",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        }
+    ],
+    "woe:country_name": "Denmark",
+    "is_loan_object": 0
+}

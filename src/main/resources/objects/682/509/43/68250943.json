@@ -1,0 +1,175 @@
+{
+    "id": "68250943",
+    "tms:id": "276826",
+    "accession_number": "s-g-1",
+    "title": "SketchBot (USA), 2012",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68250943\/",
+    "department_id": "35518655",
+    "period_id": null,
+    "media_id": "68743221",
+    "type_id": "68250295",
+    "date": "2012",
+    "year_start": 2012,
+    "year_end": 2012,
+    "year_acquired": null,
+    "decade": "2010",
+    "woe:country_id": "23424977",
+    "medium": "aluminum, plastic, assorted electrical components, javascript, html, css and python source files",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Google Inc. to Cooper-Hewitt, March 2014",
+    "dimensions": "H x W x D: 137.2 \u00d7 137.2 \u00d7 137.2 cm (54 \u00d7 54 \u00d7 54 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "137.16",
+            "centimeters"
+        ],
+        "height": [
+            "137.16",
+            "centimeters"
+        ],
+        "width": [
+            "137.16",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Google Inc.",
+    "description": null,
+    "justification": "The Sketchbot is an assemblage of a camera, a robot arm, a sand filled terrarium and software. It is a useful addition to the museum\u2019s collection, complementing the holdings of both the Digital and the Drawings, Print and Graphic Design departments. The use of automata to \u201cdraw\u201d and their use in portraiture is not new. The scale of machine reproduction with a drawing machine, however, is\u2014over 10 million portraits were drawn by eight Sketchbots drawing continuously, 24 hours a day, over a 12-month period in the Science Museum in London, England.\nThe Sketchbot was originally commissioned by the Science Museum in London for the Chrome Web Lab exhibition in 2012, funded by Google, which explored how the web \"worked\" and what it had become capable of achieving. The original concept and industrial design were developed by Tellart, a Rhode Island-based design company specializing in interaction design and the intersection of physical objects and digital design.\nThe Sketchbot demonstrates how image-analysis software can transform the contours of a captured image into a recognizable line drawing, and then into a series of commands that enable a robot to reproduce the lines. The robot executes each drawing in sand and records a photo of the finalized drawing as well as a video of the drawing process. The portrait is erased and a new one started, leaving a digital image as the only artifact. Tellart chose sand as the medium for reproduction in response to the environmental impact of paper consumption.\nThe software that runs the Sketchbot is made up of three parts: a web-based user interface to accept and take images, a server that queues each image and drawing, and a controller that operates the robot arm to create the drawing. The separation of these parts allows the Sketchbot to be reimagined to work with devices other than a robot arm. The source code for the Sketchbot software includes instructions for building a replica with Lego\u00ae Mindstorms\u00ae, demonstrating the increasingly blurry lines between source code for software and similar \"source code\" for hardware.\nThe acquisition includes design drawings and pitch video as well as source code and manufacturing blueprints. The source code for the Sketchbot, including instructions for building your own version with Lego\u00ae, is freely available online from the museum\u2019s website.",
+    "gallery_text": "The Sketchbot process: first a camera takes a picture, then software extracts a human face from it and sends a series of commands to a robot, which reproduces the face as a contoured line drawing. Sand was chosen because it is reusable, sustainable and also enables the portraits to be easily erased . In its first year alone, Sketchbot drew over 10 million images. The software is made up of three parts\u2014a Web-based user interface to take and select images, a server that queues the images and drawings, and a controller that operates the robot arm to make the drawing. The software can also be used with devices other than the robot arm, suggesting multiple possibilities for robotic tools. The Sketchbot was originally commissioned by the Science Museum, London, for the Chrome Web Lab exhibition in 2012. The source code for the Sketchbot is available online from Cooper Hewitt\u2019s website, cooperhewitt.org.",
+    "label_text": "Using automatons to draw is not new, but the capability of this software-driven robot to draw millions of images is. Currently, it is programmed for portraits, but it can be reprogrammed to draw other subjects or reconfigured with attachments other than a robot arm. Sand sketches can be easily erased, eliminating the need for paper. The source code for Sketchbot, including for building your own version with Lego bricks, is available online free of charge at www.cooperhewitt.org.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "SketchBot",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/96312_bb8e7c662acc6fca_b.jpg",
+                "width": 1024,
+                "height": 830,
+                "is_primary": "1",
+                "image_id": "96312"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/96312_bb8e7c662acc6fca_z.jpg",
+                "width": 640,
+                "height": 518,
+                "is_primary": "1",
+                "image_id": "96312"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/96312_bb8e7c662acc6fca_n.jpg",
+                "width": 320,
+                "height": 259,
+                "is_primary": "1",
+                "image_id": "96312"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/96312_bb8e7c662acc6fca_d.gif",
+                "width": 320,
+                "height": 259,
+                "is_primary": "1",
+                "image_id": "96312"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/96312_bb8e7c662acc6fca_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "96312"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68263717",
+            "role_id": "35236605",
+            "person_name": "Universal Design Studio",
+            "person_date": "UK",
+            "role_name": "Industrial Designer",
+            "role_display_name": "Industrial Design by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68263717\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236605\/"
+        },
+        {
+            "person_id": "68263715",
+            "role_id": "35236763",
+            "person_name": "B-Reel",
+            "person_date": "UK",
+            "role_name": "Graphic Designer",
+            "role_display_name": "Graphic design by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68263715\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236763\/"
+        },
+        {
+            "person_id": "68248149",
+            "role_id": "35236667",
+            "person_name": "Google Creative Labs",
+            "person_date": "USA",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248149\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        },
+        {
+            "person_id": "68248147",
+            "role_id": "35236655",
+            "person_name": "Tellart",
+            "person_date": "USA",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248147\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18059025",
+            "role_id": "35351535",
+            "person_name": "Google",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18059025\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "SketchBot (USA), 2012. aluminum, plastic, assorted electrical components, javascript, html, css and python source files. Gift of Google Inc.. s-g-1."
+    },
+    "colors": [
+        {
+            "color": "#c8b9b0",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#aa957e",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#605c5a",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#7f7773",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#d4ab77",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#deb887",
+            "closest_css4": "#deb887"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}
