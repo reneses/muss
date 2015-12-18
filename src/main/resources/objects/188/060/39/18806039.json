@@ -1,0 +1,145 @@
+{
+    "id": "18806039",
+    "tms:id": "183320",
+    "accession_number": "1986-104-1",
+    "title": "Brooch (France), 1955\u201360",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18806039\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35433095",
+    "type_id": "35251201",
+    "date": "1955\u201360",
+    "year_start": 1955,
+    "year_end": 1960,
+    "year_acquired": "1986",
+    "decade": "1950",
+    "woe:country_id": "23424819",
+    "medium": "plated copper, glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Overall: 7.8 x 6 x 2.5 cm (3 1\/16 x 2 3\/8 x 1 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "2.50",
+            "centimeters"
+        ],
+        "height": [
+            "7.80",
+            "centimeters"
+        ],
+        "width": [
+            "6.00",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "brooch",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132284_b7880a42299bc9ff_b.jpg",
+                "width": 1024,
+                "height": 823,
+                "is_primary": "1",
+                "image_id": "132284"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132284_b7880a42299bc9ff_z.jpg",
+                "width": 640,
+                "height": 514,
+                "is_primary": "1",
+                "image_id": "132284"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132284_b7880a42299bc9ff_n.jpg",
+                "width": 320,
+                "height": 257,
+                "is_primary": "1",
+                "image_id": "132284"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132284_b7880a42299bc9ff_d.gif",
+                "width": 320,
+                "height": 257,
+                "is_primary": "1",
+                "image_id": "132284"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132284_b7880a42299bc9ff_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "132284"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18060913",
+            "role_id": "35351535",
+            "person_name": "Mr. Richard Weinreich",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18060913\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18043999",
+            "role_id": "35236655",
+            "person_name": "Roger Jean-Pierre",
+            "person_date": "b. 1910",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043999\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Brooch (France), 1955\u201360. plated copper, glass. 1986-104-1."
+    },
+    "colors": [
+        {
+            "color": "#62523f",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#37281c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#7d705c",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#ada491",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#c10703",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#b22222",
+            "closest_css4": "#b22222"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

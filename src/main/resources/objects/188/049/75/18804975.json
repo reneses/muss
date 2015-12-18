@@ -1,0 +1,151 @@
+{
+    "id": "18804975",
+    "tms:id": "182772",
+    "accession_number": "1985-2-3",
+    "title": "Hanging, Air, late 1920s\u2013early 1930s",
+    "title_raw": "Air",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18804975\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35257233",
+    "date": "late 1920s\u2013early 1930s",
+    "year_start": 1920,
+    "year_end": 1935,
+    "year_acquired": "1985",
+    "decade": "1920",
+    "woe:country_id": "23424977",
+    "medium": "silk",
+    "markings": null,
+    "signed": "Signature: L.B.B. and H.",
+    "inscribed": "Paper label sewn to back: 'Air'",
+    "provenance": "Estate of Lydia Bush-Brown Head; 1985: acquired by Museum",
+    "dimensions": "H x W: 168 x 85 cm (5 ft. 6 1\/8 in. x 33 7\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "168.00",
+            "centimeters"
+        ],
+        "width": [
+            "85.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of the Estate of Lydia Bush-Brown Head",
+    "description": "Vertical panel of clouds, with shooting stars, planets, nebula and birds. Blues with white and some pink. Crepe ground. Lined.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Hanging",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37497_a6f155f875adc109_b.jpg",
+                "width": 557,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "37497"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37497_a6f155f875adc109_z.jpg",
+                "width": 348,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "37497"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37497_a6f155f875adc109_n.jpg",
+                "width": 174,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "37497"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37497_a6f155f875adc109_d.gif",
+                "width": 174,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "37497"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37497_a6f155f875adc109_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "37497"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18047459",
+            "role_id": "35352245",
+            "person_name": "Gillian Moss",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18045909",
+            "role_id": "35236655",
+            "person_name": "Lydia Bush-Brown",
+            "person_date": "American, 1887\u20131984",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045909\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18045909",
+            "role_id": "35236685",
+            "person_name": "Lydia Bush-Brown",
+            "person_date": "American, 1887\u20131984",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045909\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Hanging, Air, late 1920s\u2013early 1930s. silk. Gift of the Estate of Lydia Bush-Brown Head. 1985-2-3."
+    },
+    "colors": [
+        {
+            "color": "#274a5e",
+            "closest_crayola": "#1a4876",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#bcb2a5",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#968f81",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#c5d3d6",
+            "closest_crayola": "#c5d0e6",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#627a84",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

@@ -1,0 +1,211 @@
+{
+    "id": "18801553",
+    "tms:id": "180943",
+    "accession_number": "1984-12-2",
+    "title": "Textile, Mira Marmoreus Canna, 1981",
+    "title_raw": "Mira Marmoreus Canna",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801553\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1981",
+    "year_start": 1981,
+    "year_end": 1981,
+    "year_acquired": "1984",
+    "decade": "1980",
+    "woe:country_id": "23424957",
+    "medium": "cotton",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 453 x 132 cm (14 ft. 10 3\/8 in. x 51 15\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "453.00",
+            "centimeters"
+        ],
+        "weft": [
+            "132.00",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Marble texture with losenge-shaped figures in rows. Similar to the fluting on columns.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424957",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/152030_6f9177747c712146_b.jpg",
+                "width": 1005,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "152030"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/152030_6f9177747c712146_z.jpg",
+                "width": 628,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "152030"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/152030_6f9177747c712146_n.jpg",
+                "width": 314,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "152030"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/152030_6f9177747c712146_d.gif",
+                "width": 314,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "152030"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/152030_6f9177747c712146_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "152030"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77569_188947209731980e_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "77569"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77569_188947209731980e_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "77569"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77569_188947209731980e_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77569"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77569_188947209731980e_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77569"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77569_188947209731980e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77569"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77570_cccd78767e5eee98_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "77570"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77570_cccd78767e5eee98_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "77570"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77570_cccd78767e5eee98_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77570"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77570_cccd78767e5eee98_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77570"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77570_cccd78767e5eee98_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77570"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18048019",
+            "role_id": "35352245",
+            "person_name": "lm",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048019\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18045821",
+            "role_id": "35236655",
+            "person_name": "Alfred Habluetzel",
+            "person_date": "1931",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045821\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18045473",
+            "role_id": "35236681",
+            "person_name": "Mira-X International Furnishings, Inc.",
+            "person_date": "",
+            "role_name": "Company",
+            "role_display_name": "Company:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045473\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236681\/"
+        },
+        {
+            "person_id": "18045491",
+            "role_id": "35236655",
+            "person_name": "Trix and Robert Haussmann",
+            "person_date": "Robert b. 1931 Trix b. 1933",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045491\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile, Mira Marmoreus Canna, 1981. cotton. 1984-12-2."
+    },
+    "colors": [
+        {
+            "color": "#aaa594",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "Switzerland",
+    "is_loan_object": 0
+}

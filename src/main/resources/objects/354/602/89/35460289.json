@@ -1,0 +1,143 @@
+{
+    "id": "35460289",
+    "tms:id": "274653",
+    "accession_number": "2013-3-3",
+    "title": "Columned Structure Architectural Model, 1993",
+    "title_raw": "Columned Structure",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35460289\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "68778133",
+    "type_id": "35238913",
+    "date": "1993",
+    "year_start": 1993,
+    "year_end": 1993,
+    "year_acquired": "2013",
+    "decade": "1990",
+    "woe:country_id": "23424975",
+    "medium": "carved, turned, and veneered pear, walnut, satinwood, and other woods",
+    "markings": null,
+    "signed": "Signed, at center top of base: \"19 David\/Linley 93\"",
+    "inscribed": null,
+    "provenance": "1993: Eugene V. and Clare Thaw purchased directly from David Linley shop, London; 2013: acquired by Museum",
+    "dimensions": "H x W x D: 55.9 x 30.5 x 30.5 cm (22 x 12 x 12 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "30.48",
+            "centimeters"
+        ],
+        "height": [
+            "55.88",
+            "centimeters"
+        ],
+        "width": [
+            "30.48",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Eugene V. and Clare E. Thaw",
+    "description": "Model with openwork columns in cross shape on steps, supporting round colonnade on a second tier with spire above",
+    "justification": "David Armstrong-Jones, Viscount Linley, known professionally as David Linley, is one of Britain\u2019s best known furniture maker-designers. He specializes in high quality and sophisticated combinations of materials in furniture and other designs that reference history but are firmly rooted in the contemporary. A skilled practitioner of inlay and of architectural design as applied to decorative art objects, he caters to collectors of many periods. While the launch of his career in 1985 may have been facilitated through his family\u2019s prominence\u2014his parents are Princess Margaret and Lord Snowdon\u2014Linley was quick to make his own mark and establish an influential practice through his top level designs and execution. \nThis model, one of a group of models proposed for acquisition, reflects architectural liveliness grounded in highly refined turning and carving techniques. Models are an important part of the design process, and demonstrate craftsmanship, skill of execution, and the innovative use of materials. The group under consideration would provide the museum with an opportunity to examine the role of the model in many contexts.",
+    "gallery_text": "David Linley (the professional name of David Armstrong-Jones, Lord Linley) is one of Britain\u2019s best known furniture maker-designers. He specializes in high quality, sophisticated combinations of materials for designs that reference history but remain firmly contemporary. This collector\u2019s fantasy building shows Linley\u2019s command of architectural design applied to a decorative arts object.",
+    "label_text": "David Linley (the professional name of David Armstrong-Jones, Lord Linley) is one of Britain\u2019s best known furniture maker-designers. He specializes in high quality, sophisticated combinations of materials for designs that reference history but remain firmly contemporary. This collector\u2019s fantasy building shows Linley\u2019s command of architectural design applied to a decorative arts object.",
+    "videos": null,
+    "on_display": "1",
+    "woe:country": "23424975",
+    "type": "architectural model",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49357_4715be19238914ae_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "49357"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49357_4715be19238914ae_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "49357"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49357_4715be19238914ae_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "49357"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49357_4715be19238914ae_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "49357"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49357_4715be19238914ae_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "49357"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18060137",
+            "role_id": "35351535",
+            "person_name": "Clare E. Thaw",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18060137\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "68739357",
+            "role_id": "35236655",
+            "person_name": "David Linley",
+            "person_date": "British, b. 1961",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68739357\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "68736639",
+            "role_id": "35351535",
+            "person_name": "Eugene V. Thaw",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68736639\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Columned Structure Architectural Model, 1993. carved, turned, and veneered pear, walnut, satinwood, and other woods. Gift of Eugene V. and Clare E. Thaw. 2013-3-3."
+    },
+    "colors": [
+        {
+            "color": "#ae7d50",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#5a3824",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#855230",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
+}

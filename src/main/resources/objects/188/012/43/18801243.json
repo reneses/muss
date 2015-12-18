@@ -1,0 +1,178 @@
+{
+    "id": "18801243",
+    "tms:id": "180788",
+    "accession_number": "1984-11-8",
+    "title": "Poster, De Stijl, 1982",
+    "title_raw": "De Stijl",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801243\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35399021",
+    "type_id": "35238163",
+    "date": "1982",
+    "year_start": 1982,
+    "year_end": 1982,
+    "year_acquired": "1984",
+    "decade": "1980",
+    "woe:country_id": "23424977",
+    "medium": "offset lithograph on paper",
+    "markings": null,
+    "signed": "Signed in lithograph, center right: SEllARS [?]",
+    "inscribed": null,
+    "provenance": "1984: acquired by Museum",
+    "dimensions": "71.2 x 56.1 cm (28 1\/16 x 22 1\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "71.20",
+            "centimeters"
+        ],
+        "width": [
+            "56.10",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Dayton's Department Store",
+    "description": "Poster depicting Gerrit Rietveld\u2019s Red and Blue Chair (ca. 1923) in a white space with floating red, blue, and yellow squares and L-shapes. Upper right, a red rectangle and yellow square superimposed by a blue stencil reading: DE STIJL. Below, beneath line of red stripes, in black: DE STIJL 1917-1934 . ViSiONS OF UTOPiA 31 JANUARY . 28 MARCH . 1982 . WALKER ART CENTER. Lower border in chalkboard-like effect.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63853_1f4b469850dcbeaa_b.jpg",
+                "width": 814,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "63853"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63853_1f4b469850dcbeaa_z.jpg",
+                "width": 509,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "63853"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63853_1f4b469850dcbeaa_n.jpg",
+                "width": 254,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63853"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63853_1f4b469850dcbeaa_d.gif",
+                "width": 254,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63853"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63853_1f4b469850dcbeaa_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "63853"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/203309_721f7eaae9d894e8_b.jpg",
+                "width": 823,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "203309"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/203309_721f7eaae9d894e8_z.jpg",
+                "width": 514,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "203309"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/203309_721f7eaae9d894e8_n.jpg",
+                "width": 257,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "203309"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/203309_721f7eaae9d894e8_d.gif",
+                "width": 257,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "203309"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/203309_721f7eaae9d894e8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "203309"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "51676457",
+            "role_id": "35352245",
+            "person_name": "Karin Zonis",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18537101",
+            "role_id": "35351535",
+            "person_name": "Dayton's Department Store",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537101\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, De Stijl, 1982. offset lithograph on paper. Gift of Dayton's Department Store. 1984-11-8."
+    },
+    "colors": [
+        {
+            "color": "#3c383d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#ac5334",
+            "closest_crayola": "#b4674d",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#474d90",
+            "closest_crayola": "#2e5894",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        },
+        {
+            "color": "#dddc54",
+            "closest_crayola": "#f8d568",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#ad795a",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#cd5c5c",
+            "closest_css4": "#cd5c5c"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

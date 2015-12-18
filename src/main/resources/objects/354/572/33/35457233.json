@@ -1,0 +1,176 @@
+{
+    "id": "35457233",
+    "tms:id": "274551",
+    "accession_number": "15.2012.16",
+    "title": "Fish Trap (Papua New Guinea), Before 1929",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35457233\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "68515303",
+    "type_id": "68724259",
+    "date": "Before 1929",
+    "year_start": 1929,
+    "year_end": 1929,
+    "year_acquired": null,
+    "decade": "1920",
+    "woe:country_id": "23424926",
+    "medium": "plaited rattan, sago-palm ribs, cane",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 24.1 x 40 x 78.7 cm (9 1\/2 in. x 15 3\/4 in. x 31 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "78.74",
+            "centimeters"
+        ],
+        "diameter": [
+            "39.37",
+            "centimeters"
+        ],
+        "height": [
+            "24.13",
+            "centimeters"
+        ],
+        "width": [
+            "40.01",
+            "centimeters"
+        ]
+    },
+    "creditline": "Transferred from the US Department of Agriculture and Dr. E. W. Brandes, Department of Anthropology, National Museum of Natural History, Smithsonian Institution, E344858",
+    "description": null,
+    "justification": null,
+    "gallery_text": "A central feature of fishing technology in the Aird Hill region of the Gulf of Papua in Papua New Guinea, conical traps such as this one are used and made by women. Working in groups and deploying large weirs, women block coastal streams and creeks at high tide. When the tide begins to recede, one group beats the water, while others move with their traps through the blocked waterway catching fish, turtles, and crustaceans. The vertical frame of this trap is made of the midrib of a sago palm leaf. The stripped midribs were bound and spaced with fourteen bands of sugar cane cut, stripped, and braided into cordage. The trap holds two lengths of unmodified cane around its outside, giving it structural strength. The weaving embodied in this fish trap underpins a range of objects, from houses to baskets and ritual objects. This style of fish trap is still used throughout the Gulf of Papua today, alongside nylon fishing nets.",
+    "label_text": "Hand tools extend our physical capability to reach, throw, and catch, as well as to perform actions that are difficult if not impossible with bare hands and fingers. Specialized tasks\u2014tonsil removal, halibut fishing\u2014require unique shapes, distinct materials, and the maker\u2019s personal touch to create an appropriate tool for the task.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424926",
+    "type": "Fish Trap",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84680_9a11281ec03e50d6_b.jpg",
+                "width": 1024,
+                "height": 754,
+                "is_primary": "1",
+                "image_id": "84680"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84680_9a11281ec03e50d6_z.jpg",
+                "width": 640,
+                "height": 471,
+                "is_primary": "1",
+                "image_id": "84680"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84680_9a11281ec03e50d6_n.jpg",
+                "width": 320,
+                "height": 236,
+                "is_primary": "1",
+                "image_id": "84680"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84680_9a11281ec03e50d6_d.gif",
+                "width": 320,
+                "height": 236,
+                "is_primary": "1",
+                "image_id": "84680"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84680_9a11281ec03e50d6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "84680"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113663_9a11281ec03e50d6_b.jpg",
+                "width": 1024,
+                "height": 754,
+                "is_primary": "0",
+                "image_id": "113663"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113663_9a11281ec03e50d6_z.jpg",
+                "width": 640,
+                "height": 471,
+                "is_primary": "0",
+                "image_id": "113663"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113663_9a11281ec03e50d6_n.jpg",
+                "width": 320,
+                "height": 236,
+                "is_primary": "0",
+                "image_id": "113663"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113663_9a11281ec03e50d6_d.gif",
+                "width": 320,
+                "height": 236,
+                "is_primary": "0",
+                "image_id": "113663"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113663_9a11281ec03e50d6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113663"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "51676437",
+            "role_id": "51571131",
+            "person_name": "National Museum of Natural History",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676437\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Fish Trap (Papua New Guinea), Before 1929. plaited rattan, sago-palm ribs, cane. Transferred from the US Department of Agriculture and Dr. E. W. Brandes, Department of Anthropology, National Museum of Natural History, Smithsonian Institution, E344858. 15.2012.16."
+    },
+    "colors": [
+        {
+            "color": "#3c2b14",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#695331",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#957a4e",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#bba578",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#c9c4b8",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        }
+    ],
+    "woe:country_name": "Papua New Guinea",
+    "is_loan_object": 1
+}

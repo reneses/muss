@@ -1,0 +1,116 @@
+{
+    "id": "18805843",
+    "tms:id": "183222",
+    "accession_number": "1985-93-1",
+    "title": "Trottola Champagne Flute, 1984",
+    "title_raw": "Trottola",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805843\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35305999",
+    "date": "1984",
+    "year_start": 1984,
+    "year_end": 1984,
+    "year_acquired": "1985",
+    "decade": "1980",
+    "woe:country_id": null,
+    "medium": "glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 30 x 8.2 cm (11 13\/16 x 3 1\/4 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "8.20",
+            "centimeters"
+        ],
+        "height": [
+            "30.00",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Tall  cone-shaped champagne flute at an asymmetrical tilt",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Champagne flute",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122962_5d252f12d60daf5a_b.jpg",
+                "width": 445,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "122962"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122962_5d252f12d60daf5a_z.jpg",
+                "width": 278,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "122962"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122962_5d252f12d60daf5a_n.jpg",
+                "width": 139,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "122962"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122962_5d252f12d60daf5a_d.gif",
+                "width": 139,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "122962"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122962_5d252f12d60daf5a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "122962"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18057141",
+            "role_id": "35236657",
+            "person_name": "Seguso Vetri d'Arte",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18057141\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "35518651",
+            "role_id": "35236655",
+            "person_name": "Vittorio Rigattieri",
+            "person_date": "Italian",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/35518651\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Trottola Champagne Flute, 1984. glass. 1985-93-1."
+    },
+    "colors": [
+        {
+            "color": "#ffffff",
+            "closest_crayola": "#ffffff",
+            "closest_css3": "#ffffff",
+            "closest_css4": "#ffffff"
+        }
+    ],
+    "is_loan_object": 0
+}

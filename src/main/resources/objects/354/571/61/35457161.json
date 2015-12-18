@@ -1,0 +1,182 @@
+{
+    "id": "35457161",
+    "tms:id": "274519",
+    "accession_number": "14.2012.24",
+    "title": "Visual Aids For Eye Testing (USA), ca. 1937",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35457161\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "68250143",
+    "type_id": "35460089",
+    "date": "ca. 1937",
+    "year_start": 1932,
+    "year_end": 1942,
+    "year_acquired": null,
+    "decade": "1930",
+    "woe:country_id": "23424977",
+    "medium": "paper, cardboard, laminated canvas",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D (closed): 20.5 x 12 x 1.5 cm (8 1\/16 x 4 3\/4 x 9\/16 in.)\nH x W x D (open): 20.5 x 24 x 1.5 cm (8 1\/16 x 9 7\/16 x 9\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "1.50",
+            "centimeters"
+        ],
+        "height": [
+            "20.50",
+            "centimeters"
+        ],
+        "width": [
+            "24.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Smithsonian Institution, National Museum of American History, 1986.0705.03",
+    "description": null,
+    "justification": null,
+    "gallery_text": "This booklet of simple eye tests from the 1930s captures a host of assumptions about people and their cultural competencies, from card playing and singing to understanding train schedules and shorthand. The first standardized eye chart is believed to have been developed by Dutch ophthalmologist Herman Snellen in 1862. Snellen\u2019s test of visual acuity set a standardized distance from patient to chart of 20 feet in the United States and 6 meters in Europe. This inexpensive and portable chart has eleven lines of symbols, called optotypes, from a single large letter at the top to the smallest letters at the bottom. The letters are carefully shaped so as to balance the amount of white to black space. Similar charts followed, such as the Lea chart designed in Finland in 1976 that uses objects, like a house or a ring, to cater to children and others who are preliterate.",
+    "label_text": "These devices generate and enhance communication, resulting in expanded networks. As bridges between people, images and symbols inform in ways that other modes of communication cannot. A booklet of eye tests aids communication between doctor and patient and also captures assumptions about people and their cultural competencies, from card playing to singing.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Visual aids for eye testing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79980_6a16071be9ebfc31_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "79980"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79980_6a16071be9ebfc31_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "79980"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79980_6a16071be9ebfc31_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "79980"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79980_6a16071be9ebfc31_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "79980"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79980_6a16071be9ebfc31_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "79980"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113633_6a16071be9ebfc31_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113633"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113633_6a16071be9ebfc31_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113633"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113633_6a16071be9ebfc31_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113633"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113633_6a16071be9ebfc31_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113633"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113633_6a16071be9ebfc31_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113633"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68248001",
+            "role_id": "35236657",
+            "person_name": "Manufactured by Soft-Lite Lens Company, Inc.",
+            "person_date": "USA",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248001\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18041125",
+            "role_id": "51571131",
+            "person_name": "National Museum of American History",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041125\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Visual Aids For Eye Testing (USA), ca. 1937. paper, cardboard, laminated canvas. Smithsonian Institution, National Museum of American History, 1986.0705.03. 14.2012.24."
+    },
+    "colors": [
+        {
+            "color": "#e4dfcd",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
+        },
+        {
+            "color": "#2c2f34",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#504c45",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#948e7d",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#757160",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

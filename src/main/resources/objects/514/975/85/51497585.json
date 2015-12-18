@@ -1,0 +1,148 @@
+{
+    "id": "51497585",
+    "tms:id": "275263",
+    "accession_number": "s-e-1613",
+    "title": "Obsidian Scalpel, No. 10110-03, 2013",
+    "title_raw": "No. 10110-03",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/51497585\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "68515427",
+    "type_id": "51588943",
+    "date": "2013",
+    "year_start": 2013,
+    "year_end": 2013,
+    "year_acquired": null,
+    "decade": "2010",
+    "woe:country_id": "23424977",
+    "medium": "obsidian blade, bamboo",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 12.3 \u00d7 0.5 \u00d7 0.5 cm (4 13\/16 \u00d7 3\/16 \u00d7 3\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "0.50",
+            "centimeters"
+        ],
+        "height": [
+            "12.30",
+            "centimeters"
+        ],
+        "width": [
+            "0.50",
+            "centimeters"
+        ]
+    },
+    "creditline": "Courtesy of Fine Science Tools",
+    "description": null,
+    "justification": null,
+    "gallery_text": "Obsidian is a hard, brittle volcanic glass prized in ancient times for its sharp edges. Used for everything from ritual scarification to early surgical procedures, remnants of these Stone Age tools are found at archaeological sites from Turkey to Mesoamerica. Once largely forgotten, contemporary medical research has shown that obsidian is an effective surgical material on par with stainless steel. In fact, when compared under a microscope, the ancient volcanic material is some one hundred times sharper than that of a contemporary steel blade. The obsidian scalpel, honed from one large piece of volcanic glass, is recommended today for delicate skin tissue procedures because it yields less visible scarring, especially important in cosmetic procedures. It is also more cost-effective than diamond-based blades.",
+    "label_text": "A sharpened blade or honed point helps to make farming more efficient, perform surgery with extra precision, or enable hunting with greater success. Carved (bird dart), forged (throwing knives), or fractured (obsidian scalpel) to be razor-sharp, these tools also show how good design is found in the shape and at the edge.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Obsidian scalpel",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89718_ae3fd7638a15120a_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "89718"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89718_ae3fd7638a15120a_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "89718"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89718_ae3fd7638a15120a_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "89718"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89718_ae3fd7638a15120a_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "89718"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89718_ae3fd7638a15120a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "89718"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113756_ae3fd7638a15120a_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113756"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113756_ae3fd7638a15120a_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113756"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113756_ae3fd7638a15120a_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113756"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113756_ae3fd7638a15120a_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113756"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113756_ae3fd7638a15120a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113756"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68248139",
+            "role_id": "35236685",
+            "person_name": "Fine Science Tools",
+            "person_date": "California, USA",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248139\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Obsidian Scalpel, No. 10110-03, 2013. obsidian blade, bamboo. Courtesy of Fine Science Tools. s-e-1613."
+    },
+    "colors": [
+        {
+            "color": "#be9e77",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

@@ -1,0 +1,188 @@
+{
+    "id": "18802721",
+    "tms:id": "181547",
+    "accession_number": "1984-65-2",
+    "title": "Drawing, Squid Costume Design for the Opera \"Sadko\" by Rimsky-Korsakov, ca. 1929",
+    "title_raw": "Squid Costume Design for the Opera \"Sadko\" by Rimsky-Korsakov",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18802721\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35392481",
+    "type_id": "35237093",
+    "date": "ca. 1929",
+    "year_start": 1919,
+    "year_end": 1939,
+    "year_acquired": "1984",
+    "decade": "1910",
+    "woe:country_id": "23424977",
+    "medium": "brush and gouache, graphite on paper",
+    "markings": null,
+    "signed": "Signed in graphite, lower center: Soudeikine.",
+    "inscribed": null,
+    "provenance": "1984: acquired by Museum (from T.A.T. Galleries, Inc., New York, NY)",
+    "dimensions": "36.4 x 28.3 cm (14 5\/16 x 11 1\/8in.)",
+    "dimensions_raw": {
+        "height": [
+            "45.70",
+            "centimeters"
+        ],
+        "width": [
+            "35.56",
+            "centimeters"
+        ]
+    },
+    "creditline": "Museum purchase from General Acquisitions Endowment Fund",
+    "description": "Red-bodied and green-tentacled squid costume with orange, green and blue dots. A figure with raised arms, stockinged feet, and green headress is visible through the superimposed squid (tentacles at the top).",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10301_ebff975cbca9f928_b.jpg",
+                "width": 801,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "10301"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10301_ebff975cbca9f928_z.jpg",
+                "width": 501,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "10301"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10301_ebff975cbca9f928_n.jpg",
+                "width": 250,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "10301"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10301_ebff975cbca9f928_d.gif",
+                "width": 250,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "10301"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10301_ebff975cbca9f928_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "10301"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/162062_d541e66875f21f97_b.jpg",
+                "width": 789,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "162062"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/162062_d541e66875f21f97_z.jpg",
+                "width": 493,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "162062"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/162062_d541e66875f21f97_n.jpg",
+                "width": 247,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "162062"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/162062_d541e66875f21f97_d.gif",
+                "width": 247,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "162062"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/162062_d541e66875f21f97_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "162062"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18048535",
+            "role_id": "35352247",
+            "person_name": "General Acquisitions Endowment",
+            "person_date": "",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048535\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        },
+        {
+            "person_id": "18537717",
+            "role_id": "35352249",
+            "person_name": "T.A.T. Galleries",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537717\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "18049471",
+            "role_id": "35236655",
+            "person_name": "Serge Soudeikine",
+            "person_date": "Russian, 1886 - 1946",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049471\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Squid Costume Design for the Opera \"Sadko\" by Rimsky-Korsakov, ca. 1929. brush and gouache, graphite on paper. Museum purchase from General Acquisitions Endowment Fund. 1984-65-2."
+    },
+    "colors": [
+        {
+            "color": "#f2d6cc",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#ffe4c4",
+            "closest_css4": "#ffe4c4"
+        },
+        {
+            "color": "#431118",
+            "closest_crayola": "#000000",
+            "closest_css3": "#800000",
+            "closest_css4": "#800000"
+        },
+        {
+            "color": "#3a1f39",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#6e6b8a",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        },
+        {
+            "color": "#4c3735",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

@@ -1,0 +1,181 @@
+{
+    "id": "35460785",
+    "tms:id": "274831",
+    "accession_number": "28.2012.9",
+    "title": "Book, Peter Parley's Primer, 1835",
+    "title_raw": "Peter Parley's Primer",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35460785\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "35389903",
+    "type_id": "35247441",
+    "date": "1835",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": null,
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "printed paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Open: 14 x 24 cm (5 1\/2 x 9 7\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "14.00",
+            "centimeters"
+        ],
+        "width": [
+            "12.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Mr. Lea S. Luquer, PE1119.A1 G66 1835; Courtesy of the Smithsonian Libraries, Washington, DC",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "book",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57811_861b455d8caa5ec0_b.jpg",
+                "width": 1024,
+                "height": 683,
+                "is_primary": "1",
+                "image_id": "57811"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57811_861b455d8caa5ec0_z.jpg",
+                "width": 640,
+                "height": 427,
+                "is_primary": "1",
+                "image_id": "57811"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57811_861b455d8caa5ec0_n.jpg",
+                "width": 320,
+                "height": 213,
+                "is_primary": "1",
+                "image_id": "57811"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57811_861b455d8caa5ec0_d.gif",
+                "width": 320,
+                "height": 213,
+                "is_primary": "1",
+                "image_id": "57811"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57811_861b455d8caa5ec0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "57811"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57812_330859ebbcd1f49d_b.jpg",
+                "width": 683,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "57812"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57812_330859ebbcd1f49d_z.jpg",
+                "width": 427,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "57812"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57812_330859ebbcd1f49d_n.jpg",
+                "width": 213,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "57812"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57812_330859ebbcd1f49d_d.gif",
+                "width": 213,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "57812"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57812_330859ebbcd1f49d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "57812"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68777461",
+            "role_id": "35236661",
+            "person_name": "T. T. Ash",
+            "person_date": "Philadelphia, Pennsylvania, USA",
+            "role_name": "Publisher",
+            "role_display_name": "Published by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68777461\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236661\/"
+        },
+        {
+            "person_id": "68777463",
+            "role_id": "35236689",
+            "person_name": "Samuel G. Goodrich",
+            "person_date": "American, 1793\u20131860",
+            "role_name": "Author",
+            "role_display_name": "Written by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68777463\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236689\/"
+        },
+        {
+            "person_id": "18051233",
+            "role_id": "51571131",
+            "person_name": "Smithsonian Institution Libraries",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051233\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Book, Peter Parley's Primer, 1835. printed paper. Gift of Mr. Lea S. Luquer, PE1119.A1 G66 1835; Courtesy of the Smithsonian Libraries, Washington, DC. 28.2012.9."
+    },
+    "colors": [
+        {
+            "color": "#4c4a41",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#9b9080",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#727069",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#2c2b25",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "is_loan_object": 1
+}

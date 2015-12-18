@@ -1,0 +1,188 @@
+{
+    "id": "18801341",
+    "tms:id": "180837",
+    "accession_number": "1984-111-22",
+    "title": "Sample (USA), 1937\u201361",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801341\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "68249189",
+    "type_id": "35268079",
+    "date": "1937\u201361",
+    "year_start": 1937,
+    "year_end": 1961,
+    "year_acquired": "1984",
+    "decade": "1930",
+    "woe:country_id": "23424977",
+    "medium": "cotton warp with wool, cotton and rayon weft",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1984: acquired by Museum",
+    "dimensions": "Warp x Weft: 40.5 x 38.5 cm (15 15\/16 x 15 3\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "40.50",
+            "centimeters"
+        ],
+        "weft": [
+            "38.50",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Marianne Strengell",
+    "description": "Hand woven sample in orange and red mixture.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sample",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47931_7279d6922123568d_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "47931"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47931_7279d6922123568d_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "47931"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47931_7279d6922123568d_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "47931"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47931_7279d6922123568d_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "47931"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47931_7279d6922123568d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "47931"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77509_b747fa9346c083cb_b.jpg",
+                "width": 940,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "77509"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77509_b747fa9346c083cb_z.jpg",
+                "width": 588,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "77509"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77509_b747fa9346c083cb_n.jpg",
+                "width": 294,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77509"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77509_b747fa9346c083cb_d.gif",
+                "width": 294,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77509"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77509_b747fa9346c083cb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77509"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18041443",
+            "role_id": "35236685",
+            "person_name": "Marianne Strengell",
+            "person_date": "Finnish, active USA, 1909\u20131998",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041443\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18041443",
+            "role_id": "35236655",
+            "person_name": "Marianne Strengell",
+            "person_date": "Finnish, active USA, 1909\u20131998",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041443\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18041443",
+            "role_id": "35351535",
+            "person_name": "Marianne Strengell",
+            "person_date": "Finnish, active USA, 1909\u20131998",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041443\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sample (USA), 1937\u201361. cotton warp with wool, cotton and rayon weft. Gift of Marianne Strengell. 1984-111-22."
+    },
+    "colors": [
+        {
+            "color": "#74401e",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#9c5c2f",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#aa722b",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#835f24",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#d6ccbc",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

@@ -1,0 +1,83 @@
+{
+    "id": "18800673",
+    "tms:id": "180503",
+    "accession_number": "1983-47-5",
+    "title": "Drawing",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800673\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35237093",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1983",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/190243_fcb7121f67a47eba_b.jpg",
+                "width": 920,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "190243"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/190243_fcb7121f67a47eba_z.jpg",
+                "width": 575,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "190243"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/190243_fcb7121f67a47eba_n.jpg",
+                "width": 288,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "190243"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/190243_fcb7121f67a47eba_d.gif",
+                "width": 288,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "190243"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/190243_fcb7121f67a47eba_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "190243"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Drawing. 1983-47-5."
+    },
+    "colors": [
+
+    ],
+    "is_loan_object": 0
+}

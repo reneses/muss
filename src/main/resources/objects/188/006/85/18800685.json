@@ -1,0 +1,57 @@
+{
+    "id": "18800685",
+    "tms:id": "180509",
+    "accession_number": "1983-49-1",
+    "title": "Salesman's Sample Book (Czech Republic), early 20th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800685\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "51587669",
+    "type_id": "35289877",
+    "date": "early 20th century",
+    "year_start": null,
+    "year_end": 1925,
+    "year_acquired": "1983",
+    "decade": null,
+    "woe:country_id": "23424810",
+    "medium": "linen, leather, paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Stamped on cover: \"Ed. Oberliethner's Son's, M\u00e4hr. Sch\u00f6nberg\"",
+    "provenance": null,
+    "dimensions": "H x W (closed): 51 x 34 cm (20 1\/16 x 13 3\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "51.00",
+            "centimeters"
+        ],
+        "width": [
+            "34.00",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Bound volume containing sixty-seven monochrome square damask napkins, each with a selvage-to-selvage width. Each stamped with a number, and most are stamped with a title.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424810",
+    "type": "Salesman's sample book",
+    "images": [
+
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Salesman's Sample Book (Czech Republic), early 20th century. linen, leather, paper. 1983-49-1."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "Czech Republic",
+    "is_loan_object": 0
+}

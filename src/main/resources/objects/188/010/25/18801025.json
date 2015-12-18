@@ -1,0 +1,151 @@
+{
+    "id": "18801025",
+    "tms:id": "180679",
+    "accession_number": "1983-75-1",
+    "title": "Textile, Mira Columba, 1983",
+    "title_raw": "Mira Columba",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801025\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1983",
+    "year_start": 1983,
+    "year_end": 1983,
+    "year_acquired": "1983",
+    "decade": "1980",
+    "woe:country_id": "23424977",
+    "medium": "cotton",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 284.5 x 132.1 cm (9 ft. 4 in. x 52 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "284.48",
+            "centimeters"
+        ],
+        "weft": [
+            "132.08",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Geometric shapes confined within large squares of color, and composed of a grid of small colored squares.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51912_f0b3c86dc033c5d6_b.jpg",
+                "width": 741,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "51912"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51912_f0b3c86dc033c5d6_z.jpg",
+                "width": 463,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "51912"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51912_f0b3c86dc033c5d6_n.jpg",
+                "width": 232,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "51912"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51912_f0b3c86dc033c5d6_d.gif",
+                "width": 232,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "51912"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51912_f0b3c86dc033c5d6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "51912"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18045473",
+            "role_id": "35236681",
+            "person_name": "Mira-X International Furnishings, Inc.",
+            "person_date": "",
+            "role_name": "Company",
+            "role_display_name": "Company:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045473\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236681\/"
+        },
+        {
+            "person_id": "18048019",
+            "role_id": "35352245",
+            "person_name": "lm",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048019\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18045471",
+            "role_id": "35236655",
+            "person_name": "Verner Panton",
+            "person_date": "Danish, 1926\u20131998",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045471\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile, Mira Columba, 1983. cotton. 1983-75-1."
+    },
+    "colors": [
+        {
+            "color": "#7d8cab",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        },
+        {
+            "color": "#586c9f",
+            "closest_crayola": "#7366bd",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        },
+        {
+            "color": "#464773",
+            "closest_crayola": "#58427c",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        },
+        {
+            "color": "#aab4cc",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#b0c4de",
+            "closest_css4": "#b0c4de"
+        },
+        {
+            "color": "#d1c755",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

@@ -1,0 +1,121 @@
+{
+    "id": "18801087",
+    "tms:id": "180710",
+    "accession_number": "1983-85-10",
+    "title": "Textile (England), 1830\u201349",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801087\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1830\u201349",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1983",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "cotton",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": "Pillar print with birds, flowers and fruit in half-drop repeat.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/219212_f70e1bf237f94dfa_b.jpg",
+                "width": 1024,
+                "height": 740,
+                "is_primary": "1",
+                "image_id": "219212"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/219212_f70e1bf237f94dfa_z.jpg",
+                "width": 640,
+                "height": 463,
+                "is_primary": "1",
+                "image_id": "219212"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/219212_f70e1bf237f94dfa_n.jpg",
+                "width": 320,
+                "height": 231,
+                "is_primary": "1",
+                "image_id": "219212"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/219212_f70e1bf237f94dfa_d.gif",
+                "width": 320,
+                "height": 231,
+                "is_primary": "1",
+                "image_id": "219212"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/219212_f70e1bf237f94dfa_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "219212"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77458_04690dd26e92bc33_b.jpg",
+                "width": 1024,
+                "height": 725,
+                "is_primary": "0",
+                "image_id": "77458"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77458_04690dd26e92bc33_z.jpg",
+                "width": 640,
+                "height": 453,
+                "is_primary": "0",
+                "image_id": "77458"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77458_04690dd26e92bc33_n.jpg",
+                "width": 320,
+                "height": 227,
+                "is_primary": "0",
+                "image_id": "77458"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77458_04690dd26e92bc33_d.gif",
+                "width": 320,
+                "height": 227,
+                "is_primary": "0",
+                "image_id": "77458"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77458_04690dd26e92bc33_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77458"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Textile (England), 1830\u201349. cotton. 1983-85-10."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
+}

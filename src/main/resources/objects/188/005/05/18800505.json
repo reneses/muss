@@ -1,0 +1,114 @@
+{
+    "id": "18800505",
+    "tms:id": "180416",
+    "accession_number": "1983-32-1-a\/c",
+    "title": "Clock (France), 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800505\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35421701",
+    "type_id": "35249083",
+    "date": "19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1983",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "brass, wood",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D (with base): 20 x 69 x 18.5 cm (7 7\/8 x 27 3\/16 x 7 5\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "18.50",
+            "centimeters"
+        ],
+        "height": [
+            "20.00",
+            "centimeters"
+        ],
+        "width": [
+            "69.00",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "clock",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109260_7a92746abcb367b9_b.jpg",
+                "width": 1024,
+                "height": 602,
+                "is_primary": "1",
+                "image_id": "109260"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109260_7a92746abcb367b9_z.jpg",
+                "width": 640,
+                "height": 376,
+                "is_primary": "1",
+                "image_id": "109260"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109260_7a92746abcb367b9_n.jpg",
+                "width": 320,
+                "height": 188,
+                "is_primary": "1",
+                "image_id": "109260"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109260_7a92746abcb367b9_d.gif",
+                "width": 320,
+                "height": 188,
+                "is_primary": "1",
+                "image_id": "109260"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109260_7a92746abcb367b9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "109260"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Clock (France), 19th century. brass, wood. 1983-32-1-a\/c."
+    },
+    "colors": [
+        {
+            "color": "#382e1b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#281610",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#6b5247",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

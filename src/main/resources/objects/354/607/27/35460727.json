@@ -1,0 +1,174 @@
+{
+    "id": "35460727",
+    "tms:id": "274809",
+    "accession_number": "24.2012.4",
+    "title": "Book, Les raisons des forces mouvantes avec diverses machines tant utilles que plaisantes, 1615",
+    "title_raw": "Les raisons des forces mouvantes avec diverses machines tant utilles que plaisantes",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35460727\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "68250237",
+    "type_id": "35247441",
+    "date": "1615",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": null,
+    "decade": null,
+    "woe:country_id": "23424829",
+    "medium": "vellum over paper boards, paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D (open): 40.5 \u00d7 51.1 \u00d7 13.1 cm (15 15\/16 \u00d7 20 1\/8 \u00d7 5 3\/16 in.)\nH x W x D (closed): 40.5 \u00d7 26.7 \u00d7 2.8 cm (15 15\/16 \u00d7 10 1\/2 \u00d7 1 1\/8 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "13.10",
+            "centimeters"
+        ],
+        "height": [
+            "40.50",
+            "centimeters"
+        ],
+        "width": [
+            "51.10",
+            "centimeters"
+        ]
+    },
+    "creditline": "Courtesy of Smithsonian Libraries, Cooper Hewitt Smithsonian Design Library",
+    "description": null,
+    "justification": null,
+    "gallery_text": "French architect and engineer Salomon de Caus studied and wrote about diverse subjects like landscape design, mythology, steam and solar power, and the creation of pipe organs. His theories and inventions were employed when directing construction of the palaces and grounds at Heidelberg for Elector Frederick V around 1613. At that time, de Caus chronicled his ideas in the three books that comprise Les Raisons des forces mouvantes avec diverses machines tant utilles que plaisantes. These theories include the ornamentation of palace grottoes and fountains, the manufacture of pipe organs, and the application of steam, hydraulic, and solar systems\u2014important tools for powering machines, musical instruments, and fountains. This example illustrates a tool for augmenting fountain power: water is heated as the sun streams through glass disks mounted by the window (AB). Heated water rises into a pipe (CD) through the wall, and out from the fountain in the adjoining chamber.",
+    "label_text": "This publication chronicles inventions by the architect and engineer Salomon de Caus, including tools for powering machines, musical instruments, and fountains. Illustrated here is a tool for augmenting the power of a fountain: water is heated by the sun (AB); it rises into a pipe (CD), which carries it through the wall and into the adjoining chamber.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "book",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80552_de3ea7ca4d4a15f7_b.jpg",
+                "width": 669,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "80552"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80552_de3ea7ca4d4a15f7_z.jpg",
+                "width": 418,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "80552"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80552_de3ea7ca4d4a15f7_n.jpg",
+                "width": 209,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "80552"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80552_de3ea7ca4d4a15f7_d.gif",
+                "width": 209,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "80552"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80552_de3ea7ca4d4a15f7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "80552"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113729_28cca06ddb283929_b.jpg",
+                "width": 997,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113729"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113729_28cca06ddb283929_z.jpg",
+                "width": 623,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113729"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113729_28cca06ddb283929_n.jpg",
+                "width": 312,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113729"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113729_28cca06ddb283929_d.gif",
+                "width": 312,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113729"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113729_28cca06ddb283929_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113729"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68739569",
+            "role_id": "35236661",
+            "person_name": "Jan Norton",
+            "person_date": "Frankfurt, Germany",
+            "role_name": "Publisher",
+            "role_display_name": "Published by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68739569\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236661\/"
+        },
+        {
+            "person_id": "68738541",
+            "role_id": "35236689",
+            "person_name": "Salomon de Caus",
+            "person_date": "French, 1576\u20131626",
+            "role_name": "Author",
+            "role_display_name": "Written by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68738541\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236689\/"
+        },
+        {
+            "person_id": "18051233",
+            "role_id": "51571131",
+            "person_name": "Smithsonian Institution Libraries",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051233\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Book, Les raisons des forces mouvantes avec diverses machines tant utilles que plaisantes, 1615. vellum over paper boards, paper. Courtesy of Smithsonian Libraries, Cooper Hewitt Smithsonian Design Library. 24.2012.4."
+    },
+    "colors": [
+        {
+            "color": "#5d5b52",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#3c3b38",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 1
+}

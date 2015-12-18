@@ -1,0 +1,235 @@
+{
+    "id": "18805695",
+    "tms:id": "183141",
+    "accession_number": "1985-84-16-a,b",
+    "title": "Textile, Solar, 1974",
+    "title_raw": "Solar",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805695\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35414465",
+    "type_id": "35251739",
+    "date": "1974",
+    "year_start": 1974,
+    "year_end": 1974,
+    "year_acquired": "1985",
+    "decade": "1970",
+    "woe:country_id": "23424977",
+    "medium": "linen",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W (a): 281 \u00d7 124.1 cm (9 ft. 2 5\/8 \u00d7 48 7\/8 in.)\nH x W (b): 273.1 \u00d7 124.1 cm (8 ft. 11 1\/2 \u00d7 48 7\/8 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "281.00",
+            "centimeters"
+        ],
+        "weft": [
+            "124.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Henry C. and Eleanor Kluck",
+    "description": "Printed textiles A and B each contain half of an oval radiating design printed in black, gray, brown and white on a natural linen foundation.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51122_b83b953f59cd37cc_b.jpg",
+                "width": 536,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "51122"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51122_b83b953f59cd37cc_z.jpg",
+                "width": 335,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "51122"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51122_b83b953f59cd37cc_n.jpg",
+                "width": 168,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "51122"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51122_b83b953f59cd37cc_d.gif",
+                "width": 168,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "51122"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51122_b83b953f59cd37cc_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "51122"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51121_4208bb88352a7251_b.jpg",
+                "width": 1017,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "51121"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51121_4208bb88352a7251_z.jpg",
+                "width": 636,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "51121"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51121_4208bb88352a7251_n.jpg",
+                "width": 318,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "51121"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51121_4208bb88352a7251_d.gif",
+                "width": 318,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "51121"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51121_4208bb88352a7251_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "51121"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51120_019a6619fec25c4b_b.jpg",
+                "width": 517,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "51120"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51120_019a6619fec25c4b_z.jpg",
+                "width": 323,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "51120"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51120_019a6619fec25c4b_n.jpg",
+                "width": 162,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "51120"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51120_019a6619fec25c4b_d.gif",
+                "width": 162,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "51120"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51120_019a6619fec25c4b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "51120"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18056499",
+            "role_id": "35351535",
+            "person_name": "Henry C. Kluck",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056499\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18056501",
+            "role_id": "35351535",
+            "person_name": "Eleanor Kluck",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056501\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18045697",
+            "role_id": "35236685",
+            "person_name": "Elenhank",
+            "person_date": "Chicago, Illinois, 1948 \u2013 1980",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045697\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18045697",
+            "role_id": "35236655",
+            "person_name": "Elenhank",
+            "person_date": "Chicago, Illinois, 1948 \u2013 1980",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045697\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile, Solar, 1974. linen. Gift of Henry C. and Eleanor Kluck. 1985-84-16-a,b."
+    },
+    "colors": [
+        {
+            "color": "#d1c3b1",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#3c3834",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#9d6735",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#998f80",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#766f66",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

@@ -1,0 +1,172 @@
+{
+    "id": "35520475",
+    "tms:id": "274963",
+    "accession_number": "15.2012.35",
+    "title": "Stick Navigation Chart (Marshall Islands), Before 1950",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35520475\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "68894385",
+    "type_id": "35520473",
+    "date": "Before 1950",
+    "year_start": 1950,
+    "year_end": 1950,
+    "year_acquired": null,
+    "decade": "1950",
+    "woe:country_id": "23424932",
+    "medium": "carved wooden sticks, cowrie shells, twine lashing",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 99.4 x 101.9 x 4.4 cm (39 1\/8 x 40 1\/8 x 1 3\/4 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "4.45",
+            "centimeters"
+        ],
+        "height": [
+            "99.38",
+            "centimeters"
+        ],
+        "width": [
+            "101.92",
+            "centimeters"
+        ]
+    },
+    "creditline": "Department of Anthropology, National Museum of Natural History, Smithsonian Institution, E432083",
+    "description": null,
+    "justification": null,
+    "gallery_text": "In the Marshall Islands, a small Micronesian community, the organization of society and views of the universe were, and are, influenced by relationships with the sea\u2014as a source for food and transport as well as occasional devastation. While known for its canoes, it is the navigation stick chart, a visualization of seafarers\u2019 secret knowledge obtained over generations, that defines the Marshallese rapport with the sea. Acute sea observation yields a familiarity with ocean swells, what happens as they approach and pass land, and the characteristics of swell pattern interaction. From this complex information, a system of navigation depicted in stick charts developed in two ways: as models and as piloting instructions. Stick chart data are indicated by the arrangement of the sticks and by the forms given to them by bending and crossing, resembling the visual language of grid maps. Never taken aboard, these charts existed solely in the navigator\u2019s memory.",
+    "label_text": "Knowledge gained over generations by acute observation and experiencing the ocean\u2019s behavior is visualized in these stick charts. Memorized by the navigator before a voyage, these charts mapped ocean swells and currents, as well as relative distances between islands. The combination of straight, curved, and intersecting lines resembles the visual language of grid maps.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424932",
+    "type": "Stick navigation chart",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93980_ea8cb32a039bd2ba_b.jpg",
+                "width": 1002,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "93980"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93980_ea8cb32a039bd2ba_z.jpg",
+                "width": 626,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "93980"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93980_ea8cb32a039bd2ba_n.jpg",
+                "width": 313,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93980"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93980_ea8cb32a039bd2ba_d.gif",
+                "width": 313,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93980"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93980_ea8cb32a039bd2ba_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93980"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113724_ea8cb32a039bd2ba_b.jpg",
+                "width": 1002,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113724"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113724_ea8cb32a039bd2ba_z.jpg",
+                "width": 626,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113724"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113724_ea8cb32a039bd2ba_n.jpg",
+                "width": 313,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113724"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113724_ea8cb32a039bd2ba_d.gif",
+                "width": 313,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113724"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113724_ea8cb32a039bd2ba_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113724"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "51676437",
+            "role_id": "51571131",
+            "person_name": "National Museum of Natural History",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676437\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Stick Navigation Chart (Marshall Islands), Before 1950. carved wooden sticks, cowrie shells, twine lashing. Department of Anthropology, National Museum of Natural History, Smithsonian Institution, E432083. 15.2012.35."
+    },
+    "colors": [
+        {
+            "color": "#bda66f",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#9f8555",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#cac0ac",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#84683c",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#5d4726",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "Marshall Islands",
+    "is_loan_object": 1
+}

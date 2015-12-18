@@ -1,0 +1,192 @@
+{
+    "id": "35460701",
+    "tms:id": "274799",
+    "accession_number": "14.2012.71",
+    "title": "Tellatouch Braille Writer (USA), Designed ca. 1945 and manufactered ca. 1952",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35460701\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "68250219",
+    "type_id": "68250221",
+    "date": "Designed ca. 1945 and manufactered ca. 1952",
+    "year_start": 1945,
+    "year_end": 1952,
+    "year_acquired": null,
+    "decade": "1940",
+    "woe:country_id": "23424977",
+    "medium": "plastic, metal and leather",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D (open, inc. strap): 9.5 x 25 x 27.3 cm (3 3\/4 x 9 13\/16 x 10 3\/4 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "27.31",
+            "centimeters"
+        ],
+        "height": [
+            "9.53",
+            "centimeters"
+        ],
+        "width": [
+            "25.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Smithsonian Institution, National Museum of American History, 306619.11",
+    "description": null,
+    "justification": null,
+    "gallery_text": "Designed for users who are deaf-blind, the Tellatouch Braillewriter was developed by the American Foundation for the Blind. Braille is a tactile language developed in France by Louis Braille, a teacher of the blind, in the 1820s. Standardized in 1932, several types of Braillewriters and other inventions were developed to generate and enhance communication for blind people. The Tellatouch closed the distance between people who rely upon sight, sound and fingertips to connect but employed neither batteries, electrical signals, memory chips, nor paper. The keyboard resembles that of a conventional typewriter, but each key lifts a Braille letter one at a time on the opposite side of the console, where a person reads the six-point cells that compose the letters. The Tellatouch is very much a product of mid-twentieth-century design: its postwar styling quotes briefcases, pocket flasks, and automobile seats, conveying fashion and corporate office as much as words.",
+    "label_text": "Designed for deaf-blind users, the Tellatouch Braillewriter closes the distance between people who rely upon sight, sound, and touch to connect. Each key on what resembles a conventional keyboard lifts a Braille letter one at a time on the opposite side of the console, where a person reads the six-point cells that compose the tactile letters.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Tellatouch braille writer",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84683_2064e501d3fb05c9_b.jpg",
+                "width": 1024,
+                "height": 913,
+                "is_primary": "1",
+                "image_id": "84683"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84683_2064e501d3fb05c9_z.jpg",
+                "width": 640,
+                "height": 570,
+                "is_primary": "1",
+                "image_id": "84683"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84683_2064e501d3fb05c9_n.jpg",
+                "width": 320,
+                "height": 285,
+                "is_primary": "1",
+                "image_id": "84683"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84683_2064e501d3fb05c9_d.gif",
+                "width": 320,
+                "height": 285,
+                "is_primary": "1",
+                "image_id": "84683"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84683_2064e501d3fb05c9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "84683"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113648_2064e501d3fb05c9_b.jpg",
+                "width": 1024,
+                "height": 913,
+                "is_primary": "0",
+                "image_id": "113648"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113648_2064e501d3fb05c9_z.jpg",
+                "width": 640,
+                "height": 570,
+                "is_primary": "0",
+                "image_id": "113648"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113648_2064e501d3fb05c9_n.jpg",
+                "width": 320,
+                "height": 285,
+                "is_primary": "0",
+                "image_id": "113648"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113648_2064e501d3fb05c9_d.gif",
+                "width": 320,
+                "height": 285,
+                "is_primary": "0",
+                "image_id": "113648"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113648_2064e501d3fb05c9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113648"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68248003",
+            "role_id": "35236655",
+            "person_name": "American Foundation for the Blind",
+            "person_date": "USA",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248003\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "68248003",
+            "role_id": "35236657",
+            "person_name": "American Foundation for the Blind",
+            "person_date": "USA",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248003\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18041125",
+            "role_id": "51571131",
+            "person_name": "National Museum of American History",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041125\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Tellatouch Braille Writer (USA), Designed ca. 1945 and manufactered ca. 1952. plastic, metal and leather. Smithsonian Institution, National Museum of American History, 306619.11. 14.2012.71."
+    },
+    "colors": [
+        {
+            "color": "#976249",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#77472f",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#525a56",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#dbd8cc",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#b8aa96",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

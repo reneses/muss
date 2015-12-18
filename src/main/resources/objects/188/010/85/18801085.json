@@ -1,0 +1,121 @@
+{
+    "id": "18801085",
+    "tms:id": "180709",
+    "accession_number": "1983-85-1",
+    "title": "Textile (England), ca. 1810",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801085\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "ca. 1810",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1983",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "cotton",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 47 \u00d7 59.6 cm (18 1\/2 \u00d7 23 7\/16 in.)\nRepeat H x W: 41.9 \u00d7 59.7 cm (16 1\/2 \u00d7 23 1\/2 in.)\nH x W (block): 21 \u00d7 28.6 cm (8 1\/4 \u00d7 11 1\/4 in.)",
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": "Pheasant on a branch in half-drop repeat.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/220478_16a31b130f9f75d5_b.jpg",
+                "width": 1024,
+                "height": 756,
+                "is_primary": "1",
+                "image_id": "220478"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/220478_16a31b130f9f75d5_z.jpg",
+                "width": 640,
+                "height": 473,
+                "is_primary": "1",
+                "image_id": "220478"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/220478_16a31b130f9f75d5_n.jpg",
+                "width": 320,
+                "height": 236,
+                "is_primary": "1",
+                "image_id": "220478"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/220478_16a31b130f9f75d5_d.gif",
+                "width": 320,
+                "height": 236,
+                "is_primary": "1",
+                "image_id": "220478"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/220478_16a31b130f9f75d5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "220478"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77457_dde4635823f548ef_b.jpg",
+                "width": 1024,
+                "height": 743,
+                "is_primary": "0",
+                "image_id": "77457"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77457_dde4635823f548ef_z.jpg",
+                "width": 640,
+                "height": 465,
+                "is_primary": "0",
+                "image_id": "77457"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77457_dde4635823f548ef_n.jpg",
+                "width": 320,
+                "height": 232,
+                "is_primary": "0",
+                "image_id": "77457"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77457_dde4635823f548ef_d.gif",
+                "width": 320,
+                "height": 232,
+                "is_primary": "0",
+                "image_id": "77457"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77457_dde4635823f548ef_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77457"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Textile (England), ca. 1810. cotton. 1983-85-1."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
+}

@@ -1,0 +1,100 @@
+{
+    "id": "18802437",
+    "tms:id": "181403",
+    "accession_number": "1984-135-2",
+    "title": "Stand",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18802437\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389891",
+    "type_id": "35259695",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "porcelain",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Stand",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115100_66567688ee861dd2_b.jpg",
+                "width": 719,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "115100"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115100_66567688ee861dd2_z.jpg",
+                "width": 449,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "115100"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115100_66567688ee861dd2_n.jpg",
+                "width": 225,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "115100"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115100_66567688ee861dd2_d.gif",
+                "width": 225,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "115100"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115100_66567688ee861dd2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "115100"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Stand. porcelain. 1984-135-2."
+    },
+    "colors": [
+        {
+            "color": "#615f4b",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#8f805f",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#484842",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "is_loan_object": 0
+}

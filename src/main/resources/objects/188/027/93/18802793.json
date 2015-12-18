@@ -1,0 +1,116 @@
+{
+    "id": "18802793",
+    "tms:id": "181584",
+    "accession_number": "1984-76-2",
+    "title": "Print, New York City Building, ca. 1930",
+    "title_raw": "New York City Building",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18802793\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35236873",
+    "date": "ca. 1930",
+    "year_start": 1920,
+    "year_end": 1940,
+    "year_acquired": "1984",
+    "decade": "1920",
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Print",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/181335_817c45b4135f1e23_b.jpg",
+                "width": 664,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "181335"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/181335_817c45b4135f1e23_z.jpg",
+                "width": 415,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "181335"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/181335_817c45b4135f1e23_n.jpg",
+                "width": 208,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "181335"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/181335_817c45b4135f1e23_d.gif",
+                "width": 208,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "181335"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/181335_817c45b4135f1e23_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "181335"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18538019",
+            "role_id": "35236685",
+            "person_name": "J. Floyd Yewell",
+            "person_date": "",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538019\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Print, New York City Building, ca. 1930. 1984-76-2."
+    },
+    "colors": [
+        {
+            "color": "#b7b29e",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#817d70",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#5d594f",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#3c3933",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

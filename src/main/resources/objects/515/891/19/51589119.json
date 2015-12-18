@@ -1,0 +1,57 @@
+{
+    "id": "51589119",
+    "tms:id": "275422",
+    "accession_number": "1969-36-1-b",
+    "title": "Curtain Panel (USA), 1930\u201339",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/51589119\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35258973",
+    "date": "1930\u201339",
+    "year_start": 1930,
+    "year_end": 1939,
+    "year_acquired": "1969",
+    "decade": "1930",
+    "woe:country_id": "23424977",
+    "medium": "silk",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 254 \u00d7 110 cm (8 ft. 4 in. \u00d7 43 5\/16 in.)",
+    "dimensions_raw": null,
+    "creditline": "Gift of Mrs. David Herselle",
+    "description": "Curtain of heavy orange silk with an allover flowing foliage design in an Art Moderne style. Lined and interlined with velvet loops attached.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Curtain panel",
+    "images": [
+
+    ],
+    "participants": [
+        {
+            "person_id": "18059715",
+            "role_id": "35351535",
+            "person_name": "Mrs. David Herselle",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18059715\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Curtain Panel (USA), 1930\u201339. silk. Gift of Mrs. David Herselle. 1969-36-1-b."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

@@ -1,0 +1,122 @@
+{
+    "id": "18804485",
+    "tms:id": "182527",
+    "accession_number": "1985-120-5-a,b",
+    "title": "Tea Bowl And Saucer",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18804485\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389891",
+    "type_id": "35293763",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "porcelain",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W (cup): 4 x 6.5 cm (1 9\/16 x 2 9\/16 in.)\nH x diam. (saucer): 2 x 12.2 cm (13\/16 x 4 13\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "12.20",
+            "centimeters"
+        ],
+        "height": [
+            "4.00",
+            "centimeters"
+        ],
+        "width": [
+            "6.50",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Tea bowl and saucer",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115733_688f8d3d1fcb5d41_b.jpg",
+                "width": 1024,
+                "height": 851,
+                "is_primary": "1",
+                "image_id": "115733"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115733_688f8d3d1fcb5d41_z.jpg",
+                "width": 640,
+                "height": 532,
+                "is_primary": "1",
+                "image_id": "115733"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115733_688f8d3d1fcb5d41_n.jpg",
+                "width": 320,
+                "height": 266,
+                "is_primary": "1",
+                "image_id": "115733"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115733_688f8d3d1fcb5d41_d.gif",
+                "width": 320,
+                "height": 266,
+                "is_primary": "1",
+                "image_id": "115733"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115733_688f8d3d1fcb5d41_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "115733"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18536265",
+            "role_id": "35236685",
+            "person_name": "Chelsea Porcelain Manufactory",
+            "person_date": "English, active ca. 1745-1784",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18536265\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Tea Bowl And Saucer. porcelain. 1985-120-5-a,b."
+    },
+    "colors": [
+        {
+            "color": "#a0a094",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#83776a",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#765c51",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
+}

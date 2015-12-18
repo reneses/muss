@@ -1,0 +1,219 @@
+{
+    "id": "18801437",
+    "tms:id": "180885",
+    "accession_number": "1984-111-66",
+    "title": "Sample (USA), 1937\u201361",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801437\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "52027563",
+    "type_id": "35268079",
+    "date": "1937\u201361",
+    "year_start": 1937,
+    "year_end": 1961,
+    "year_acquired": "1984",
+    "decade": "1930",
+    "woe:country_id": "23424977",
+    "medium": "jute, wool",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1984: acquired by Museum",
+    "dimensions": "Warp x Weft: 56 x 16 cm (22 1\/16 x 6 5\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "56.00",
+            "centimeters"
+        ],
+        "weft": [
+            "16.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Marianne Strengell",
+    "description": "Bands of mauve, grey, tan and white pile. Reversible.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sample",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132989_b370c523c76af86d_b.jpg",
+                "width": 383,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "132989"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132989_b370c523c76af86d_z.jpg",
+                "width": 239,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "132989"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132989_b370c523c76af86d_n.jpg",
+                "width": 120,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "132989"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132989_b370c523c76af86d_d.gif",
+                "width": 120,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "132989"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132989_b370c523c76af86d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "132989"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77557_148c7088458f4ee9_b.jpg",
+                "width": 467,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "77557"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77557_148c7088458f4ee9_z.jpg",
+                "width": 292,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "77557"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77557_148c7088458f4ee9_n.jpg",
+                "width": 146,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77557"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77557_148c7088458f4ee9_d.gif",
+                "width": 146,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77557"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77557_148c7088458f4ee9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77557"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77558_14e92a7680ef5510_b.jpg",
+                "width": 440,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "77558"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77558_14e92a7680ef5510_z.jpg",
+                "width": 275,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "77558"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77558_14e92a7680ef5510_n.jpg",
+                "width": 138,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77558"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77558_14e92a7680ef5510_d.gif",
+                "width": 138,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77558"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77558_14e92a7680ef5510_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77558"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18041443",
+            "role_id": "35351535",
+            "person_name": "Marianne Strengell",
+            "person_date": "Finnish, active USA, 1909\u20131998",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041443\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18041443",
+            "role_id": "35236685",
+            "person_name": "Marianne Strengell",
+            "person_date": "Finnish, active USA, 1909\u20131998",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041443\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18041443",
+            "role_id": "35236655",
+            "person_name": "Marianne Strengell",
+            "person_date": "Finnish, active USA, 1909\u20131998",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041443\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sample (USA), 1937\u201361. jute, wool. Gift of Marianne Strengell. 1984-111-66."
+    },
+    "colors": [
+        {
+            "color": "#6c5c55",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#867668",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#2c2823",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#aea386",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

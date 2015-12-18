@@ -1,0 +1,133 @@
+{
+    "id": "35460847",
+    "tms:id": "274854",
+    "accession_number": "2013-16-4",
+    "title": "Poster, Crossing the Line \u2013 FIAF Fall Festival, 2010",
+    "title_raw": "Crossing the Line \u2013 FIAF Fall Festival",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35460847\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "51689177",
+    "type_id": "35238163",
+    "date": "2010",
+    "year_start": 2010,
+    "year_end": 2010,
+    "year_acquired": "2013",
+    "decade": "2010",
+    "woe:country_id": "23424819",
+    "medium": "screenprint on coated paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "November 2012: acquired by Museum directly from the designer, Philippe Apeloig",
+    "dimensions": "100 x 150 cm (59 1\/16 x 39 3\/8 in.)",
+    "dimensions_raw": {
+        "length": [
+            "150.00",
+            "centimeters"
+        ],
+        "width": [
+            "100.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Philippe Apeloig",
+    "description": "Poster featuring the repeating text \"CROSSING THE LINE\" in white letterforms composed with computer-generated punctuation marks.  \"FIAF\/ FALL\/ FSTVL,\" SEPT\/ 10-27\/ 2010\" and \"fi:af french institute\/ alliance fran\u00e7aise\" printed in yellow against black background.",
+    "justification": "This 2010 poster, designed by Philippe Apeloig, advertises the annual interdisciplinary fall festival of the French Institute Alliance Fran\u00e7aise (FIAF) in New York City. Apeloig\u2019s design employs the same fundamental typographic approach that he used in his 2006 poster, Vivo in Typo, whereby he manipulates the spacing of computer-generated punctuation to create text forms of varying density. Apeloig riffs off of the movement implied in the title of the festival, Crossing the Line, by repeating the phrase over and over again across the poster\u2019s surface. As the eye moves from left to right, the individual text forms appear to break apart or fade into the distance. This poster was included in the museum\u2019s 2012 exhibition, Graphic Design: Now in Production.",
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "poster",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90516_9e00d92eef37b0a5_b.jpg",
+                "width": 686,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "90516"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90516_9e00d92eef37b0a5_z.jpg",
+                "width": 429,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "90516"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90516_9e00d92eef37b0a5_n.jpg",
+                "width": 214,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90516"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90516_9e00d92eef37b0a5_d.gif",
+                "width": 214,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90516"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90516_9e00d92eef37b0a5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "90516"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "51676681",
+            "role_id": "35236673",
+            "person_name": "Serica",
+            "person_date": "Nancy, France",
+            "role_name": "Printer",
+            "role_display_name": "Printed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676681\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236673\/"
+        },
+        {
+            "person_id": "35459765",
+            "role_id": "35236655",
+            "person_name": "Philippe Apeloig",
+            "person_date": "French, b. 1962",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/35459765\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18059327",
+            "role_id": "35236661",
+            "person_name": "The French Institute",
+            "person_date": "",
+            "role_name": "Publisher",
+            "role_display_name": "Published by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18059327\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236661\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, Crossing the Line \u2013 FIAF Fall Festival, 2010. screenprint on coated paper. Gift of Philippe Apeloig. 2013-16-4."
+    },
+    "colors": [
+        {
+            "color": "#524b4d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#edeccd",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#faebd7",
+            "closest_css4": "#faebd7"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

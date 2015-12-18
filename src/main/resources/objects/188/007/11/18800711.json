@@ -1,0 +1,170 @@
+{
+    "id": "18800711",
+    "tms:id": "180522",
+    "accession_number": "1983-54-2-a\/e",
+    "title": "Kettle And Stand (Denmark), 20th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800711\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389463",
+    "type_id": "35294317",
+    "date": "20th century",
+    "year_start": 1901,
+    "year_end": 1935,
+    "year_acquired": "1983",
+    "decade": "1900",
+    "woe:country_id": "23424796",
+    "medium": "silver",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1983: acquired by Museum",
+    "dimensions": "Overall: 33.3 x 22.5 x 19 cm (13 1\/8 x 8 7\/8 x 7 1\/2 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "19.00",
+            "centimeters"
+        ],
+        "height": [
+            "33.30",
+            "centimeters"
+        ],
+        "width": [
+            "22.50",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Silver round kettle on a heating stand. Kettle has vertical scalloped decoration on lower third of body. Tray and stand with round foot.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424796",
+    "type": "Kettle and stand",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/126435_cac761b021ab0043_b.jpg",
+                "width": 717,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "126435"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/126435_cac761b021ab0043_z.jpg",
+                "width": 448,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "126435"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/126435_cac761b021ab0043_n.jpg",
+                "width": 224,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "126435"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/126435_cac761b021ab0043_d.gif",
+                "width": 224,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "126435"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/126435_cac761b021ab0043_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "126435"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16127_c2a42f7fdf41f2ed_b.jpg",
+                "width": 656,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "16127"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16127_c2a42f7fdf41f2ed_z.jpg",
+                "width": 410,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "16127"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16127_c2a42f7fdf41f2ed_n.jpg",
+                "width": 205,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "16127"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16127_c2a42f7fdf41f2ed_d.gif",
+                "width": 205,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "16127"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16127_c2a42f7fdf41f2ed_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "16127"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18053973",
+            "role_id": "35236655",
+            "person_name": "Johan Rohde",
+            "person_date": "Danish, 1866 \u2013 1935",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053973\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18043787",
+            "role_id": "35236657",
+            "person_name": "Georg Jensen S\u00f8lvsmedie",
+            "person_date": "founded 1904",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043787\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Kettle And Stand (Denmark), 20th century. silver. 1983-54-2-a\/e."
+    },
+    "colors": [
+        {
+            "color": "#a89a8b",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#7a6f64",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#342d27",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "Denmark",
+    "is_loan_object": 0
+}

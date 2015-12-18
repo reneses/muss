@@ -1,0 +1,168 @@
+{
+    "id": "18805671",
+    "tms:id": "183129",
+    "accession_number": "1985-83-4",
+    "title": "Band (France), 20th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805671\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35431421",
+    "type_id": "35254631",
+    "date": "20th century",
+    "year_start": 1901,
+    "year_end": 2000,
+    "year_acquired": "1985",
+    "decade": "1900",
+    "woe:country_id": "23424819",
+    "medium": "synthetic (?)",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 44 x 7.5 cm (17 5\/16 x 2 15\/16 in.)\nRepeat H: 6.5 cm (2 9\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "6.50",
+            "centimeters"
+        ],
+        "width": [
+            "7.50",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Emily Finch",
+    "description": "Band with a pattern of a curving, flowering vine.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Band",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77676_b4c03ae755e9ae3b_b.jpg",
+                "width": 505,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "77676"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77676_b4c03ae755e9ae3b_z.jpg",
+                "width": 316,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "77676"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77676_b4c03ae755e9ae3b_n.jpg",
+                "width": 158,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "77676"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77676_b4c03ae755e9ae3b_d.gif",
+                "width": 158,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "77676"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77676_b4c03ae755e9ae3b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "77676"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/135521_075ee99f4d16fec2_b.jpg",
+                "width": 1024,
+                "height": 233,
+                "is_primary": "0",
+                "image_id": "135521"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/135521_075ee99f4d16fec2_z.jpg",
+                "width": 640,
+                "height": 145,
+                "is_primary": "0",
+                "image_id": "135521"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/135521_075ee99f4d16fec2_n.jpg",
+                "width": 320,
+                "height": 73,
+                "is_primary": "0",
+                "image_id": "135521"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/135521_075ee99f4d16fec2_d.gif",
+                "width": 320,
+                "height": 73,
+                "is_primary": "0",
+                "image_id": "135521"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/135521_075ee99f4d16fec2_sq.jpg",
+                "width": 300,
+                "height": 233,
+                "is_primary": "0",
+                "image_id": "135521"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18058735",
+            "role_id": "35351535",
+            "person_name": "Emily Finch",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058735\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Band (France), 20th century. synthetic (?). Gift of Emily Finch. 1985-83-4."
+    },
+    "colors": [
+        {
+            "color": "#242539",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#cbdbea",
+            "closest_crayola": "#c5d0e6",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
+        },
+        {
+            "color": "#a8b3c3",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#8a8d9c",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        },
+        {
+            "color": "#4c4b5d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

@@ -1,0 +1,77 @@
+{
+    "id": "35460859",
+    "tms:id": "274857",
+    "accession_number": "2013-16-7",
+    "title": "Digital Animation, Le Mois du Graphisme \u00e0 \u00c9chirolles, 2008",
+    "title_raw": "Le Mois du Graphisme \u00e0 \u00c9chirolles",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35460859\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "69113977",
+    "type_id": "35460851",
+    "date": "2008",
+    "year_start": 2008,
+    "year_end": 2008,
+    "year_acquired": "2013",
+    "decade": "2000",
+    "woe:country_id": "23424819",
+    "medium": "digital animation, 1.12 mn",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Philippe Apeloig until November 2012",
+    "dimensions": "digital file",
+    "dimensions_raw": null,
+    "creditline": "Gift of Philippe Apeloig",
+    "description": "Digital animation featuring the text \"\u00c9chirolles Mois du Graphisme 21 Novembre 2008 - 31 Janvier 2009\" emerging and receding in gray, pink, purple and white to the music of Maurice Ravel.",
+    "justification": "This animation, designed in 2008 to promote a graphic arts festival held annually in \u00c9chirolles, a small town in France, reflects Philippe Apeloig\u2019s longstanding interest in dance. The text first emerges as flat gray letterforms. As the individual letters grow and recede in tandem with the music of Maurice Ravel, their colors transform to multi-layered pink, purple, black, and white. The animation varies with each musical note, emphasizing the near-abstract forms of each letter against their legibility as a whole group.",
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Digital animation",
+    "images": [
+
+    ],
+    "participants": [
+        {
+            "person_id": "51676663",
+            "role_id": "51682699",
+            "person_name": "Maurice Ravel",
+            "person_date": "",
+            "role_name": "Composer",
+            "role_display_name": "Music composed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676663\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51682699\/"
+        },
+        {
+            "person_id": "35459765",
+            "role_id": "35236655",
+            "person_name": "Philippe Apeloig",
+            "person_date": "French, b. 1962",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/35459765\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "69113965",
+            "role_id": "35236661",
+            "person_name": "Centre du Graphisme et de la Communication Visuelle",
+            "person_date": "",
+            "role_name": "Publisher",
+            "role_display_name": "Published by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/69113965\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236661\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Digital Animation, Le Mois du Graphisme \u00e0 \u00c9chirolles, 2008. digital animation, 1.12 mn. Gift of Philippe Apeloig. 2013-16-7."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

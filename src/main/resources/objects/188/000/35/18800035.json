@@ -1,0 +1,130 @@
+{
+    "id": "18800035",
+    "tms:id": "180180",
+    "accession_number": "1982-52-21",
+    "title": "Campaign Ribbon (USA), 1888",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800035\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35293537",
+    "date": "1888",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1982",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "silk",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 8 x 3.9 cm (3 1\/8 x 1 9\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "8.00",
+            "centimeters"
+        ],
+        "weft": [
+            "3.90",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Mr. and Mrs. Boris Kroll",
+    "description": "Blue line. Inscription: \"PROTECTION\" in blue. Portrait of Harrison and Morton. Inscription: \"HARRISON MORTON\" in black and white. Blue scroll with stars and Inscription: \"1888\". Image of white house. Inscription: \"WHITE HOUSE\".",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Campaign ribbon",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217590_c382637dd6861ebd_b.jpg",
+                "width": 551,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "217590"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217590_c382637dd6861ebd_z.jpg",
+                "width": 344,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "217590"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217590_c382637dd6861ebd_n.jpg",
+                "width": 172,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "217590"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217590_c382637dd6861ebd_d.gif",
+                "width": 172,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "217590"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217590_c382637dd6861ebd_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "217590"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28654_5c43396ff2d9fe86_b.jpg",
+                "width": 521,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "28654"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28654_5c43396ff2d9fe86_z.jpg",
+                "width": 325,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "28654"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28654_5c43396ff2d9fe86_n.jpg",
+                "width": 163,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "28654"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28654_5c43396ff2d9fe86_d.gif",
+                "width": 163,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "28654"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28654_5c43396ff2d9fe86_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "28654"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Campaign Ribbon (USA), 1888. silk. Gift of Mr. and Mrs. Boris Kroll. 1982-52-21."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

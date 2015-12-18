@@ -1,0 +1,170 @@
+{
+    "id": "35457329",
+    "tms:id": "274593",
+    "accession_number": "17.2012.8",
+    "title": "Parka (USA), Before 1925",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35457329\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "68515329",
+    "type_id": "68894371",
+    "date": "Before 1925",
+    "year_start": null,
+    "year_end": 1925,
+    "year_acquired": null,
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "beluga whale gut, sinew, grass twine",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "L x W: 136 \u00d7 109 cm (53 9\/16 \u00d7 42 15\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "25.00",
+            "centimeters"
+        ],
+        "height": [
+            "125.00",
+            "centimeters"
+        ],
+        "length": [
+            "136.00",
+            "centimeters"
+        ],
+        "width": [
+            "109.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "National Museum of the American Indian, Smithsonian Institution, 22\/7435",
+    "description": null,
+    "justification": null,
+    "gallery_text": "Feather-light and gossamer-thin, the gut parkas created by the Arctic sea hunters of Alaska and coastal Canada provided protection from wind, rain, and stormy seas. Wide skirted parkas could function as sleeping bags and the bottom edge could be tied securely around a kayak cockpit to prevent water penetration. Constructed from the intestines of sea mammals, including seals, walrus, and sea lions, they are cleaned, inflated, dried, and split into long ribbons of gut. This parka is made of beluga-whale gut, identifiable by the width of the strips. The intestine, which is composed of many layers of collagen and muscle, allows nutrients to be absorbed by the body, but is also impermeable and resistant to decay. Women skillfully sew these parkas with sinew (animal tendon) using watertight seams secured in place with a running stitch. Such parkas served spiritual purposes, too: native doctors wore one when practicing curing ceremonies and they were used in some ceremonies for purification.",
+    "label_text": "Made from the intestine of a beluga whale, this parka is a high-performance garment\u2014waterproof, windproof, and resistant to decay. Alaska Native women sewed these translucent and life-protecting parkas, and, in this example, created a watertight seam using sinew and twine in a running stitch.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Parka",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93915_55bbfaa9cc1c774f_b.jpg",
+                "width": 936,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "93915"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93915_55bbfaa9cc1c774f_z.jpg",
+                "width": 585,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "93915"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93915_55bbfaa9cc1c774f_n.jpg",
+                "width": 293,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93915"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93915_55bbfaa9cc1c774f_d.gif",
+                "width": 293,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93915"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93915_55bbfaa9cc1c774f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93915"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113713_55bbfaa9cc1c774f_b.jpg",
+                "width": 935,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113713"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113713_55bbfaa9cc1c774f_z.jpg",
+                "width": 584,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113713"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113713_55bbfaa9cc1c774f_n.jpg",
+                "width": 292,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113713"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113713_55bbfaa9cc1c774f_d.gif",
+                "width": 292,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113713"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113713_55bbfaa9cc1c774f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113713"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18063699",
+            "role_id": "51571131",
+            "person_name": "National Museum of the American Indian",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18063699\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Parka (USA), Before 1925. beluga whale gut, sinew, grass twine. National Museum of the American Indian, Smithsonian Institution, 22\/7435. 17.2012.8."
+    },
+    "colors": [
+        {
+            "color": "#8a785e",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#55442d",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#aa9a81",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#2c2417",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

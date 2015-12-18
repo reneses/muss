@@ -1,0 +1,104 @@
+{
+    "id": "18801631",
+    "tms:id": "180982",
+    "accession_number": "1984-124-10",
+    "title": "Drawing, Hall Design, Louis A. Heimsheimer, Esq., 19th\u201320th century",
+    "title_raw": "Hall Design, Louis A. Heimsheimer, Esq.",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801631\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35237093",
+    "date": "19th\u201320th century",
+    "year_start": null,
+    "year_end": 1999,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/139195_28bedbba50c6822f_b.jpg",
+                "width": 1024,
+                "height": 695,
+                "is_primary": "1",
+                "image_id": "139195"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/139195_28bedbba50c6822f_z.jpg",
+                "width": 640,
+                "height": 434,
+                "is_primary": "1",
+                "image_id": "139195"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/139195_28bedbba50c6822f_n.jpg",
+                "width": 320,
+                "height": 217,
+                "is_primary": "1",
+                "image_id": "139195"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/139195_28bedbba50c6822f_d.gif",
+                "width": 320,
+                "height": 217,
+                "is_primary": "1",
+                "image_id": "139195"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/139195_28bedbba50c6822f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "139195"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18539369",
+            "role_id": "35236655",
+            "person_name": "A. Kimbel & Sons",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539369\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Hall Design, Louis A. Heimsheimer, Esq., 19th\u201320th century. 1984-124-10."
+    },
+    "colors": [
+        {
+            "color": "#9d8f75",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#655a4c",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

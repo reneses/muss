@@ -1,0 +1,151 @@
+{
+    "id": "18801361",
+    "tms:id": "180847",
+    "accession_number": "1984-111-31",
+    "title": "Sample (USA), 20th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801361\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "51866065",
+    "type_id": "35268079",
+    "date": "20th century",
+    "year_start": 1930,
+    "year_end": 1984,
+    "year_acquired": "1984",
+    "decade": "1930",
+    "woe:country_id": "23424977",
+    "medium": "cotton, rayon (warp), wool, linen, metallic (weft)",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1984: acquired by Museum",
+    "dimensions": "Warp x Weft: 39 x 44 cm (15 3\/8 x 17 5\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "39.00",
+            "centimeters"
+        ],
+        "weft": [
+            "44.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Marianne Strengell",
+    "description": "Hand woven sample in stripes of blue and green with texture provided by various yarns.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sample",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77519_a58dc97e1efd2840_b.jpg",
+                "width": 1011,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "77519"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77519_a58dc97e1efd2840_z.jpg",
+                "width": 632,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "77519"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77519_a58dc97e1efd2840_n.jpg",
+                "width": 316,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "77519"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77519_a58dc97e1efd2840_d.gif",
+                "width": 316,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "77519"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77519_a58dc97e1efd2840_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "77519"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18041443",
+            "role_id": "35236685",
+            "person_name": "Marianne Strengell",
+            "person_date": "Finnish, active USA, 1909\u20131998",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041443\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18041443",
+            "role_id": "35236655",
+            "person_name": "Marianne Strengell",
+            "person_date": "Finnish, active USA, 1909\u20131998",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041443\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18041443",
+            "role_id": "35351535",
+            "person_name": "Marianne Strengell",
+            "person_date": "Finnish, active USA, 1909\u20131998",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041443\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sample (USA), 20th century. cotton, rayon (warp), wool, linen, metallic (weft). Gift of Marianne Strengell. 1984-111-31."
+    },
+    "colors": [
+        {
+            "color": "#154375",
+            "closest_crayola": "#1a4876",
+            "closest_css3": "#191970",
+            "closest_css4": "#191970"
+        },
+        {
+            "color": "#447094",
+            "closest_crayola": "#2e5894",
+            "closest_css3": "#4682b4",
+            "closest_css4": "#4682b4"
+        },
+        {
+            "color": "#44869e",
+            "closest_crayola": "#319177",
+            "closest_css3": "#4682b4",
+            "closest_css4": "#4682b4"
+        },
+        {
+            "color": "#19546b",
+            "closest_crayola": "#1a4876",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#65c4c9",
+            "closest_crayola": "#78dbe2",
+            "closest_css3": "#48d1cc",
+            "closest_css4": "#48d1cc"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

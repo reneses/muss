@@ -1,0 +1,139 @@
+{
+    "id": "18800023",
+    "tms:id": "180174",
+    "accession_number": "1982-52-16",
+    "title": "Souvenir Ribbon (possibly USA), 1901",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800023\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35293533",
+    "date": "1901",
+    "year_start": 1901,
+    "year_end": 1901,
+    "year_acquired": "1982",
+    "decade": "1900",
+    "woe:country_id": "23424977",
+    "medium": "silk",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 13.9 x 4.2 cm (5 1\/2 x 1 5\/8 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "13.90",
+            "centimeters"
+        ],
+        "weft": [
+            "4.20",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Mr. and Mrs. Boris Kroll",
+    "description": "Black border, legend: \"In Memoriam \/ Queen Victoria\". Portrait of Queen Victoria. \"BORN MAY 24, DIED JAN 22 \/ 1819 1901 \/ IN THE 64TH YEAR OF HER REIGN. AND THEY BURRIED HER, \/ AND THE KING LIFTED UP HIS VOICE \/ AND WEPT AT THE GRAVE; \/ AND ALL THE PEOPLE WEPT. \/ AND THE KING SAID UNTO HIS SERVANTS, \/ KNOW YE NOT \/ THAT THERE IS A PRINCE AND \/ A GREAT ONE FALLEN THIS DAY IS ISRAEL.\" Woven crown inside a sun. Ends folded to make a point. Black weft and white warp.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Souvenir ribbon",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217340_9bbe41bd4888fb99_b.jpg",
+                "width": 372,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "217340"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217340_9bbe41bd4888fb99_z.jpg",
+                "width": 232,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "217340"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217340_9bbe41bd4888fb99_n.jpg",
+                "width": 116,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "217340"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217340_9bbe41bd4888fb99_d.gif",
+                "width": 116,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "217340"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217340_9bbe41bd4888fb99_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "217340"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28418_abb4d0edcc62e4c9_b.jpg",
+                "width": 361,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "28418"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28418_abb4d0edcc62e4c9_z.jpg",
+                "width": 225,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "28418"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28418_abb4d0edcc62e4c9_n.jpg",
+                "width": 113,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "28418"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28418_abb4d0edcc62e4c9_d.gif",
+                "width": 113,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "28418"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28418_abb4d0edcc62e4c9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "28418"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18046035",
+            "role_id": "35351535",
+            "person_name": "Boris Kroll",
+            "person_date": "1913 \u2013 1991",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046035\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Souvenir Ribbon (possibly USA), 1901. silk. Gift of Mr. and Mrs. Boris Kroll. 1982-52-16."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

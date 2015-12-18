@@ -1,0 +1,320 @@
+{
+    "id": "18801121",
+    "tms:id": "180727",
+    "accession_number": "1983-86-1",
+    "title": "Book With Embroidered Cover, Biblia, 1628",
+    "title_raw": "Biblia",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801121\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35432617",
+    "type_id": "35292455",
+    "date": "1628",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1983",
+    "decade": null,
+    "woe:country_id": "23424909",
+    "medium": "paper, silk, metal, pearls",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 18 x 11.5 x 5.7 cm (7 1\/16 x 4 1\/2 x 2 1\/4 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "5.70",
+            "centimeters"
+        ],
+        "height": [
+            "18.00",
+            "centimeters"
+        ],
+        "width": [
+            "11.50",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Book covered in green velvet with a central medallion embroidered in colored silks on white satin and enclosed by a ring of pearls within a heavy frame of metallic yarns, some raised. Different medallion on front and back.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "Book with embroidered cover",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109038_6298cc83376cfdc6_b.jpg",
+                "width": 755,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "109038"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109038_6298cc83376cfdc6_z.jpg",
+                "width": 472,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "109038"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109038_6298cc83376cfdc6_n.jpg",
+                "width": 236,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "109038"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109038_6298cc83376cfdc6_d.gif",
+                "width": 236,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "109038"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109038_6298cc83376cfdc6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "109038"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109165_3917b74abda03488_b.jpg",
+                "width": 668,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "109165"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109165_3917b74abda03488_z.jpg",
+                "width": 418,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "109165"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109165_3917b74abda03488_n.jpg",
+                "width": 209,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "109165"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109165_3917b74abda03488_d.gif",
+                "width": 209,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "109165"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109165_3917b74abda03488_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "109165"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108507_59a62dfa99c44855_b.jpg",
+                "width": 699,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "108507"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108507_59a62dfa99c44855_z.jpg",
+                "width": 437,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "108507"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108507_59a62dfa99c44855_n.jpg",
+                "width": 218,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "108507"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108507_59a62dfa99c44855_d.gif",
+                "width": 218,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "108507"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108507_59a62dfa99c44855_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "108507"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77475_79b747f0711f6f01_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "77475"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77475_79b747f0711f6f01_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "77475"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77475_79b747f0711f6f01_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77475"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77475_79b747f0711f6f01_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77475"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77475_79b747f0711f6f01_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77475"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77477_81b1df03c4296291_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "77477"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77477_81b1df03c4296291_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "77477"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77477_81b1df03c4296291_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77477"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77477_81b1df03c4296291_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77477"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77477_81b1df03c4296291_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77477"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77476_99870856aa1e6587_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "77476"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77476_99870856aa1e6587_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "77476"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77476_99870856aa1e6587_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77476"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77476_99870856aa1e6587_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77476"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77476_99870856aa1e6587_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77476"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "34624777",
+            "role_id": "35236673",
+            "person_name": "Paulus Aertsz van Ravesteyn",
+            "person_date": "Netherlandish, 1609 - 1655",
+            "role_name": "Printer",
+            "role_display_name": "Printed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/34624777\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236673\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Book With Embroidered Cover, Biblia, 1628. paper, silk, metal, pearls. 1983-86-1."
+    },
+    "colors": [
+        {
+            "color": "#5b5a53",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#2f312e",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#787767",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#78634d",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#ac8f69",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
+}

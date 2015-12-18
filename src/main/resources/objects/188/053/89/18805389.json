@@ -1,0 +1,161 @@
+{
+    "id": "18805389",
+    "tms:id": "182985",
+    "accession_number": "1985-50-7",
+    "title": "Drawing, Textile Design: Tropical Flowers, 1912\u201313",
+    "title_raw": "Textile Design: Tropical Flowers",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805389\/",
+    "department_id": "35347493",
+    "period_id": "35417235",
+    "media_id": "35421785",
+    "type_id": "35237093",
+    "date": "1912\u201313",
+    "year_start": 1912,
+    "year_end": 1913,
+    "year_acquired": "1985",
+    "decade": "1910",
+    "woe:country_id": "23424819",
+    "medium": "brush and gouache on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "65.5 x 48.5 cm (25 13\/16 x 19 1\/8 in.), irregular",
+    "dimensions_raw": {
+        "height": [
+            "65.50",
+            "centimeters"
+        ],
+        "width": [
+            "48.50",
+            "centimeters"
+        ]
+    },
+    "creditline": "Museum purchase from General Acquisitions Endowment and Friends of Drawings and Prints Funds",
+    "description": "Pattern of tropical flowers in green, yellow, burgundy, orange, blue, and gray on grayish ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45746_06a67ea4764e214c_b.jpg",
+                "width": 756,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "45746"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45746_06a67ea4764e214c_z.jpg",
+                "width": 472,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "45746"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45746_06a67ea4764e214c_n.jpg",
+                "width": 236,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "45746"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45746_06a67ea4764e214c_d.gif",
+                "width": 236,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "45746"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45746_06a67ea4764e214c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "45746"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18052423",
+            "role_id": "35236657",
+            "person_name": "Bianchini Ferier, Inc.",
+            "person_date": "Lyon, France and New York, New York",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052423\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18045693",
+            "role_id": "35236655",
+            "person_name": "Raoul Dufy",
+            "person_date": "French, 1877\u20131953",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045693\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18041629",
+            "role_id": "35352249",
+            "person_name": "Kelmscott Gallery",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041629\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "18048535",
+            "role_id": "35352247",
+            "person_name": "General Acquisitions Endowment",
+            "person_date": "",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048535\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Textile Design: Tropical Flowers, 1912\u201313. brush and gouache on paper. Museum purchase from General Acquisitions Endowment and Friends of Drawings and Prints Funds. 1985-50-7."
+    },
+    "colors": [
+        {
+            "color": "#ddd0b5",
+            "closest_crayola": "#efcdb8",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
+        },
+        {
+            "color": "#aba495",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#485f5b",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#888480",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#f2e683",
+            "closest_crayola": "#fce883",
+            "closest_css3": "#f0e68c",
+            "closest_css4": "#f0e68c"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

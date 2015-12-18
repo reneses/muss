@@ -1,0 +1,100 @@
+{
+    "id": "18800727",
+    "tms:id": "180530",
+    "accession_number": "1983-55-16",
+    "title": "Button",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800727\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389857",
+    "type_id": "35237135",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1983",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "plastic",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "button",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/141762_3a0535fe1881afb0_b.jpg",
+                "width": 1024,
+                "height": 734,
+                "is_primary": "1",
+                "image_id": "141762"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/141762_3a0535fe1881afb0_z.jpg",
+                "width": 640,
+                "height": 459,
+                "is_primary": "1",
+                "image_id": "141762"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/141762_3a0535fe1881afb0_n.jpg",
+                "width": 320,
+                "height": 229,
+                "is_primary": "1",
+                "image_id": "141762"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/141762_3a0535fe1881afb0_d.gif",
+                "width": 320,
+                "height": 229,
+                "is_primary": "1",
+                "image_id": "141762"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/141762_3a0535fe1881afb0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "141762"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Button. plastic. 1983-55-16."
+    },
+    "colors": [
+        {
+            "color": "#3e4e6a",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#112d53",
+            "closest_crayola": "#1a4876",
+            "closest_css3": "#191970",
+            "closest_css4": "#191970"
+        },
+        {
+            "color": "#787d8b",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        }
+    ],
+    "is_loan_object": 0
+}

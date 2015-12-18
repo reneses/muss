@@ -1,0 +1,163 @@
+{
+    "id": "18801125",
+    "tms:id": "180729",
+    "accession_number": "1983-86-3",
+    "title": "Book With Embroidered Cover (England), 1635",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801125\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35397739",
+    "type_id": "35292455",
+    "date": "1635",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1983",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "paper, silk, metallic thread",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 8 x 5.1 x 2.5 cm (3 1\/8 in. x 2 in. x 1 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "2.50",
+            "centimeters"
+        ],
+        "height": [
+            "8.00",
+            "centimeters"
+        ],
+        "width": [
+            "5.10",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "\"The Psalmes\" covered in cream satin embroidered with a tulip design embossed in an oval frame using multicolored silks and metallic thread. Title page is missing.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Book with embroidered cover",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108934_f6f2ed437a9cc2f1_b.jpg",
+                "width": 735,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "108934"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108934_f6f2ed437a9cc2f1_z.jpg",
+                "width": 459,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "108934"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108934_f6f2ed437a9cc2f1_n.jpg",
+                "width": 230,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "108934"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108934_f6f2ed437a9cc2f1_d.gif",
+                "width": 230,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "108934"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108934_f6f2ed437a9cc2f1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "108934"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77480_42a38032bfb224a4_b.jpg",
+                "width": 675,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "77480"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77480_42a38032bfb224a4_z.jpg",
+                "width": 422,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "77480"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77480_42a38032bfb224a4_n.jpg",
+                "width": 211,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77480"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77480_42a38032bfb224a4_d.gif",
+                "width": 211,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77480"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77480_42a38032bfb224a4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77480"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Book With Embroidered Cover (England), 1635. paper, silk, metallic thread. 1983-86-3."
+    },
+    "colors": [
+        {
+            "color": "#9a7e5a",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#7c674c",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#48423a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#d8c49a",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#5d3533",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
+}

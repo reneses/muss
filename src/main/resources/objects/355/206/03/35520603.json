@@ -1,0 +1,145 @@
+{
+    "id": "35520603",
+    "tms:id": "275002",
+    "accession_number": "1.2013.1",
+    "title": "Book Illustration, Interaction of Color, Plate VIIII-I, 1963",
+    "title_raw": "Interaction of Color, Plate VIIII-I",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35520603\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "35376083",
+    "type_id": "35294459",
+    "date": "1963",
+    "year_start": 1963,
+    "year_end": 1963,
+    "year_acquired": null,
+    "decade": "1960",
+    "woe:country_id": "23424977",
+    "medium": "chromolithograph",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "33 x 50.5 cm (13 in. x 19 7\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "33.00",
+            "centimeters"
+        ],
+        "width": [
+            "50.50",
+            "centimeters"
+        ]
+    },
+    "creditline": "Courtesy of Smithsonian Libraries",
+    "description": "f ND1489 .A33 1963",
+    "justification": null,
+    "gallery_text": "Josef Albers, born in Germany, studied art in Berlin, Essen, and Munich. He then enrolled as a student at Bauhaus, in 1920, where he began an in-depth study of color theory. With the closure of Bauhaus in 1933, Albers immigrated to the United States where he taught at Black Mountain College. He joined the faculty of Yale in 1950 as Chairman of the Department of Design.\nWhile at Yale, Albers developed revolutionary exercises designed to explain the concepts of color. Using flat geometric planes of solid color, Albers demonstrated how colors interact through comparison and contrast to one another establishing the fact that all color is seen in relation to the colors it is surrounded by. His work illustrated how optical sensations can be created using particular color combinations, and changing their arrangement and proportion. Albers also showed how the illusion of depth and space can be established through the arrangement of color.\nHis book, Interaction of Color, has become one of the most influential books on color theory. Albers is best remembered for his work as an abstract painter and theorist.",
+    "label_text": "Josef Albers, an artist and educator, published his Interaction of Color as a teaching aid for artists, instructors, and students. Designed to illustrate the changing and relative nature of color, this plate explores color illusions, optical effects, and after images, through a visual exercise.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Book illustration",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50510_a9dabcc4c7eb5dd0_b.jpg",
+                "width": 1024,
+                "height": 768,
+                "is_primary": "1",
+                "image_id": "50510"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50510_a9dabcc4c7eb5dd0_z.jpg",
+                "width": 640,
+                "height": 480,
+                "is_primary": "1",
+                "image_id": "50510"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50510_a9dabcc4c7eb5dd0_n.jpg",
+                "width": 320,
+                "height": 240,
+                "is_primary": "1",
+                "image_id": "50510"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50510_a9dabcc4c7eb5dd0_d.gif",
+                "width": 320,
+                "height": 240,
+                "is_primary": "1",
+                "image_id": "50510"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50510_a9dabcc4c7eb5dd0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "50510"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18538075",
+            "role_id": "35236661",
+            "person_name": "Yale University Press",
+            "person_date": "",
+            "role_name": "Publisher",
+            "role_display_name": "Published by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538075\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236661\/"
+        },
+        {
+            "person_id": "18052071",
+            "role_id": "35236689",
+            "person_name": "Josef Albers",
+            "person_date": "German-American, 1888\u20131976",
+            "role_name": "Author",
+            "role_display_name": "Written by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052071\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236689\/"
+        },
+        {
+            "person_id": "18051233",
+            "role_id": "51571131",
+            "person_name": "Smithsonian Institution Libraries",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051233\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Book Illustration, Interaction of Color, Plate VIIII-I, 1963. chromolithograph. Courtesy of Smithsonian Libraries. 1.2013.1."
+    },
+    "colors": [
+        {
+            "color": "#cf4533",
+            "closest_crayola": "#cd4a4c",
+            "closest_css3": "#d2691e",
+            "closest_css4": "#d2691e"
+        },
+        {
+            "color": "#483d33",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#76716b",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#9e9895",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

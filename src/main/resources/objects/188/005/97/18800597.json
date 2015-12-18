@@ -1,0 +1,182 @@
+{
+    "id": "18800597",
+    "tms:id": "180465",
+    "accession_number": "1983-4-1",
+    "title": "Textile (Netherlands), 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800597\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35251739",
+    "date": "18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1983",
+    "decade": null,
+    "woe:country_id": "23424909",
+    "medium": "silk",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 96 x 48.5 cm (37 13\/16 x 19 1\/8 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "96.00",
+            "centimeters"
+        ],
+        "weft": [
+            "48.50",
+            "centimeters"
+        ]
+    },
+    "creditline": "Museum purchase from General Acquisitions Endowment Fund",
+    "description": "Vertically symmetrical pattern of exotic flowers loosely held together by an ogee foremat. Yellow background.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63174_406ace6ee2abf428_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "63174"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63174_406ace6ee2abf428_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "63174"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63174_406ace6ee2abf428_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63174"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63174_406ace6ee2abf428_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63174"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63174_406ace6ee2abf428_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "63174"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77418_3c1e6405d09b3e3f_b.jpg",
+                "width": 615,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "77418"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77418_3c1e6405d09b3e3f_z.jpg",
+                "width": 384,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "77418"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77418_3c1e6405d09b3e3f_n.jpg",
+                "width": 192,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77418"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77418_3c1e6405d09b3e3f_d.gif",
+                "width": 192,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77418"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77418_3c1e6405d09b3e3f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77418"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18048535",
+            "role_id": "35352247",
+            "person_name": "General Acquisitions Endowment",
+            "person_date": "",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048535\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        },
+        {
+            "person_id": "18047497",
+            "role_id": "35352245",
+            "person_name": "Milton Sonday",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047497\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18538455",
+            "role_id": "35352249",
+            "person_name": "Wolfgang Ruf",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538455\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile (Netherlands), 18th century. silk. Museum purchase from General Acquisitions Endowment Fund. 1983-4-1."
+    },
+    "colors": [
+        {
+            "color": "#9e8e3b",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#b1a577",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#ccc6aa",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#797541",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
+}

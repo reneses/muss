@@ -1,0 +1,176 @@
+{
+    "id": "35520465",
+    "tms:id": "274961",
+    "accession_number": "15.2012.33",
+    "title": "Bird Dart (USA), Created before 1870s",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35520465\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "68724273",
+    "type_id": "68274275",
+    "date": "Created before 1870s",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": null,
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "carved cedar, carved ivory, sinew lashing",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 11.1 x 7.3 x 172.1 cm (4 3\/8 in. x 2 7\/8 in. x 67 3\/4 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "172.09",
+            "centimeters"
+        ],
+        "height": [
+            "11.11",
+            "centimeters"
+        ],
+        "length": [
+            "172.09",
+            "centimeters"
+        ],
+        "width": [
+            "7.30",
+            "centimeters"
+        ]
+    },
+    "creditline": "Collection of Lucien M. Turner, 1876, Saint Michael, Alaska, Department of Anthropology, National Museum of Natural History, Smithsonian Institution, E29847",
+    "description": null,
+    "justification": null,
+    "gallery_text": "Yup\u2019ik men hunted geese and ducks at sea from kayaks using multipronged darts called nuusaaq. With the help of a throwing board they could hurl a nuusaaq long distances with great accuracy. This dart has a central point made of walrus ivory and three barbed side prongs designed to snag a bird by the neck or wing. It could be thrown overhand through the air or side-armed to skip it across the waves at floating birds. When launched into a flock, it might kill or snag several ducks at one time. Because darts are silent and don\u2019t frighten away other game in the area, these weapons were employed even after shotguns became available in the 1870s.",
+    "label_text": "A sharpened blade or honed point helps to make farming more efficient, perform surgery with extra precision, or enable hunting with greater success. Carved (bird dart), forged (throwing knives), or fractured (obsidian scalpel) to be razor-sharp, these tools also show how good design is found in the shape and at the edge.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Bird dart",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84682_8f43fbb4a7d36c07_b.jpg",
+                "width": 1024,
+                "height": 234,
+                "is_primary": "1",
+                "image_id": "84682"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84682_8f43fbb4a7d36c07_z.jpg",
+                "width": 640,
+                "height": 146,
+                "is_primary": "1",
+                "image_id": "84682"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84682_8f43fbb4a7d36c07_n.jpg",
+                "width": 320,
+                "height": 73,
+                "is_primary": "1",
+                "image_id": "84682"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84682_8f43fbb4a7d36c07_d.gif",
+                "width": 320,
+                "height": 73,
+                "is_primary": "1",
+                "image_id": "84682"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84682_8f43fbb4a7d36c07_sq.jpg",
+                "width": 300,
+                "height": 234,
+                "is_primary": "1",
+                "image_id": "84682"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113677_7d343ac464df15f2_b.jpg",
+                "width": 1024,
+                "height": 185,
+                "is_primary": "0",
+                "image_id": "113677"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113677_7d343ac464df15f2_z.jpg",
+                "width": 640,
+                "height": 115,
+                "is_primary": "0",
+                "image_id": "113677"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113677_7d343ac464df15f2_n.jpg",
+                "width": 320,
+                "height": 58,
+                "is_primary": "0",
+                "image_id": "113677"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113677_7d343ac464df15f2_d.gif",
+                "width": 320,
+                "height": 58,
+                "is_primary": "0",
+                "image_id": "113677"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113677_7d343ac464df15f2_sq.jpg",
+                "width": 300,
+                "height": 185,
+                "is_primary": "0",
+                "image_id": "113677"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "51676437",
+            "role_id": "51571131",
+            "person_name": "National Museum of Natural History",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676437\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Bird Dart (USA), Created before 1870s. carved cedar, carved ivory, sinew lashing. Collection of Lucien M. Turner, 1876, Saint Michael, Alaska, Department of Anthropology, National Museum of Natural History, Smithsonian Institution, E29847. 15.2012.33."
+    },
+    "colors": [
+        {
+            "color": "#765730",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#2f1f0c",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#b3aea3",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#94764b",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#d2c99f",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

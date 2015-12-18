@@ -1,0 +1,84 @@
+{
+    "id": "18802851",
+    "tms:id": "181613",
+    "accession_number": "1984-83-3",
+    "title": "Poster (USA)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18802851\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35238163",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Museum purchase from General Acquisition Endowment and Decorative Arts Association Acquisition Funds",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/201238_31067519c570aff9_b.jpg",
+                "width": 723,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "201238"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/201238_31067519c570aff9_z.jpg",
+                "width": 452,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "201238"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/201238_31067519c570aff9_n.jpg",
+                "width": 226,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "201238"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/201238_31067519c570aff9_d.gif",
+                "width": 226,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "201238"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/201238_31067519c570aff9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "201238"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Poster (USA). Museum purchase from General Acquisition Endowment and Decorative Arts Association Acquisition Funds. 1984-83-3."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

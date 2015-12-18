@@ -1,0 +1,152 @@
+{
+    "id": "18801139",
+    "tms:id": "180736",
+    "accession_number": "1983-88-13",
+    "title": "Tile (USA), 1905\u20131909",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801139\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35414521",
+    "type_id": "35250645",
+    "date": "1905\u20131909",
+    "year_start": 1905,
+    "year_end": 1909,
+    "year_acquired": "1983",
+    "decade": "1900",
+    "woe:country_id": "23424977",
+    "medium": "glazed earthenware",
+    "markings": "Impressed on back: GRUEBY \/ BOSTON",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 15.4 \u00d7 15.4 \u00d7 2.4 cm (6 1\/16 \u00d7 6 1\/16 \u00d7 15\/16 in.)",
+    "dimensions_raw": null,
+    "creditline": "Gift of Marcia and William Goodman",
+    "description": "White lily pad on green background",
+    "justification": null,
+    "gallery_text": "Grueby was an acclaimed art pottery firm at the beginning of the twentieth century, producing a wide variety of wares from vases and lamps to tiles. Grueby\u2019s famous matte green glaze featured heavily in the firm\u2019s art pottery line. This tile features a lotus, a flower typically read as a symbol of purity, beauty, or life.",
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "tile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100465_bf5f14e2afabf38c_b.jpg",
+                "width": 1024,
+                "height": 987,
+                "is_primary": "1",
+                "image_id": "100465"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100465_bf5f14e2afabf38c_z.jpg",
+                "width": 640,
+                "height": 617,
+                "is_primary": "1",
+                "image_id": "100465"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100465_bf5f14e2afabf38c_n.jpg",
+                "width": 320,
+                "height": 308,
+                "is_primary": "1",
+                "image_id": "100465"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100465_bf5f14e2afabf38c_d.gif",
+                "width": 320,
+                "height": 308,
+                "is_primary": "1",
+                "image_id": "100465"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100465_bf5f14e2afabf38c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "100465"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18043791",
+            "role_id": "35236657",
+            "person_name": "Grueby Pottery",
+            "person_date": "1899 \u2013 1911",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043791\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18043793",
+            "role_id": "35236657",
+            "person_name": "Grueby Faience Company, Revere, Massachusetts",
+            "person_date": "1895\u20131908",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043793\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18538741",
+            "role_id": "35351535",
+            "person_name": "William Goodman",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538741\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18538739",
+            "role_id": "35351535",
+            "person_name": "Marcia Goodman",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538739\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Tile (USA), 1905\u20131909. glazed earthenware. Gift of Marcia and William Goodman. 1983-88-13."
+    },
+    "colors": [
+        {
+            "color": "#394733",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#60836c",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#8b8982",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#a29778",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#74674f",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

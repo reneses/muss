@@ -1,0 +1,233 @@
+{
+    "id": "18805061",
+    "tms:id": "182818",
+    "accession_number": "1985-3-4-a,b",
+    "title": "TAC Sugar Bowl And Lid, 1969",
+    "title_raw": "TAC",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805061\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35392471",
+    "type_id": "35288059",
+    "date": "1969",
+    "year_start": 1969,
+    "year_end": 1969,
+    "year_acquired": "1985",
+    "decade": "1960",
+    "woe:country_id": "23424829",
+    "medium": "glazed porcelain",
+    "markings": "On base, in white: \"Rosenthal [logo] \/ PORCELAINE NOIRE \/ studio-linie \/ GERMANY\"",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1985: acquired directly from the manufacturer, Rosenthal Glas und Porzellan AG",
+    "dimensions": "Sugar bowl and cover:  H x diam.: 8.3 x 10.2 cm (3 1\/4 in. x 4 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "10.16",
+            "centimeters"
+        ],
+        "height": [
+            "8.26",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Rosenthal Glas und Porzellan AG",
+    "description": "Black circular bowl, flat base with flush lid and attached to lid a hook-like knob that is glazed.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "Sugar bowl and lid",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108290_9c30cbad1fa28a36_b.jpg",
+                "width": 1024,
+                "height": 832,
+                "is_primary": "1",
+                "image_id": "108290"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108290_9c30cbad1fa28a36_z.jpg",
+                "width": 640,
+                "height": 520,
+                "is_primary": "1",
+                "image_id": "108290"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108290_9c30cbad1fa28a36_n.jpg",
+                "width": 320,
+                "height": 260,
+                "is_primary": "1",
+                "image_id": "108290"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108290_9c30cbad1fa28a36_d.gif",
+                "width": 320,
+                "height": 260,
+                "is_primary": "1",
+                "image_id": "108290"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108290_9c30cbad1fa28a36_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "108290"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42531_8226a2ac59e2e25d_b.jpg",
+                "width": null,
+                "height": null,
+                "is_primary": "0",
+                "image_id": "42531"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42531_8226a2ac59e2e25d_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "42531"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42531_8226a2ac59e2e25d_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "42531"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42531_8226a2ac59e2e25d_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "42531"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42531_8226a2ac59e2e25d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "42531"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42532_ccf076f46b13930e_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "42532"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42532_ccf076f46b13930e_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "42532"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42532_ccf076f46b13930e_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "42532"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42532_ccf076f46b13930e_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "42532"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42532_ccf076f46b13930e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "42532"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18044069",
+            "role_id": "35351535",
+            "person_name": "Rosenthal Aktiengesellschaft",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044069\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18043913",
+            "role_id": "35236685",
+            "person_name": "Rosenthal Glas Und Porzellan Aktiengesellschaft",
+            "person_date": "founded 1891",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043913\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18537663",
+            "role_id": "35236703",
+            "person_name": "Walter Gropius\/Louis McMillen",
+            "person_date": "",
+            "role_name": "Office of",
+            "role_display_name": "Office of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537663\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236703\/"
+        },
+        {
+            "person_id": "18537661",
+            "role_id": "35236675",
+            "person_name": "The Architects Collaborative (T.A.C.)",
+            "person_date": "",
+            "role_name": "For",
+            "role_display_name": "Made for",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537661\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236675\/"
+        },
+        {
+            "person_id": "18537657",
+            "role_id": "35236655",
+            "person_name": "Catherine de Souza",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537657\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "TAC Sugar Bowl And Lid, 1969. glazed porcelain. Gift of Rosenthal Glas und Porzellan AG. 1985-3-4-a,b."
+    },
+    "colors": [
+        {
+            "color": "#635f5b",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#3d3935",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#837f78",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
+}

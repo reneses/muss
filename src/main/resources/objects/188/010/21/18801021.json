@@ -1,0 +1,129 @@
+{
+    "id": "18801021",
+    "tms:id": "180677",
+    "accession_number": "1983-73-1",
+    "title": "Mural, The World of Radio, 1934",
+    "title_raw": "The World of Radio",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801021\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35291227",
+    "date": "1934",
+    "year_start": 1934,
+    "year_end": 1934,
+    "year_acquired": "1983",
+    "decade": "1930",
+    "woe:country_id": "23424977",
+    "medium": "cotton",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 262.9 \u00d7 492.8 cm (8 ft. 7 1\/2 in. \u00d7 16 ft. 2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "262.89",
+            "centimeters"
+        ],
+        "width": [
+            "492.76",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Batik mural entitled The World of Radio, with a portrait of Jessica Dragonette, soprano and radio star, in the center, standing on the globe with lines of music ratiating out in all directions. The mural also includes the Original WJZ 500 Watt Transmitter Newark NJ,  the City Service Broadcast over NBC, Radio City Music Hall, a portrait of Marconi, broadcasting to Byrd at the South Pole, possibly President Harding's 1921 Amistice Day address from Arlington National Cemetery, zeppelins, airplanes, and skyscrapers, amid symbols of music and theater. A portrait of the artist appears in the lower left corner.",
+    "justification": null,
+    "gallery_text": "This batik mural, over 8 feet high and 16 feet wide, depicts radio star Jessica Dragonette (1900\u20131980) at the center of the \u201cstory of radio\u2019s progress.\u201d Dragonette brought operetta and semi-classical music to over 60 million viewers weekly, and was one of radio\u2019s highest paid performers in the 1930s and 40s. The star is depicted atop a globe against a modern cityscape, with musical notes radiating in all directions, and is surrounded by images of theatrical figures and modern achievements, such as Richard Byrd\u2019s radio contact from the South Pole, depicted on the bottom left. Giulio Marconi, the Italian inventor celebrated for his pioneering work in long-distance radio transmission, is depicted in the top right, next to an abstract, stylized pattern resembling an electrical diagram. A celebration of radio\u2019s achievements as well as its potential, this mural signals the tremendous expansion and transformation of American information technology that would occur in the latter part of the century.",
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Mural",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93558_adc965183070a769_b.jpg",
+                "width": 1024,
+                "height": 559,
+                "is_primary": "1",
+                "image_id": "93558"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93558_adc965183070a769_z.jpg",
+                "width": 640,
+                "height": 349,
+                "is_primary": "1",
+                "image_id": "93558"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93558_adc965183070a769_n.jpg",
+                "width": 320,
+                "height": 175,
+                "is_primary": "1",
+                "image_id": "93558"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93558_adc965183070a769_d.gif",
+                "width": 320,
+                "height": 175,
+                "is_primary": "1",
+                "image_id": "93558"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93558_adc965183070a769_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93558"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18046139",
+            "role_id": "35236675",
+            "person_name": "Mrs. Nadea Dragonette Loftus",
+            "person_date": "1892 - 1982",
+            "role_name": "For",
+            "role_display_name": "Made for",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046139\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236675\/"
+        },
+        {
+            "person_id": "18046137",
+            "role_id": "35236685",
+            "person_name": "Arthur Gordon Smith",
+            "person_date": "",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046137\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Mural, The World of Radio, 1934. cotton. 1983-73-1."
+    },
+    "colors": [
+        {
+            "color": "#8a7054",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#ad8e61",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#665748",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

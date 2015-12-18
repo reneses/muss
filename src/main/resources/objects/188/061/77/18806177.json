@@ -1,0 +1,202 @@
+{
+    "id": "18806177",
+    "tms:id": "183389",
+    "accession_number": "1986-111-17-a,b",
+    "title": "Compact Stacking Dinnerware Bowl And Cover, 1964",
+    "title_raw": "Compact Stacking Dinnerware",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18806177\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35433121",
+    "type_id": "35237491",
+    "date": "1964",
+    "year_start": 1964,
+    "year_end": 1964,
+    "year_acquired": "1986",
+    "decade": "1960",
+    "woe:country_id": "23424853",
+    "medium": "melamine",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam. (a): 5.7 x 12.5 cm (2 1\/4 x 4 15\/16 in.)\nH x diam. (b): 1.7 x 12.5 cm (11\/16 x 4 15\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "12.50",
+            "centimeters"
+        ],
+        "height": [
+            "1.70",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Lella and Massimo Vignelli",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "bowl and cover",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92760_6a75a5cb8007cccb_b.jpg",
+                "width": 1024,
+                "height": 846,
+                "is_primary": "1",
+                "image_id": "92760"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92760_6a75a5cb8007cccb_z.jpg",
+                "width": 640,
+                "height": 528,
+                "is_primary": "1",
+                "image_id": "92760"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92760_6a75a5cb8007cccb_n.jpg",
+                "width": 320,
+                "height": 264,
+                "is_primary": "1",
+                "image_id": "92760"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92760_6a75a5cb8007cccb_d.gif",
+                "width": 320,
+                "height": 264,
+                "is_primary": "1",
+                "image_id": "92760"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92760_6a75a5cb8007cccb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92760"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115856_ae76d27ab097bf07_b.jpg",
+                "width": 1024,
+                "height": 792,
+                "is_primary": "0",
+                "image_id": "115856"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115856_ae76d27ab097bf07_z.jpg",
+                "width": 640,
+                "height": 495,
+                "is_primary": "0",
+                "image_id": "115856"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115856_ae76d27ab097bf07_n.jpg",
+                "width": 320,
+                "height": 248,
+                "is_primary": "0",
+                "image_id": "115856"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115856_ae76d27ab097bf07_d.gif",
+                "width": 320,
+                "height": 248,
+                "is_primary": "0",
+                "image_id": "115856"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115856_ae76d27ab097bf07_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "115856"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18044029",
+            "role_id": "35351535",
+            "person_name": "Lella Vignelli",
+            "person_date": "Italian, b. 1934",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044029\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18042329",
+            "role_id": "35351535",
+            "person_name": "Massimo Vignelli",
+            "person_date": "Italian, active USA, 1931\u20132014",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042329\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18044035",
+            "role_id": "35236657",
+            "person_name": "Arpe",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044035\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18044035",
+            "role_id": "35236675",
+            "person_name": "Arpe",
+            "person_date": "",
+            "role_name": "For",
+            "role_display_name": "Made for",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044035\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236675\/"
+        },
+        {
+            "person_id": "18042329",
+            "role_id": "35236655",
+            "person_name": "Massimo Vignelli",
+            "person_date": "Italian, active USA, 1931\u20132014",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042329\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Compact Stacking Dinnerware Bowl And Cover, 1964. melamine. Gift of Lella and Massimo Vignelli. 1986-111-17-a,b."
+    },
+    "colors": [
+        {
+            "color": "#d2be7c",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#deb887",
+            "closest_css4": "#deb887"
+        },
+        {
+            "color": "#cecac2",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#ae985e",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#7b652d",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
+}

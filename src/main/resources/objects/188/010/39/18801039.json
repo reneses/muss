@@ -1,0 +1,162 @@
+{
+    "id": "18801039",
+    "tms:id": "180686",
+    "accession_number": "1983-79-1",
+    "title": "Textile, early 20th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801039\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35394285",
+    "type_id": "35251739",
+    "date": "early 20th century",
+    "year_start": null,
+    "year_end": 1999,
+    "year_acquired": "1983",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "silk, metallic",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Repeat H: 121.5 cm (47 13\/16 in.)\nWarp x Weft (selvage to selvage): 134 x 133 cm (52 3\/4 x 52 3\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "121.50",
+            "centimeters"
+        ],
+        "warp": [
+            "134.00",
+            "centimeters"
+        ],
+        "weft": [
+            "133.00",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Floral medallions in multicolors connected by a squared diamond grid in gold. Background: rose. In the style of early 19th century  (Empire).",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112334_77f22bc49c7520de_b.jpg",
+                "width": 1024,
+                "height": 804,
+                "is_primary": "1",
+                "image_id": "112334"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112334_77f22bc49c7520de_z.jpg",
+                "width": 640,
+                "height": 503,
+                "is_primary": "1",
+                "image_id": "112334"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112334_77f22bc49c7520de_n.jpg",
+                "width": 320,
+                "height": 251,
+                "is_primary": "1",
+                "image_id": "112334"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112334_77f22bc49c7520de_d.gif",
+                "width": 320,
+                "height": 251,
+                "is_primary": "1",
+                "image_id": "112334"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112334_77f22bc49c7520de_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "112334"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77446_895498cfeddd1fb6_b.jpg",
+                "width": 815,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "77446"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77446_895498cfeddd1fb6_z.jpg",
+                "width": 509,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "77446"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77446_895498cfeddd1fb6_n.jpg",
+                "width": 255,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77446"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77446_895498cfeddd1fb6_d.gif",
+                "width": 255,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77446"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77446_895498cfeddd1fb6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77446"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Textile, early 20th century. silk, metallic. 1983-79-1."
+    },
+    "colors": [
+        {
+            "color": "#855f4d",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#a89277",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#94744c",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#7a7252",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#624f36",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "is_loan_object": 0
+}

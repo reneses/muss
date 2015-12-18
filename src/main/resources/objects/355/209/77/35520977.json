@@ -1,0 +1,168 @@
+{
+    "id": "35520977",
+    "tms:id": "275096",
+    "accession_number": "s-e-1601",
+    "title": "Calculator, ET55, 1980",
+    "title_raw": "ET55",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35520977\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "68250293",
+    "type_id": "35293947",
+    "date": "1980",
+    "year_start": 1980,
+    "year_end": 1980,
+    "year_acquired": null,
+    "decade": "1980",
+    "woe:country_id": "23424829",
+    "medium": "abs polymer casing",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 13.6 x 7.8 x 1 cm (5 3\/8 x 3 1\/16 x 3\/8 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "1.00",
+            "centimeters"
+        ],
+        "height": [
+            "13.60",
+            "centimeters"
+        ],
+        "width": [
+            "7.80",
+            "centimeters"
+        ]
+    },
+    "creditline": "Courtesy of Cara McCarty",
+    "description": null,
+    "justification": null,
+    "gallery_text": "An iconic example of Dieter Rams\u2019 relentless \"Less-but-better\" philosophy is this calculator, whose understated elegance and exacting precision of detail made it an immediate success. Nothing is arbitrary. In addition to the instrument\u2019s absolute clarity of function, the smooth texture feels good, and the rectangular form fits comfortably into the hand. The articulated, color-coded, M & M\u2013shaped push buttons, offset against a matte black background, contribute to an intuitive use of the calculator and add a lighthearted visual appeal. Emotive responses are not generally associated with calculating machines, but this is a possession to be coveted, rather than hide in a drawer until required. As a testament to the tool\u2019s enduring legacy, the minimalist form and the layout of the keypad were inspirations for Apple\u2019s iPhone calculator.",
+    "label_text": "An abacus, a calculator, and a slide rule answer the question HOW MUCH? by means of very different techniques. The construction\nof some of our greatest modern buildings was calculated using slide rules. For surveying complex sites and surfaces, 3D laser scanners achieve such high precision that the interior of an entire building can be represented in minute detail.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "Calculator",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83553_4449ce34d0b56ffc_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "83553"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83553_4449ce34d0b56ffc_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "83553"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83553_4449ce34d0b56ffc_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "83553"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83553_4449ce34d0b56ffc_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "83553"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83553_4449ce34d0b56ffc_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "83553"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113755_2660708186581e88_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113755"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113755_2660708186581e88_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113755"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113755_2660708186581e88_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113755"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113755_2660708186581e88_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113755"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113755_2660708186581e88_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113755"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18044835",
+            "role_id": "35236655",
+            "person_name": "Dietrich Lubs",
+            "person_date": "German, born 1938",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044835\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18041437",
+            "role_id": "35236655",
+            "person_name": "Dieter Rams",
+            "person_date": "German, b. 1932",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041437\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18044845",
+            "role_id": "35236657",
+            "person_name": "Braun AG",
+            "person_date": "Frankfurt Germany, founded 1921",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044845\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Calculator, ET55, 1980. abs polymer casing. Courtesy of Cara McCarty. s-e-1601."
+    },
+    "colors": [
+        {
+            "color": "#7d7b6f",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
+}

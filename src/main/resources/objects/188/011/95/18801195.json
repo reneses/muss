@@ -1,0 +1,139 @@
+{
+    "id": "18801195",
+    "tms:id": "180764",
+    "accession_number": "1984-100-2",
+    "title": "Sampler Fragment (England), ca. 1650",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801195\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35410587",
+    "type_id": "35291591",
+    "date": "ca. 1650",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "wool embroidery on linen foundation",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 27.3 x 21 cm (10 3\/4 x 8 1\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "27.31",
+            "centimeters"
+        ],
+        "width": [
+            "20.96",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Sampler fragment",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/219588_0c96984801a55d40_b.jpg",
+                "width": 882,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "219588"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/219588_0c96984801a55d40_z.jpg",
+                "width": 551,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "219588"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/219588_0c96984801a55d40_n.jpg",
+                "width": 276,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "219588"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/219588_0c96984801a55d40_d.gif",
+                "width": 276,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "219588"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/219588_0c96984801a55d40_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "219588"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77493_b5384ebb4f30794f_b.jpg",
+                "width": 809,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "77493"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77493_b5384ebb4f30794f_z.jpg",
+                "width": 506,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "77493"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77493_b5384ebb4f30794f_n.jpg",
+                "width": 253,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77493"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77493_b5384ebb4f30794f_d.gif",
+                "width": 253,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77493"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77493_b5384ebb4f30794f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77493"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18047459",
+            "role_id": "35352245",
+            "person_name": "Gillian Moss",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sampler Fragment (England), ca. 1650. wool embroidery on linen foundation. 1984-100-2."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
+}

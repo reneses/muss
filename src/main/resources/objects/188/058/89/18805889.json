@@ -1,0 +1,154 @@
+{
+    "id": "18805889",
+    "tms:id": "183245",
+    "accession_number": "1985-96-12",
+    "title": "Sherry Glass (Finland), ca. 1954",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805889\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35291073",
+    "date": "ca. 1954",
+    "year_start": 1949,
+    "year_end": 1959,
+    "year_acquired": "1985",
+    "decade": "1940",
+    "woe:country_id": "23424812",
+    "medium": "glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 10.8 x 5 cm (4 1\/4 x 1 15\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "5.00",
+            "centimeters"
+        ],
+        "height": [
+            "10.80",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Ahlstrom-Iittala, Inc.",
+    "description": "Clear glass with pronounced central air bubble in solid glass stem.  Sherry",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424812",
+    "type": "Sherry glass",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117122_0cca940b43e8006f_b.jpg",
+                "width": 703,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "117122"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117122_0cca940b43e8006f_z.jpg",
+                "width": 439,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "117122"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117122_0cca940b43e8006f_n.jpg",
+                "width": 220,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "117122"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117122_0cca940b43e8006f_d.gif",
+                "width": 220,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "117122"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117122_0cca940b43e8006f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "117122"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/40359_8031427504cf2bb0_b.jpg",
+                "width": 1024,
+                "height": 421,
+                "is_primary": "0",
+                "image_id": "40359"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/40359_8031427504cf2bb0_z.jpg",
+                "width": 640,
+                "height": 263,
+                "is_primary": "0",
+                "image_id": "40359"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/40359_8031427504cf2bb0_n.jpg",
+                "width": 320,
+                "height": 132,
+                "is_primary": "0",
+                "image_id": "40359"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/40359_8031427504cf2bb0_d.gif",
+                "width": 320,
+                "height": 132,
+                "is_primary": "0",
+                "image_id": "40359"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/40359_8031427504cf2bb0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "40359"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18044579",
+            "role_id": "35236685",
+            "person_name": "Tapio Wirkkala",
+            "person_date": "1915 \u2013 1985",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044579\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18058955",
+            "role_id": "35351535",
+            "person_name": "Ahlstrom-Iittala, Inc.",
+            "person_date": "Finnish, founded 1881",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058955\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sherry Glass (Finland), ca. 1954. glass. Gift of Ahlstrom-Iittala, Inc.. 1985-96-12."
+    },
+    "colors": [
+        {
+            "color": "#aaaead",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "Finland",
+    "is_loan_object": 0
+}

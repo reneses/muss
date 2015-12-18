@@ -1,0 +1,256 @@
+{
+    "id": "51497593",
+    "tms:id": "275267",
+    "accession_number": "12.2013.1",
+    "title": "Model, Earth Pressure Balance (EPB) Shield Tunneling Machine (\"Big Bertha\"), 2013",
+    "title_raw": "Earth Pressure Balance (EPB) Shield Tunneling Machine (\"Big Bertha\")",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/51497593\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "35380379",
+    "type_id": "35248391",
+    "date": "2013",
+    "year_start": 2013,
+    "year_end": 2013,
+    "year_acquired": null,
+    "decade": "2010",
+    "woe:country_id": "23424856",
+    "medium": "plastic, steel",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 133 x 306 x 71 cm (52 3\/8 x 120 1\/2 x 27 15\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "71.00",
+            "centimeters"
+        ],
+        "height": [
+            "133.00",
+            "centimeters"
+        ],
+        "width": [
+            "306.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Courtesy of Hitachi Zosen Corporation",
+    "description": "Scale: 1:35",
+    "justification": null,
+    "gallery_text": "\"Big Bertha,\" the world\u2019s widest diameter tunnel-boring machine, began digging a double-decker tunnel under Seattle, Washington, for the city\u2019s new Highway 99 tunnel project in summer 2013. Measuring 17.5 m (57.5 ft.) across, Bertha\u2019s spinning head shreds and scraps earth, designed to excavate an average of 10.7 m (35 ft.) per day, while the debris is simultaneously removed on a conveyor belt. More efficient than drilling and blasting, tunnel-boring machines also limit their effect to the surrounding ground and produce a smooth tunnel wall of cement plates, thus reducing the cost of lining the passage. Operations hit a snag in December 2013 when Bertha hit a metal pipe, suspending operations as workers tried to free the machine from the jam. \"Big Bertha,\" named for the Seattle\u2019s\u2014and the nation\u2019s\u2014first female mayor, Bertha Knight Landes, is expected to resume operations in March 2015.",
+    "label_text": "\u201cBig Bertha,\u201d the world\u2019s widest-diameter tunnel-boring machine, is digging a double-decker tunnel under Seattle. Simultaneously excavating earth and placing concrete tiles for the tunnel wall, this multitasking tool proves more efficient than drilling and blasting and least affects the surrounding area. The machine is named for Seattle\u2019s first female mayor, Bertha Knight Landes.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424856",
+    "type": "model",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/60129_fdf2f1a0ab8bb236_b.jpg",
+                "width": 660,
+                "height": 440,
+                "is_primary": "1",
+                "image_id": "60129"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/60129_fdf2f1a0ab8bb236_z.jpg",
+                "width": 640,
+                "height": 427,
+                "is_primary": "1",
+                "image_id": "60129"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/60129_fdf2f1a0ab8bb236_n.jpg",
+                "width": 320,
+                "height": 213,
+                "is_primary": "1",
+                "image_id": "60129"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/60129_fdf2f1a0ab8bb236_d.gif",
+                "width": 320,
+                "height": 213,
+                "is_primary": "1",
+                "image_id": "60129"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/60129_fdf2f1a0ab8bb236_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "60129"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180832_729f56e0b397631c_b.jpg",
+                "width": 1024,
+                "height": 683,
+                "is_primary": "0",
+                "image_id": "180832"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180832_729f56e0b397631c_z.jpg",
+                "width": 640,
+                "height": 427,
+                "is_primary": "0",
+                "image_id": "180832"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180832_729f56e0b397631c_n.jpg",
+                "width": 320,
+                "height": 213,
+                "is_primary": "0",
+                "image_id": "180832"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180832_729f56e0b397631c_d.gif",
+                "width": 320,
+                "height": 213,
+                "is_primary": "0",
+                "image_id": "180832"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180832_729f56e0b397631c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "180832"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113575_729f56e0b397631c_b.jpg",
+                "width": 1024,
+                "height": 683,
+                "is_primary": "0",
+                "image_id": "113575"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113575_729f56e0b397631c_z.jpg",
+                "width": 640,
+                "height": 427,
+                "is_primary": "0",
+                "image_id": "113575"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113575_729f56e0b397631c_n.jpg",
+                "width": 320,
+                "height": 213,
+                "is_primary": "0",
+                "image_id": "113575"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113575_729f56e0b397631c_d.gif",
+                "width": 320,
+                "height": 213,
+                "is_primary": "0",
+                "image_id": "113575"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113575_729f56e0b397631c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113575"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113576_1fa88d40f53b9360_b.jpg",
+                "width": 1024,
+                "height": 683,
+                "is_primary": "0",
+                "image_id": "113576"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113576_1fa88d40f53b9360_z.jpg",
+                "width": 640,
+                "height": 427,
+                "is_primary": "0",
+                "image_id": "113576"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113576_1fa88d40f53b9360_n.jpg",
+                "width": 320,
+                "height": 213,
+                "is_primary": "0",
+                "image_id": "113576"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113576_1fa88d40f53b9360_d.gif",
+                "width": 320,
+                "height": 213,
+                "is_primary": "0",
+                "image_id": "113576"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113576_1fa88d40f53b9360_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113576"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "51685403",
+            "role_id": "35236655",
+            "person_name": "Hitachi Zosen Corporation",
+            "person_date": "Japan",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51685403\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "51685403",
+            "role_id": "51571131",
+            "person_name": "Hitachi Zosen Corporation",
+            "person_date": "Japan",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51685403\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Model, Earth Pressure Balance (EPB) Shield Tunneling Machine (\"Big Bertha\"), 2013. plastic, steel. Courtesy of Hitachi Zosen Corporation. 12.2013.1."
+    },
+    "colors": [
+        {
+            "color": "#cad2d6",
+            "closest_crayola": "#c5d0e6",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#455661",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#6a4421",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#1c2b3d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#8b9197",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        }
+    ],
+    "woe:country_name": "Japan",
+    "is_loan_object": 1
+}

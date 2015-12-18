@@ -1,0 +1,112 @@
+{
+    "id": "18801223",
+    "tms:id": "180778",
+    "accession_number": "1984-107-1",
+    "title": "Picture",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801223\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35432637",
+    "type_id": "35270021",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "pin prick",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Picture",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/146299_e853b3c59640b3e3_b.jpg",
+                "width": 744,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "146299"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/146299_e853b3c59640b3e3_z.jpg",
+                "width": 465,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "146299"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/146299_e853b3c59640b3e3_n.jpg",
+                "width": 233,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "146299"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/146299_e853b3c59640b3e3_d.gif",
+                "width": 233,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "146299"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/146299_e853b3c59640b3e3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "146299"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Picture. pin prick. 1984-107-1."
+    },
+    "colors": [
+        {
+            "color": "#a7a17c",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#f4f0ca",
+            "closest_crayola": "#eceabe",
+            "closest_css3": "#ffebcd",
+            "closest_css4": "#ffebcd"
+        },
+        {
+            "color": "#565d56",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#9a7348",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#7b7f6d",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "is_loan_object": 0
+}

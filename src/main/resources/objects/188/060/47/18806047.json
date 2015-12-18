@@ -1,0 +1,125 @@
+{
+    "id": "18806047",
+    "tms:id": "183324",
+    "accession_number": "1986-104-4",
+    "title": "Brooch",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18806047\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35418777",
+    "type_id": "35251201",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1986",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "paste",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Overall: 10 x 7 x 10.3 cm (3 15\/16 x 2 3\/4 x 4 1\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "10.30",
+            "centimeters"
+        ],
+        "height": [
+            "10.00",
+            "centimeters"
+        ],
+        "width": [
+            "7.00",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "brooch",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132121_d74d6599aece0594_b.jpg",
+                "width": 1024,
+                "height": 773,
+                "is_primary": "1",
+                "image_id": "132121"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132121_d74d6599aece0594_z.jpg",
+                "width": 640,
+                "height": 483,
+                "is_primary": "1",
+                "image_id": "132121"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132121_d74d6599aece0594_n.jpg",
+                "width": 320,
+                "height": 242,
+                "is_primary": "1",
+                "image_id": "132121"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132121_d74d6599aece0594_d.gif",
+                "width": 320,
+                "height": 242,
+                "is_primary": "1",
+                "image_id": "132121"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132121_d74d6599aece0594_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "132121"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Brooch. paste. 1986-104-4."
+    },
+    "colors": [
+        {
+            "color": "#b6afa0",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#765c3b",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#a19070",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#503322",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#3e080a",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        }
+    ],
+    "is_loan_object": 0
+}

@@ -1,0 +1,194 @@
+{
+    "id": "18800271",
+    "tms:id": "180298",
+    "accession_number": "1983-1-15",
+    "title": "Drawing, Andirons, Living Room Fireplace, Henry J. Allen Residence, Wichita, Kansas, 1917",
+    "title_raw": "Andirons, Living Room Fireplace, Henry J. Allen Residence, Wichita, Kansas",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800271\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35519719",
+    "type_id": "35237093",
+    "date": "1917",
+    "year_start": 1917,
+    "year_end": 1917,
+    "year_acquired": "1983",
+    "decade": "1910",
+    "woe:country_id": "23424977",
+    "medium": "graphite, color pencil on beige tracing paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Inscribed in graphite, lower right: ANDIRONS DESIGNED FOR\/ LIVING ROOM FIRE PLACE\/ FOR MR. HENRY J. ALLEN\/ NIEDECKEN WALBRIDGE CO. \/ INTERIOR ARCHITECTS\/ SCALE 3\/4\" = 1' 0\"\/ SECTION THRU B.B.. (all underlined)",
+    "provenance": "Mr. and Mrs. Robert L. Jacobson",
+    "dimensions": "39.2 x 45 cm (15 7\/16 x 17 11\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "39.20",
+            "centimeters"
+        ],
+        "width": [
+            "45.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Museum purchase from Smithsonian Regents Collections Acquisition and Friends of Drawings and Prints Funds",
+    "description": "In center of page:  two different designs for andirons shown from frontal view of fireplace. Two designs are one atop the other. To the right of these: on top a sketch of a fireplace from the side showing the inner workings with andirons, underneath: inscribed.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42510_c677148011a1a356_b.jpg",
+                "width": 1024,
+                "height": 888,
+                "is_primary": "1",
+                "image_id": "42510"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42510_c677148011a1a356_z.jpg",
+                "width": 640,
+                "height": 555,
+                "is_primary": "1",
+                "image_id": "42510"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42510_c677148011a1a356_n.jpg",
+                "width": 320,
+                "height": 278,
+                "is_primary": "1",
+                "image_id": "42510"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42510_c677148011a1a356_d.gif",
+                "width": 320,
+                "height": 278,
+                "is_primary": "1",
+                "image_id": "42510"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42510_c677148011a1a356_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "42510"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/206092_8f8e60225a49e45b_b.jpg",
+                "width": 1024,
+                "height": 906,
+                "is_primary": "0",
+                "image_id": "206092"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/206092_8f8e60225a49e45b_z.jpg",
+                "width": 640,
+                "height": 566,
+                "is_primary": "0",
+                "image_id": "206092"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/206092_8f8e60225a49e45b_n.jpg",
+                "width": 320,
+                "height": 283,
+                "is_primary": "0",
+                "image_id": "206092"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/206092_8f8e60225a49e45b_d.gif",
+                "width": 320,
+                "height": 283,
+                "is_primary": "0",
+                "image_id": "206092"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/206092_8f8e60225a49e45b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "206092"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18041629",
+            "role_id": "35352249",
+            "person_name": "Kelmscott Gallery",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041629\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "51676457",
+            "role_id": "35352245",
+            "person_name": "Karin Zonis",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "68738747",
+            "role_id": "35236667",
+            "person_name": "Elsie J. Nuzman (Mrs. Henry J.) Allen",
+            "person_date": "",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68738747\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        },
+        {
+            "person_id": "18042051",
+            "role_id": "35236667",
+            "person_name": "Henry J. Allen",
+            "person_date": "",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042051\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        },
+        {
+            "person_id": "18043485",
+            "role_id": "35236655",
+            "person_name": "George Mann Niedecken",
+            "person_date": "1878\u20131945",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043485\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18042049",
+            "role_id": "35236663",
+            "person_name": "Frank Lloyd Wright",
+            "person_date": "American, 1867\u20131959",
+            "role_name": "Architect",
+            "role_display_name": "Architect:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042049\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236663\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Andirons, Living Room Fireplace, Henry J. Allen Residence, Wichita, Kansas, 1917. graphite, color pencil on beige tracing paper. Museum purchase from Smithsonian Regents Collections Acquisition and Friends of Drawings and Prints Funds. 1983-1-15."
+    },
+    "colors": [
+        {
+            "color": "#c7b78b",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

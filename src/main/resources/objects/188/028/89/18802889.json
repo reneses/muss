@@ -1,0 +1,229 @@
+{
+    "id": "18802889",
+    "tms:id": "181632",
+    "accession_number": "1984-84-23",
+    "title": "Vase (USA), 1899",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18802889\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35237225",
+    "date": "1899",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": "Impressed: RP cipher with 13 flames \/ S 1478 E; incised artist's monogram: M A D",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 13.4 x 16.5 cm (5 1\/4 x 6 1\/2 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "16.50",
+            "centimeters"
+        ],
+        "height": [
+            "13.40",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Marcia and William Goodman",
+    "description": "Oxblood",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Vase",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108421_c54e88c82e02e133_b.jpg",
+                "width": 1024,
+                "height": 963,
+                "is_primary": "1",
+                "image_id": "108421"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108421_c54e88c82e02e133_z.jpg",
+                "width": 640,
+                "height": 602,
+                "is_primary": "1",
+                "image_id": "108421"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108421_c54e88c82e02e133_n.jpg",
+                "width": 320,
+                "height": 301,
+                "is_primary": "1",
+                "image_id": "108421"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108421_c54e88c82e02e133_d.gif",
+                "width": 320,
+                "height": 301,
+                "is_primary": "1",
+                "image_id": "108421"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108421_c54e88c82e02e133_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "108421"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83500_e425f539b2842c10_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "83500"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83500_e425f539b2842c10_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "83500"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83500_e425f539b2842c10_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "83500"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83500_e425f539b2842c10_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "83500"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83500_e425f539b2842c10_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "83500"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/22769_622494324ce6964b_b.jpg",
+                "width": 939,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "22769"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/22769_622494324ce6964b_z.jpg",
+                "width": 587,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "22769"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/22769_622494324ce6964b_n.jpg",
+                "width": 293,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "22769"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/22769_622494324ce6964b_d.gif",
+                "width": 293,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "22769"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/22769_622494324ce6964b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "22769"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18538741",
+            "role_id": "35351535",
+            "person_name": "William Goodman",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538741\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18538739",
+            "role_id": "35351535",
+            "person_name": "Marcia Goodman",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538739\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18043903",
+            "role_id": "35236657",
+            "person_name": "Rookwood Pottery",
+            "person_date": "American, 1880 - 1967",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043903\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18054263",
+            "role_id": "35236655",
+            "person_name": "Joseph Bailey Sr.",
+            "person_date": "American, d. 1898",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18054263\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Vase (USA), 1899. Gift of Marcia and William Goodman. 1984-84-23."
+    },
+    "colors": [
+        {
+            "color": "#603527",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#8a5f50",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#410309",
+            "closest_crayola": "#000000",
+            "closest_css3": "#800000",
+            "closest_css4": "#800000"
+        },
+        {
+            "color": "#a69287",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

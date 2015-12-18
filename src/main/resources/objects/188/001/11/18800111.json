@@ -1,0 +1,123 @@
+{
+    "id": "18800111",
+    "tms:id": "180218",
+    "accession_number": "1982-58-3",
+    "title": "Servus Spoon, 20th century",
+    "title_raw": "Servus",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800111\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35431463",
+    "type_id": "35249775",
+    "date": "20th century",
+    "year_start": 1901,
+    "year_end": 1982,
+    "year_acquired": "1982",
+    "decade": "1900",
+    "woe:country_id": "23424954",
+    "medium": "steel, stainless",
+    "markings": "On reverse of stem: SERVUS RFR. STAL",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "cm: L: 12.1 x W: 2.7 x D: 1.8",
+    "dimensions_raw": {
+        "depth": [
+            "1.80",
+            "centimeters"
+        ],
+        "length": [
+            "12.10",
+            "centimeters"
+        ],
+        "width": [
+            "2.70",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Oval bowl, tapering stem and flaring terminal with slightly upcurved, rounded square end.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424954",
+    "type": "spoon",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118520_cc27b964a8e5a3e7_b.jpg",
+                "width": 599,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "118520"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118520_cc27b964a8e5a3e7_z.jpg",
+                "width": 374,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "118520"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118520_cc27b964a8e5a3e7_n.jpg",
+                "width": 187,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118520"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118520_cc27b964a8e5a3e7_d.gif",
+                "width": 187,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118520"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118520_cc27b964a8e5a3e7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "118520"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18055809",
+            "role_id": "35236655",
+            "person_name": "Sigurd Persson",
+            "person_date": "b. 1914",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055809\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Servus Spoon, 20th century. steel, stainless. 1982-58-3."
+    },
+    "colors": [
+        {
+            "color": "#988d7d",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#e9dcc5",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
+        },
+        {
+            "color": "#787065",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "Sweden",
+    "is_loan_object": 0
+}

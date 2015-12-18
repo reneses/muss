@@ -1,0 +1,130 @@
+{
+    "id": "18800031",
+    "tms:id": "180178",
+    "accession_number": "1982-52-2",
+    "title": "Souvenir Picture (USA), 1893",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800031\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35293529",
+    "date": "1893",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1982",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "silk",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 12 x 6.5 cm (4 3\/4 x 2 9\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "12.00",
+            "centimeters"
+        ],
+        "weft": [
+            "6.50",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Mr. and Mrs. Boris Kroll",
+    "description": "Picture of a house. Woven at top: \"Souvenir \/ Woven in the Columbian \/ Exposition Chicago 1893.\" Woven at bottom: \"Shakespeare's House \/ Stratford on Avon\"",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Souvenir picture",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217181_8ef3f31b6b3b2feb_b.jpg",
+                "width": 561,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "217181"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217181_8ef3f31b6b3b2feb_z.jpg",
+                "width": 351,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "217181"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217181_8ef3f31b6b3b2feb_n.jpg",
+                "width": 175,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "217181"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217181_8ef3f31b6b3b2feb_d.gif",
+                "width": 175,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "217181"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217181_8ef3f31b6b3b2feb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "217181"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18488_fbf8bfb8962189e0_b.jpg",
+                "width": 591,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "18488"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18488_fbf8bfb8962189e0_z.jpg",
+                "width": 370,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "18488"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18488_fbf8bfb8962189e0_n.jpg",
+                "width": 185,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "18488"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18488_fbf8bfb8962189e0_d.gif",
+                "width": 185,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "18488"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18488_fbf8bfb8962189e0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "18488"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Souvenir Picture (USA), 1893. silk. Gift of Mr. and Mrs. Boris Kroll. 1982-52-2."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

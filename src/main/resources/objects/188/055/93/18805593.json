@@ -1,0 +1,176 @@
+{
+    "id": "18805593",
+    "tms:id": "183090",
+    "accession_number": "1985-7-1",
+    "title": "Print, \"House for Two Generations\" Project, Second Version, 1977",
+    "title_raw": "\"House for Two Generations\" Project, Second Version",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805593\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35431679",
+    "type_id": "35236873",
+    "date": "1977",
+    "year_start": 1977,
+    "year_end": 1977,
+    "year_acquired": "1985",
+    "decade": "1970",
+    "woe:country_id": "23424856",
+    "medium": "screenprint on paper",
+    "markings": null,
+    "signed": "Signed in graphite, lower right: Arata Isosaki '77",
+    "inscribed": "Inscribed in graphite, lower left: 86\/100",
+    "provenance": "Spaced--Gallery of Architecture, NYC",
+    "dimensions": "64.9 x 49.8cm (25 9\/16 x 19 5\/8in.)",
+    "dimensions_raw": {
+        "height": [
+            "64.90",
+            "centimeters"
+        ],
+        "width": [
+            "49.80",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "White, gray, and blue house on gray ground. Structure of house defined by barrel vaults, grids, and arches.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424856",
+    "type": "Print",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9761_11ca9d9a6cb21244_b.jpg",
+                "width": 780,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "9761"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9761_11ca9d9a6cb21244_z.jpg",
+                "width": 488,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "9761"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9761_11ca9d9a6cb21244_n.jpg",
+                "width": 244,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "9761"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9761_11ca9d9a6cb21244_d.gif",
+                "width": 244,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "9761"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9761_11ca9d9a6cb21244_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "9761"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/205418_94f078e1a6475ed6_b.jpg",
+                "width": 787,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "205418"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/205418_94f078e1a6475ed6_z.jpg",
+                "width": 492,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "205418"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/205418_94f078e1a6475ed6_n.jpg",
+                "width": 246,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "205418"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/205418_94f078e1a6475ed6_d.gif",
+                "width": 246,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "205418"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/205418_94f078e1a6475ed6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "205418"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68248297",
+            "role_id": "35352249",
+            "person_name": "Spaced - Gallery of Architecture",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248297\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "51676457",
+            "role_id": "35352245",
+            "person_name": "Karin Zonis",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18059879",
+            "role_id": "35236655",
+            "person_name": "Arata Isozaki",
+            "person_date": "Japanese, b. 1931",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18059879\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Print, \"House for Two Generations\" Project, Second Version, 1977. screenprint on paper. 1985-7-1."
+    },
+    "colors": [
+        {
+            "color": "#6c6cb5",
+            "closest_crayola": "#7366bd",
+            "closest_css3": "#6a5acd",
+            "closest_css4": "#6a5acd"
+        },
+        {
+            "color": "#888ac6",
+            "closest_crayola": "#9d81ba",
+            "closest_css3": "#9370d8",
+            "closest_css4": "#9370db"
+        },
+        {
+            "color": "#524c8a",
+            "closest_crayola": "#58427c",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        }
+    ],
+    "woe:country_name": "Japan",
+    "is_loan_object": 0
+}

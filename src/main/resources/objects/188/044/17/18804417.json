@@ -1,0 +1,217 @@
+{
+    "id": "18804417",
+    "tms:id": "182493",
+    "accession_number": "1985-105-1",
+    "title": "Toast Rack (England), designed 1881",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18804417\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35397877",
+    "type_id": "35289949",
+    "date": "designed 1881",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "silver-plated metal",
+    "markings": "Stamped underside of base: \"H & H [for Hukin & Heath] \/ Eagle [trademark for firm] \/ 2556 \/ [registry mark 9 May 1881] \/ Degler-Norwich.\"",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Gift of Miles Lourie",
+    "dimensions": "H x W x D: 12.7 x 14.6 x 9.8 cm (5 x 5 3\/4 x 3 7\/8 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "9.80",
+            "centimeters"
+        ],
+        "height": [
+            "12.70",
+            "centimeters"
+        ],
+        "width": [
+            "14.60",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Miles Lourie",
+    "description": "Electroplated silver. Curved base, four bun feet.  Seven sets of parallel posts with connecting rods and ball joints, the center ones with an extra raised section to serve as a handle.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "toast rack",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92452_10a1bb232b49125a_b.jpg",
+                "width": 1024,
+                "height": 929,
+                "is_primary": "1",
+                "image_id": "92452"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92452_10a1bb232b49125a_z.jpg",
+                "width": 640,
+                "height": 581,
+                "is_primary": "1",
+                "image_id": "92452"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92452_10a1bb232b49125a_n.jpg",
+                "width": 320,
+                "height": 290,
+                "is_primary": "1",
+                "image_id": "92452"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92452_10a1bb232b49125a_d.gif",
+                "width": 320,
+                "height": 290,
+                "is_primary": "1",
+                "image_id": "92452"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92452_10a1bb232b49125a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92452"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/125306_c279a8e822daee21_b.jpg",
+                "width": 1024,
+                "height": 851,
+                "is_primary": "0",
+                "image_id": "125306"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/125306_c279a8e822daee21_z.jpg",
+                "width": 640,
+                "height": 532,
+                "is_primary": "0",
+                "image_id": "125306"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/125306_c279a8e822daee21_n.jpg",
+                "width": 320,
+                "height": 266,
+                "is_primary": "0",
+                "image_id": "125306"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/125306_c279a8e822daee21_d.gif",
+                "width": 320,
+                "height": 266,
+                "is_primary": "0",
+                "image_id": "125306"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/125306_c279a8e822daee21_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "125306"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10804_d55d8836370ecf8d_b.jpg",
+                "width": 1024,
+                "height": 987,
+                "is_primary": "0",
+                "image_id": "10804"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10804_d55d8836370ecf8d_z.jpg",
+                "width": 640,
+                "height": 617,
+                "is_primary": "0",
+                "image_id": "10804"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10804_d55d8836370ecf8d_n.jpg",
+                "width": 320,
+                "height": 309,
+                "is_primary": "0",
+                "image_id": "10804"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10804_d55d8836370ecf8d_d.gif",
+                "width": 320,
+                "height": 309,
+                "is_primary": "0",
+                "image_id": "10804"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10804_d55d8836370ecf8d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "10804"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18044063",
+            "role_id": "35236659",
+            "person_name": "Degler",
+            "person_date": "",
+            "role_name": "Distributor",
+            "role_display_name": "Distributed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044063\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236659\/"
+        },
+        {
+            "person_id": "18044061",
+            "role_id": "35236657",
+            "person_name": "Hukin & Heath",
+            "person_date": "founded 1855",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044061\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18043763",
+            "role_id": "35236655",
+            "person_name": "Christopher Dresser",
+            "person_date": "English, 1834\u20131904",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043763\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Toast Rack (England), designed 1881. silver-plated metal. Gift of Miles Lourie. 1985-105-1."
+    },
+    "colors": [
+        {
+            "color": "#a0978e",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#635e56",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#827b73",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
+}

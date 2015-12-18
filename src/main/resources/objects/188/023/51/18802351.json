@@ -1,0 +1,207 @@
+{
+    "id": "18802351",
+    "tms:id": "181342",
+    "accession_number": "1984-13-1",
+    "title": "Textile, Evy, 1980",
+    "title_raw": "Evy",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18802351\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1980",
+    "year_start": 1980,
+    "year_end": 1980,
+    "year_acquired": "1984",
+    "decade": "1980",
+    "woe:country_id": "23424977",
+    "medium": "cotton",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Carolyn Ray Inc.; 1984: acquired by Museum",
+    "dimensions": "Warp x Weft: 273.1 x 142.2 cm (8 ft. 11 1\/2 in. x 56 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "273.05",
+            "centimeters"
+        ],
+        "weft": [
+            "142.24",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Carolyn Ray Inc.",
+    "description": "Loosely drawn flowers linked by curving lines on a background of brushed shapes in pale colors.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/152661_052f95a1b9a92ee6_b.jpg",
+                "width": 1024,
+                "height": 958,
+                "is_primary": "1",
+                "image_id": "152661"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/152661_052f95a1b9a92ee6_z.jpg",
+                "width": 640,
+                "height": 599,
+                "is_primary": "1",
+                "image_id": "152661"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/152661_052f95a1b9a92ee6_n.jpg",
+                "width": 320,
+                "height": 299,
+                "is_primary": "1",
+                "image_id": "152661"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/152661_052f95a1b9a92ee6_d.gif",
+                "width": 320,
+                "height": 299,
+                "is_primary": "1",
+                "image_id": "152661"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/152661_052f95a1b9a92ee6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "152661"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31549_78760250d505daab_b.jpg",
+                "width": 656,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "31549"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31549_78760250d505daab_z.jpg",
+                "width": 410,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "31549"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31549_78760250d505daab_n.jpg",
+                "width": 205,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "31549"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31549_78760250d505daab_d.gif",
+                "width": 205,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "31549"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31549_78760250d505daab_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "31549"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31550_5b5a81423d37986d_b.jpg",
+                "width": 1024,
+                "height": 691,
+                "is_primary": "0",
+                "image_id": "31550"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31550_5b5a81423d37986d_z.jpg",
+                "width": 640,
+                "height": 432,
+                "is_primary": "0",
+                "image_id": "31550"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31550_5b5a81423d37986d_n.jpg",
+                "width": 320,
+                "height": 216,
+                "is_primary": "0",
+                "image_id": "31550"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31550_5b5a81423d37986d_d.gif",
+                "width": 320,
+                "height": 216,
+                "is_primary": "0",
+                "image_id": "31550"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31550_5b5a81423d37986d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "31550"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18045587",
+            "role_id": "35351535",
+            "person_name": "Carolyn Ray Inc.",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045587\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048019",
+            "role_id": "35352245",
+            "person_name": "lm",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048019\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18045505",
+            "role_id": "35236655",
+            "person_name": "Carolyn Ray",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045505\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile, Evy, 1980. cotton. Gift of Carolyn Ray Inc.. 1984-13-1."
+    },
+    "colors": [
+        {
+            "color": "#caa7ac",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#afa7a4",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

@@ -1,0 +1,139 @@
+{
+    "id": "18800019",
+    "tms:id": "180172",
+    "accession_number": "1982-52-14",
+    "title": "Souvenir Ribbon (USA), 1932",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800019\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35293533",
+    "date": "1932",
+    "year_start": 1932,
+    "year_end": 1932,
+    "year_acquired": "1982",
+    "decade": "1930",
+    "woe:country_id": "23424977",
+    "medium": "silk",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 16.5 x 5.5 cm (6 1\/2 x 2 3\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "16.50",
+            "centimeters"
+        ],
+        "weft": [
+            "5.50",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Mr. and Mrs. Boris Kroll",
+    "description": "From top to bottom: Printed in navy blue: \"FIDELIS LODGE 242 \/ F. & A. M. \/ BI_CENTENNIAL  \/ CELEBRATION \/ AND TENTH \/ ANNIVERSARY \/ Masonic Temple, Paterson \/ May 25, 1932\". Woven black and white portrait of George Washington. Red woven signature \"George Washington\" and \"1732 - 1932\".",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Souvenir ribbon",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217353_803390c9767abebe_b.jpg",
+                "width": 407,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "217353"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217353_803390c9767abebe_z.jpg",
+                "width": 254,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "217353"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217353_803390c9767abebe_n.jpg",
+                "width": 127,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "217353"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217353_803390c9767abebe_d.gif",
+                "width": 127,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "217353"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217353_803390c9767abebe_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "217353"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28417_d3d7432a779119be_b.jpg",
+                "width": 394,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "28417"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28417_d3d7432a779119be_z.jpg",
+                "width": 246,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "28417"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28417_d3d7432a779119be_n.jpg",
+                "width": 123,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "28417"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28417_d3d7432a779119be_d.gif",
+                "width": 123,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "28417"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28417_d3d7432a779119be_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "28417"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18046035",
+            "role_id": "35351535",
+            "person_name": "Boris Kroll",
+            "person_date": "1913 \u2013 1991",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046035\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Souvenir Ribbon (USA), 1932. silk. Gift of Mr. and Mrs. Boris Kroll. 1982-52-14."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

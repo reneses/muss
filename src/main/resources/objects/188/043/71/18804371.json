@@ -1,0 +1,155 @@
+{
+    "id": "18804371",
+    "tms:id": "182470",
+    "accession_number": "1985-103-80",
+    "title": "Knife, early 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18804371\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35432755",
+    "type_id": "35248783",
+    "date": "early 18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "steel, brass",
+    "markings": "On blade, illegible mark",
+    "signed": null,
+    "inscribed": "(Initial \"A\"?)",
+    "provenance": null,
+    "dimensions": "L: 20.7 cm (8 1\/8 in.)",
+    "dimensions_raw": {
+        "length": [
+            "20.70",
+            "centimeters"
+        ]
+    },
+    "creditline": "The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg",
+    "description": "Sabre-shaped blade with globular bolster. Tapered cylindrical handle with round top, engraved floral decoration, on top of handle a rozette.  (Initial \"A\"?)",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "knife",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118317_d3ca5503e355593d_b.jpg",
+                "width": 562,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "118317"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118317_d3ca5503e355593d_z.jpg",
+                "width": 351,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "118317"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118317_d3ca5503e355593d_n.jpg",
+                "width": 176,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118317"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118317_d3ca5503e355593d_d.gif",
+                "width": 176,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118317"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118317_d3ca5503e355593d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "118317"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19269_e6b68d8d80826711_b.jpg",
+                "width": 408,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "19269"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19269_e6b68d8d80826711_z.jpg",
+                "width": 255,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "19269"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19269_e6b68d8d80826711_n.jpg",
+                "width": 128,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19269"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19269_e6b68d8d80826711_d.gif",
+                "width": 128,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19269"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19269_e6b68d8d80826711_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "19269"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18048365",
+            "role_id": "35352245",
+            "person_name": "S. Wilmering",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18535985",
+            "role_id": "35351535",
+            "person_name": "Eleanor L. Metzenberg",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Knife, early 18th century. steel, brass. The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg. 1985-103-80."
+    },
+    "colors": [
+        {
+            "color": "#988f83",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#c1b08d",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "is_loan_object": 0
+}

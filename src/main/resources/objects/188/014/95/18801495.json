@@ -1,0 +1,97 @@
+{
+    "id": "18801495",
+    "tms:id": "180914",
+    "accession_number": "1984-118-7",
+    "title": "Zen Sugarbowl",
+    "title_raw": "Zen",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801495\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35252555",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "sugarbowl",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109109_c8321eada5fd5846_b.jpg",
+                "width": 1024,
+                "height": 744,
+                "is_primary": "1",
+                "image_id": "109109"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109109_c8321eada5fd5846_z.jpg",
+                "width": 640,
+                "height": 465,
+                "is_primary": "1",
+                "image_id": "109109"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109109_c8321eada5fd5846_n.jpg",
+                "width": 320,
+                "height": 233,
+                "is_primary": "1",
+                "image_id": "109109"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109109_c8321eada5fd5846_d.gif",
+                "width": 320,
+                "height": 233,
+                "is_primary": "1",
+                "image_id": "109109"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109109_c8321eada5fd5846_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "109109"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18537509",
+            "role_id": "35236655",
+            "person_name": "Luigi Colani",
+            "person_date": "German, b. 1928",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537509\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Zen Sugarbowl. 1984-118-7."
+    },
+    "colors": [
+        {
+            "color": "#bcbbb5",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        }
+    ],
+    "is_loan_object": 0
+}

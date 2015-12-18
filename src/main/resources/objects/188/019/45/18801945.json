@@ -1,0 +1,116 @@
+{
+    "id": "18801945",
+    "tms:id": "181139",
+    "accession_number": "1984-124-25-127",
+    "title": "Drawing, Large Desk & open-arm Chair in blue fabric, 1860",
+    "title_raw": "Large Desk & open-arm Chair in blue fabric",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801945\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35237093",
+    "date": "1860",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/140336_4a898a69e05beeb7_b.jpg",
+                "width": 1024,
+                "height": 755,
+                "is_primary": "1",
+                "image_id": "140336"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/140336_4a898a69e05beeb7_z.jpg",
+                "width": 640,
+                "height": 472,
+                "is_primary": "1",
+                "image_id": "140336"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/140336_4a898a69e05beeb7_n.jpg",
+                "width": 320,
+                "height": 236,
+                "is_primary": "1",
+                "image_id": "140336"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/140336_4a898a69e05beeb7_d.gif",
+                "width": 320,
+                "height": 236,
+                "is_primary": "1",
+                "image_id": "140336"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/140336_4a898a69e05beeb7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "140336"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18539191",
+            "role_id": "35236655",
+            "person_name": "W. Kimbel",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539191\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Large Desk & open-arm Chair in blue fabric, 1860. 1984-124-25-127."
+    },
+    "colors": [
+        {
+            "color": "#ad7f5a",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#885240",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#bba17d",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#6a5951",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

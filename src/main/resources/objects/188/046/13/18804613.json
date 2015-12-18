@@ -1,0 +1,112 @@
+{
+    "id": "18804613",
+    "tms:id": "182591",
+    "accession_number": "1985-14-64",
+    "title": "Drawing, Design for plate with crenellated border",
+    "title_raw": "Design for plate with crenellated border",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18804613\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "68266191",
+    "type_id": "35237093",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424856",
+    "medium": "brush and watercolor, gold gouache, graphite on cream paper",
+    "markings": "Stamped in teal ink, lower left: 380 \/ 449 \/ 1058 \/ 1149 \/ 1422 201 \/ 1355\/1 \/ 1742 2424 \/ 294 \/ 263",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1985: acquired by Museum",
+    "dimensions": "28.5 x 15.7 cm (11 1\/4 x 6 3\/16 in.)\nMat: 35.7 x 45.8 cm (14 1\/16 x 18 1\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "28.50",
+            "centimeters"
+        ],
+        "width": [
+            "15.70",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Design for a plate with a crenellated rim in gold; decorated with purple flowers with green leave, some of which have white spots. In graphite, above, several tableware designs.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424856",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/131839_c8fe34dad5e11e06_b.jpg",
+                "width": 570,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "131839"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/131839_c8fe34dad5e11e06_z.jpg",
+                "width": 356,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "131839"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/131839_c8fe34dad5e11e06_n.jpg",
+                "width": 178,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "131839"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/131839_c8fe34dad5e11e06_d.gif",
+                "width": 178,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "131839"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/131839_c8fe34dad5e11e06_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "131839"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18057835",
+            "role_id": "35351535",
+            "person_name": "Roger Selchow",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18057835\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18044209",
+            "role_id": "35236675",
+            "person_name": "Noritake",
+            "person_date": "",
+            "role_name": "For",
+            "role_display_name": "Made for",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044209\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236675\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Design for plate with crenellated border. brush and watercolor, gold gouache, graphite on cream paper. 1985-14-64."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "Japan",
+    "is_loan_object": 0
+}

@@ -1,0 +1,141 @@
+{
+    "id": "18802341",
+    "tms:id": "181337",
+    "accession_number": "1984-129-2",
+    "title": "Tile (USA), 20th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18802341\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35250645",
+    "date": "20th century",
+    "year_start": 1901,
+    "year_end": 1984,
+    "year_acquired": "1984",
+    "decade": "1900",
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1984: acquired by Museum",
+    "dimensions": "H x diam.: 1.8 x 8 cm (11\/16 x 3 1\/8 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "8.00",
+            "centimeters"
+        ],
+        "height": [
+            "1.80",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Octagonal tile with curved sides and rounded points, decorated with starburst-like design in brown and blue. At center, \u201cETC\u201d [?] in circle.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "tile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100409_c430eb1923bad394_b.jpg",
+                "width": 1024,
+                "height": 1004,
+                "is_primary": "1",
+                "image_id": "100409"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100409_c430eb1923bad394_z.jpg",
+                "width": 640,
+                "height": 628,
+                "is_primary": "1",
+                "image_id": "100409"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100409_c430eb1923bad394_n.jpg",
+                "width": 320,
+                "height": 314,
+                "is_primary": "1",
+                "image_id": "100409"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100409_c430eb1923bad394_d.gif",
+                "width": 320,
+                "height": 314,
+                "is_primary": "1",
+                "image_id": "100409"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100409_c430eb1923bad394_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "100409"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43657_b0321f43605f3085_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "43657"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43657_b0321f43605f3085_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "43657"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43657_b0321f43605f3085_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "43657"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43657_b0321f43605f3085_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "43657"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43657_b0321f43605f3085_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "43657"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Tile (USA), 20th century. 1984-129-2."
+    },
+    "colors": [
+        {
+            "color": "#ac9259",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#5f717c",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

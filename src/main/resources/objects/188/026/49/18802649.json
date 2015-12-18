@@ -1,0 +1,172 @@
+{
+    "id": "18802649",
+    "tms:id": "181510",
+    "accession_number": "1984-55-1",
+    "title": "Handkerchief (USA), late 19th or early 20th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18802649\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "126543",
+    "type_id": "35264069",
+    "date": "late 19th or early 20th century",
+    "year_start": null,
+    "year_end": 1925,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Said by donor to have been made by her grandmother, Isabella Corothers, in New York.",
+    "dimensions": "H x W: 27.3 \u00d7 26.7 cm (10 3\/4 \u00d7 10 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "27.31",
+            "centimeters"
+        ],
+        "width": [
+            "26.67",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "A square fabric made larger by triangles of tatting added to each side.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Handkerchief",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94130_57004672f1c077ab_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "94130"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94130_57004672f1c077ab_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "94130"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94130_57004672f1c077ab_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "94130"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94130_57004672f1c077ab_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "94130"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94130_57004672f1c077ab_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "94130"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77595_d64292edb3c7c27f_b.jpg",
+                "width": 1024,
+                "height": 975,
+                "is_primary": "0",
+                "image_id": "77595"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77595_d64292edb3c7c27f_z.jpg",
+                "width": 640,
+                "height": 609,
+                "is_primary": "0",
+                "image_id": "77595"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77595_d64292edb3c7c27f_n.jpg",
+                "width": 320,
+                "height": 305,
+                "is_primary": "0",
+                "image_id": "77595"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77595_d64292edb3c7c27f_d.gif",
+                "width": 320,
+                "height": 305,
+                "is_primary": "0",
+                "image_id": "77595"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77595_d64292edb3c7c27f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77595"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77596_786070764c9f1e21_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "77596"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77596_786070764c9f1e21_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "77596"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77596_786070764c9f1e21_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "77596"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77596_786070764c9f1e21_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "77596"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77596_786070764c9f1e21_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77596"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Handkerchief (USA), late 19th or early 20th century. 1984-55-1."
+    },
+    "colors": [
+        {
+            "color": "#ffffff",
+            "closest_crayola": "#ffffff",
+            "closest_css3": "#ffffff",
+            "closest_css4": "#ffffff"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

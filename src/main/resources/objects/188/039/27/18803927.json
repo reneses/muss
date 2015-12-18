@@ -1,0 +1,160 @@
+{
+    "id": "18803927",
+    "tms:id": "182241",
+    "accession_number": "1985-103-210",
+    "title": "Fork (England), 1745",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18803927\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35432855",
+    "type_id": "35254209",
+    "date": "1745",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "steel, silver, earthenware",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Robert L. Metzenberg",
+    "dimensions": "L x W: 17 x 2 cm (6 11\/16 x 13\/16 in.)",
+    "dimensions_raw": {
+        "length": [
+            "17.00",
+            "centimeters"
+        ],
+        "width": [
+            "2.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg",
+    "description": "Two long curved tines, baluster-shaped neck. Banded silver ferrule. Pistol-shaped earthenware handle, cream ground with marble pattern in yellow, brown and blue, clear glaze.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "fork",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118341_8459032f938ca10e_b.jpg",
+                "width": 444,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "118341"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118341_8459032f938ca10e_z.jpg",
+                "width": 278,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "118341"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118341_8459032f938ca10e_n.jpg",
+                "width": 139,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118341"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118341_8459032f938ca10e_d.gif",
+                "width": 139,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118341"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118341_8459032f938ca10e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "118341"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19109_f276d9a0e0d096de_b.jpg",
+                "width": 373,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "19109"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19109_f276d9a0e0d096de_z.jpg",
+                "width": 233,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "19109"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19109_f276d9a0e0d096de_n.jpg",
+                "width": 117,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19109"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19109_f276d9a0e0d096de_d.gif",
+                "width": 117,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19109"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19109_f276d9a0e0d096de_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "19109"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18535985",
+            "role_id": "35351535",
+            "person_name": "Eleanor L. Metzenberg",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048365",
+            "role_id": "35352245",
+            "person_name": "S. Wilmering",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Fork (England), 1745. steel, silver, earthenware. The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg. 1985-103-210."
+    },
+    "colors": [
+        {
+            "color": "#9f988c",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#72675d",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
+}

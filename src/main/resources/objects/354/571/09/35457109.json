@@ -1,0 +1,219 @@
+{
+    "id": "35457109",
+    "tms:id": "274496",
+    "accession_number": "14.2012.1",
+    "title": "Child's Tool Chest (USA), 1900\u201324",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35457109\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "35463257",
+    "type_id": "35460041",
+    "date": "1900\u201324",
+    "year_start": null,
+    "year_end": 1924,
+    "year_acquired": null,
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "wood, metal, paint, paper, ink",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 33 x 43.2 x 22.9 cm (13 x 17 x 9 in.); from collection website",
+    "dimensions_raw": {
+        "depth": [
+            "22.86",
+            "centimeters"
+        ],
+        "height": [
+            "33.02",
+            "centimeters"
+        ],
+        "width": [
+            "43.18",
+            "centimeters"
+        ]
+    },
+    "creditline": "Smithsonian Institution, National Museum of American History, 1977.1101.0167",
+    "description": null,
+    "justification": null,
+    "gallery_text": "Miniaturizing objects to a scale accessible to children has held a special fascination for designers and makers over the centuries. This child\u2019s tool chest declares carpentry to be boys\u2019 work, a commentary on early twentieth century society and its gender expecta\u00actions. Inside the lid is a color lithograph of boys building a small house beneath a banner that reads, BLISS UNION TOOL CHESTS FOR BOYS. R. Bliss & Company, originally a producer of wood screws and clamps for piano and cabinet makers, became well known for their lithographed wooden toys around the turn of the twentieth century. \nThe chest, complete with a hinged lid and a removable top tray, contains functional tools, including a metal plane, chisel, hammer, and saw. Only the size of the tools and the adjustments made to the grips for smaller hands distinguish the contents from their adult versions.",
+    "label_text": "Scaling objects for children has fascinated designers for centuries. Only adjustments to size and grip distinguish these functioning tools from their adult version.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Child's tool chest",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84899_eee4fdf8f3ba11be_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "84899"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84899_eee4fdf8f3ba11be_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "84899"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84899_eee4fdf8f3ba11be_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "84899"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84899_eee4fdf8f3ba11be_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "84899"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84899_eee4fdf8f3ba11be_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "84899"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113630_03a399d06349f2a3_b.jpg",
+                "width": 853,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113630"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113630_03a399d06349f2a3_z.jpg",
+                "width": 533,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113630"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113630_03a399d06349f2a3_n.jpg",
+                "width": 267,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113630"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113630_03a399d06349f2a3_d.gif",
+                "width": 267,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113630"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113630_03a399d06349f2a3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113630"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113628_eee4fdf8f3ba11be_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113628"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113628_eee4fdf8f3ba11be_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113628"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113628_eee4fdf8f3ba11be_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113628"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113628_eee4fdf8f3ba11be_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113628"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113628_eee4fdf8f3ba11be_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113628"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "51676451",
+            "role_id": "35236657",
+            "person_name": "R. Bliss Manufacturing Company",
+            "person_date": "Pawtucket, Rhode Island, USA, est. 1845",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676451\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18041125",
+            "role_id": "51571131",
+            "person_name": "National Museum of American History",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041125\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Child's Tool Chest (USA), 1900\u201324. wood, metal, paint, paper, ink. Smithsonian Institution, National Museum of American History, 1977.1101.0167. 14.2012.1."
+    },
+    "colors": [
+        {
+            "color": "#757c90",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        },
+        {
+            "color": "#bfc5d8",
+            "closest_crayola": "#c5d0e6",
+            "closest_css3": "#b0c4de",
+            "closest_css4": "#b0c4de"
+        },
+        {
+            "color": "#929ab0",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#2b2324",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#b18b60",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

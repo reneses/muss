@@ -1,0 +1,166 @@
+{
+    "id": "18804079",
+    "tms:id": "182318",
+    "accession_number": "1985-103-265",
+    "title": "Folding Knife (Probably Carlsbad), ca. 1790",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18804079\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35371777",
+    "type_id": "35293711",
+    "date": "ca. 1790",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "silver, gold",
+    "markings": "On blade: F",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Robert L. Metzenberg",
+    "dimensions": "L x W: 19 x 1.4 cm (7 1\/2 x 9\/16 in.)",
+    "dimensions_raw": {
+        "length": [
+            "19.00",
+            "centimeters"
+        ],
+        "width": [
+            "1.40",
+            "centimeters"
+        ]
+    },
+    "creditline": "The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg",
+    "description": "Blade has straight upper edge tapering towards the point. Lower edge slightly curved towards the point. Flat, straight-sided handle with rounded ends. Silver scales engraved with floral decoration and gilded details. Three rivets. Blade folds into handle.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Folding knife",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119726_f28c6a3d2397d06b_b.jpg",
+                "width": 570,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "119726"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119726_f28c6a3d2397d06b_z.jpg",
+                "width": 356,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "119726"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119726_f28c6a3d2397d06b_n.jpg",
+                "width": 178,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "119726"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119726_f28c6a3d2397d06b_d.gif",
+                "width": 178,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "119726"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119726_f28c6a3d2397d06b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "119726"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19146_5a92f82b51d89467_b.jpg",
+                "width": 581,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "19146"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19146_5a92f82b51d89467_z.jpg",
+                "width": 363,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "19146"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19146_5a92f82b51d89467_n.jpg",
+                "width": 182,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19146"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19146_5a92f82b51d89467_d.gif",
+                "width": 182,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19146"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19146_5a92f82b51d89467_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "19146"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18535985",
+            "role_id": "35351535",
+            "person_name": "Eleanor L. Metzenberg",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048365",
+            "role_id": "35352245",
+            "person_name": "S. Wilmering",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Folding Knife (Probably Carlsbad), ca. 1790. silver, gold. The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg. 1985-103-265."
+    },
+    "colors": [
+        {
+            "color": "#9c948c",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#77706d",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#544f4f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

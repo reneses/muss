@@ -1,0 +1,184 @@
+{
+    "id": "18800261",
+    "tms:id": "180293",
+    "accession_number": "1983-1-10",
+    "title": "Drawing, Embroidered Drapes for Lower Floor Windows, Henry J. Allen Residence, Wichita, Kansas, 1917",
+    "title_raw": "Embroidered Drapes for Lower Floor Windows, Henry J. Allen Residence, Wichita, Kansas",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800261\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35519719",
+    "type_id": "35237093",
+    "date": "1917",
+    "year_start": 1917,
+    "year_end": 1917,
+    "year_acquired": "1983",
+    "decade": "1910",
+    "woe:country_id": "23424977",
+    "medium": "graphite, color pencil on beige tracing paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Inscribed in graphite, upper right: Embroidered\/ Drapes for\/ Allen's lower floor\/ windows (all underlined); on design: #1\/#2\/#3 (all underlined)",
+    "provenance": "Mr. and Mrs. Robert L. Jacobson",
+    "dimensions": "24.5 x 25.1 cm (9 5\/8 x 9 7\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "24.50",
+            "centimeters"
+        ],
+        "width": [
+            "25.10",
+            "centimeters"
+        ]
+    },
+    "creditline": "Museum purchase from Smithsonian Regents Collections Acquisition and Friends of Drawings and Prints Funds",
+    "description": "Three designs for embroidered drapes for Lower Floor Windows of Henry J. Allen Residence. Three horizontal rectangles arranged vertically with squares and lines on them to represent embroidery pattern.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42505_1c8c8b4debf63cc1_b.jpg",
+                "width": 1024,
+                "height": 1008,
+                "is_primary": "1",
+                "image_id": "42505"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42505_1c8c8b4debf63cc1_z.jpg",
+                "width": 640,
+                "height": 630,
+                "is_primary": "1",
+                "image_id": "42505"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42505_1c8c8b4debf63cc1_n.jpg",
+                "width": 320,
+                "height": 315,
+                "is_primary": "1",
+                "image_id": "42505"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42505_1c8c8b4debf63cc1_d.gif",
+                "width": 320,
+                "height": 315,
+                "is_primary": "1",
+                "image_id": "42505"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42505_1c8c8b4debf63cc1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "42505"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/204671_619bfb2fe01a2f8f_b.jpg",
+                "width": 1024,
+                "height": 1010,
+                "is_primary": "0",
+                "image_id": "204671"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/204671_619bfb2fe01a2f8f_z.jpg",
+                "width": 640,
+                "height": 631,
+                "is_primary": "0",
+                "image_id": "204671"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/204671_619bfb2fe01a2f8f_n.jpg",
+                "width": 320,
+                "height": 316,
+                "is_primary": "0",
+                "image_id": "204671"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/204671_619bfb2fe01a2f8f_d.gif",
+                "width": 320,
+                "height": 316,
+                "is_primary": "0",
+                "image_id": "204671"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/204671_619bfb2fe01a2f8f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "204671"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18041629",
+            "role_id": "35352249",
+            "person_name": "Kelmscott Gallery",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041629\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "51676457",
+            "role_id": "35352245",
+            "person_name": "Karin Zonis",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "68738747",
+            "role_id": "35236667",
+            "person_name": "Elsie J. Nuzman (Mrs. Henry J.) Allen",
+            "person_date": "",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68738747\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        },
+        {
+            "person_id": "18042051",
+            "role_id": "35236667",
+            "person_name": "Henry J. Allen",
+            "person_date": "",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042051\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        },
+        {
+            "person_id": "18042049",
+            "role_id": "35236663",
+            "person_name": "Frank Lloyd Wright",
+            "person_date": "American, 1867\u20131959",
+            "role_name": "Architect",
+            "role_display_name": "Architect:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042049\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236663\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Embroidered Drapes for Lower Floor Windows, Henry J. Allen Residence, Wichita, Kansas, 1917. graphite, color pencil on beige tracing paper. Museum purchase from Smithsonian Regents Collections Acquisition and Friends of Drawings and Prints Funds. 1983-1-10."
+    },
+    "colors": [
+        {
+            "color": "#c3ad7d",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

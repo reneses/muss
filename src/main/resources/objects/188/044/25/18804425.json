@@ -1,0 +1,168 @@
+{
+    "id": "18804425",
+    "tms:id": "182497",
+    "accession_number": "1985-106-3",
+    "title": "Poster, Champion International Design Corp., Interior Design, 1980\u201385",
+    "title_raw": "Champion International Design Corp., Interior Design",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18804425\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35399021",
+    "type_id": "35238163",
+    "date": "1980\u201385",
+    "year_start": 1980,
+    "year_end": 1985,
+    "year_acquired": "1985",
+    "decade": "1980",
+    "woe:country_id": "23424977",
+    "medium": "offset lithograph on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Printed in white, lower left: Champion International Corporation; lower right: Champion Kromekote 1S Cover\/.010",
+    "provenance": "1985: acquired by Museum",
+    "dimensions": "(folder): 67 x 51.5 cm (26 3\/8 x 20 1\/4 in.)\n63.5 x 45.2 cm (25 in. x 17 13\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "67.00",
+            "centimeters"
+        ],
+        "width": [
+            "51.50",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "On a ground composed of vertical blinds, an image of an interior with a red table and black chairs above. As though lit from below by a bell-shaped lamp, creating dramatic lighting and shadows. Lower margin on a ground of folded fabrics in blues and purples, in white: interior \/ DESIGN.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64050_3263bc9f539f2d2a_b.jpg",
+                "width": 733,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "64050"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64050_3263bc9f539f2d2a_z.jpg",
+                "width": 458,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "64050"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64050_3263bc9f539f2d2a_n.jpg",
+                "width": 229,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "64050"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64050_3263bc9f539f2d2a_d.gif",
+                "width": 229,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "64050"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64050_3263bc9f539f2d2a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "64050"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/203269_43583507988501e4_b.jpg",
+                "width": 738,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "203269"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/203269_43583507988501e4_z.jpg",
+                "width": 461,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "203269"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/203269_43583507988501e4_n.jpg",
+                "width": 231,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "203269"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/203269_43583507988501e4_d.gif",
+                "width": 231,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "203269"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/203269_43583507988501e4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "203269"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18042755",
+            "role_id": "35236655",
+            "person_name": "Champion International Corporation",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042755\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, Champion International Design Corp., Interior Design, 1980\u201385. offset lithograph on paper. 1985-106-3."
+    },
+    "colors": [
+        {
+            "color": "#5d5c55",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#6c7379",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#454f62",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#543740",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#c8b790",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

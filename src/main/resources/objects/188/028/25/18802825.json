@@ -1,0 +1,84 @@
+{
+    "id": "18802825",
+    "tms:id": "181600",
+    "accession_number": "1984-82-10",
+    "title": "Napkin (Netherlands), 1645",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18802825\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35414465",
+    "type_id": "35256421",
+    "date": "1645",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": "23424909",
+    "medium": "linen",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "Napkin",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/125303_8546bec4d92ac38a_b.jpg",
+                "width": 770,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "125303"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/125303_8546bec4d92ac38a_z.jpg",
+                "width": 481,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "125303"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/125303_8546bec4d92ac38a_n.jpg",
+                "width": 241,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "125303"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/125303_8546bec4d92ac38a_d.gif",
+                "width": 241,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "125303"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/125303_8546bec4d92ac38a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "125303"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Napkin (Netherlands), 1645. linen. 1984-82-10."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
+}

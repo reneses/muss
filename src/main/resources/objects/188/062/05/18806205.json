@@ -1,0 +1,219 @@
+{
+    "id": "18806205",
+    "tms:id": "183407",
+    "accession_number": "1986-113-1",
+    "title": "Vase (USA), 1886",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18806205\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "68249231",
+    "type_id": "35237225",
+    "date": "1886",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1986",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "gilt, enameled porcelain",
+    "markings": "Painted underside in blue enamel: C.V.M. \/ 1886",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Dona Guimaraes; 1986: acquired by Museum",
+    "dimensions": "H x W x D: 15 x 23 x 16.5 cm (5 7\/8 x 9 1\/16 x 6 1\/2 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "16.50",
+            "centimeters"
+        ],
+        "height": [
+            "15.00",
+            "centimeters"
+        ],
+        "width": [
+            "23.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Dona Guimaraes",
+    "description": "Footed bulbous jar in green with allover darker green leaf pattern, overlaid with gilt silhouetted cats and figures. Jar has scrolled and foliate feet; C-curved hands.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Vase",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106347_f440c0abb0d7a4bf_b.jpg",
+                "width": 1024,
+                "height": 887,
+                "is_primary": "1",
+                "image_id": "106347"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106347_f440c0abb0d7a4bf_z.jpg",
+                "width": 640,
+                "height": 554,
+                "is_primary": "1",
+                "image_id": "106347"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106347_f440c0abb0d7a4bf_n.jpg",
+                "width": 320,
+                "height": 277,
+                "is_primary": "1",
+                "image_id": "106347"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106347_f440c0abb0d7a4bf_d.gif",
+                "width": 320,
+                "height": 277,
+                "is_primary": "1",
+                "image_id": "106347"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106347_f440c0abb0d7a4bf_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "106347"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89082_8e0de87ae5113aa7_b.jpg",
+                "width": 1024,
+                "height": 858,
+                "is_primary": "0",
+                "image_id": "89082"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89082_8e0de87ae5113aa7_z.jpg",
+                "width": 640,
+                "height": 537,
+                "is_primary": "0",
+                "image_id": "89082"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89082_8e0de87ae5113aa7_n.jpg",
+                "width": 320,
+                "height": 268,
+                "is_primary": "0",
+                "image_id": "89082"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89082_8e0de87ae5113aa7_d.gif",
+                "width": 320,
+                "height": 268,
+                "is_primary": "0",
+                "image_id": "89082"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89082_8e0de87ae5113aa7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "89082"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/22716_a07cdfe528184cde_b.jpg",
+                "width": 1024,
+                "height": 868,
+                "is_primary": "0",
+                "image_id": "22716"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/22716_a07cdfe528184cde_z.jpg",
+                "width": 640,
+                "height": 543,
+                "is_primary": "0",
+                "image_id": "22716"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/22716_a07cdfe528184cde_n.jpg",
+                "width": 320,
+                "height": 271,
+                "is_primary": "0",
+                "image_id": "22716"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/22716_a07cdfe528184cde_d.gif",
+                "width": 320,
+                "height": 271,
+                "is_primary": "0",
+                "image_id": "22716"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/22716_a07cdfe528184cde_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "22716"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18040917",
+            "role_id": "35351535",
+            "person_name": "Dona Guimaraes",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18040917\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18044023",
+            "role_id": "35236565",
+            "person_name": "Caroline Virginia (Rich) McGuffey",
+            "person_date": "American, 1839 \u2013 1905",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044023\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Vase (USA), 1886. gilt, enameled porcelain. Gift of Dona Guimaraes. 1986-113-1."
+    },
+    "colors": [
+        {
+            "color": "#a6a59c",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#6e6f5a",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#4a4f3e",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#927b4c",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#725e39",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

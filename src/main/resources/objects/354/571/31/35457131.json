@@ -1,0 +1,146 @@
+{
+    "id": "35457131",
+    "tms:id": "274505",
+    "accession_number": "14.2012.10",
+    "title": "Metal Glide Cane Tips (USA), 2000",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35457131\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "35423305",
+    "type_id": "68250137",
+    "date": "2000",
+    "year_start": 2000,
+    "year_end": 2000,
+    "year_acquired": null,
+    "decade": "2000",
+    "woe:country_id": "23424977",
+    "medium": "rubber, metal",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Diam. (3 used tips): 2.8 cm (1 1\/8 in.) each",
+    "dimensions_raw": {
+        "diameter": [
+            "2.80",
+            "centimeters"
+        ]
+    },
+    "creditline": "Smithsonian Institution, National Museum of American History, 2001.0324.01-03",
+    "description": null,
+    "justification": null,
+    "gallery_text": "For the blind or those with low vision, a white cane is a simple yet sophisticated means for observing and traversing terrain. The primary information exchange takes place at the tip, where the cane meets the ground. The hand\u2013cane connection is secondary, merely extending the hand to where interactions take place. Once the person is moving, feedback from the tip is essential for ascertaining what is unfolding underfoot, so the condition of the tip matters. Tips\u2014like shoe soles or car tires\u2014wear down and have to be replaced. The metal bottom falls off, the rubber disintegrates. If a person uses a roller-ball tip, the plastic gets nicked and worn. The old tip unscrews to make way for the new.",
+    "label_text": "Observational tool, navigation device, and symbol, a white cane transmits information. The initial exchange takes place at the tip, where the cane meets the ground, and feedback from the tip alerts the user of terrain conditions. A folding cane can be easily stowed and is often more manageable in an urban context than the rigid version.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Metal glide cane tips",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93459_6a0987edb0063672_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "93459"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93459_6a0987edb0063672_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "93459"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93459_6a0987edb0063672_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93459"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93459_6a0987edb0063672_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93459"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93459_6a0987edb0063672_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93459"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113581_6a0987edb0063672_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113581"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113581_6a0987edb0063672_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113581"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113581_6a0987edb0063672_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113581"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113581_6a0987edb0063672_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113581"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113581_6a0987edb0063672_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113581"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18041125",
+            "role_id": "51571131",
+            "person_name": "National Museum of American History",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041125\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Metal Glide Cane Tips (USA), 2000. rubber, metal. Smithsonian Institution, National Museum of American History, 2001.0324.01-03. 14.2012.10."
+    },
+    "colors": [
+        {
+            "color": "#7d7c76",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#d4d5b6",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

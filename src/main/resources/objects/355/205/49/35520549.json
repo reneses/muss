@@ -1,0 +1,172 @@
+{
+    "id": "35520549",
+    "tms:id": "274983",
+    "accession_number": "15.2012.55",
+    "title": "Woman\u2019s Workbox With Lid (USA), Created before 1870s",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35520549\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "68779343",
+    "type_id": "68515391",
+    "date": "Created before 1870s",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": null,
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "carved wood, walrus-ivory inlay",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 10.2 x 24.1 x 10.2 cm (4 in. x 9 1\/2 in. x 4 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "10.16",
+            "centimeters"
+        ],
+        "height": [
+            "10.16",
+            "centimeters"
+        ],
+        "width": [
+            "24.13",
+            "centimeters"
+        ]
+    },
+    "creditline": "Collection of Edward W. Nelson, 1879, Gift of Edward W. Nelson, Department of Anthropology, National Museum of Natural History, Smithsonian Institution, E36240",
+    "description": null,
+    "justification": null,
+    "gallery_text": "A Yup\u2019ik woman\u2019s toolbox safeguarded some of her most precious instruments and materials. Small scrapers and awls; sinew, fiber, and scraps of yarn to sew with; and needle cases and other small objects would have been found in this personal container (gungasvik).\nYup\u2019ik men made the chests, each one unique. This well-crafted box has a solid top and base, with an oval body that was formed by boiling and bending a narrow lath of wood. The walrus-ivory handle and inlays are incised with concentric circles, a Yup\u2019ik design that symbolizes levels of the cosmos. The container\u2019s other function\u2014as a heavily used cutting board\u2014is revealed by the numerous scratches on the bottom. The chest\u2019s owner simply turned the box over to cut pieces of skin or sinew for sewing.",
+    "label_text": "A Yup'ik woman\u2019s workbox safeguarded her most precious tools and materials: scrapers, awls, yarn and other fibers, and needle cases. Turned over, it became a cutting board.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Woman\u2019s Workbox with Lid",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84694_bbe3aecfbf55bf77_b.jpg",
+                "width": 1024,
+                "height": 767,
+                "is_primary": "1",
+                "image_id": "84694"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84694_bbe3aecfbf55bf77_z.jpg",
+                "width": 640,
+                "height": 479,
+                "is_primary": "1",
+                "image_id": "84694"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84694_bbe3aecfbf55bf77_n.jpg",
+                "width": 320,
+                "height": 240,
+                "is_primary": "1",
+                "image_id": "84694"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84694_bbe3aecfbf55bf77_d.gif",
+                "width": 320,
+                "height": 240,
+                "is_primary": "1",
+                "image_id": "84694"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84694_bbe3aecfbf55bf77_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "84694"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113691_bbe3aecfbf55bf77_b.jpg",
+                "width": 1024,
+                "height": 767,
+                "is_primary": "0",
+                "image_id": "113691"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113691_bbe3aecfbf55bf77_z.jpg",
+                "width": 640,
+                "height": 479,
+                "is_primary": "0",
+                "image_id": "113691"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113691_bbe3aecfbf55bf77_n.jpg",
+                "width": 320,
+                "height": 240,
+                "is_primary": "0",
+                "image_id": "113691"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113691_bbe3aecfbf55bf77_d.gif",
+                "width": 320,
+                "height": 240,
+                "is_primary": "0",
+                "image_id": "113691"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113691_bbe3aecfbf55bf77_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113691"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "51676437",
+            "role_id": "51571131",
+            "person_name": "National Museum of Natural History",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676437\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Woman\u2019s Workbox With Lid (USA), Created before 1870s. carved wood, walrus-ivory inlay. Collection of Edward W. Nelson, 1879, Gift of Edward W. Nelson, Department of Anthropology, National Museum of Natural History, Smithsonian Institution, E36240. 15.2012.55."
+    },
+    "colors": [
+        {
+            "color": "#4b3018",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#715538",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#917146",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#a59c8a",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#e7dfa5",
+            "closest_crayola": "#edd19c",
+            "closest_css3": "#eee8aa",
+            "closest_css4": "#eee8aa"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

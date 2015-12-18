@@ -1,0 +1,172 @@
+{
+    "id": "18801005",
+    "tms:id": "180669",
+    "accession_number": "1983-69-6",
+    "title": "Bracelet (Possibly German), 1850\u201370",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801005\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "68743001",
+    "type_id": "35249367",
+    "date": "1850\u201370",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1983",
+    "decade": null,
+    "woe:country_id": "23424829",
+    "medium": "engraved raised sheet gold, cabochon emerald, rose-cut cut diamonds",
+    "markings": "56 in a rectangular punch, CS in an oval punch, crossed keys or eagle in circular punch",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Overall: 20.5 x 3.7 x 2.5 cm (8 1\/16 x 1 7\/16 x 1 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "2.50",
+            "centimeters"
+        ],
+        "height": [
+            "20.50",
+            "centimeters"
+        ],
+        "width": [
+            "3.70",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift from the Thomas W. Evans Collection from University of Pennsylvania School of Dental Medicine",
+    "description": "Cabochon emerald set into center and surrounded by bands set with diamonds, the links engraved with foliagein reserves. The bracelet in fitted box covered with velvet and with gold leaf crown impressed into textile.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "bracelet",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94402_585be8a6b933142c_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "94402"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94402_585be8a6b933142c_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "94402"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94402_585be8a6b933142c_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "94402"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94402_585be8a6b933142c_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "94402"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94402_585be8a6b933142c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "94402"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/137789_db2b83a8e99d75da_b.jpg",
+                "width": 1024,
+                "height": 491,
+                "is_primary": "0",
+                "image_id": "137789"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/137789_db2b83a8e99d75da_z.jpg",
+                "width": 640,
+                "height": 307,
+                "is_primary": "0",
+                "image_id": "137789"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/137789_db2b83a8e99d75da_n.jpg",
+                "width": 320,
+                "height": 153,
+                "is_primary": "0",
+                "image_id": "137789"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/137789_db2b83a8e99d75da_d.gif",
+                "width": 320,
+                "height": 153,
+                "is_primary": "0",
+                "image_id": "137789"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/137789_db2b83a8e99d75da_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "137789"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18057517",
+            "role_id": "35351535",
+            "person_name": "University of Pennsylvania School of Dental Medicine",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18057517\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Bracelet (Possibly German), 1850\u201370. engraved raised sheet gold, cabochon emerald, rose-cut cut diamonds. Gift from the Thomas W. Evans Collection from University of Pennsylvania School of Dental Medicine. 1983-69-6."
+    },
+    "colors": [
+        {
+            "color": "#9b884e",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#725c2e",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#3b3f2a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#291f2c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#c6ba8a",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
+}

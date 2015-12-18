@@ -1,0 +1,168 @@
+{
+    "id": "18800247",
+    "tms:id": "180286",
+    "accession_number": "1982-79-9",
+    "title": "Dish Towel (USA), 1950\u201355",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800247\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35414465",
+    "type_id": "35293557",
+    "date": "1950\u201355",
+    "year_start": 1950,
+    "year_end": 1955,
+    "year_acquired": "1982",
+    "decade": "1950",
+    "woe:country_id": "23424977",
+    "medium": "linen",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 71.1 x 41.9 cm (28 x 16 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "71.12",
+            "centimeters"
+        ],
+        "width": [
+            "41.91",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Daren Pierce",
+    "description": "Bottles of wine with labels reading: Italian Food Italian Wine, With Red Meat Red Wine, With Fish and White Meats White Wine, Brandy Port Liqueurs After Dinner, Champagne with Anything. Printed in red, green and lavender.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Dish towel",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/126089_dbf68705b07a9a23_b.jpg",
+                "width": 618,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "126089"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/126089_dbf68705b07a9a23_z.jpg",
+                "width": 386,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "126089"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/126089_dbf68705b07a9a23_n.jpg",
+                "width": 193,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "126089"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/126089_dbf68705b07a9a23_d.gif",
+                "width": 193,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "126089"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/126089_dbf68705b07a9a23_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "126089"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77372_630ffbc675a8ff5d_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "77372"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77372_630ffbc675a8ff5d_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "77372"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77372_630ffbc675a8ff5d_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77372"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77372_630ffbc675a8ff5d_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77372"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77372_630ffbc675a8ff5d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77372"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18064311",
+            "role_id": "35236655",
+            "person_name": "Tammis Keefe",
+            "person_date": "American, 1913 - 1960",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18064311\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Dish Towel (USA), 1950\u201355. linen. Gift of Daren Pierce. 1982-79-9."
+    },
+    "colors": [
+        {
+            "color": "#cccaab",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#acaca3",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#ad9b7f",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#9d454b",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#9b9f7f",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#8fbc8f",
+            "closest_css4": "#8fbc8f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

@@ -1,0 +1,205 @@
+{
+    "id": "18800215",
+    "tms:id": "180270",
+    "accession_number": "1982-79-1",
+    "title": "Handkerchief, I Like Ike, ca. 1952",
+    "title_raw": "I Like Ike",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800215\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35264069",
+    "date": "ca. 1952",
+    "year_start": 1947,
+    "year_end": 1957,
+    "year_acquired": "1982",
+    "decade": "1940",
+    "woe:country_id": "23424977",
+    "medium": "cotton",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 31.1 x 33 cm (12 1\/4 x 13 in.)",
+    "dimensions_raw": {
+        "height": [
+            "31.12",
+            "centimeters"
+        ],
+        "width": [
+            "33.02",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Daren Pierce",
+    "description": "Square handkerchief with a red elephant wearing a black top hat, on a white shield with blue stars, with the slogan I Like Ike below. Blue field with a border of red and white stripes.",
+    "justification": null,
+    "gallery_text": "Tammis Keefe (American, 1913-1960) was an influential mid-century textile designer best known for her playful designs, often printed with humorous slogans. One dishtowel in the museum collection features fire engines and the words, \u201cSomething\u2019s Burning!,\u201d (1982-79-6) and another, owls and the words \u201cwhoooos for dinner\u201d (1982-79-12). Keefe designed this handkerchief with the slogan \u201cI like Ike!\u201d for Dwight Eisenhower\u2019s presidential campaign in 1952. Like printed T-shirts and bumper stickers used in political campaigns today, cheaply-printed handkerchiefs were important campaign tools in the early twentieth century. By 1952, when this example was made, the \u2018golden age\u2019 of handkerchiefs had waned and most people used paper tissues. This example might therefore have been intended to appeal to an older generation of voters.",
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Handkerchief",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/60107_7233c7351d8872bc_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "60107"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/60107_7233c7351d8872bc_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "60107"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/60107_7233c7351d8872bc_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "60107"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/60107_7233c7351d8872bc_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "60107"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/60107_7233c7351d8872bc_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "60107"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/220708_18aa7c1c255261ec_b.jpg",
+                "width": 1024,
+                "height": 955,
+                "is_primary": "0",
+                "image_id": "220708"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/220708_18aa7c1c255261ec_z.jpg",
+                "width": 640,
+                "height": 597,
+                "is_primary": "0",
+                "image_id": "220708"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/220708_18aa7c1c255261ec_n.jpg",
+                "width": 320,
+                "height": 298,
+                "is_primary": "0",
+                "image_id": "220708"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/220708_18aa7c1c255261ec_d.gif",
+                "width": 320,
+                "height": 298,
+                "is_primary": "0",
+                "image_id": "220708"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/220708_18aa7c1c255261ec_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "220708"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/24834_1a94cf1ab94a6350_b.jpg",
+                "width": 1024,
+                "height": 953,
+                "is_primary": "0",
+                "image_id": "24834"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/24834_1a94cf1ab94a6350_z.jpg",
+                "width": 640,
+                "height": 596,
+                "is_primary": "0",
+                "image_id": "24834"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/24834_1a94cf1ab94a6350_n.jpg",
+                "width": 320,
+                "height": 298,
+                "is_primary": "0",
+                "image_id": "24834"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/24834_1a94cf1ab94a6350_d.gif",
+                "width": 320,
+                "height": 298,
+                "is_primary": "0",
+                "image_id": "24834"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/24834_1a94cf1ab94a6350_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "24834"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18064311",
+            "role_id": "35236655",
+            "person_name": "Tammis Keefe",
+            "person_date": "American, 1913 - 1960",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18064311\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Handkerchief, I Like Ike, ca. 1952. cotton. Gift of Daren Pierce. 1982-79-1."
+    },
+    "colors": [
+        {
+            "color": "#ddd7b2",
+            "closest_crayola": "#efcdb8",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
+        },
+        {
+            "color": "#84381f",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#3d4073",
+            "closest_crayola": "#58427c",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        },
+        {
+            "color": "#c6ad8d",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#9f5e3e",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

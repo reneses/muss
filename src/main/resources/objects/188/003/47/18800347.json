@@ -1,0 +1,224 @@
+{
+    "id": "18800347",
+    "tms:id": "180336",
+    "accession_number": "1983-14-12",
+    "title": "Pattern Pricking, La Boule de Neige, early 20th century",
+    "title_raw": "La Boule de Neige",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800347\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "85024335",
+    "type_id": "35288499",
+    "date": "early 20th century",
+    "year_start": 1901,
+    "year_end": 1925,
+    "year_acquired": "1983",
+    "decade": "1900",
+    "woe:country_id": null,
+    "medium": "paper, cardboard, probably linen thread",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Modele No. 354 de \"La Boule de Neige\" - Le Mans - fil No. 500 - 54 fuseaux",
+    "provenance": null,
+    "dimensions": "Length: 49 cm [19.5] Direction in which the pattern was worked. Width: 6.5 cm [2.5\"]",
+    "dimensions_raw": {
+        "length": [
+            "49.00",
+            "centimeters"
+        ],
+        "width": [
+            "6.50",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Mr. and Mrs. Robert Mertz",
+    "description": "Pattern pricking with design drawn on green paper. Life size xerox of lace made from the pattern glued to one end of the pattern.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Pattern pricking",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77382_024eaf0dc8a55784_b.jpg",
+                "width": 1024,
+                "height": 357,
+                "is_primary": "1",
+                "image_id": "77382"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77382_024eaf0dc8a55784_z.jpg",
+                "width": 640,
+                "height": 223,
+                "is_primary": "1",
+                "image_id": "77382"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77382_024eaf0dc8a55784_n.jpg",
+                "width": 320,
+                "height": 112,
+                "is_primary": "1",
+                "image_id": "77382"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77382_024eaf0dc8a55784_d.gif",
+                "width": 320,
+                "height": 112,
+                "is_primary": "1",
+                "image_id": "77382"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77382_024eaf0dc8a55784_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "77382"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/195668_0ada6442e718d226_b.jpg",
+                "width": 1024,
+                "height": 154,
+                "is_primary": "0",
+                "image_id": "195668"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/195668_0ada6442e718d226_z.jpg",
+                "width": 640,
+                "height": 96,
+                "is_primary": "0",
+                "image_id": "195668"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/195668_0ada6442e718d226_n.jpg",
+                "width": 320,
+                "height": 48,
+                "is_primary": "0",
+                "image_id": "195668"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/195668_0ada6442e718d226_d.gif",
+                "width": 320,
+                "height": 48,
+                "is_primary": "0",
+                "image_id": "195668"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/195668_0ada6442e718d226_sq.jpg",
+                "width": 300,
+                "height": 154,
+                "is_primary": "0",
+                "image_id": "195668"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77383_5580f3eabb5d7186_b.jpg",
+                "width": 1024,
+                "height": 488,
+                "is_primary": "0",
+                "image_id": "77383"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77383_5580f3eabb5d7186_z.jpg",
+                "width": 640,
+                "height": 305,
+                "is_primary": "0",
+                "image_id": "77383"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77383_5580f3eabb5d7186_n.jpg",
+                "width": 320,
+                "height": 153,
+                "is_primary": "0",
+                "image_id": "77383"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77383_5580f3eabb5d7186_d.gif",
+                "width": 320,
+                "height": 153,
+                "is_primary": "0",
+                "image_id": "77383"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77383_5580f3eabb5d7186_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77383"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18055355",
+            "role_id": "35351535",
+            "person_name": "Mrs.  Mertz",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055355\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18055353",
+            "role_id": "35351535",
+            "person_name": "Robert Mertz",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055353\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18047457",
+            "role_id": "35352245",
+            "person_name": "Barbara Duggan",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Pattern Pricking, La Boule de Neige, early 20th century. paper, cardboard, probably linen thread. Gift of Mr. and Mrs. Robert Mertz. 1983-14-12."
+    },
+    "colors": [
+        {
+            "color": "#7e8070",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#4a5151",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#626e6c",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#272e35",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#d5e0d1",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        }
+    ],
+    "is_loan_object": 0
+}

@@ -1,0 +1,56 @@
+{
+    "id": "18804463",
+    "tms:id": "182516",
+    "accession_number": "1985-116-1",
+    "title": "Fan, Trump Tower",
+    "title_raw": "Trump Tower",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18804463\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35252007",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "fan",
+    "images": [
+
+    ],
+    "participants": [
+        {
+            "person_id": "18045673",
+            "role_id": "35352249",
+            "person_name": "Vince Vitale",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045673\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Fan, Trump Tower. 1985-116-1."
+    },
+    "colors": [
+
+    ],
+    "is_loan_object": 0
+}

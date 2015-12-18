@@ -1,0 +1,164 @@
+{
+    "id": "35520963",
+    "tms:id": "275092",
+    "accession_number": "s-e-1597",
+    "title": "Wristband, Jawbone UP24, 2013",
+    "title_raw": "Jawbone UP24",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35520963\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "68515409",
+    "type_id": "68515413",
+    "date": "2013",
+    "year_start": 2013,
+    "year_end": 2013,
+    "year_acquired": null,
+    "decade": "2010",
+    "woe:country_id": "23424977",
+    "medium": "hypoallergenic tpu rubber, nickel-plated tr-90 nylon, electronic components",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 1.7 x 7.4 x 5.5 cm (11\/16 x 2 15\/16 x 2 3\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "5.50",
+            "centimeters"
+        ],
+        "height": [
+            "1.70",
+            "centimeters"
+        ],
+        "width": [
+            "7.40",
+            "centimeters"
+        ]
+    },
+    "creditline": "Courtesy of Yves B\u00e9har and fuseproject",
+    "description": null,
+    "justification": null,
+    "gallery_text": "Today\u2019s computational feedback systems take note of our actions, habits, and shopping preferences. Pedometers, thermometers, scales, devices for checking blood sugar or blood pressure were once single-purpose tools for self-monitoring. But contemporary obsession with data, metrics, and fitness has spawned a new variety of wearable \"smart\" devices that up the ante, not only for tracking, but for managing\u2014even optimizing\u2014our physical performance. The Jawbone UP wristband is one such personal feedback system. Worn 24\/7, the data-collecting bracelet records the wearer\u2019s level of physical activity, as well as the quality of sleep and eating habits, and communicates an instant summary. Available in multiple colors, the Jawbone UP\u2019s flexible spring-steel inner core adjusts to any wrist size and contour. Wearable monitor technology is in its infancy, but the possibilities for tools that \"get to know the wearer,\" which encourage individuals to track well-being, regulate behavior, and connect with doctors, can be very empowering.",
+    "label_text": "Codes and symbols are shorthand for simple and complex information that may be understood by one person or multitudes. Patterns formed by knots, lines, colors, and 1s and 0s distill data, transmitting it through touch, sight, or hearing. Memory aid, accounting register, or calorie counter, these objects act as physical and virtual messengers of information.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Wristband",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89717_41472ceecf1a884c_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "89717"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89717_41472ceecf1a884c_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "89717"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89717_41472ceecf1a884c_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "89717"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89717_41472ceecf1a884c_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "89717"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89717_41472ceecf1a884c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "89717"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/114005_41472ceecf1a884c_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "114005"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/114005_41472ceecf1a884c_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "114005"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/114005_41472ceecf1a884c_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "114005"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/114005_41472ceecf1a884c_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "114005"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/114005_41472ceecf1a884c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "114005"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68244853",
+            "role_id": "35236657",
+            "person_name": "Jawbone",
+            "person_date": "USA",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68244853\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18538965",
+            "role_id": "35236655",
+            "person_name": "Yves B\u00e9har",
+            "person_date": "Swiss, active USA, b. 1967",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538965\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Wristband, Jawbone UP24, 2013. hypoallergenic tpu rubber, nickel-plated tr-90 nylon, electronic components. Courtesy of Yves B\u00e9har and fuseproject. s-e-1597."
+    },
+    "colors": [
+        {
+            "color": "#dd523b",
+            "closest_crayola": "#cd4a4c",
+            "closest_css3": "#cd5c5c",
+            "closest_css4": "#cd5c5c"
+        },
+        {
+            "color": "#d4897d",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#e9967a",
+            "closest_css4": "#e9967a"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

@@ -1,0 +1,261 @@
+{
+    "id": "18803587",
+    "tms:id": "182067",
+    "accession_number": "1984-95-1",
+    "title": "Textile (Japan), 1980",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18803587\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "140101",
+    "type_id": "35251739",
+    "date": "1980",
+    "year_start": 1980,
+    "year_end": 1980,
+    "year_acquired": "1984",
+    "decade": "1980",
+    "woe:country_id": "23424856",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": "Japanese writing at one end makes two identifications: fabric was dyed by Mr. Komiya, \"the dyeing method is known in Japan as 'Edo Komon'.",
+    "provenance": null,
+    "dimensions": "H x W: 1097.3 x 35.6 cm (36 ft. x 14 in. approx)",
+    "dimensions_raw": {
+        "height": [
+            "1097.28",
+            "centimeters"
+        ],
+        "width": [
+            "35.56",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Length of fabric with a dyed red ground and white resisted design of small lozenges made up of dots.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424856",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46402_48a56ca88170c87f_b.jpg",
+                "width": 583,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "46402"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46402_48a56ca88170c87f_z.jpg",
+                "width": 364,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "46402"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46402_48a56ca88170c87f_n.jpg",
+                "width": 182,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "46402"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46402_48a56ca88170c87f_d.gif",
+                "width": 182,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "46402"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46402_48a56ca88170c87f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "46402"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/126182_69e30edcf38762dd_b.jpg",
+                "width": 467,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "126182"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/126182_69e30edcf38762dd_z.jpg",
+                "width": 292,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "126182"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/126182_69e30edcf38762dd_n.jpg",
+                "width": 146,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "126182"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/126182_69e30edcf38762dd_d.gif",
+                "width": 146,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "126182"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/126182_69e30edcf38762dd_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "126182"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77620_0b87038a0af1f5e2_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "77620"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77620_0b87038a0af1f5e2_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "77620"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77620_0b87038a0af1f5e2_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77620"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77620_0b87038a0af1f5e2_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77620"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77620_0b87038a0af1f5e2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77620"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77621_5c90d112701e4fcd_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "77621"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77621_5c90d112701e4fcd_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "77621"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77621_5c90d112701e4fcd_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "77621"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77621_5c90d112701e4fcd_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "77621"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77621_5c90d112701e4fcd_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77621"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46403_722bf802cdcabeed_b.jpg",
+                "width": 242,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "46403"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46403_722bf802cdcabeed_z.jpg",
+                "width": 151,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "46403"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46403_722bf802cdcabeed_n.jpg",
+                "width": 76,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "46403"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46403_722bf802cdcabeed_d.gif",
+                "width": 76,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "46403"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46403_722bf802cdcabeed_sq.jpg",
+                "width": 242,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "46403"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "35459815",
+            "role_id": "35236747",
+            "person_name": "Yasutaka Komiya",
+            "person_date": "Japanese (b. 1925)",
+            "role_name": "Dyer",
+            "role_display_name": "Dyed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/35459815\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236747\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile (Japan), 1980. 1984-95-1."
+    },
+    "colors": [
+        {
+            "color": "#88504f",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#cdbcc0",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        }
+    ],
+    "woe:country_name": "Japan",
+    "is_loan_object": 0
+}

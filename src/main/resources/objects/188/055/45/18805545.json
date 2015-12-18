@@ -1,0 +1,174 @@
+{
+    "id": "18805545",
+    "tms:id": "183066",
+    "accession_number": "1985-65-9",
+    "title": "Napkin, Fish, ca. 1954",
+    "title_raw": "Fish",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805545\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35414465",
+    "type_id": "35256421",
+    "date": "ca. 1954",
+    "year_start": 1949,
+    "year_end": 1959,
+    "year_acquired": "1985",
+    "decade": "1940",
+    "woe:country_id": "23424909",
+    "medium": "linen",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 48.9 \u00d7 51.4 cm (19 1\/4 \u00d7 20 1\/4 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "48.90",
+            "centimeters"
+        ],
+        "weft": [
+            "51.44",
+            "centimeters"
+        ]
+    },
+    "creditline": "Museum purchase from Alice Baldwin Beer Memorial Fund",
+    "description": "Square linen damask napkin with a cross-shaped pattern with sting rays in the center, interlocking dark and light seahorses forming the largest part of the design, and three interlocking fish in each corner.",
+    "justification": null,
+    "gallery_text": "Maurits Cornelius Escher is best known for his complex illusionary drawings. Escher\u2019s work, which plays with interlocking forms and the seamless use of positive and negative space, is executed here in linen damask, a technique in which two surfaces, one shiny and one matte, are literally the face and reverse of the same satin weave.  \nTrained as a graphic artist, Escher developed a deep interest in mathematics. He read numerous texts on geometry and crystallography, and developed his own concept, which he referred to as the \u201cregular division of the plane.\u201d This involved filling the entire plane with interlocking figures, which features prominently in Escher\u2019s work after 1937. In everyday use, a napkin may be folded vertically, horizontally, or diagonally, and Escher\u2019s design is fittingly symmetrical around all of those axes. The white-on-white design, entirely dependent on reflectivity to be seen, further enhances the intrigue and complexity of the visual experience.",
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "Napkin",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90248_7fe7806e2708294b_b.jpg",
+                "width": 1024,
+                "height": 977,
+                "is_primary": "1",
+                "image_id": "90248"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90248_7fe7806e2708294b_z.jpg",
+                "width": 640,
+                "height": 610,
+                "is_primary": "1",
+                "image_id": "90248"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90248_7fe7806e2708294b_n.jpg",
+                "width": 320,
+                "height": 305,
+                "is_primary": "1",
+                "image_id": "90248"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90248_7fe7806e2708294b_d.gif",
+                "width": 320,
+                "height": 305,
+                "is_primary": "1",
+                "image_id": "90248"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90248_7fe7806e2708294b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "90248"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18054_c87761a458d3c004_b.jpg",
+                "width": 978,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "18054"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18054_c87761a458d3c004_z.jpg",
+                "width": 611,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "18054"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18054_c87761a458d3c004_n.jpg",
+                "width": 306,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "18054"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18054_c87761a458d3c004_d.gif",
+                "width": 306,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "18054"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18054_c87761a458d3c004_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "18054"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18055713",
+            "role_id": "35352249",
+            "person_name": "C.A. Burgers",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055713\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "18045687",
+            "role_id": "35236657",
+            "person_name": "E.F.J. Van Dissel and Son",
+            "person_date": "Eindhoven, The Netherlands, 1880 \u2013 1971",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045687\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18055709",
+            "role_id": "35236655",
+            "person_name": "Maurits Cornelis Escher",
+            "person_date": "Dutch, 1898 - 1972",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055709\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18047497",
+            "role_id": "35352245",
+            "person_name": "Milton Sonday",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047497\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Napkin, Fish, ca. 1954. linen. Museum purchase from Alice Baldwin Beer Memorial Fund. 1985-65-9."
+    },
+    "colors": [
+        {
+            "color": "#a9a7ab",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
+}

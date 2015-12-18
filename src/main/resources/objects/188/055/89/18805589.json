@@ -1,0 +1,172 @@
+{
+    "id": "18805589",
+    "tms:id": "183088",
+    "accession_number": "1985-69-5",
+    "title": "Print, View of an Interior with a Church Visible Through the Window, 1985",
+    "title_raw": "View of an Interior with a Church Visible Through the Window",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805589\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35432313",
+    "type_id": "35236873",
+    "date": "1985",
+    "year_start": 1985,
+    "year_end": 1985,
+    "year_acquired": "1985",
+    "decade": "1980",
+    "woe:country_id": "23424853",
+    "medium": "screenprint on white wove paper",
+    "markings": null,
+    "signed": "Signed in black ink, lower right: George Sowden \/ Milano 1985 \/ 24\/99",
+    "inscribed": null,
+    "provenance": "1985: acquired by Museum",
+    "dimensions": "H x W: 71 x 50.5 cm (27 15\/16 x 19 7\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "71.00",
+            "centimeters"
+        ],
+        "width": [
+            "50.50",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Interior view of a sitting area with view through French glass doors of a church. Interior decorated in black and white patterns.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Print",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63533_f1c9d60abf036b4c_b.jpg",
+                "width": 739,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "63533"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63533_f1c9d60abf036b4c_z.jpg",
+                "width": 462,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "63533"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63533_f1c9d60abf036b4c_n.jpg",
+                "width": 231,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63533"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63533_f1c9d60abf036b4c_d.gif",
+                "width": 231,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63533"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63533_f1c9d60abf036b4c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "63533"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/196624_dc36a78b04572ed9_b.jpg",
+                "width": 750,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "196624"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/196624_dc36a78b04572ed9_z.jpg",
+                "width": 469,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "196624"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/196624_dc36a78b04572ed9_n.jpg",
+                "width": 234,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "196624"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/196624_dc36a78b04572ed9_d.gif",
+                "width": 234,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "196624"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/196624_dc36a78b04572ed9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "196624"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18045809",
+            "role_id": "35236801",
+            "person_name": "Memphis",
+            "person_date": "founded 1981",
+            "role_name": "Design Team member",
+            "role_display_name": "Design Team Member:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045809\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236801\/"
+        },
+        {
+            "person_id": "18047289",
+            "role_id": "35236565",
+            "person_name": "George J. Sowden",
+            "person_date": "",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047289\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Print, View of an Interior with a Church Visible Through the Window, 1985. screenprint on white wove paper. 1985-69-5."
+    },
+    "colors": [
+        {
+            "color": "#d8d5c9",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#8c8880",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#716d67",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#aeaaa1",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
+}

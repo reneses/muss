@@ -1,0 +1,119 @@
+{
+    "id": "18800359",
+    "tms:id": "180342",
+    "accession_number": "1983-14-6",
+    "title": "Pattern For Embroidery, Napoleon\" and \"Josephine, early 20th century",
+    "title_raw": "Napoleon\" and \"Josephine",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800359\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "136269483",
+    "type_id": "35293565",
+    "date": "early 20th century",
+    "year_start": 1901,
+    "year_end": 1925,
+    "year_acquired": "1983",
+    "decade": "1900",
+    "woe:country_id": "23424977",
+    "medium": "linen,  (how identified: by eye)",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "9 1\/2 inches (24 cm) by 19 1\/4 inches (49cm)",
+    "dimensions_raw": {
+        "height": [
+            "24.00",
+            "centimeters"
+        ],
+        "width": [
+            "49.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Mr. and Mrs. Robert Mertz",
+    "description": "Printed pattern for Cut Fabric embroidery. Design is of two medallions; one of Napoleon, the other of Josephine.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "pattern for embroidery",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77389_344d5e8ceb7744b2_b.jpg",
+                "width": 1024,
+                "height": 612,
+                "is_primary": "1",
+                "image_id": "77389"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77389_344d5e8ceb7744b2_z.jpg",
+                "width": 640,
+                "height": 382,
+                "is_primary": "1",
+                "image_id": "77389"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77389_344d5e8ceb7744b2_n.jpg",
+                "width": 320,
+                "height": 191,
+                "is_primary": "1",
+                "image_id": "77389"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77389_344d5e8ceb7744b2_d.gif",
+                "width": 320,
+                "height": 191,
+                "is_primary": "1",
+                "image_id": "77389"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77389_344d5e8ceb7744b2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "77389"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18047459",
+            "role_id": "35352245",
+            "person_name": "Gillian Moss",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Pattern For Embroidery, Napoleon\" and \"Josephine, early 20th century. linen,  (how identified: by eye). Gift of Mr. and Mrs. Robert Mertz. 1983-14-6."
+    },
+    "colors": [
+        {
+            "color": "#979f94",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#6b6e64",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#40413c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

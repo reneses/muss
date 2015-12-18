@@ -1,0 +1,182 @@
+{
+    "id": "35460691",
+    "tms:id": "274795",
+    "accession_number": "14.2012.67",
+    "title": "Pickett N1010-ES Trig Duplex Demonstration Slide Rule (USA), ca. 1960",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35460691\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "68250215",
+    "type_id": "68250217",
+    "date": "ca. 1960",
+    "year_start": 1955,
+    "year_end": 1965,
+    "year_acquired": null,
+    "decade": "1950",
+    "woe:country_id": "23424977",
+    "medium": "plywood, plexiglass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 33 x 213.4 x 3.2 cm (13 x 84 x 1 1\/4 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "3.18",
+            "centimeters"
+        ],
+        "height": [
+            "33.02",
+            "centimeters"
+        ],
+        "width": [
+            "213.36",
+            "centimeters"
+        ]
+    },
+    "creditline": "Smithsonian Institution, National Museum of American History, 2010.3095.071",
+    "description": null,
+    "justification": null,
+    "gallery_text": "This Demonstration Slide Rule was used in the physics class of an Ohio high school. Fully 2.13 m (7 ft.) long, it\u2019s a scaled-up replica of the Pickett N1010-ES Trig, ubiquitous among high-school and college students for use in math and science. Slide rules were used for multiplication and division as well as roots, logarithms and trigonometry. The Pickett Company provided these instruments to any school that ordered at least twenty-four standard-size rules, allowing teachers to show how the real device functioned. Slide rules came into wide use around 1950, when new machinable aluminum alloys made it possible to manufacture high-precision devices that were compact, lightweight, and durable. But by the mid- 1970s, the powerful, low-cost electronic calculator took direct aim at the slide-rule industry, and by 1980 most slide rule suppliers had left the business.",
+    "label_text": "An abacus, a calculator, and a slide rule answer the question HOW MUCH? by means of very different techniques. The construction\nof some of our greatest modern buildings was calculated using slide rules. For surveying complex sites and surfaces, 3D laser scanners achieve such high precision that the interior of an entire building can be represented in minute detail.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Pickett N1010-ES Trig Duplex Demonstration Slide Rule",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84710_7d57146c932c8f63_b.jpg",
+                "width": 1024,
+                "height": 318,
+                "is_primary": "1",
+                "image_id": "84710"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84710_7d57146c932c8f63_z.jpg",
+                "width": 640,
+                "height": 199,
+                "is_primary": "1",
+                "image_id": "84710"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84710_7d57146c932c8f63_n.jpg",
+                "width": 320,
+                "height": 99,
+                "is_primary": "1",
+                "image_id": "84710"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84710_7d57146c932c8f63_d.gif",
+                "width": 320,
+                "height": 99,
+                "is_primary": "1",
+                "image_id": "84710"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84710_7d57146c932c8f63_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "84710"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113654_7d57146c932c8f63_b.jpg",
+                "width": 1024,
+                "height": 319,
+                "is_primary": "0",
+                "image_id": "113654"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113654_7d57146c932c8f63_z.jpg",
+                "width": 640,
+                "height": 199,
+                "is_primary": "0",
+                "image_id": "113654"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113654_7d57146c932c8f63_n.jpg",
+                "width": 320,
+                "height": 100,
+                "is_primary": "0",
+                "image_id": "113654"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113654_7d57146c932c8f63_d.gif",
+                "width": 320,
+                "height": 100,
+                "is_primary": "0",
+                "image_id": "113654"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113654_7d57146c932c8f63_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113654"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68248079",
+            "role_id": "35236657",
+            "person_name": "Pickett Industries",
+            "person_date": "(Santa Barbara, California, USA)",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248079\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18041125",
+            "role_id": "51571131",
+            "person_name": "National Museum of American History",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041125\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Pickett N1010-ES Trig Duplex Demonstration Slide Rule (USA), ca. 1960. plywood, plexiglass. Smithsonian Institution, National Museum of American History, 2010.3095.071. 14.2012.67."
+    },
+    "colors": [
+        {
+            "color": "#ead45f",
+            "closest_crayola": "#f8d568",
+            "closest_css3": "#f0e68c",
+            "closest_css4": "#f0e68c"
+        },
+        {
+            "color": "#b0a45b",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#8f7d48",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#4d4731",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#dad2a9",
+            "closest_crayola": "#edd19c",
+            "closest_css3": "#eee8aa",
+            "closest_css4": "#eee8aa"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

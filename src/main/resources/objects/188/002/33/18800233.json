@@ -1,0 +1,205 @@
+{
+    "id": "18800233",
+    "tms:id": "180279",
+    "accession_number": "1982-79-2",
+    "title": "Handkerchief, Thank You, 1950\u201355",
+    "title_raw": "Thank You",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800233\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35264069",
+    "date": "1950\u201355",
+    "year_start": 1950,
+    "year_end": 1955,
+    "year_acquired": "1982",
+    "decade": "1950",
+    "woe:country_id": "23424977",
+    "medium": "cotton",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Tammis Keefe",
+    "provenance": null,
+    "dimensions": "H x W: 33 x 34.9 cm (13 x 13 3\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "33.02",
+            "centimeters"
+        ],
+        "width": [
+            "34.93",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Daren Pierce",
+    "description": "Small square handkerchief with four ovans of swirling line, each with \"Thank you\" in a different typescript. With two roses in the center. In black, green, pink and white on a blue ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Handkerchief",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/60168_b79d93198f24720e_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "60168"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/60168_b79d93198f24720e_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "60168"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/60168_b79d93198f24720e_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "60168"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/60168_b79d93198f24720e_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "60168"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/60168_b79d93198f24720e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "60168"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/220985_f5b598c547d906dd_b.jpg",
+                "width": 1024,
+                "height": 950,
+                "is_primary": "0",
+                "image_id": "220985"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/220985_f5b598c547d906dd_z.jpg",
+                "width": 640,
+                "height": 593,
+                "is_primary": "0",
+                "image_id": "220985"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/220985_f5b598c547d906dd_n.jpg",
+                "width": 320,
+                "height": 297,
+                "is_primary": "0",
+                "image_id": "220985"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/220985_f5b598c547d906dd_d.gif",
+                "width": 320,
+                "height": 297,
+                "is_primary": "0",
+                "image_id": "220985"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/220985_f5b598c547d906dd_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "220985"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77365_e7c473df1770924a_b.jpg",
+                "width": 1024,
+                "height": 946,
+                "is_primary": "0",
+                "image_id": "77365"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77365_e7c473df1770924a_z.jpg",
+                "width": 640,
+                "height": 591,
+                "is_primary": "0",
+                "image_id": "77365"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77365_e7c473df1770924a_n.jpg",
+                "width": 320,
+                "height": 296,
+                "is_primary": "0",
+                "image_id": "77365"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77365_e7c473df1770924a_d.gif",
+                "width": 320,
+                "height": 296,
+                "is_primary": "0",
+                "image_id": "77365"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77365_e7c473df1770924a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77365"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18064311",
+            "role_id": "35236655",
+            "person_name": "Tammis Keefe",
+            "person_date": "American, 1913 - 1960",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18064311\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Handkerchief, Thank You, 1950\u201355. cotton. Gift of Daren Pierce. 1982-79-2."
+    },
+    "colors": [
+        {
+            "color": "#6972a6",
+            "closest_crayola": "#7366bd",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        },
+        {
+            "color": "#999db3",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#282833",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#ac7a6c",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#a08f96",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

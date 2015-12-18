@@ -1,0 +1,112 @@
+{
+    "id": "18804509",
+    "tms:id": "182539",
+    "accession_number": "1985-14-17",
+    "title": "Drawing, Decoration for teacup design with grapes, 1880\u20131910",
+    "title_raw": "Decoration for teacup design with grapes",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18804509\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "68266191",
+    "type_id": "35237093",
+    "date": "1880\u20131910",
+    "year_start": null,
+    "year_end": 1910,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424856",
+    "medium": "brush and watercolor, gold gouache, graphite on cream paper",
+    "markings": "Stamp in dark blue and teal ink, upper margin: BB \/ 642; in black ink: 871 \/ 889 \/ 918",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "29.3 x 15.4 cm (11 1\/2 x 6 1\/16 in.)\nMat: 35.7 x 45.8 cm (14 1\/16 x 18 1\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "35.70",
+            "centimeters"
+        ],
+        "width": [
+            "45.80",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Teacup design with lid unfinished (in graphite), gold rim top and bottom; purple grapes, green and orange leaves, gold tendril; pointed handle.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424856",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/128908_dc8d3a2c04e675d2_b.jpg",
+                "width": 567,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "128908"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/128908_dc8d3a2c04e675d2_z.jpg",
+                "width": 354,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "128908"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/128908_dc8d3a2c04e675d2_n.jpg",
+                "width": 177,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "128908"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/128908_dc8d3a2c04e675d2_d.gif",
+                "width": 177,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "128908"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/128908_dc8d3a2c04e675d2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "128908"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18044209",
+            "role_id": "35236675",
+            "person_name": "Noritake",
+            "person_date": "",
+            "role_name": "For",
+            "role_display_name": "Made for",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044209\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236675\/"
+        },
+        {
+            "person_id": "18057835",
+            "role_id": "35351535",
+            "person_name": "Roger Selchow",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18057835\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Decoration for teacup design with grapes, 1880\u20131910. brush and watercolor, gold gouache, graphite on cream paper. 1985-14-17."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "Japan",
+    "is_loan_object": 0
+}

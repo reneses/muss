@@ -1,0 +1,198 @@
+{
+    "id": "18804987",
+    "tms:id": "182778",
+    "accession_number": "1985-23-1",
+    "title": "Hanging, Mesa, 1982",
+    "title_raw": "Mesa",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18804987\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35414465",
+    "type_id": "35257233",
+    "date": "1982",
+    "year_start": 1982,
+    "year_end": 1982,
+    "year_acquired": "1985",
+    "decade": "1980",
+    "woe:country_id": "23424977",
+    "medium": "linen",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1985: acquired by Museum",
+    "dimensions": "H x W: 40.6 x 22.9 cm (16 x 9 in.)",
+    "dimensions_raw": {
+        "height": [
+            "40.64",
+            "centimeters"
+        ],
+        "width": [
+            "22.86",
+            "centimeters"
+        ]
+    },
+    "creditline": "This acquisition was made possible through the Louis Comfort Tiffany Foundation",
+    "description": "Hanging, stepped at the upper edge, patterned with small geometric forms in black, and with long multicolor fringe shaped into a curve at the bottom. Muted colors ranging from blues and greens to yellow and red, with black.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Hanging",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10277_3443236e9f3b85f0_b.jpg",
+                "width": 603,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "10277"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10277_3443236e9f3b85f0_z.jpg",
+                "width": 377,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "10277"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10277_3443236e9f3b85f0_n.jpg",
+                "width": 188,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "10277"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10277_3443236e9f3b85f0_d.gif",
+                "width": 188,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "10277"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10277_3443236e9f3b85f0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "10277"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/195161_32001757970b085b_b.jpg",
+                "width": 599,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "195161"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/195161_32001757970b085b_z.jpg",
+                "width": 374,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "195161"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/195161_32001757970b085b_n.jpg",
+                "width": 187,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "195161"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/195161_32001757970b085b_d.gif",
+                "width": 187,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "195161"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/195161_32001757970b085b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "195161"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18538489",
+            "role_id": "35351535",
+            "person_name": "Louis Comfort Tiffany Foundation",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538489\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048467",
+            "role_id": "35352249",
+            "person_name": "Helen Drutt Gallery",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048467\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "18047497",
+            "role_id": "35352245",
+            "person_name": "Milton Sonday",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047497\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18045633",
+            "role_id": "35236655",
+            "person_name": "Diane Itter",
+            "person_date": "1946\u20131989",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045633\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Hanging, Mesa, 1982. linen. This acquisition was made possible through the Louis Comfort Tiffany Foundation. 1985-23-1."
+    },
+    "colors": [
+        {
+            "color": "#201a25",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#875938",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#6e4f4f",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#483336",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#b4a0a2",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

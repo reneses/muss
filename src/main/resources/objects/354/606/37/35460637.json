@@ -1,0 +1,192 @@
+{
+    "id": "35460637",
+    "tms:id": "274781",
+    "accession_number": "14.2012.53",
+    "title": "Prototype For Pocket Watch (USA), ca. 1850",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35460637\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "68724269",
+    "type_id": "35460635",
+    "date": "ca. 1850",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": null,
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "18k gold case, brass movement, white enamel dial",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 7.9 \u00d7 7.5 \u00d7 1.6 cm (3 1\/8 \u00d7 2 15\/16 \u00d7 5\/8 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "1.59",
+            "centimeters"
+        ],
+        "height": [
+            "7.94",
+            "centimeters"
+        ],
+        "width": [
+            "7.46",
+            "centimeters"
+        ]
+    },
+    "creditline": "Smithsonian Institution, National Museum of American History, 334625",
+    "description": null,
+    "justification": null,
+    "gallery_text": "The early nineteenth century appetite for expensive Swiss and English watches in the United States was huge. American watchmaking finally took off in 1850 when the American Waltham Watch Company developed the world\u2019s first low-cost machine-made timepieces. The Waltham watch movement could be assembled from interchangeable parts made on specialized machines. The highly organized, factory-based work system hastened production and cut costs. This atypically large-faced Waltham prototype, made by Vermont watchmaker Oliver Marsh, has a white enamel dial indicating minutes around the rim with four smaller dials displaying the hour, second, day and date. A simpler timepiece that ran on one mainspring was ultimately produced. Though similar to English watches of the time, American watches required fewer parts and cost half as much. After the firm found success with Union soldiers during the Civil War, international watchmakers were forced to adapt to the mechanized American system, representing a seismic shift in the industry.",
+    "label_text": "By the nineteenth century, affordable timepieces became available to a growing American middle class because they could be factory made. More than tools to keep time, pocket watches served as status symbols and fashion accessories, and achieved unexpected success during the Civil War, when they became a fad among Union soldiers.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Prototype for pocket watch",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93475_35864f98101cb9e0_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "93475"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93475_35864f98101cb9e0_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "93475"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93475_35864f98101cb9e0_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93475"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93475_35864f98101cb9e0_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93475"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93475_35864f98101cb9e0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93475"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113647_35864f98101cb9e0_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113647"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113647_35864f98101cb9e0_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113647"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113647_35864f98101cb9e0_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113647"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113647_35864f98101cb9e0_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113647"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113647_35864f98101cb9e0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113647"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68739551",
+            "role_id": "35236681",
+            "person_name": "American Waltham Watch Company",
+            "person_date": "(Waltham, Massachusetts, USA)",
+            "role_name": "Company",
+            "role_display_name": "Company:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68739551\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236681\/"
+        },
+        {
+            "person_id": "51676873",
+            "role_id": "35236685",
+            "person_name": "Oliver Marsh",
+            "person_date": "(American, 1824-1894)",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676873\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18041125",
+            "role_id": "51571131",
+            "person_name": "National Museum of American History",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041125\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Prototype For Pocket Watch (USA), ca. 1850. 18k gold case, brass movement, white enamel dial. Smithsonian Institution, National Museum of American History, 334625. 14.2012.53."
+    },
+    "colors": [
+        {
+            "color": "#cec29f",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#f6e3a3",
+            "closest_crayola": "#fae7b5",
+            "closest_css3": "#eee8aa",
+            "closest_css4": "#eee8aa"
+        },
+        {
+            "color": "#e7c042",
+            "closest_crayola": "#ffcf48",
+            "closest_css3": "#f4a460",
+            "closest_css4": "#f4a460"
+        },
+        {
+            "color": "#996e24",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#ca9a2f",
+            "closest_crayola": "#d68a59",
+            "closest_css3": "#daa520",
+            "closest_css4": "#daa520"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

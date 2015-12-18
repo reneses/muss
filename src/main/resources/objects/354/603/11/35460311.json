@@ -1,0 +1,196 @@
+{
+    "id": "35460311",
+    "tms:id": "274659",
+    "accession_number": "14.2012.44",
+    "title": "Edison Lamp, 1880",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35460311\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "68250189",
+    "type_id": "35460309",
+    "date": "1880",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": null,
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "bamboo, glass, wood, brass, plaster, platinum, cork",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 17.8 \u00d7 6 cm (7 in. \u00d7 2 3\/8 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "6.03",
+            "centimeters"
+        ],
+        "height": [
+            "17.78",
+            "centimeters"
+        ]
+    },
+    "creditline": "Smithsonian Institution, National Museum of American History, Cat. 310579.01",
+    "description": null,
+    "justification": null,
+    "gallery_text": "In 1880, Thomas Edison and his team began selling their newly invented electrical lighting system, which incorporated lamps like this example. An electrical current heated a filament of baked bamboo, thereby making the filament glow, or \"incandesce.\" These early Edison lamps provided the same amount of light as gas lamps but they glowed steadily, rather than flickering, and gave off no fumes. With no open flame, incandescent lamps could be used where candles or gas lamps would be dangerous, such as mines and textile factories. They also invited flexibility in lighting design, since they could be installed without regard to fuel flow or flame path. Simple in construction, Edison\u2019s lamps lasted about 650 hours and, unlike gas lamps, could be lit and turned off with the flick of a switch. The new lighting provided a practical and, ultimately, inexpensive way to extend the day, for work and play.",
+    "label_text": "Nineteenth-century patent models served a variety of purposes, from demonstrating design and function, to inspiring inventors, to understanding what was possible. Similarly with these examples of twenty-first-century technology that make portraits, print tools, or translate hand gestures into form and mass\u2014they are statements about and visual wonders of our digital age.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Edison lamp",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93478_e7bfb2f2bfd39951_b.jpg",
+                "width": 589,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "93478"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93478_e7bfb2f2bfd39951_z.jpg",
+                "width": 368,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "93478"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93478_e7bfb2f2bfd39951_n.jpg",
+                "width": 184,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93478"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93478_e7bfb2f2bfd39951_d.gif",
+                "width": 184,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93478"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93478_e7bfb2f2bfd39951_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93478"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113642_08370afe039568b9_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113642"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113642_08370afe039568b9_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113642"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113642_08370afe039568b9_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113642"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113642_08370afe039568b9_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113642"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113642_08370afe039568b9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113642"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113643_e7bfb2f2bfd39951_b.jpg",
+                "width": 589,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113643"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113643_e7bfb2f2bfd39951_z.jpg",
+                "width": 368,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113643"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113643_e7bfb2f2bfd39951_n.jpg",
+                "width": 184,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113643"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113643_e7bfb2f2bfd39951_d.gif",
+                "width": 184,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113643"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113643_e7bfb2f2bfd39951_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113643"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68248159",
+            "role_id": "35236685",
+            "person_name": "Thomas Alva Edison",
+            "person_date": "(American, 1847-1931)",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248159\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18041125",
+            "role_id": "51571131",
+            "person_name": "National Museum of American History",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041125\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Edison Lamp, 1880. bamboo, glass, wood, brass, plaster, platinum, cork. Smithsonian Institution, National Museum of American History, Cat. 310579.01. 14.2012.44."
+    },
+    "colors": [
+        {
+            "color": "#362e27",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#93877d",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "is_loan_object": 1
+}

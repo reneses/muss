@@ -1,0 +1,289 @@
+{
+    "id": "18803511",
+    "tms:id": "182029",
+    "accession_number": "1984-90-3-a,b",
+    "title": "Teapot And Lid (Japan), ca. 1930",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18803511\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35414521",
+    "type_id": "35293525",
+    "date": "ca. 1930",
+    "year_start": 1920,
+    "year_end": 1940,
+    "year_acquired": "1984",
+    "decade": "1920",
+    "woe:country_id": "23424856",
+    "medium": "glazed earthenware",
+    "markings": "On base on (a): impressed \"X\"; in script in black: \"made in \/ Japan\"",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1984: acquired by Museum (from Whiteley Gallery)",
+    "dimensions": "H x W x D: 16.1 x 17 cm (6 5\/16 x 6 11\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "16.10",
+            "centimeters"
+        ],
+        "width": [
+            "17.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Museum purchase from Decorative Arts Association Acquisition Fund",
+    "description": "Green abstracted geometric teapot and cover with blue and orange abstract painted accents.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424856",
+    "type": "Teapot and lid",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108207_880377591aed1606_b.jpg",
+                "width": 1024,
+                "height": 886,
+                "is_primary": "1",
+                "image_id": "108207"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108207_880377591aed1606_z.jpg",
+                "width": 640,
+                "height": 554,
+                "is_primary": "1",
+                "image_id": "108207"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108207_880377591aed1606_n.jpg",
+                "width": 320,
+                "height": 277,
+                "is_primary": "1",
+                "image_id": "108207"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108207_880377591aed1606_d.gif",
+                "width": 320,
+                "height": 277,
+                "is_primary": "1",
+                "image_id": "108207"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108207_880377591aed1606_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "108207"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50931_c788028accf0ed7a_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "50931"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50931_c788028accf0ed7a_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "50931"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50931_c788028accf0ed7a_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "50931"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50931_c788028accf0ed7a_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "50931"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50931_c788028accf0ed7a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "50931"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50932_628bc2185c76b130_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "50932"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50932_628bc2185c76b130_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "50932"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50932_628bc2185c76b130_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "50932"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50932_628bc2185c76b130_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "50932"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50932_628bc2185c76b130_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "50932"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21767_a0fd906ac9c479d9_b.jpg",
+                "width": 519,
+                "height": 471,
+                "is_primary": "0",
+                "image_id": "21767"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21767_a0fd906ac9c479d9_z.jpg",
+                "width": 519,
+                "height": 471,
+                "is_primary": "0",
+                "image_id": "21767"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21767_a0fd906ac9c479d9_n.jpg",
+                "width": 320,
+                "height": 290,
+                "is_primary": "0",
+                "image_id": "21767"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21767_a0fd906ac9c479d9_d.gif",
+                "width": 320,
+                "height": 290,
+                "is_primary": "0",
+                "image_id": "21767"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21767_a0fd906ac9c479d9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "21767"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17603_f86a02a3210f46a5_b.jpg",
+                "width": 1024,
+                "height": 765,
+                "is_primary": "0",
+                "image_id": "17603"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17603_f86a02a3210f46a5_z.jpg",
+                "width": 640,
+                "height": 478,
+                "is_primary": "0",
+                "image_id": "17603"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17603_f86a02a3210f46a5_n.jpg",
+                "width": 320,
+                "height": 239,
+                "is_primary": "0",
+                "image_id": "17603"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17603_f86a02a3210f46a5_d.gif",
+                "width": 320,
+                "height": 239,
+                "is_primary": "0",
+                "image_id": "17603"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17603_f86a02a3210f46a5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "17603"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18049365",
+            "role_id": "35352247",
+            "person_name": "Decorative Arts Association Acquisition Fund",
+            "person_date": "founded 1982, closed September 30, 1998",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        },
+        {
+            "person_id": "51676825",
+            "role_id": "35352249",
+            "person_name": "Whiteley Gallery",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676825\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Teapot And Lid (Japan), ca. 1930. glazed earthenware. Museum purchase from Decorative Arts Association Acquisition Fund. 1984-90-3-a,b."
+    },
+    "colors": [
+        {
+            "color": "#8bb271",
+            "closest_crayola": "#87a96b",
+            "closest_css3": "#8fbc8f",
+            "closest_css4": "#8fbc8f"
+        },
+        {
+            "color": "#67894f",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#3d4340",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#72664e",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#b9cba8",
+            "closest_crayola": "#a8e4a0",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        }
+    ],
+    "woe:country_name": "Japan",
+    "is_loan_object": 0
+}

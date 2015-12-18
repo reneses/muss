@@ -1,0 +1,83 @@
+{
+    "id": "18802523",
+    "tms:id": "181447",
+    "accession_number": "1984-15-9",
+    "title": "Drawing,embroidery Design",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18802523\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35293645",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Andrea Jeffries",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "drawing,embroidery design",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/193632_3e9e31e8e12878b4_b.jpg",
+                "width": 767,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "193632"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/193632_3e9e31e8e12878b4_z.jpg",
+                "width": 479,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "193632"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/193632_3e9e31e8e12878b4_n.jpg",
+                "width": 240,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "193632"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/193632_3e9e31e8e12878b4_d.gif",
+                "width": 240,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "193632"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/193632_3e9e31e8e12878b4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "193632"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Drawing,embroidery Design. Gift of Andrea Jeffries. 1984-15-9."
+    },
+    "colors": [
+
+    ],
+    "is_loan_object": 0
+}

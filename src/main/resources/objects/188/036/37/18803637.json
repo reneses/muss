@@ -1,0 +1,166 @@
+{
+    "id": "18803637",
+    "tms:id": "182095",
+    "accession_number": "1985-103-100-a",
+    "title": "Case (possibly Poland), ca. 1700",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18803637\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402889",
+    "type_id": "35268321",
+    "date": "ca. 1700",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424923",
+    "medium": "silver, wood",
+    "markings": null,
+    "signed": null,
+    "inscribed": "On side: AGAOUA TOUMANF OW 1700",
+    "provenance": "Robert L. Metzenberg",
+    "dimensions": "L x W: 16.8 x 2.7 cm (6 5\/8 x 1 1\/16 in.)",
+    "dimensions_raw": {
+        "length": [
+            "16.80",
+            "centimeters"
+        ],
+        "width": [
+            "2.70",
+            "centimeters"
+        ]
+    },
+    "creditline": "The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg",
+    "description": "Wooden sheath, oval in section, covered with silver, engraved with a floral pattern. Inscription on one side of sheath, a locket on the back.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424923",
+    "type": "Case",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118569_903c7273a35150a9_b.jpg",
+                "width": 701,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "118569"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118569_903c7273a35150a9_z.jpg",
+                "width": 438,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "118569"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118569_903c7273a35150a9_n.jpg",
+                "width": 219,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118569"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118569_903c7273a35150a9_d.gif",
+                "width": 219,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118569"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118569_903c7273a35150a9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "118569"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19011_a4c3a290ca75f1b8_b.jpg",
+                "width": 803,
+                "height": 939,
+                "is_primary": "0",
+                "image_id": "19011"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19011_a4c3a290ca75f1b8_z.jpg",
+                "width": 547,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "19011"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19011_a4c3a290ca75f1b8_n.jpg",
+                "width": 274,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19011"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19011_a4c3a290ca75f1b8_d.gif",
+                "width": 274,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19011"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19011_a4c3a290ca75f1b8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "19011"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18048365",
+            "role_id": "35352245",
+            "person_name": "S. Wilmering",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18535985",
+            "role_id": "35351535",
+            "person_name": "Eleanor L. Metzenberg",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Case (possibly Poland), ca. 1700. silver, wood. The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg. 1985-103-100-a."
+    },
+    "colors": [
+        {
+            "color": "#aaa198",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#7b716a",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#625650",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "Poland",
+    "is_loan_object": 0
+}

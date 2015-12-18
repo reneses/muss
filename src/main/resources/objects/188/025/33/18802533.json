@@ -1,0 +1,213 @@
+{
+    "id": "18802533",
+    "tms:id": "181452",
+    "accession_number": "1984-2-1",
+    "title": "Textile, Neon Dreams, 1980",
+    "title_raw": "Neon Dreams",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18802533\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1980",
+    "year_start": 1980,
+    "year_end": 1980,
+    "year_acquired": "1984",
+    "decade": "1980",
+    "woe:country_id": "23424977",
+    "medium": "cotton",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 349 x 140 cm (11 ft. 5 3\/8 in. x 55 1\/8 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "349.00",
+            "centimeters"
+        ],
+        "weft": [
+            "140.00",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Background of rainbow stripes in stipple dots, with vertical streaks of stippled yellow, red and blue superimposed",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/156668_a2ed3ac6e89f023b_b.jpg",
+                "width": 1024,
+                "height": 965,
+                "is_primary": "1",
+                "image_id": "156668"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/156668_a2ed3ac6e89f023b_z.jpg",
+                "width": 640,
+                "height": 603,
+                "is_primary": "1",
+                "image_id": "156668"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/156668_a2ed3ac6e89f023b_n.jpg",
+                "width": 320,
+                "height": 302,
+                "is_primary": "1",
+                "image_id": "156668"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/156668_a2ed3ac6e89f023b_d.gif",
+                "width": 320,
+                "height": 302,
+                "is_primary": "1",
+                "image_id": "156668"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/156668_a2ed3ac6e89f023b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "156668"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77587_7f06b5b24ba8b9ab_b.jpg",
+                "width": 635,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "77587"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77587_7f06b5b24ba8b9ab_z.jpg",
+                "width": 397,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "77587"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77587_7f06b5b24ba8b9ab_n.jpg",
+                "width": 198,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77587"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77587_7f06b5b24ba8b9ab_d.gif",
+                "width": 198,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77587"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77587_7f06b5b24ba8b9ab_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77587"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77588_ed07811523447c48_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "77588"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77588_ed07811523447c48_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "77588"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77588_ed07811523447c48_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "77588"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77588_ed07811523447c48_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "77588"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77588_ed07811523447c48_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77588"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18048019",
+            "role_id": "35352245",
+            "person_name": "lm",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048019\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18045515",
+            "role_id": "35236681",
+            "person_name": "Zoo-Ink",
+            "person_date": "1971",
+            "role_name": "Company",
+            "role_display_name": "Company:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045515\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236681\/"
+        },
+        {
+            "person_id": "18045513",
+            "role_id": "35236655",
+            "person_name": "Alan Grinberg",
+            "person_date": "American, b. 1949",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045513\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile, Neon Dreams, 1980. cotton. 1984-2-1."
+    },
+    "colors": [
+        {
+            "color": "#ad928e",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#c9af99",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#bdcec2",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

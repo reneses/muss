@@ -1,0 +1,121 @@
+{
+    "id": "18803521",
+    "tms:id": "182034",
+    "accession_number": "1984-91-1-1",
+    "title": "Drawing (USA)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18803521\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35237093",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Hellmuth and Hellgah Dieken",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/200869_3257396d407aa2a3_b.jpg",
+                "width": 1024,
+                "height": 1009,
+                "is_primary": "1",
+                "image_id": "200869"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/200869_3257396d407aa2a3_z.jpg",
+                "width": 640,
+                "height": 630,
+                "is_primary": "1",
+                "image_id": "200869"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/200869_3257396d407aa2a3_n.jpg",
+                "width": 320,
+                "height": 315,
+                "is_primary": "1",
+                "image_id": "200869"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/200869_3257396d407aa2a3_d.gif",
+                "width": 320,
+                "height": 315,
+                "is_primary": "1",
+                "image_id": "200869"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/200869_3257396d407aa2a3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "200869"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/201019_ee03de5965a3b120_b.jpg",
+                "width": 1024,
+                "height": 723,
+                "is_primary": "0",
+                "image_id": "201019"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/201019_ee03de5965a3b120_z.jpg",
+                "width": 640,
+                "height": 452,
+                "is_primary": "0",
+                "image_id": "201019"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/201019_ee03de5965a3b120_n.jpg",
+                "width": 320,
+                "height": 226,
+                "is_primary": "0",
+                "image_id": "201019"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/201019_ee03de5965a3b120_d.gif",
+                "width": 320,
+                "height": 226,
+                "is_primary": "0",
+                "image_id": "201019"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/201019_ee03de5965a3b120_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "201019"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Drawing (USA). Gift of Hellmuth and Hellgah Dieken. 1984-91-1-1."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

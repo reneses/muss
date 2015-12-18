@@ -1,0 +1,139 @@
+{
+    "id": "18800235",
+    "tms:id": "180280",
+    "accession_number": "1982-79-3",
+    "title": "Handkerchief (USA), 1950\u201355",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800235\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35264069",
+    "date": "1950\u201355",
+    "year_start": 1950,
+    "year_end": 1955,
+    "year_acquired": "1982",
+    "decade": "1950",
+    "woe:country_id": "23424977",
+    "medium": "cotton",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Tammis Keefe",
+    "provenance": null,
+    "dimensions": "H x W: 37.5 x 38.4 cm (14 3\/4 x 15 1\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "37.47",
+            "centimeters"
+        ],
+        "width": [
+            "38.42",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Daren Pierce",
+    "description": "Oak leaf, butterflies and birds, printed in black, blue, green and red. Border with a brick pattern.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Handkerchief",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/220748_de6ccf203ec5d25a_b.jpg",
+                "width": 1024,
+                "height": 959,
+                "is_primary": "1",
+                "image_id": "220748"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/220748_de6ccf203ec5d25a_z.jpg",
+                "width": 640,
+                "height": 599,
+                "is_primary": "1",
+                "image_id": "220748"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/220748_de6ccf203ec5d25a_n.jpg",
+                "width": 320,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "220748"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/220748_de6ccf203ec5d25a_d.gif",
+                "width": 320,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "220748"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/220748_de6ccf203ec5d25a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "220748"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77366_9411b4f4bef8521c_b.jpg",
+                "width": 1024,
+                "height": 819,
+                "is_primary": "0",
+                "image_id": "77366"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77366_9411b4f4bef8521c_z.jpg",
+                "width": 640,
+                "height": 512,
+                "is_primary": "0",
+                "image_id": "77366"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77366_9411b4f4bef8521c_n.jpg",
+                "width": 320,
+                "height": 256,
+                "is_primary": "0",
+                "image_id": "77366"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77366_9411b4f4bef8521c_d.gif",
+                "width": 320,
+                "height": 256,
+                "is_primary": "0",
+                "image_id": "77366"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77366_9411b4f4bef8521c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77366"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18064311",
+            "role_id": "35236655",
+            "person_name": "Tammis Keefe",
+            "person_date": "American, 1913 - 1960",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18064311\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Handkerchief (USA), 1950\u201355. cotton. Gift of Daren Pierce. 1982-79-3."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

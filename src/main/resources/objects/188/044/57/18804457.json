@@ -1,0 +1,149 @@
+{
+    "id": "18804457",
+    "tms:id": "182513",
+    "accession_number": "1985-113-1",
+    "title": "Textile (France)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18804457\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "140347",
+    "type_id": "35251739",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 31 x 31 cm (12 3\/16 x 12 3\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "31.00",
+            "centimeters"
+        ],
+        "weft": [
+            "31.00",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Curving stripes of large blossoms on a linear zigzag background.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/215598_c6e4147c12cfecac_b.jpg",
+                "width": 1024,
+                "height": 1008,
+                "is_primary": "1",
+                "image_id": "215598"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/215598_c6e4147c12cfecac_z.jpg",
+                "width": 640,
+                "height": 630,
+                "is_primary": "1",
+                "image_id": "215598"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/215598_c6e4147c12cfecac_n.jpg",
+                "width": 320,
+                "height": 315,
+                "is_primary": "1",
+                "image_id": "215598"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/215598_c6e4147c12cfecac_d.gif",
+                "width": 320,
+                "height": 315,
+                "is_primary": "1",
+                "image_id": "215598"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/215598_c6e4147c12cfecac_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "215598"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77627_c7299b4c7cedd8ff_b.jpg",
+                "width": 930,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "77627"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77627_c7299b4c7cedd8ff_z.jpg",
+                "width": 581,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "77627"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77627_c7299b4c7cedd8ff_n.jpg",
+                "width": 291,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77627"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77627_c7299b4c7cedd8ff_d.gif",
+                "width": 291,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77627"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77627_c7299b4c7cedd8ff_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77627"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18041197",
+            "role_id": "35351535",
+            "person_name": "Cora Ginsburg",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041197\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18047459",
+            "role_id": "35352245",
+            "person_name": "Gillian Moss",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile (France). 1985-113-1."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

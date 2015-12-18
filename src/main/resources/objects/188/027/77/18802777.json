@@ -1,0 +1,92 @@
+{
+    "id": "18802777",
+    "tms:id": "181576",
+    "accession_number": "1984-74-2",
+    "title": "Print Of Shadow Puppet",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18802777\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35293667",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Frank D. Haines",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "print of shadow puppet",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/210436_f37e56f629640058_b.jpg",
+                "width": 819,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "210436"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/210436_f37e56f629640058_z.jpg",
+                "width": 512,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "210436"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/210436_f37e56f629640058_n.jpg",
+                "width": 256,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "210436"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/210436_f37e56f629640058_d.gif",
+                "width": 256,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "210436"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/210436_f37e56f629640058_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "210436"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18059565",
+            "role_id": "35351535",
+            "person_name": "Mr. Frank D. Haines",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18059565\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Print Of Shadow Puppet. Gift of Frank D. Haines. 1984-74-2."
+    },
+    "colors": [
+
+    ],
+    "is_loan_object": 0
+}

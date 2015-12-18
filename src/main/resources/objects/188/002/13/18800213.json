@@ -1,0 +1,211 @@
+{
+    "id": "18800213",
+    "tms:id": "180269",
+    "accession_number": "1982-78-2",
+    "title": "Table Cover (Belgium), 20th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800213\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35255171",
+    "date": "20th century",
+    "year_start": 1901,
+    "year_end": 2000,
+    "year_acquired": "1982",
+    "decade": "1900",
+    "woe:country_id": "23424757",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": {
+        "diameter": [
+            "96.00",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Circular table cover with various male and female figures in the border.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424757",
+    "type": "Table cover",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/162706_1c35861bb0256a16_b.jpg",
+                "width": 1024,
+                "height": 1006,
+                "is_primary": "1",
+                "image_id": "162706"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/162706_1c35861bb0256a16_z.jpg",
+                "width": 640,
+                "height": 628,
+                "is_primary": "1",
+                "image_id": "162706"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/162706_1c35861bb0256a16_n.jpg",
+                "width": 320,
+                "height": 314,
+                "is_primary": "1",
+                "image_id": "162706"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/162706_1c35861bb0256a16_d.gif",
+                "width": 320,
+                "height": 314,
+                "is_primary": "1",
+                "image_id": "162706"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/162706_1c35861bb0256a16_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "162706"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77356_bff316f3d2f0f382_b.jpg",
+                "width": 961,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "77356"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77356_bff316f3d2f0f382_z.jpg",
+                "width": 600,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "77356"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77356_bff316f3d2f0f382_n.jpg",
+                "width": 300,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77356"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77356_bff316f3d2f0f382_d.gif",
+                "width": 300,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77356"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77356_bff316f3d2f0f382_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77356"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77357_46bf9770331f70f5_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "77357"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77357_46bf9770331f70f5_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "77357"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77357_46bf9770331f70f5_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "77357"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77357_46bf9770331f70f5_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "77357"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77357_46bf9770331f70f5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77357"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77358_f9b217e7025c9a64_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "77358"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77358_f9b217e7025c9a64_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "77358"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77358_f9b217e7025c9a64_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77358"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77358_f9b217e7025c9a64_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77358"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77358_f9b217e7025c9a64_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77358"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Table Cover (Belgium), 20th century. 1982-78-2."
+    },
+    "colors": [
+        {
+            "color": "#d1d0be",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#8c897f",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "Belgium",
+    "is_loan_object": 0
+}

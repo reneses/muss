@@ -1,0 +1,84 @@
+{
+    "id": "18805557",
+    "tms:id": "183072",
+    "accession_number": "1985-68-11-a\/f",
+    "title": "Skeins Of Yarn (USA), ca. 1910",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805557\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35293793",
+    "date": "ca. 1910",
+    "year_start": null,
+    "year_end": 1920,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Margery B. Howe",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Skeins of yarn",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/193672_f932cc58f5ddf53f_b.jpg",
+                "width": 1024,
+                "height": 712,
+                "is_primary": "1",
+                "image_id": "193672"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/193672_f932cc58f5ddf53f_z.jpg",
+                "width": 640,
+                "height": 445,
+                "is_primary": "1",
+                "image_id": "193672"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/193672_f932cc58f5ddf53f_n.jpg",
+                "width": 320,
+                "height": 223,
+                "is_primary": "1",
+                "image_id": "193672"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/193672_f932cc58f5ddf53f_d.gif",
+                "width": 320,
+                "height": 223,
+                "is_primary": "1",
+                "image_id": "193672"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/193672_f932cc58f5ddf53f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "193672"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Skeins Of Yarn (USA), ca. 1910. Gift of Margery B. Howe. 1985-68-11-a\/f."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

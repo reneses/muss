@@ -1,0 +1,115 @@
+{
+    "id": "18802381",
+    "tms:id": "181367",
+    "accession_number": "1984-132-17-a,b",
+    "title": "Stand",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18802381\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35376521",
+    "type_id": "35259695",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "stone, carved",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam. (a): 11.4 x 12.5 cm (4 1\/2 x 4 15\/16 in.)\nH x diam. (b): 3.6 x 12.8 cm (1 7\/16 x 5 1\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "12.80",
+            "centimeters"
+        ],
+        "height": [
+            "3.60",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Stand",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180430_6f5ce2d394bc24d0_b.jpg",
+                "width": 1024,
+                "height": 1001,
+                "is_primary": "1",
+                "image_id": "180430"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180430_6f5ce2d394bc24d0_z.jpg",
+                "width": 640,
+                "height": 625,
+                "is_primary": "1",
+                "image_id": "180430"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180430_6f5ce2d394bc24d0_n.jpg",
+                "width": 320,
+                "height": 313,
+                "is_primary": "1",
+                "image_id": "180430"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180430_6f5ce2d394bc24d0_d.gif",
+                "width": 320,
+                "height": 313,
+                "is_primary": "1",
+                "image_id": "180430"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180430_6f5ce2d394bc24d0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "180430"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Stand. stone, carved. 1984-132-17-a,b."
+    },
+    "colors": [
+        {
+            "color": "#c0bd90",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#eaeac1",
+            "closest_crayola": "#eceabe",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
+        },
+        {
+            "color": "#767369",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#3a342b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "is_loan_object": 0
+}

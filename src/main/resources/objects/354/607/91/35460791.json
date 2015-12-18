@@ -1,0 +1,178 @@
+{
+    "id": "35460791",
+    "tms:id": "274834",
+    "accession_number": "2014-39-2",
+    "title": "Temple of Vesta, Tivoli Architectural Model, 1810\u201330",
+    "title_raw": "Temple of Vesta, Tivoli",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35460791\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "68743139",
+    "type_id": "35238913",
+    "date": "1810\u201330",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "2014",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "pressed, carved, and cut cork with wood base",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "2014, Acquired by Cooper Hewitt, Smithsonian Design Museum from Eugene V. Thaw and Clare E. Thaw, purchased Mallett's, London, ca 2010.",
+    "dimensions": "H x diam.: 16 x 16 cm (6 5\/16 x 6 5\/16 in.) including base",
+    "dimensions_raw": {
+        "diameter": [
+            "16.00",
+            "centimeters"
+        ],
+        "height": [
+            "16.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Eugene V. and Clare E. Thaw",
+    "description": "depicting the temple in its semi-ruined state as visible in the 18th and early nineteenth centuries, showing the circular section building with columns ringing a central core, supporting an upper moulding",
+    "justification": null,
+    "gallery_text": "This cork model reflects a period of renewed interest in classical design, from about 1770 to 1830, that made these models collectibles of the Grand Tour. It features meticulous workmanship and an exacting sense of proportion faithful to the original temple ruin. Often made by architects to supplement their income, these models use the color and irregular surface of cork to replicate ancient stone.",
+    "label_text": "This cork model reflects a period of renewed interest in classical design, from about 1770 to 1830, that made these models collectibles of the Grand Tour. It features meticulous workmanship and an exacting sense of proportion faithful to the original temple ruin. Often made by architects to supplement their income, these models use the color and irregular surface of cork to replicate ancient stone.",
+    "videos": null,
+    "on_display": "1",
+    "woe:country": "23424853",
+    "type": "architectural model",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94009_d31c1120213182fb_b.jpg",
+                "width": 781,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "94009"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94009_d31c1120213182fb_z.jpg",
+                "width": 488,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "94009"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94009_d31c1120213182fb_n.jpg",
+                "width": 244,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "94009"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94009_d31c1120213182fb_d.gif",
+                "width": 244,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "94009"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94009_d31c1120213182fb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "94009"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94008_b2a04f7eb234bf70_b.jpg",
+                "width": 719,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "94008"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94008_b2a04f7eb234bf70_z.jpg",
+                "width": 449,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "94008"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94008_b2a04f7eb234bf70_n.jpg",
+                "width": 225,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "94008"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94008_b2a04f7eb234bf70_d.gif",
+                "width": 225,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "94008"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94008_b2a04f7eb234bf70_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "94008"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18060137",
+            "role_id": "35351535",
+            "person_name": "Clare E. Thaw",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18060137\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "68736639",
+            "role_id": "35351535",
+            "person_name": "Eugene V. Thaw",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68736639\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Temple of Vesta, Tivoli Architectural Model, 1810\u201330. pressed, carved, and cut cork with wood base. Gift of Eugene V. and Clare E. Thaw. 2014-39-2."
+    },
+    "colors": [
+        {
+            "color": "#564f49",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#c29366",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#856144",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#312e2b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#e5bc89",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#deb887",
+            "closest_css4": "#deb887"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
+}

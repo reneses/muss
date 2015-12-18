@@ -1,0 +1,166 @@
+{
+    "id": "18803713",
+    "tms:id": "182134",
+    "accession_number": "1985-103-128",
+    "title": "Knife (Netherlands), ca. 1700\u201320",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18803713\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35419969",
+    "type_id": "35248783",
+    "date": "ca. 1700\u201320",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424909",
+    "medium": "agate, silver, steel",
+    "markings": "On blade: unidentified cutlers' mark",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "L x W: 20.9 x 1.9 cm (8 1\/4 x 3\/4 in.)",
+    "dimensions_raw": {
+        "length": [
+            "20.90",
+            "centimeters"
+        ],
+        "width": [
+            "1.90",
+            "centimeters"
+        ]
+    },
+    "creditline": "The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg",
+    "description": "Sabre-shaped blade with curved upper edge. Plain bolster, silver engraved ferrule with scalloped border. Flaring, faceted agate handle, silver conical mount on top.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "knife",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118667_c1643b987f99e70c_b.jpg",
+                "width": 550,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "118667"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118667_c1643b987f99e70c_z.jpg",
+                "width": 344,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "118667"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118667_c1643b987f99e70c_n.jpg",
+                "width": 172,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118667"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118667_c1643b987f99e70c_d.gif",
+                "width": 172,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118667"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118667_c1643b987f99e70c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "118667"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19070_a9c3a01e17171c49_b.jpg",
+                "width": 1024,
+                "height": 317,
+                "is_primary": "0",
+                "image_id": "19070"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19070_a9c3a01e17171c49_z.jpg",
+                "width": 640,
+                "height": 198,
+                "is_primary": "0",
+                "image_id": "19070"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19070_a9c3a01e17171c49_n.jpg",
+                "width": 320,
+                "height": 99,
+                "is_primary": "0",
+                "image_id": "19070"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19070_a9c3a01e17171c49_d.gif",
+                "width": 320,
+                "height": 99,
+                "is_primary": "0",
+                "image_id": "19070"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19070_a9c3a01e17171c49_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "19070"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18535985",
+            "role_id": "35351535",
+            "person_name": "Eleanor L. Metzenberg",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048365",
+            "role_id": "35352245",
+            "person_name": "S. Wilmering",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Knife (Netherlands), ca. 1700\u201320. agate, silver, steel. The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg. 1985-103-128."
+    },
+    "colors": [
+        {
+            "color": "#827875",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#9b938b",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#6e5b5c",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
+}

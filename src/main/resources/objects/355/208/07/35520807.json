@@ -1,0 +1,166 @@
+{
+    "id": "35520807",
+    "tms:id": "275057",
+    "accession_number": "2013-33-3",
+    "title": "Drawing, Design for Chair, ca. 1981",
+    "title_raw": "Design for Chair",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35520807\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35520797",
+    "type_id": "35237093",
+    "date": "ca. 1981",
+    "year_start": 1976,
+    "year_end": 1986,
+    "year_acquired": "2013",
+    "decade": "1970",
+    "woe:country_id": "23424977",
+    "medium": "brown marking pen on cream paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "(approx.): 11.5 x 16 cm (4 1\/2 x 6 5\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "11.50",
+            "centimeters"
+        ],
+        "width": [
+            "16.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Forrest Myers",
+    "description": "Design for pie-shaped chair.",
+    "justification": "This is one of 18 drawings by the artist Forrest Myers proposed for acquisition. The drawings are divided into two groups: nine designs for tables and nine for chairs. Myers, primarily a sculptor of anodized wire pieces, has long been interested in the connection between sculpture and furniture. This interest led him to create the Tendu stool (1964), which leans to one side. His designs for the Cut Out chair and Fold chair led to his first solo exhibition, held at the Art et Industrie Gallery in New York City in 1981. \nThe 18 drawings under consideration for acquisition most likely date from this time due to their similarity to the tables and chairs that were shown in the 1981 exhibition. Each of the nine sketches for chairs shows a concept made from a single piece of folded aluminum, a technique that eliminates the soldering of separate elements. The nine concepts for tables represent different ideas for round, rectangular, and oval tables with various aluminum formed bases.\nThis group of drawings would be a welcome addition to the museum\u2019s collection of drawings by 20th- and 21st-century designers, which is an area of collection priority.",
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/161768_e323feb35935c872_b.jpg",
+                "width": 1024,
+                "height": 679,
+                "is_primary": "1",
+                "image_id": "161768"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/161768_e323feb35935c872_z.jpg",
+                "width": 640,
+                "height": 424,
+                "is_primary": "1",
+                "image_id": "161768"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/161768_e323feb35935c872_n.jpg",
+                "width": 320,
+                "height": 212,
+                "is_primary": "1",
+                "image_id": "161768"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/161768_e323feb35935c872_d.gif",
+                "width": 320,
+                "height": 212,
+                "is_primary": "1",
+                "image_id": "161768"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/161768_e323feb35935c872_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "161768"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91541_56b366f508a3ca52_b.jpg",
+                "width": 1024,
+                "height": 846,
+                "is_primary": "0",
+                "image_id": "91541"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91541_56b366f508a3ca52_z.jpg",
+                "width": 640,
+                "height": 528,
+                "is_primary": "0",
+                "image_id": "91541"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91541_56b366f508a3ca52_n.jpg",
+                "width": 320,
+                "height": 264,
+                "is_primary": "0",
+                "image_id": "91541"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91541_56b366f508a3ca52_d.gif",
+                "width": 320,
+                "height": 264,
+                "is_primary": "0",
+                "image_id": "91541"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91541_56b366f508a3ca52_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "91541"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "35518601",
+            "role_id": "35351535",
+            "person_name": "Forrest Myers",
+            "person_date": "American, b. 1941",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/35518601\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "35518601",
+            "role_id": "35236655",
+            "person_name": "Forrest Myers",
+            "person_date": "American, b. 1941",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/35518601\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Design for Chair, ca. 1981. brown marking pen on cream paper. Gift of Forrest Myers. 2013-33-3."
+    },
+    "colors": [
+        {
+            "color": "#f2ecd5",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#faebd7",
+            "closest_css4": "#faebd7"
+        },
+        {
+            "color": "#b19785",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#d1bca4",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

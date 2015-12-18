@@ -1,0 +1,123 @@
+{
+    "id": "18803913",
+    "tms:id": "182234",
+    "accession_number": "1985-103-204",
+    "title": "Knife (England), 1775\u20131800",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18803913\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35393073",
+    "type_id": "35248783",
+    "date": "1775\u20131800",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "porcelain, steel, silver",
+    "markings": "On the blade: BCVCH",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Robert L. Metzenberg",
+    "dimensions": "L x W: 21 x 2.3 cm (8 1\/4 x 7\/8 in.)",
+    "dimensions_raw": {
+        "length": [
+            "21.00",
+            "centimeters"
+        ],
+        "width": [
+            "2.30",
+            "centimeters"
+        ]
+    },
+    "creditline": "The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg",
+    "description": "Sabre-shaped blade, plain bolster. silver ferrule with scalloped edge. Pistol-shaped white porcelain handle, decorated in relief with floral sprays and a parrot's head at the top of the handle.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "knife",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118451_093b376cbc58ffc5_b.jpg",
+                "width": 596,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "118451"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118451_093b376cbc58ffc5_z.jpg",
+                "width": 373,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "118451"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118451_093b376cbc58ffc5_n.jpg",
+                "width": 186,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118451"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118451_093b376cbc58ffc5_d.gif",
+                "width": 186,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118451"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118451_093b376cbc58ffc5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "118451"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18535985",
+            "role_id": "35351535",
+            "person_name": "Eleanor L. Metzenberg",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048365",
+            "role_id": "35352245",
+            "person_name": "S. Wilmering",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Knife (England), 1775\u20131800. porcelain, steel, silver. The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg. 1985-103-204."
+    },
+    "colors": [
+        {
+            "color": "#999089",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#776b61",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
+}

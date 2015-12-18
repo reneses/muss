@@ -1,0 +1,218 @@
+{
+    "id": "18800137",
+    "tms:id": "180231",
+    "accession_number": "1982-61-4-a,b",
+    "title": "Carafe With Stopper",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800137\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35293543",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1982",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "30.1 x 16.5 x 11.6 cm (11 7\/8 x 6 1\/2 x 4 9\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "11.60",
+            "centimeters"
+        ],
+        "height": [
+            "30.10",
+            "centimeters"
+        ],
+        "width": [
+            "16.50",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Carafe with stopper",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94066_78335d83eb8e6d93_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "94066"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94066_78335d83eb8e6d93_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "94066"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94066_78335d83eb8e6d93_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "94066"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94066_78335d83eb8e6d93_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "94066"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94066_78335d83eb8e6d93_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "94066"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/162374_30c12701fa55e0b1_b.jpg",
+                "width": 657,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "162374"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/162374_30c12701fa55e0b1_z.jpg",
+                "width": 410,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "162374"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/162374_30c12701fa55e0b1_n.jpg",
+                "width": 205,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "162374"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/162374_30c12701fa55e0b1_d.gif",
+                "width": 205,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "162374"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/162374_30c12701fa55e0b1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "162374"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16124_797a0812dcf81598_b.jpg",
+                "width": 601,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "16124"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16124_797a0812dcf81598_z.jpg",
+                "width": 376,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "16124"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16124_797a0812dcf81598_n.jpg",
+                "width": 188,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "16124"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16124_797a0812dcf81598_d.gif",
+                "width": 188,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "16124"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16124_797a0812dcf81598_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "16124"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18044549",
+            "role_id": "35236657",
+            "person_name": "A\/S Stelton",
+            "person_date": "founded 1960",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044549\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18049401",
+            "role_id": "35236655",
+            "person_name": "Erik Magnussen",
+            "person_date": "Danish, b. 1940",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049401\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Carafe With Stopper. 1982-61-4-a,b."
+    },
+    "colors": [
+        {
+            "color": "#a1021e",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#b22222",
+            "closest_css4": "#b22222"
+        },
+        {
+            "color": "#bb564f",
+            "closest_crayola": "#bf4f51",
+            "closest_css3": "#cd5c5c",
+            "closest_css4": "#cd5c5c"
+        },
+        {
+            "color": "#dbd1cf",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#b08580",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#512025",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#800000",
+            "closest_css4": "#800000"
+        }
+    ],
+    "is_loan_object": 0
+}

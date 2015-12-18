@@ -1,0 +1,186 @@
+{
+    "id": "18804989",
+    "tms:id": "182779",
+    "accession_number": "1985-24-1",
+    "title": "Primordial Bowl Vessel, ca. 1984",
+    "title_raw": "Primordial Bowl",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18804989\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35249811",
+    "date": "ca. 1984",
+    "year_start": 1979,
+    "year_end": 1989,
+    "year_acquired": "1985",
+    "decade": "1970",
+    "woe:country_id": "23424977",
+    "medium": "glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1985: acquired by Museum (from Habatat Galleries)",
+    "dimensions": "H x W x D: 7.6 x 31.8 x 26.7 cm (3 x 12 1\/2 x 10 1\/2 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "26.70",
+            "centimeters"
+        ],
+        "height": [
+            "7.60",
+            "centimeters"
+        ],
+        "width": [
+            "31.75",
+            "centimeters"
+        ]
+    },
+    "creditline": "This acquisition was made possible through the Louis Comfort Tiffany Foundation",
+    "description": "Glass disc-like bowl composed of ribs resembling a fan belt with a hole in the center, in black and brown.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "vessel",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/27300_227fe2593137cb1b_b.jpg",
+                "width": 1024,
+                "height": 680,
+                "is_primary": "1",
+                "image_id": "27300"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/27300_227fe2593137cb1b_z.jpg",
+                "width": 640,
+                "height": 425,
+                "is_primary": "1",
+                "image_id": "27300"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/27300_227fe2593137cb1b_n.jpg",
+                "width": 320,
+                "height": 213,
+                "is_primary": "1",
+                "image_id": "27300"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/27300_227fe2593137cb1b_d.gif",
+                "width": 320,
+                "height": 213,
+                "is_primary": "1",
+                "image_id": "27300"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/27300_227fe2593137cb1b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "27300"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113490_81be54af555e29c1_b.jpg",
+                "width": 1024,
+                "height": 576,
+                "is_primary": "0",
+                "image_id": "113490"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113490_81be54af555e29c1_z.jpg",
+                "width": 640,
+                "height": 360,
+                "is_primary": "0",
+                "image_id": "113490"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113490_81be54af555e29c1_n.jpg",
+                "width": 320,
+                "height": 180,
+                "is_primary": "0",
+                "image_id": "113490"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113490_81be54af555e29c1_d.gif",
+                "width": 320,
+                "height": 180,
+                "is_primary": "0",
+                "image_id": "113490"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113490_81be54af555e29c1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113490"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18538489",
+            "role_id": "35352247",
+            "person_name": "Louis Comfort Tiffany Foundation",
+            "person_date": "",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538489\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        },
+        {
+            "person_id": "18043797",
+            "role_id": "35352249",
+            "person_name": "Habatat Galleries",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043797\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "18044729",
+            "role_id": "35236685",
+            "person_name": "William Lequier",
+            "person_date": "b. 1953",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044729\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Primordial Bowl Vessel, ca. 1984. glass. This acquisition was made possible through the Louis Comfort Tiffany Foundation. 1985-24-1."
+    },
+    "colors": [
+        {
+            "color": "#8d462d",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#3d292b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#8e736a",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#67504b",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

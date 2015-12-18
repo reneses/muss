@@ -1,0 +1,209 @@
+{
+    "id": "35460655",
+    "tms:id": "274785",
+    "accession_number": "14.2012.57",
+    "title": "Radio Compass Loop Antenna Housing (USA), ca. 1940",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35460655\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "68515357",
+    "type_id": "68515363",
+    "date": "ca. 1940",
+    "year_start": 1935,
+    "year_end": 1945,
+    "year_acquired": null,
+    "decade": "1930",
+    "woe:country_id": "23424977",
+    "medium": "rag-filled bakelite, metal",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 35 x 23 x 67 cm (13 3\/4 x 9 1\/16 x 26 3\/8 in.); from Reg. office\nL x Diam.: 26 in. x 9 in. \nStreamline housing with mount bracket",
+    "dimensions_raw": {
+        "depth": [
+            "67.00",
+            "centimeters"
+        ],
+        "height": [
+            "35.00",
+            "centimeters"
+        ],
+        "width": [
+            "23.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Smithsonian Institution, National Museum of American History, 1977.0368.65",
+    "description": null,
+    "justification": null,
+    "gallery_text": "This radio-antenna used for navigation was found on the exterior of most airplanes during World War II. Earlier radio-direction-finder antennas from the 1920s and \u201830s, consisting of wire coils over a circular form, imparted substantial aerodynamic drag; metal housings were not ideal because they disrupted signal reception. This so-called \"football,\" made of Bakelite, the first totally synthetic plastic, became the answer to the problem. Bakelite was lightweight, transparent to radio waves, resistant to heat, cold, water, as well as most acids, and was a superb electrical insulator, all critical for aviation design. Created by Belgian chemist Leo H. Baekeland in 1907, Bakelite was used in airplane parts as early as World War I. It was a powered resinous material that could be molded into any shape and could not be melted or remolded. This radio-antenna housing is molded from cloth-filled Bakelite, which provides strength and increases its moldability.",
+    "label_text": "Radio loop antennas were navigation devices mounted on most World War II aircraft. To reduce aerodynamic drag (wind resistance), the antennas were encased in streamlined forms made of Bakelite, the first entirely synthetic plastic. Bakelite is lightweight; heat-, cold-, and water-resistant; and transparent to radio waves, making it the ideal material for the purpose.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Radio Compass Loop Antenna Housing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93474_0e83e964039f289a_b.jpg",
+                "width": 1024,
+                "height": 724,
+                "is_primary": "1",
+                "image_id": "93474"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93474_0e83e964039f289a_z.jpg",
+                "width": 640,
+                "height": 453,
+                "is_primary": "1",
+                "image_id": "93474"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93474_0e83e964039f289a_n.jpg",
+                "width": 320,
+                "height": 226,
+                "is_primary": "1",
+                "image_id": "93474"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93474_0e83e964039f289a_d.gif",
+                "width": 320,
+                "height": 226,
+                "is_primary": "1",
+                "image_id": "93474"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93474_0e83e964039f289a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93474"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113650_0e83e964039f289a_b.jpg",
+                "width": 1024,
+                "height": 724,
+                "is_primary": "0",
+                "image_id": "113650"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113650_0e83e964039f289a_z.jpg",
+                "width": 640,
+                "height": 453,
+                "is_primary": "0",
+                "image_id": "113650"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113650_0e83e964039f289a_n.jpg",
+                "width": 320,
+                "height": 226,
+                "is_primary": "0",
+                "image_id": "113650"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113650_0e83e964039f289a_d.gif",
+                "width": 320,
+                "height": 226,
+                "is_primary": "0",
+                "image_id": "113650"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113650_0e83e964039f289a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113650"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113649_dded4d54486cc66c_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113649"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113649_dded4d54486cc66c_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113649"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113649_dded4d54486cc66c_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113649"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113649_dded4d54486cc66c_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113649"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113649_dded4d54486cc66c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113649"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18041125",
+            "role_id": "51571131",
+            "person_name": "National Museum of American History",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041125\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Radio Compass Loop Antenna Housing (USA), ca. 1940. rag-filled bakelite, metal. Smithsonian Institution, National Museum of American History, 1977.0368.65. 14.2012.57."
+    },
+    "colors": [
+        {
+            "color": "#53423a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#22110b",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#785f53",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#626e76",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#9aa7af",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

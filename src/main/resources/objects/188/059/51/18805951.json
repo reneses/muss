@@ -1,0 +1,178 @@
+{
+    "id": "18805951",
+    "tms:id": "183276",
+    "accession_number": "1986-100-4",
+    "title": "Shell Spoon, 1985",
+    "title_raw": "Shell",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805951\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389463",
+    "type_id": "35249775",
+    "date": "1985",
+    "year_start": 1985,
+    "year_end": 1985,
+    "year_acquired": "1986",
+    "decade": "1980",
+    "woe:country_id": "23424977",
+    "medium": "silver",
+    "markings": "On reverse of stem: c.1985 CUMMINGS 925",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Bloomingdale's; 1986: acquired by Museum",
+    "dimensions": "L x W x D: 18.4 x 3.8 x 2.2 cm (7 1\/4 x 1 1\/2 x 7\/8 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "2.20",
+            "centimeters"
+        ],
+        "length": [
+            "18.40",
+            "centimeters"
+        ],
+        "width": [
+            "3.80",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Bloomingdale's",
+    "description": "Oval bowl, tapering stem, asymmetrical terminal with undulating, ruffled, upturned edge.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "spoon",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120231_66c33ce3534cb7c8_b.jpg",
+                "width": 636,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "120231"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120231_66c33ce3534cb7c8_z.jpg",
+                "width": 398,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "120231"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120231_66c33ce3534cb7c8_n.jpg",
+                "width": 199,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "120231"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120231_66c33ce3534cb7c8_d.gif",
+                "width": 199,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "120231"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120231_66c33ce3534cb7c8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "120231"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19174_b75d0b69058ddd02_b.jpg",
+                "width": 930,
+                "height": 836,
+                "is_primary": "0",
+                "image_id": "19174"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19174_b75d0b69058ddd02_z.jpg",
+                "width": 640,
+                "height": 575,
+                "is_primary": "0",
+                "image_id": "19174"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19174_b75d0b69058ddd02_n.jpg",
+                "width": 320,
+                "height": 288,
+                "is_primary": "0",
+                "image_id": "19174"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19174_b75d0b69058ddd02_d.gif",
+                "width": 320,
+                "height": 288,
+                "is_primary": "0",
+                "image_id": "19174"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19174_b75d0b69058ddd02_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "19174"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18043993",
+            "role_id": "35351535",
+            "person_name": "Bloomingdale's",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043993\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18043991",
+            "role_id": "35236657",
+            "person_name": "Arita Porcelain Company",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043991\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18043993",
+            "role_id": "35236659",
+            "person_name": "Bloomingdale's",
+            "person_date": "",
+            "role_name": "Distributor",
+            "role_display_name": "Distributed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043993\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236659\/"
+        },
+        {
+            "person_id": "18043989",
+            "role_id": "35236655",
+            "person_name": "Angela Cummings",
+            "person_date": "American, b. Austria 1944",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043989\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Shell Spoon, 1985. silver. Gift of Bloomingdale's. 1986-100-4."
+    },
+    "colors": [
+        {
+            "color": "#ffffff",
+            "closest_crayola": "#ffffff",
+            "closest_css3": "#ffffff",
+            "closest_css4": "#ffffff"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

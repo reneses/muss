@@ -1,0 +1,161 @@
+{
+    "id": "18805711",
+    "tms:id": "183149",
+    "accession_number": "1985-84-23",
+    "title": "Textile, Forest, 1977",
+    "title_raw": "Forest",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805711\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35421673",
+    "type_id": "35251739",
+    "date": "1977",
+    "year_start": 1977,
+    "year_end": 1977,
+    "year_acquired": "1985",
+    "decade": "1970",
+    "woe:country_id": "23424977",
+    "medium": "dacron polyester",
+    "markings": null,
+    "signed": null,
+    "inscribed": "(printed in left selvedge) Hand printed by Elenhank Designers, Inc.",
+    "provenance": null,
+    "dimensions": "H x W: 302.9 \u00d7 128 cm (9 ft. 11 1\/4 in. \u00d7 50 3\/8 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "303.00",
+            "centimeters"
+        ],
+        "weft": [
+            "128.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Henry C. and Eleanor Kluck",
+    "description": "Printed textile with a view of forest, with leafy canopy meeting at the top, trunks receding into distance in middle, and flowers in the foreground. In black, tan and white.",
+    "justification": null,
+    "gallery_text": "Henry and Eleanor Kluck, the design duo known as Elenhank, drew inspiration for Forest from the northern Indiana landscape surrounding their home. When the fabric panels were hung as curtains or wall coverings, the pattern would repeat across large expanses to envelope a space as if it was a woodland glade. This is a continuation of their mural print concept of creating large scale continuous patterns. These mural prints depicted nature both abstractly, as in Rhythm (1972) or Solar (1974), and naturalistically, as in Forest and others from the late 1970s.\nSketched in ink and gouache on translucent paper, this design was drawn in one-quarter scale and enlarged photographically. For this colorway, the background and flowers were hand screen printed in walnut brown and black. The line drawing of trees, leaves, and grass in the foreground is the white color of the fabric.",
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51134_7f6d3e0137561048_b.jpg",
+                "width": 523,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "51134"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51134_7f6d3e0137561048_z.jpg",
+                "width": 327,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "51134"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51134_7f6d3e0137561048_n.jpg",
+                "width": 163,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "51134"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51134_7f6d3e0137561048_d.gif",
+                "width": 163,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "51134"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51134_7f6d3e0137561048_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "51134"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18056499",
+            "role_id": "35351535",
+            "person_name": "Henry C. Kluck",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056499\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18056501",
+            "role_id": "35351535",
+            "person_name": "Eleanor Kluck",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056501\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18045697",
+            "role_id": "35236685",
+            "person_name": "Elenhank",
+            "person_date": "Chicago, Illinois, 1948 \u2013 1980",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045697\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18045697",
+            "role_id": "35236655",
+            "person_name": "Elenhank",
+            "person_date": "Chicago, Illinois, 1948 \u2013 1980",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045697\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile, Forest, 1977. dacron polyester. Gift of Henry C. and Eleanor Kluck. 1985-84-23."
+    },
+    "colors": [
+        {
+            "color": "#d3b290",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#b78457",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#634d38",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#eedbc6",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#ffe4c4",
+            "closest_css4": "#ffe4c4"
+        },
+        {
+            "color": "#8e6947",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

@@ -1,0 +1,243 @@
+{
+    "id": "18801031",
+    "tms:id": "180682",
+    "accession_number": "1983-78-1",
+    "title": "Textile, Cactus, 1982",
+    "title_raw": "Cactus",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801031\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1982",
+    "year_start": 1982,
+    "year_end": 1982,
+    "year_acquired": "1983",
+    "decade": "1980",
+    "woe:country_id": "23424856",
+    "medium": "cotton",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 351.5 x 96 cm (11 ft. 6 3\/8 in. x 37 13\/16 in.)\nRepeat H x W: 74.5 x 95 cm (29 5\/16 x 37 3\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "74.50",
+            "centimeters"
+        ],
+        "warp": [
+            "351.50",
+            "centimeters"
+        ],
+        "weft": [
+            "96.00",
+            "centimeters"
+        ],
+        "width": [
+            "95.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Jurgen Lehl Co., Ltd.",
+    "description": "Flowering cactuses on an orange background of digonal rows of houses.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424856",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/151991_403ea91ae55111db_b.jpg",
+                "width": 589,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "151991"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/151991_403ea91ae55111db_z.jpg",
+                "width": 368,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "151991"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/151991_403ea91ae55111db_n.jpg",
+                "width": 184,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "151991"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/151991_403ea91ae55111db_d.gif",
+                "width": 184,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "151991"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/151991_403ea91ae55111db_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "151991"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77438_76b5d43cf40c790c_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "77438"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77438_76b5d43cf40c790c_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "77438"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77438_76b5d43cf40c790c_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77438"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77438_76b5d43cf40c790c_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77438"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77438_76b5d43cf40c790c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77438"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77439_25052190a80cbddd_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "77439"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77439_25052190a80cbddd_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "77439"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77439_25052190a80cbddd_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "77439"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77439_25052190a80cbddd_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "77439"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77439_25052190a80cbddd_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77439"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18045457",
+            "role_id": "35351535",
+            "person_name": "Jurgen Lehl Co., Ltd.",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048019",
+            "role_id": "35352245",
+            "person_name": "lm",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048019\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18045457",
+            "role_id": "35236681",
+            "person_name": "Jurgen Lehl Co., Ltd.",
+            "person_date": "",
+            "role_name": "Company",
+            "role_display_name": "Company:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236681\/"
+        },
+        {
+            "person_id": "18045455",
+            "role_id": "35236655",
+            "person_name": "Jurgen Lehl",
+            "person_date": "1944-2014",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045455\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile, Cactus, 1982. cotton. Gift of Jurgen Lehl Co., Ltd.. 1983-78-1."
+    },
+    "colors": [
+        {
+            "color": "#cc986b",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#e9967a",
+            "closest_css4": "#e9967a"
+        },
+        {
+            "color": "#c56d3d",
+            "closest_crayola": "#b4674d",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#699890",
+            "closest_crayola": "#6dae81",
+            "closest_css3": "#5f9ea0",
+            "closest_css4": "#5f9ea0"
+        },
+        {
+            "color": "#7db0bc",
+            "closest_crayola": "#6699cc",
+            "closest_css3": "#66cdaa",
+            "closest_css4": "#66cdaa"
+        },
+        {
+            "color": "#76beb0",
+            "closest_crayola": "#6699cc",
+            "closest_css3": "#66cdaa",
+            "closest_css4": "#66cdaa"
+        }
+    ],
+    "woe:country_name": "Japan",
+    "is_loan_object": 0
+}

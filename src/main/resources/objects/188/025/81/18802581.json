@@ -1,0 +1,84 @@
+{
+    "id": "18802581",
+    "tms:id": "181476",
+    "accession_number": "1984-32-1",
+    "title": "Poster (France)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18802581\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35238163",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "poster",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/201576_52c0c27c0b981d7b_b.jpg",
+                "width": 751,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "201576"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/201576_52c0c27c0b981d7b_z.jpg",
+                "width": 469,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "201576"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/201576_52c0c27c0b981d7b_n.jpg",
+                "width": 235,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "201576"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/201576_52c0c27c0b981d7b_d.gif",
+                "width": 235,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "201576"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/201576_52c0c27c0b981d7b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "201576"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Poster (France). 1984-32-1."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

@@ -1,0 +1,171 @@
+{
+    "id": "35457205",
+    "tms:id": "274538",
+    "accession_number": "15.2012.3",
+    "title": "Cuneiform Clay Tablet, ca. 2000-1595 BCE",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35457205\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "68515301",
+    "type_id": "35248665",
+    "date": "ca. 2000-1595 BCE",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": null,
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "clay\/mud",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 4.1 x 3.5 x 1.3 cm (1 5\/8 x 1 3\/8 x 1\/2 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "1.27",
+            "centimeters"
+        ],
+        "height": [
+            "4.13",
+            "centimeters"
+        ],
+        "width": [
+            "3.49",
+            "centimeters"
+        ]
+    },
+    "creditline": "Department of Anthropology, National Museum of Natural History, Smithsonian Institution, A315235",
+    "description": null,
+    "justification": null,
+    "gallery_text": "Cuneiform is not a language, but a writing system\u2014one of the world\u2019s oldest\u2014that employs code symbols like the letters and syllables we use today. Everyday cuneiform (from Latin meaning \"wedge-shaped\") was invented in what is today Iraq around 3200 BCE and used until around 300 CE. With a stiff reed or wooden stylus, people inscribed characters on semihardened clay, ideal for taking impressions. Cuneiform tablets were used in business and schools, to document events and write poetry\u2014virtually everything we use writing for today. Although the purpose of this Old Babylonian tablet cannot be confirmed, it contains the personal name of Ili-bani and the place names Babylon and Isin. This suggests a typical contract, in which one person might sell barley to someone from another city. Babylon, one of the most important cities in Mesopotamia, was known mainly through the stele of King Hammurabi, one of the earliest law codes in cuneiform.",
+    "label_text": "Codes and symbols are shorthand for simple and complex information that may be understood by one person or multitudes. Patterns formed by knots, lines, colors, and 1s and 0s distill data, transmitting it through touch, sight, or hearing. Memory aid, accounting register, or calorie counter, these objects act as physical and virtual messengers of information.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "cuneiform clay tablet",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93900_56c0a4d230d1056f_b.jpg",
+                "width": 767,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "93900"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93900_56c0a4d230d1056f_z.jpg",
+                "width": 479,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "93900"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93900_56c0a4d230d1056f_n.jpg",
+                "width": 240,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93900"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93900_56c0a4d230d1056f_d.gif",
+                "width": 240,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93900"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93900_56c0a4d230d1056f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93900"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113680_56c0a4d230d1056f_b.jpg",
+                "width": 767,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113680"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113680_56c0a4d230d1056f_z.jpg",
+                "width": 479,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113680"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113680_56c0a4d230d1056f_n.jpg",
+                "width": 240,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113680"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113680_56c0a4d230d1056f_d.gif",
+                "width": 240,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113680"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113680_56c0a4d230d1056f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113680"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "51676437",
+            "role_id": "51571131",
+            "person_name": "National Museum of Natural History",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676437\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Cuneiform Clay Tablet, ca. 2000-1595 BCE. clay\/mud. Department of Anthropology, National Museum of Natural History, Smithsonian Institution, A315235. 15.2012.3."
+    },
+    "colors": [
+        {
+            "color": "#705938",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#8d7450",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#c1aa7f",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#40331e",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#e4d8b8",
+            "closest_crayola": "#efcdb8",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
+        }
+    ],
+    "is_loan_object": 1
+}

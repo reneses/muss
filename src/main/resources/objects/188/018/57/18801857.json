@@ -1,0 +1,98 @@
+{
+    "id": "18801857",
+    "tms:id": "181095",
+    "accession_number": "1984-124-24-12",
+    "title": "Print, Monthly Cabinet Makers Album: \"Lounge\", 1859",
+    "title_raw": "Monthly Cabinet Makers Album: \"Lounge\"",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801857\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35236873",
+    "date": "1859",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Print",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/138387_2da9c782444df973_b.jpg",
+                "width": 1024,
+                "height": 795,
+                "is_primary": "1",
+                "image_id": "138387"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/138387_2da9c782444df973_z.jpg",
+                "width": 640,
+                "height": 497,
+                "is_primary": "1",
+                "image_id": "138387"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/138387_2da9c782444df973_n.jpg",
+                "width": 320,
+                "height": 248,
+                "is_primary": "1",
+                "image_id": "138387"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/138387_2da9c782444df973_d.gif",
+                "width": 320,
+                "height": 248,
+                "is_primary": "1",
+                "image_id": "138387"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/138387_2da9c782444df973_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "138387"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18539371",
+            "role_id": "35236655",
+            "person_name": "M. Kimbel",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539371\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Print, Monthly Cabinet Makers Album: \"Lounge\", 1859. 1984-124-24-12."
+    },
+    "colors": [
+        {
+            "color": "#9d9992",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

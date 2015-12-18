@@ -1,0 +1,172 @@
+{
+    "id": "35460389",
+    "tms:id": "274683",
+    "accession_number": "21.2012.1",
+    "title": "Writing Toolbox (England), 1750\u201375",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35460389\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "68894373",
+    "type_id": "68515355",
+    "date": "1750\u201375",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": null,
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "enamel on copper, gilt copper, glass, wood",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 5.1 \u00d7 6.4 \u00d7 3.8 cm (2 in. \u00d7 2 1\/2 in. \u00d7 1 1\/2 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "3.81",
+            "centimeters"
+        ],
+        "height": [
+            "5.08",
+            "centimeters"
+        ],
+        "width": [
+            "6.40",
+            "centimeters"
+        ]
+    },
+    "creditline": "Smithsonian American Art Museum, Gift of John Gellatly, 1929.8.245.26",
+    "description": null,
+    "justification": null,
+    "gallery_text": "Painted enamel boxes blossomed in the eighteenth century as objects of exchange among upper-class Britons, passing from hand to hand, before coming to rest on a proper Georgian\u2019s toilette table. Despite intensive craftsmanship and skillfully wrought motifs, most commonly frolicking figures and pastoral scenes, these containers were referred to as \"trifles.\" Indeed, this box fits snugly in the palm, and, viewed closed, does nothing to disrupt the impression of frivolousness. Yet its interior is tightly packed with compartments for writing tools, including an adjustable brass quill-pen holder and two cut-glass vials with enameled lids. The scale of these\u2014each barely more than 2.5 cm (1 in.) long\u2014makes clear the gender and class of the intended author: calling cards, thank-yous, and invitations to tea; innocent (and possibly less virtuous) notes on the eve of a revolution in which the pen would play an outsize role.",
+    "label_text": "This highly decorative \u201ctrifle\u201d for a lady was designed for a letter-writing era. Its tightly packed interior includes an adjustable penholder and two cut-glass vials for ink.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Writing Toolbox",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47910_cce14ae1f76a7103_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "47910"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47910_cce14ae1f76a7103_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "47910"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47910_cce14ae1f76a7103_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "47910"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47910_cce14ae1f76a7103_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "47910"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47910_cce14ae1f76a7103_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "47910"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113726_cce14ae1f76a7103_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113726"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113726_cce14ae1f76a7103_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113726"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113726_cce14ae1f76a7103_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113726"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113726_cce14ae1f76a7103_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113726"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113726_cce14ae1f76a7103_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113726"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18538033",
+            "role_id": "51571131",
+            "person_name": "Smithsonian American Art Museum",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538033\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Writing Toolbox (England), 1750\u201375. enamel on copper, gilt copper, glass, wood. Smithsonian American Art Museum, Gift of John Gellatly, 1929.8.245.26. 21.2012.1."
+    },
+    "colors": [
+        {
+            "color": "#b29190",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#bfa552",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#dfb7ba",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d8bfd8",
+            "closest_css4": "#d8bfd8"
+        },
+        {
+            "color": "#cbbdb6",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#a78644",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 1
+}

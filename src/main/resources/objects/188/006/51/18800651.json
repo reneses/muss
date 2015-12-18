@@ -1,0 +1,121 @@
+{
+    "id": "18800651",
+    "tms:id": "180492",
+    "accession_number": "1983-46-7",
+    "title": "Vase (Sweden), 1982",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800651\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389891",
+    "type_id": "35237225",
+    "date": "1982",
+    "year_start": 1982,
+    "year_end": 1982,
+    "year_acquired": "1983",
+    "decade": "1980",
+    "woe:country_id": "23424954",
+    "medium": "porcelain",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Height: 3.8 cm (1 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "3.80",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Flat-based vase in form of compressed globe; wide curved shoulder rises to flared spiral neck with flared lips.  Glazed overall in blue, with graded color darkening toward base.  Underside with unglazed foot ring; red-brown matte smear glazed in center.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424954",
+    "type": "Vase",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111661_eb559ebeeff64f96_b.jpg",
+                "width": 1024,
+                "height": 889,
+                "is_primary": "1",
+                "image_id": "111661"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111661_eb559ebeeff64f96_z.jpg",
+                "width": 640,
+                "height": 556,
+                "is_primary": "1",
+                "image_id": "111661"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111661_eb559ebeeff64f96_n.jpg",
+                "width": 320,
+                "height": 278,
+                "is_primary": "1",
+                "image_id": "111661"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111661_eb559ebeeff64f96_d.gif",
+                "width": 320,
+                "height": 278,
+                "is_primary": "1",
+                "image_id": "111661"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111661_eb559ebeeff64f96_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "111661"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18043971",
+            "role_id": "35236657",
+            "person_name": "Wejsfelt, Sven, Gustavsberg Factory",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043971\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Vase (Sweden), 1982. porcelain. 1983-46-7."
+    },
+    "colors": [
+        {
+            "color": "#6878b3",
+            "closest_crayola": "#7366bd",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        },
+        {
+            "color": "#4f5a9c",
+            "closest_crayola": "#2e5894",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        },
+        {
+            "color": "#393d77",
+            "closest_crayola": "#58427c",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        },
+        {
+            "color": "#898fb4",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        }
+    ],
+    "woe:country_name": "Sweden",
+    "is_loan_object": 0
+}

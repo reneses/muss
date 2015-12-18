@@ -1,0 +1,169 @@
+{
+    "id": "18805697",
+    "tms:id": "183142",
+    "accession_number": "1985-84-17",
+    "title": "Textile, Wood's Edge, 1974",
+    "title_raw": "Wood's Edge",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805697\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35394271",
+    "type_id": "35251739",
+    "date": "1974",
+    "year_start": 1974,
+    "year_end": 1974,
+    "year_acquired": "1985",
+    "decade": "1970",
+    "woe:country_id": "23424977",
+    "medium": "linen, cotton",
+    "markings": null,
+    "signed": null,
+    "inscribed": "along left edge; \"WOOD'S EDGE hand print by ELENHANK DESIGNERS, INC. screens 1 2 3 4\"",
+    "provenance": null,
+    "dimensions": "Warp x Weft: 271 x 136 cm (8 ft. 10 11\/16 in. x 53 9\/16 in.)\nRepeat H x W: 59.7 x 119.4 cm (23 1\/2 x 47 in.)",
+    "dimensions_raw": {
+        "height": [
+            "59.69",
+            "centimeters"
+        ],
+        "warp": [
+            "271.00",
+            "centimeters"
+        ],
+        "weft": [
+            "136.00",
+            "centimeters"
+        ],
+        "width": [
+            "119.38",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Henry C. and Eleanor Kluck",
+    "description": "A repeating design of trees, trunks and leaves, in yellow, brown, green, and blue.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51123_764926f04294c56d_b.jpg",
+                "width": 728,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "51123"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51123_764926f04294c56d_z.jpg",
+                "width": 455,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "51123"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51123_764926f04294c56d_n.jpg",
+                "width": 228,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "51123"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51123_764926f04294c56d_d.gif",
+                "width": 228,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "51123"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51123_764926f04294c56d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "51123"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18056499",
+            "role_id": "35351535",
+            "person_name": "Henry C. Kluck",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056499\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18056501",
+            "role_id": "35351535",
+            "person_name": "Eleanor Kluck",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056501\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18045697",
+            "role_id": "35236685",
+            "person_name": "Elenhank",
+            "person_date": "Chicago, Illinois, 1948 \u2013 1980",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045697\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18045697",
+            "role_id": "35236655",
+            "person_name": "Elenhank",
+            "person_date": "Chicago, Illinois, 1948 \u2013 1980",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045697\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile, Wood's Edge, 1974. linen, cotton. Gift of Henry C. and Eleanor Kluck. 1985-84-17."
+    },
+    "colors": [
+        {
+            "color": "#eabf3b",
+            "closest_crayola": "#ffae42",
+            "closest_css3": "#daa520",
+            "closest_css4": "#daa520"
+        },
+        {
+            "color": "#b9a446",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#a27c30",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#bf752b",
+            "closest_crayola": "#c46210",
+            "closest_css3": "#d2691e",
+            "closest_css4": "#d2691e"
+        },
+        {
+            "color": "#d4dacb",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

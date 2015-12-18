@@ -1,0 +1,188 @@
+{
+    "id": "35460593",
+    "tms:id": "274766",
+    "accession_number": "2013-15-1",
+    "title": "Kimono (Japan), Taisho period, 1926\u201345",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35460593\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35463331",
+    "type_id": "35285529",
+    "date": "Taisho period, 1926\u201345",
+    "year_start": 1926,
+    "year_end": 1945,
+    "year_acquired": "2013",
+    "decade": "1920",
+    "woe:country_id": "23424856",
+    "medium": "silk, lined in cotton and rayon",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 147.3 x 123.2 cm (58 x 48 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "147.32",
+            "centimeters"
+        ],
+        "width": [
+            "123.19",
+            "centimeters"
+        ]
+    },
+    "creditline": "Museum purchase from Friends of Textiles and General Acquisitions Endowment Funds",
+    "description": "Woman's lined silk kimono with an overall abstract design of sweeping arcs of color with an uneven, hand-drawn feel. In black, green, red-orange, pink and white.",
+    "justification": "The Jazz Age flapper had a counterpart in Japan: the moga (modern girl). Industrial development during the Taish\u014d period (1912\u201326), spurred by World War I, brought women into the workplace for the first time. Economic opportunity led to rapid urbanization and a new cosmopolitan lifestyle that revolved around caf\u00e9 culture, the cinema, and the new department store. Western-style clothing and kimono intermingled in the streets of 1920s Tokyo. When this confident, newly-independent young woman wore a kimono, however, she preferred one with a bold graphic statement. \nTraditionally, kimono were custom-made from the finest silk fabrics and were handed down through generations. Nineteenth-century industrial innovation made possible the idea of a fashion kimono\u2014a ready-to-wear garment that was affordable enough to be changed with some frequency. Unlike Western fashion, the silhouette and form of the garments did not change but the fabrics became exuberant indicators of style. Motifs were dramatically enlarged and color palettes were vivid. \nOne agent of this change was the introduction of industrial spinning technology. This allowed for the production of spun silk, which was made from short lengths of fiber salvaged from damaged cocoons (reeled silk uses the continuous filament from carefully unwound cocoons). The other catalyst was the mechanization of the traditional kasuri technique, in which the warp or weft yarns are tie-dyed by hand prior to weaving. In the mechanized version, called meisen, stencils and chemical paste dyes are used to print the warp and weft yarns. The softly blurred effect of kasuri is maintained, but meisen could be produced much more quickly and cheaply. \nThis piece, with its rough, hand-drawn feel and unusual color combination, bears a strong resemblance to the work of French artist Sonia Delaunay. In both her paintings and textile designs, Delaunay explored an idea she called \u201csimultaneity\u201d\u2014the sense of movement and vibration caused by the juxtaposition of warm and cool colors. Delaunay\u2019s fashion work was not focused on clever cutting, but rather on the treatment of the body as a pattern surface. In this way, its resonance with meisen is striking. The influence of the Italian Futurists is also felt in the sweeping arcs of color and overall feeling of movement.",
+    "gallery_text": "The Jazz Age flapper had a counterpart in Japan: the moga (modern girl). Economic opportunity spurred by World War I led to rapid urbanization and a new cosmopolitan lifestyle that revolved around caf\u00e9 culture, the cinema, and the new department store. When this newly-independent young woman wore a kimono, she preferred one with a bold graphic statement. \nTraditionally, kimonos were custom-made from the finest silk fabrics and were handed down through generations. Nineteenth-century industrial innovation made possible the idea of a ready-to-wear kimono, affordable enough to be changed with some frequency. Unlike Western fashion, the silhouette did not change, but fabrics became exuberant indicators of style. Motifs were dramatically enlarged and color palettes were vivid. \nThis piece, with its rough, hand-drawn feel and unusual color combination, bears a strong resemblance to the work of French artist Sonia Delaunay. The influence of the Italian Futurists is also felt in the sweeping arcs of color and overall feeling of movement.",
+    "label_text": "The Jazz Age flapper had a counterpart in Japan: the moga (modern girl). When this confident young woman wore a kimono, she preferred one with a bold graphic statement. This piece, with its sweeping arcs of color and sense of movement, evokes the work of French artist Sonia Delaunay.",
+    "videos": null,
+    "on_display": "1",
+    "woe:country": "23424856",
+    "type": "Kimono",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61543_83d59e6bb1601f7f_b.jpg",
+                "width": 872,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "61543"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61543_83d59e6bb1601f7f_z.jpg",
+                "width": 545,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "61543"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61543_83d59e6bb1601f7f_n.jpg",
+                "width": 273,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "61543"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61543_83d59e6bb1601f7f_d.gif",
+                "width": 273,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "61543"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61543_83d59e6bb1601f7f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "61543"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61544_90adbb256a64b090_b.jpg",
+                "width": 842,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "61544"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61544_90adbb256a64b090_z.jpg",
+                "width": 526,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "61544"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61544_90adbb256a64b090_n.jpg",
+                "width": 263,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "61544"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61544_90adbb256a64b090_d.gif",
+                "width": 263,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "61544"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61544_90adbb256a64b090_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "61544"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18048535",
+            "role_id": "35352247",
+            "person_name": "General Acquisitions Endowment",
+            "person_date": "",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048535\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        },
+        {
+            "person_id": "18056963",
+            "role_id": "35352249",
+            "person_name": "John Ruddy",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056963\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "68738407",
+            "role_id": "35236655",
+            "person_name": "Unknown",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68738407\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Kimono (Japan), Taisho period, 1926\u201345. silk, lined in cotton and rayon. Museum purchase from Friends of Textiles and General Acquisitions Endowment Funds. 2013-15-1."
+    },
+    "colors": [
+        {
+            "color": "#585451",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#e5a88c",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#deb887",
+            "closest_css4": "#deb887"
+        },
+        {
+            "color": "#918e4d",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#ebd8c3",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
+        },
+        {
+            "color": "#b33228",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#a52a2a",
+            "closest_css4": "#a52a2a"
+        }
+    ],
+    "woe:country_name": "Japan",
+    "is_loan_object": 0
+}

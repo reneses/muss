@@ -1,0 +1,303 @@
+{
+    "id": "35520959",
+    "tms:id": "275091",
+    "accession_number": "9.2014.1",
+    "title": "Handaxe #5 And Blade #9, BC\u2013AD Contemporary Flint Tool Design Series, 2011",
+    "title_raw": "BC\u2013AD Contemporary Flint Tool Design Series",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35520959\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "68781157",
+    "type_id": "68743157",
+    "date": "2011",
+    "year_start": 2011,
+    "year_end": 2011,
+    "year_acquired": null,
+    "decade": "2010",
+    "woe:country_id": "23424852",
+    "medium": "flint, elastomer",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D (#5): 13 x 8 x 6 cm (5 1\/8 x 3 1\/8 x 2 3\/8 in.)\nH x W x D (#9): 4 x 4 x 1 cm (1 9\/16 x 1 9\/16 x 3\/8 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "6.00",
+            "centimeters"
+        ],
+        "height": [
+            "13.00",
+            "centimeters"
+        ],
+        "width": [
+            "8.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Courtesy of Studio AmiDov",
+    "description": null,
+    "justification": null,
+    "gallery_text": "Drach and Ganchrow reimagine man\u2019s oldest (and perhaps most popular) designed object for the 21st-century with these stone tools from the team\u2019s BC-AD series. Made from flint sourced in Israel\u2019s Negev desert, each blade is hand-knapped using a softer stone\u2014though traditionally, bone or antler could have also been used to hone the sharp blade. In a contemporary twist, these tools are then dipped in yellow latex, pointing to the designated \u2018hand-contact\u2019 area and recalling objects from a modern-day toolbox, including electric drills and plier grips. Other objects in the series include stone blades with custom-fitted 3D-printed handles, combining man\u2019s oldest and newest technologies into one truly unique set of tools.",
+    "label_text": "How a tool fits the hand affects the quality and quantity of work. Spacesuit gloves protect, while allowing astronauts to perform manual activity in a vacuum: steel tips help prevent finger numbness\u2014providing sensory feedback through the nail beds. The glove\u2019s sharkskin improves grip sensation like the elastomer on Studio AmiDov\u2019s flint tools or the silicon sleeve on the computer mouse.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424852",
+    "type": "Handaxe #5 and Blade #9",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89737_68bf018460324b8b_b.jpg",
+                "width": 1024,
+                "height": 516,
+                "is_primary": "1",
+                "image_id": "89737"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89737_68bf018460324b8b_z.jpg",
+                "width": 640,
+                "height": 322,
+                "is_primary": "1",
+                "image_id": "89737"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89737_68bf018460324b8b_n.jpg",
+                "width": 320,
+                "height": 161,
+                "is_primary": "1",
+                "image_id": "89737"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89737_68bf018460324b8b_d.gif",
+                "width": 320,
+                "height": 161,
+                "is_primary": "1",
+                "image_id": "89737"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89737_68bf018460324b8b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "89737"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180847_03375acc09bd9931_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "180847"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180847_03375acc09bd9931_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "180847"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180847_03375acc09bd9931_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "180847"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180847_03375acc09bd9931_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "180847"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180847_03375acc09bd9931_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "180847"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180848_c3b1ad63bc5b44e7_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "180848"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180848_c3b1ad63bc5b44e7_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "180848"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180848_c3b1ad63bc5b44e7_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "180848"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180848_c3b1ad63bc5b44e7_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "180848"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180848_c3b1ad63bc5b44e7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "180848"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113753_c3b1ad63bc5b44e7_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113753"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113753_c3b1ad63bc5b44e7_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113753"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113753_c3b1ad63bc5b44e7_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113753"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113753_c3b1ad63bc5b44e7_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113753"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113753_c3b1ad63bc5b44e7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113753"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113752_03375acc09bd9931_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113752"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113752_03375acc09bd9931_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113752"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113752_03375acc09bd9931_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113752"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113752_03375acc09bd9931_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113752"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113752_03375acc09bd9931_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113752"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68248487",
+            "role_id": "51571131",
+            "person_name": "Studio Amidov",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248487\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        },
+        {
+            "person_id": "68248481",
+            "role_id": "35236655",
+            "person_name": "Ami Drach",
+            "person_date": "Israeli, 1963\u20132012",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248481\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18058371",
+            "role_id": "35236655",
+            "person_name": "Dov Ganchrow",
+            "person_date": "Israeli, b. USA, b. 1970",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058371\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Handaxe #5 And Blade #9, BC\u2013AD Contemporary Flint Tool Design Series, 2011. flint, elastomer. Courtesy of Studio AmiDov. 9.2014.1."
+    },
+    "colors": [
+        {
+            "color": "#afa295",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#e0af01",
+            "closest_crayola": "#ffae42",
+            "closest_css3": "#ffa500",
+            "closest_css4": "#ffa500"
+        },
+        {
+            "color": "#fedd57",
+            "closest_crayola": "#f8d568",
+            "closest_css3": "#f0e68c",
+            "closest_css4": "#f0e68c"
+        },
+        {
+            "color": "#6a605b",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#887a6b",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "Israel",
+    "is_loan_object": 1
+}

@@ -1,0 +1,219 @@
+{
+    "id": "35457281",
+    "tms:id": "274572",
+    "accession_number": "16.2012.7",
+    "title": "Glove: Manned Orbiting Laboratory, MH-7 (USA), 1968",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35457281\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "68894353",
+    "type_id": "68894357",
+    "date": "1968",
+    "year_start": 1968,
+    "year_end": 1968,
+    "year_acquired": null,
+    "decade": "1960",
+    "woe:country_id": "23424977",
+    "medium": "steel, anodized aluminum, brass, nylon, ht-1 nomex\u00ae, velcro\u00ae, rubber \/ neoprene with flocked fiber coating, sharkskin, pvc",
+    "markings": "RIGHT GLOVE: Handwritten on interior velcro tab:\n008\nS (illegible) 72164 (illegible)\nD-1\nAA4-1\n\nEtched on wrist disconnect:\nAL Logo\nASSY 9156 SN-101\n9S\n\nMolded into zipper pull:\nTALON",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 29.2 x 11.4 x 12.7 cm (11 1\/2 in. x 4 1\/2 in. x 5 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "12.70",
+            "centimeters"
+        ],
+        "height": [
+            "29.20",
+            "centimeters"
+        ],
+        "width": [
+            "11.43",
+            "centimeters"
+        ]
+    },
+    "creditline": "Smithsonian National Air and Space Museum, Transferred from NASA, 1973.0860.003",
+    "description": null,
+    "justification": null,
+    "gallery_text": "Spacesuit gloves must protect astronauts\u2019 hands while also recreating tactile sensation. In a vacuum, the difference in pressure between the inside and outside of a spacesuit makes the suit rigid and difficult to move. This rigidity, while protective, renders normal manual activity even more difficult than the effect of the vacuum, because the hard fingertips of the gloves press against the wearer\u2019s nerve endings, shutting down capillaries and causing numbness. Engineers at Hamilton Standard designed these gloves in 1968 to work with spacesuits for the (MOL) program, developed by the United States air force. In this design, metal \"fingernails\" in the thumb and first two fingers press against the astronaut\u2019s own nail beds, providing direct sensory feedback. The sharkskin grip pads on the thumb, first two fingers, and palm improved grip sensation and durability with less compression of the pads of the crewmember\u2019s fingertips.",
+    "label_text": "How a tool fits the hand affects the quality and quantity of work. Spacesuit gloves protect, while allowing astronauts to perform manual activity in a vacuum: steel tips help prevent finger numbness\u2014providing sensory feedback through the nail beds. The glove\u2019s sharkskin improves grip sensation like the elastomer on Studio AmiDov\u2019s flint tools or the silicon sleeve on the computer mouse.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Glove: Manned Orbiting Laboratory, MH-7",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93331_fcd927afeed76061_b.jpg",
+                "width": 839,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "93331"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93331_fcd927afeed76061_z.jpg",
+                "width": 524,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "93331"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93331_fcd927afeed76061_n.jpg",
+                "width": 262,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93331"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93331_fcd927afeed76061_d.gif",
+                "width": 262,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93331"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93331_fcd927afeed76061_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93331"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113667_fcd927afeed76061_b.jpg",
+                "width": 839,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113667"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113667_fcd927afeed76061_z.jpg",
+                "width": 524,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113667"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113667_fcd927afeed76061_n.jpg",
+                "width": 262,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113667"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113667_fcd927afeed76061_d.gif",
+                "width": 262,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113667"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113667_fcd927afeed76061_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113667"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113706_45288ab68da903f6_b.jpg",
+                "width": 725,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113706"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113706_45288ab68da903f6_z.jpg",
+                "width": 453,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113706"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113706_45288ab68da903f6_n.jpg",
+                "width": 227,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113706"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113706_45288ab68da903f6_d.gif",
+                "width": 227,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113706"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113706_45288ab68da903f6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113706"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18056843",
+            "role_id": "35236657",
+            "person_name": "United Aircraft, Hamilton Standard Division",
+            "person_date": "USA",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056843\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18056111",
+            "role_id": "51571131",
+            "person_name": "National Air & Space Museum, Smithsonian Institution",
+            "person_date": "Washington, DC, USA",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056111\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Glove: Manned Orbiting Laboratory, MH-7 (USA), 1968. steel, anodized aluminum, brass, nylon, ht-1 nomex\u00ae, velcro\u00ae, rubber \/ neoprene with flocked fiber coating, sharkskin, pvc. Smithsonian National Air and Space Museum, Transferred from NASA, 1973.0860.003. 16.2012.7."
+    },
+    "colors": [
+        {
+            "color": "#41639a",
+            "closest_crayola": "#2e5894",
+            "closest_css3": "#4682b4",
+            "closest_css4": "#4682b4"
+        },
+        {
+            "color": "#1e4394",
+            "closest_crayola": "#2e5894",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        },
+        {
+            "color": "#6387ca",
+            "closest_crayola": "#5d76cb",
+            "closest_css3": "#4682b4",
+            "closest_css4": "#4682b4"
+        },
+        {
+            "color": "#132945",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#191970",
+            "closest_css4": "#191970"
+        },
+        {
+            "color": "#8b0211",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#8b0000",
+            "closest_css4": "#8b0000"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

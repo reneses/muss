@@ -1,0 +1,157 @@
+{
+    "id": "18800305",
+    "tms:id": "180315",
+    "accession_number": "1983-1-30",
+    "title": "Drawing, Light Fixture for Mr. Allen's Study and Mrs. Allen's Room, Henry J. Allen Residence, Wichita, Kansas, 1917",
+    "title_raw": "Light Fixture for Mr. Allen's Study and Mrs. Allen's Room, Henry J. Allen Residence, Wichita, Kansas",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800305\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35432515",
+    "type_id": "35237093",
+    "date": "1917",
+    "year_start": 1917,
+    "year_end": 1917,
+    "year_acquired": "1983",
+    "decade": "1910",
+    "woe:country_id": "23424977",
+    "medium": "graphite, color pencil on tracing paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Inscribed in graphite: FIXTURE FOR MR. ALLEN'S STUDY\/ + MRS. ALLEN'S ROOM\/ NIEDECKEN-WALBRIDGE CO.\/ INTERIOR ARCHITECTS\/ SCALE 1 1\/2\" = 1' 0\" (all underlined); in left margin: 2 of these (all underlined); right margin: CORD\/ glass disk\/ O.K. (all underlined).",
+    "provenance": "Mr. and Mrs. Robert L. Jacobson",
+    "dimensions": "18 x 21.5 cm (7 1\/16 x 8 7\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "18.00",
+            "centimeters"
+        ],
+        "width": [
+            "21.50",
+            "centimeters"
+        ]
+    },
+    "creditline": "Museum purchase from Smithsonian Regents Collections Acquisition and Friends of Drawings and Prints Funds",
+    "description": "Elevation and perspective of light fixture.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42143_25d0c8526f6a5873_b.jpg",
+                "width": 857,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "42143"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42143_25d0c8526f6a5873_z.jpg",
+                "width": 535,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "42143"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42143_25d0c8526f6a5873_n.jpg",
+                "width": 268,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "42143"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42143_25d0c8526f6a5873_d.gif",
+                "width": 268,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "42143"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42143_25d0c8526f6a5873_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "42143"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18041629",
+            "role_id": "35352249",
+            "person_name": "Kelmscott Gallery",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041629\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "51676457",
+            "role_id": "35352245",
+            "person_name": "Karin Zonis",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18042051",
+            "role_id": "35236667",
+            "person_name": "Henry J. Allen",
+            "person_date": "",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042051\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        },
+        {
+            "person_id": "18043485",
+            "role_id": "35236655",
+            "person_name": "George Mann Niedecken",
+            "person_date": "1878\u20131945",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043485\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18042049",
+            "role_id": "35236663",
+            "person_name": "Frank Lloyd Wright",
+            "person_date": "American, 1867\u20131959",
+            "role_name": "Architect",
+            "role_display_name": "Architect:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042049\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236663\/"
+        },
+        {
+            "person_id": "68738747",
+            "role_id": "35236667",
+            "person_name": "Elsie J. Nuzman (Mrs. Henry J.) Allen",
+            "person_date": "",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68738747\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Light Fixture for Mr. Allen's Study and Mrs. Allen's Room, Henry J. Allen Residence, Wichita, Kansas, 1917. graphite, color pencil on tracing paper. Museum purchase from Smithsonian Regents Collections Acquisition and Friends of Drawings and Prints Funds. 1983-1-30."
+    },
+    "colors": [
+        {
+            "color": "#b1a685",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

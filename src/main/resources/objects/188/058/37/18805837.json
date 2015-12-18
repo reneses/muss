@@ -1,0 +1,116 @@
+{
+    "id": "18805837",
+    "tms:id": "183219",
+    "accession_number": "1985-92-7",
+    "title": "\"Maitre\" pattern Glass, Sherry, ca. 1983",
+    "title_raw": "\"Maitre\" pattern",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805837\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35293831",
+    "date": "ca. 1983",
+    "year_start": 1973,
+    "year_end": 1993,
+    "year_acquired": "1985",
+    "decade": "1970",
+    "woe:country_id": null,
+    "medium": "glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 20.5 x 6.7 cm (8 1\/16 x 2 5\/8 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "6.70",
+            "centimeters"
+        ],
+        "height": [
+            "20.50",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "glass, sherry",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123019_0e6a6cece2268b45_b.jpg",
+                "width": 451,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "123019"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123019_0e6a6cece2268b45_z.jpg",
+                "width": 282,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "123019"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123019_0e6a6cece2268b45_n.jpg",
+                "width": 141,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "123019"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123019_0e6a6cece2268b45_d.gif",
+                "width": 141,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "123019"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123019_0e6a6cece2268b45_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "123019"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18043913",
+            "role_id": "35236657",
+            "person_name": "Rosenthal Glas Und Porzellan Aktiengesellschaft",
+            "person_date": "founded 1891",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043913\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18053833",
+            "role_id": "35236655",
+            "person_name": "Michael B\u00f6hm",
+            "person_date": "German, b. 1944",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053833\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "\"Maitre\" pattern Glass, Sherry, ca. 1983. glass. 1985-92-7."
+    },
+    "colors": [
+        {
+            "color": "#ffffff",
+            "closest_crayola": "#ffffff",
+            "closest_css3": "#ffffff",
+            "closest_css4": "#ffffff"
+        }
+    ],
+    "is_loan_object": 0
+}

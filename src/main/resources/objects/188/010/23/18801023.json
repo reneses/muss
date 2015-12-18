@@ -1,0 +1,178 @@
+{
+    "id": "18801023",
+    "tms:id": "180678",
+    "accession_number": "1983-74-1",
+    "title": "Scarf (USA), 1975",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801023\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "68249179",
+    "type_id": "35251935",
+    "date": "1975",
+    "year_start": 1975,
+    "year_end": 1975,
+    "year_acquired": "1983",
+    "decade": "1970",
+    "woe:country_id": "23424977",
+    "medium": "silk, water-based latex pigments",
+    "markings": null,
+    "signed": null,
+    "inscribed": "A. Grinberg \/ c. 1975 \/ San Francisco",
+    "provenance": null,
+    "dimensions": "H x W: 84 x 81 cm (33 1\/16 x 31 7\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "84.00",
+            "centimeters"
+        ],
+        "width": [
+            "81.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Mrs. Richard Lederer, Jr.",
+    "description": "Pattern of black trees repeated in mirror image on a rainbow colored background.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "scarf",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46287_934e9421296f19f3_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "46287"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46287_934e9421296f19f3_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "46287"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46287_934e9421296f19f3_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "46287"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46287_934e9421296f19f3_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "46287"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46287_934e9421296f19f3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "46287"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77432_05495d1f18245c8a_b.jpg",
+                "width": 1024,
+                "height": 997,
+                "is_primary": "0",
+                "image_id": "77432"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77432_05495d1f18245c8a_z.jpg",
+                "width": 640,
+                "height": 623,
+                "is_primary": "0",
+                "image_id": "77432"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77432_05495d1f18245c8a_n.jpg",
+                "width": 320,
+                "height": 312,
+                "is_primary": "0",
+                "image_id": "77432"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77432_05495d1f18245c8a_d.gif",
+                "width": 320,
+                "height": 312,
+                "is_primary": "0",
+                "image_id": "77432"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77432_05495d1f18245c8a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77432"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "51679091",
+            "role_id": "35351535",
+            "person_name": "Mrs. Richard Lederer Jr.",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51679091\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18045513",
+            "role_id": "35236655",
+            "person_name": "Alan Grinberg",
+            "person_date": "American, b. 1949",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045513\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Scarf (USA), 1975. silk, water-based latex pigments. Gift of Mrs. Richard Lederer, Jr.. 1983-74-1."
+    },
+    "colors": [
+        {
+            "color": "#533c86",
+            "closest_crayola": "#58427c",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        },
+        {
+            "color": "#b66c2f",
+            "closest_crayola": "#b4674d",
+            "closest_css3": "#d2691e",
+            "closest_css4": "#d2691e"
+        },
+        {
+            "color": "#b3644f",
+            "closest_crayola": "#b4674d",
+            "closest_css3": "#cd5c5c",
+            "closest_css4": "#cd5c5c"
+        },
+        {
+            "color": "#b8993f",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#849b49",
+            "closest_crayola": "#87a96b",
+            "closest_css3": "#6b8e23",
+            "closest_css4": "#6b8e23"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

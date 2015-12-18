@@ -1,0 +1,110 @@
+{
+    "id": "18805931",
+    "tms:id": "183266",
+    "accession_number": "1985-99-2",
+    "title": "Cognac Glass",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805931\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35293859",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "26.5 x 14.5 x 11 cm (10 7\/16 x 5 11\/16 x 4 5\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "11.00",
+            "centimeters"
+        ],
+        "height": [
+            "26.50",
+            "centimeters"
+        ],
+        "width": [
+            "14.50",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Cognac glass",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122926_098291478e766de7_b.jpg",
+                "width": 639,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "122926"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122926_098291478e766de7_z.jpg",
+                "width": 399,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "122926"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122926_098291478e766de7_n.jpg",
+                "width": 200,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "122926"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122926_098291478e766de7_d.gif",
+                "width": 200,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "122926"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122926_098291478e766de7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "122926"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18055021",
+            "role_id": "35236655",
+            "person_name": "Peter Kaspar",
+            "person_date": "1944\u2013",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055021\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Cognac Glass. glass. 1985-99-2."
+    },
+    "colors": [
+        {
+            "color": "#ffffff",
+            "closest_crayola": "#ffffff",
+            "closest_css3": "#ffffff",
+            "closest_css4": "#ffffff"
+        }
+    ],
+    "is_loan_object": 0
+}

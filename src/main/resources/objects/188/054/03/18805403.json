@@ -1,0 +1,174 @@
+{
+    "id": "18805403",
+    "tms:id": "182992",
+    "accession_number": "1985-53-2-a,b",
+    "title": "Calendar And Card (USA)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805403\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35376387",
+    "type_id": "35293789",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "jacquard woven",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Calendar and card",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217679_bc0f893f425360d7_b.jpg",
+                "width": 427,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "217679"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217679_bc0f893f425360d7_z.jpg",
+                "width": 267,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "217679"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217679_bc0f893f425360d7_n.jpg",
+                "width": 133,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "217679"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217679_bc0f893f425360d7_d.gif",
+                "width": 133,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "217679"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217679_bc0f893f425360d7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "217679"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217110_36fe2708233a11b8_b.jpg",
+                "width": 1024,
+                "height": 537,
+                "is_primary": "0",
+                "image_id": "217110"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217110_36fe2708233a11b8_z.jpg",
+                "width": 640,
+                "height": 336,
+                "is_primary": "0",
+                "image_id": "217110"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217110_36fe2708233a11b8_n.jpg",
+                "width": 320,
+                "height": 168,
+                "is_primary": "0",
+                "image_id": "217110"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217110_36fe2708233a11b8_d.gif",
+                "width": 320,
+                "height": 168,
+                "is_primary": "0",
+                "image_id": "217110"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217110_36fe2708233a11b8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "217110"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87316_abdf93b66c98fc56_b.jpg",
+                "width": null,
+                "height": null,
+                "is_primary": "0",
+                "image_id": "87316"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87316_abdf93b66c98fc56_z.jpg",
+                "width": 382,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "87316"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87317_c02f3d960a8ac315_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "87317"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87317_c02f3d960a8ac315_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "87317"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87317_c02f3d960a8ac315_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "87317"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87317_c02f3d960a8ac315_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "87317"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87317_c02f3d960a8ac315_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "87317"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Calendar And Card (USA). jacquard woven. 1985-53-2-a,b."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

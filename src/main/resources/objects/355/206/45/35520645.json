@@ -1,0 +1,192 @@
+{
+    "id": "35520645",
+    "tms:id": "275009",
+    "accession_number": "1.2013.8",
+    "title": "Book Illustration, The Grammar of Ornament, Moresque no. 5, plate XLIII, 1856",
+    "title_raw": "The Grammar of Ornament, Moresque no. 5, plate XLIII",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35520645\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "35420527",
+    "type_id": "35294459",
+    "date": "1856",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": null,
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "chromolithograph on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Closed: 56 x 39 x 5 cm (22 1\/16 x 15 3\/8 x 1 15\/16 in.)\nOpen: 56 x 79.3 cm (22 1\/16 x 31 1\/4 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "5.00",
+            "centimeters"
+        ],
+        "height": [
+            "56.00",
+            "centimeters"
+        ],
+        "width": [
+            "39.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Courtesy of Smithsonian Libraries",
+    "description": "f NK1175 .J78 1856",
+    "justification": null,
+    "gallery_text": "In 1832 Owen Jones embarked on a Grand Tour, travelling to Italy, Greece, Egypt, Turkey and Spain. Along with fellow architect James Goury, Jones completed a detailed analysis of the Islamic decoration at the Alhambra Palace. Upon Goury\u2019s death in 1834, Jones returned to London, and spent the next nine years publishing the results of their studies. In order to render the intricate decorations of the Alhambra in print, Jones pioneered new standards in chromolithography.\nOver the ensuing years Jones developed bold new theories on flat patterning, geometry and abstraction in ornament. His carefully observed studies at the Alhambra were pivotal in this evolution. In 1856 Jones published \u201cThe Grammar of Ornament\u201d as a design sourcebook, illustrating his principles in the arrangement of form and color in architecture and the decorative arts. Jones is best remembered for this publication due to its overwhelming influence and the fact that it is still in print today.",
+    "label_text": "As an architect and design theorist, Jones published \u201cThe Grammar of Ornament\u201d presenting his theories on flat patterning. These Moorish patterns, inspired by decorations found on such buildings such the Alhambra in Spain, illustrate a graceful, intricate symmetry and balance.",
+    "videos": null,
+    "on_display": "1",
+    "woe:country": "23424975",
+    "type": "Book illustration",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/154913_aa3bb9ac07192c90_b.jpg",
+                "width": 365,
+                "height": 577,
+                "is_primary": "1",
+                "image_id": "154913"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/154913_aa3bb9ac07192c90_z.jpg",
+                "width": 365,
+                "height": 577,
+                "is_primary": "1",
+                "image_id": "154913"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/154913_aa3bb9ac07192c90_n.jpg",
+                "width": 202,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "154913"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/154913_aa3bb9ac07192c90_d.gif",
+                "width": 202,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "154913"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/154913_aa3bb9ac07192c90_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "154913"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50517_b86e8181f3a535fe_b.jpg",
+                "width": 640,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "50517"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50517_b86e8181f3a535fe_z.jpg",
+                "width": 400,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "50517"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50517_b86e8181f3a535fe_n.jpg",
+                "width": 200,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "50517"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50517_b86e8181f3a535fe_d.gif",
+                "width": 200,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "50517"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50517_b86e8181f3a535fe_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "50517"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18058459",
+            "role_id": "35236661",
+            "person_name": "Day & Son",
+            "person_date": "London, England, United Kingdom",
+            "role_name": "Publisher",
+            "role_display_name": "Published by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236661\/"
+        },
+        {
+            "person_id": "18046283",
+            "role_id": "35236689",
+            "person_name": "Owen Jones",
+            "person_date": "English, 1809\u20131874",
+            "role_name": "Author",
+            "role_display_name": "Written by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046283\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236689\/"
+        },
+        {
+            "person_id": "18051233",
+            "role_id": "51571131",
+            "person_name": "Smithsonian Institution Libraries",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051233\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Book Illustration, The Grammar of Ornament, Moresque no. 5, plate XLIII, 1856. chromolithograph on paper. Courtesy of Smithsonian Libraries. 1.2013.8."
+    },
+    "colors": [
+        {
+            "color": "#e1dbbe",
+            "closest_crayola": "#eceabe",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
+        },
+        {
+            "color": "#080c62",
+            "closest_crayola": "#1a4876",
+            "closest_css3": "#191970",
+            "closest_css4": "#191970"
+        },
+        {
+            "color": "#e1c17e",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#deb887",
+            "closest_css4": "#deb887"
+        },
+        {
+            "color": "#34453b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#5d6b8d",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 1
+}

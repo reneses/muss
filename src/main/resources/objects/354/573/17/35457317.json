@@ -1,0 +1,246 @@
+{
+    "id": "35457317",
+    "tms:id": "274588",
+    "accession_number": "17.2012.3",
+    "title": "Needle Case (USA), Created before 1947",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35457317\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "68779397",
+    "type_id": "35284039",
+    "date": "Created before 1947",
+    "year_start": 1947,
+    "year_end": 1947,
+    "year_acquired": null,
+    "decade": "1940",
+    "woe:country_id": "23424977",
+    "medium": "carved, incised, painted wood; incised tundra swan wing bone (humerus)",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "L x W x D: 14.5 x 1.6 x 1.3 cm (5 11\/16 x 5\/8 x 1\/2 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "1.30",
+            "centimeters"
+        ],
+        "length": [
+            "14.50",
+            "centimeters"
+        ],
+        "width": [
+            "1.60",
+            "centimeters"
+        ]
+    },
+    "creditline": "National Museum of the American Indian, Smithsonian Institution, 21\/800",
+    "description": null,
+    "justification": null,
+    "gallery_text": "A Yup\u2019ik woman\u2019s ability to sew was critical to her family\u2019s survival\u2014just as men had to master hunting, women had to learn to sew and mend before marrying. This case housed a woman\u2019s essential needles, made of bone and with or without eyes. These bone, ivory, or deer horn awls were used to pierce gutskin or animal skins, then to stitch the seam closed.\nThis case was made of a hollow swan wing bone and has wooden stoppers at each end, representing the head and tail of what is probably a blackfish. The bone is delicately incised with crosshatching, rings, and spurred lines\u2014patterns frequently employed in the Yup\u2019ik community. The remarkable skill the carver applied to an extremely utilitarian object speaks to the connection between maker, user, and environment: the expertise and the decoration honor the swan that provided the material and the blackfish, giving sustenance to the people.",
+    "label_text": "The exquisitely carved needle case shows the importance placed on sewing in Yup'ik culture, while honoring the animals that provided sustenance.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Needle case",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84695_517a6e700b1b534e_b.jpg",
+                "width": 1024,
+                "height": 246,
+                "is_primary": "1",
+                "image_id": "84695"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84695_517a6e700b1b534e_z.jpg",
+                "width": 640,
+                "height": 154,
+                "is_primary": "1",
+                "image_id": "84695"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84695_517a6e700b1b534e_n.jpg",
+                "width": 320,
+                "height": 77,
+                "is_primary": "1",
+                "image_id": "84695"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84695_517a6e700b1b534e_d.gif",
+                "width": 320,
+                "height": 77,
+                "is_primary": "1",
+                "image_id": "84695"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84695_517a6e700b1b534e_sq.jpg",
+                "width": 300,
+                "height": 246,
+                "is_primary": "1",
+                "image_id": "84695"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180838_42d58bd751b85166_b.jpg",
+                "width": 1024,
+                "height": 479,
+                "is_primary": "0",
+                "image_id": "180838"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180838_42d58bd751b85166_z.jpg",
+                "width": 640,
+                "height": 299,
+                "is_primary": "0",
+                "image_id": "180838"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180838_42d58bd751b85166_n.jpg",
+                "width": 320,
+                "height": 150,
+                "is_primary": "0",
+                "image_id": "180838"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180838_42d58bd751b85166_d.gif",
+                "width": 320,
+                "height": 150,
+                "is_primary": "0",
+                "image_id": "180838"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180838_42d58bd751b85166_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "180838"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113710_349cc467a65d6fd6_b.jpg",
+                "width": 1024,
+                "height": 623,
+                "is_primary": "0",
+                "image_id": "113710"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113710_349cc467a65d6fd6_z.jpg",
+                "width": 640,
+                "height": 389,
+                "is_primary": "0",
+                "image_id": "113710"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113710_349cc467a65d6fd6_n.jpg",
+                "width": 320,
+                "height": 195,
+                "is_primary": "0",
+                "image_id": "113710"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113710_349cc467a65d6fd6_d.gif",
+                "width": 320,
+                "height": 195,
+                "is_primary": "0",
+                "image_id": "113710"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113710_349cc467a65d6fd6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113710"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113708_42d58bd751b85166_b.jpg",
+                "width": 1024,
+                "height": 479,
+                "is_primary": "0",
+                "image_id": "113708"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113708_42d58bd751b85166_z.jpg",
+                "width": 640,
+                "height": 299,
+                "is_primary": "0",
+                "image_id": "113708"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113708_42d58bd751b85166_n.jpg",
+                "width": 320,
+                "height": 150,
+                "is_primary": "0",
+                "image_id": "113708"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113708_42d58bd751b85166_d.gif",
+                "width": 320,
+                "height": 150,
+                "is_primary": "0",
+                "image_id": "113708"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113708_42d58bd751b85166_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113708"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18063699",
+            "role_id": "51571131",
+            "person_name": "National Museum of the American Indian",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18063699\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Needle Case (USA), Created before 1947. carved, incised, painted wood; incised tundra swan wing bone (humerus). National Museum of the American Indian, Smithsonian Institution, 21\/800. 17.2012.3."
+    },
+    "colors": [
+        {
+            "color": "#d4c195",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#f8f5dc",
+            "closest_crayola": "#fddde6",
+            "closest_css3": "#f5f5dc",
+            "closest_css4": "#f5f5dc"
+        },
+        {
+            "color": "#756044",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#493c2c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#a99772",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

@@ -1,0 +1,97 @@
+{
+    "id": "18805847",
+    "tms:id": "183224",
+    "accession_number": "1985-93-3",
+    "title": "Fluttone, 1983",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805847\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35293841",
+    "date": "1983",
+    "year_start": 1983,
+    "year_end": 1983,
+    "year_acquired": "1985",
+    "decade": "1980",
+    "woe:country_id": null,
+    "medium": "glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 16.4 x 6.8 cm (6 7\/16 x 2 11\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "6.80",
+            "centimeters"
+        ],
+        "height": [
+            "16.40",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Cone-shaped glass at an asymmetrical tilt",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "fluttone",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122989_e2420e562c7b6d29_b.jpg",
+                "width": 696,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "122989"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122989_e2420e562c7b6d29_z.jpg",
+                "width": 435,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "122989"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122989_e2420e562c7b6d29_n.jpg",
+                "width": 218,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "122989"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122989_e2420e562c7b6d29_d.gif",
+                "width": 218,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "122989"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122989_e2420e562c7b6d29_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "122989"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Fluttone, 1983. glass. 1985-93-3."
+    },
+    "colors": [
+        {
+            "color": "#ffffff",
+            "closest_crayola": "#ffffff",
+            "closest_css3": "#ffffff",
+            "closest_css4": "#ffffff"
+        }
+    ],
+    "is_loan_object": 0
+}

@@ -1,0 +1,141 @@
+{
+    "id": "18804635",
+    "tms:id": "182602",
+    "accession_number": "1985-19-1",
+    "title": "Ceiling Paper - Sample (USA), 1907\u201308",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18804635\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35367333",
+    "type_id": "35293767",
+    "date": "1907\u201308",
+    "year_start": 1907,
+    "year_end": 1908,
+    "year_acquired": "1985",
+    "decade": "1900",
+    "woe:country_id": "23424977",
+    "medium": "machine-printed on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "61 x 48.5 cm (24 x 19 1\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "61.00",
+            "centimeters"
+        ],
+        "width": [
+            "48.50",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Dorwin L. Starr",
+    "description": "Clusters of leaves widely spaced, with random pattern of vines running across the background. Printed in green and brown on tan ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Ceiling paper - sample",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10195_946d82a2dd34b32b_b.jpg",
+                "width": 798,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "10195"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10195_946d82a2dd34b32b_z.jpg",
+                "width": 499,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "10195"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10195_946d82a2dd34b32b_n.jpg",
+                "width": 249,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "10195"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10195_946d82a2dd34b32b_d.gif",
+                "width": 249,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "10195"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10195_946d82a2dd34b32b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "10195"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18537637",
+            "role_id": "35351535",
+            "person_name": "Dorwin L. Starr",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537637\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18043897",
+            "role_id": "35236657",
+            "person_name": "Robert Graves Co.",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043897\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Ceiling Paper - Sample (USA), 1907\u201308. machine-printed on paper. Gift of Dorwin L. Starr. 1985-19-1."
+    },
+    "colors": [
+        {
+            "color": "#9b928f",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#9d9173",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#0f1327",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#746c57",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#614e3d",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

@@ -1,0 +1,161 @@
+{
+    "id": "18802747",
+    "tms:id": "181560",
+    "accession_number": "1984-69-5",
+    "title": "Textile, Mira Orion",
+    "title_raw": "Mira Orion",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18802747\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "121837",
+    "type_id": "35251739",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": "23424829",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 133 x 123.5 cm (52 3\/8 x 48 5\/8 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "133.00",
+            "centimeters"
+        ],
+        "weft": [
+            "123.50",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Chevron pattern composed with small squares.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/152041_2c6d4554bc6781dd_b.jpg",
+                "width": 1024,
+                "height": 947,
+                "is_primary": "1",
+                "image_id": "152041"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/152041_2c6d4554bc6781dd_z.jpg",
+                "width": 640,
+                "height": 592,
+                "is_primary": "1",
+                "image_id": "152041"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/152041_2c6d4554bc6781dd_n.jpg",
+                "width": 320,
+                "height": 296,
+                "is_primary": "1",
+                "image_id": "152041"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/152041_2c6d4554bc6781dd_d.gif",
+                "width": 320,
+                "height": 296,
+                "is_primary": "1",
+                "image_id": "152041"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/152041_2c6d4554bc6781dd_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "152041"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18048019",
+            "role_id": "35352245",
+            "person_name": "lm",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048019\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18045467",
+            "role_id": "35236685",
+            "person_name": "Taunus Textildruck Zimmer",
+            "person_date": "Oberusel, Germany, est. 1899",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045467\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18045473",
+            "role_id": "35236681",
+            "person_name": "Mira-X International Furnishings, Inc.",
+            "person_date": "",
+            "role_name": "Company",
+            "role_display_name": "Company:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045473\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236681\/"
+        },
+        {
+            "person_id": "18045471",
+            "role_id": "35236655",
+            "person_name": "Verner Panton",
+            "person_date": "Danish, 1926\u20131998",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045471\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile, Mira Orion. 1984-69-5."
+    },
+    "colors": [
+        {
+            "color": "#5c6062",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#978666",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#c1836d",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#87a384",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#8fbc8f",
+            "closest_css4": "#8fbc8f"
+        },
+        {
+            "color": "#b8aa88",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
+}

@@ -1,0 +1,224 @@
+{
+    "id": "35520941",
+    "tms:id": "275087",
+    "accession_number": "17.2014.1",
+    "title": "Diagram: Layout Of Micro-sized Timing And Inertial Measurement Unit (T-IMU), 2014",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35520941\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": null,
+    "type_id": "68724291",
+    "date": "2014",
+    "year_start": 2014,
+    "year_end": 2014,
+    "year_acquired": null,
+    "decade": "2010",
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Approx: H x W: 121.9 x 182.9 cm (48 in. x 6 ft.)",
+    "dimensions_raw": {
+        "height": [
+            "121.92",
+            "centimeters"
+        ],
+        "width": [
+            "182.88",
+            "centimeters"
+        ]
+    },
+    "creditline": "Courtesy of MicroSystems Laboratory of the University of California, Irvine. The research is sponsored by the MicroSystems Technology Office of the Defense Advanced Research Projects Agency.",
+    "description": null,
+    "justification": null,
+    "gallery_text": "This microscale navigation system can measure position with high precision, even when GPS is unavailable. Developed to provide fully integrated positioning and navigation for aircraft and missiles, the T-IMU includes microscopic components, making it possible to embed new tools within portable devices. The T-IMU\u2019s pyramidal shape was designed to provide structural integrity and to hold sensors to detect motion in different directions. Each face of the T-IMU holds a rotation-sensing gyroscope or linear motion-sensing accelerometer. An additional sensor keeps track of time. Time measurements provide references for the inertial sensors much like GPS, which utilizes precise atomic clocks on orbiting satellites and measures the arrival times of signals moving at the speed of light. The accuracy of the T-IMU\u2019s time reference over short periods is on par with atomic clocks, but its stability decreases over longer periods, meaning it cannot completely replace GPS or atomic frequency standards.",
+    "label_text": "This high-resolution map shows six overlaid masks, or layers, the number needed to build a T-IMU chip. (See a chip in the case behind you.) The three circular structures are gyroscopes (for roll, pitch, and yaw), and the three square structures on faces of the\npyramid are accelerometers (to measure displacement along the x, y, and z axes). The smaller rectangular structure is a resonator (keeps track of time).",
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Diagram: Layout of Micro-sized Timing and Inertial Measurement Unit (T-IMU)",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92502_1e3ee025274b7ed2_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "92502"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92502_1e3ee025274b7ed2_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "92502"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92502_1e3ee025274b7ed2_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92502"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92502_1e3ee025274b7ed2_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92502"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92502_1e3ee025274b7ed2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92502"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113714_c021b191f4238928_b.jpg",
+                "width": 986,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113714"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113714_c021b191f4238928_z.jpg",
+                "width": 616,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113714"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113714_c021b191f4238928_n.jpg",
+                "width": 308,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113714"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113714_c021b191f4238928_d.gif",
+                "width": 308,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113714"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113714_c021b191f4238928_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113714"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113715_1e3ee025274b7ed2_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113715"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113715_1e3ee025274b7ed2_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113715"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113715_1e3ee025274b7ed2_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113715"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113715_1e3ee025274b7ed2_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113715"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113715_1e3ee025274b7ed2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113715"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68264135",
+            "role_id": "35236685",
+            "person_name": "UC Irvine MicroSystems Laboratory",
+            "person_date": "Irvine, CA, USA",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68264135\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "68264135",
+            "role_id": "51571131",
+            "person_name": "UC Irvine MicroSystems Laboratory",
+            "person_date": "Irvine, CA, USA",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68264135\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        },
+        {
+            "person_id": "68248131",
+            "role_id": "35236579",
+            "person_name": "Defense Advanced Research Projects Agency (DARPA)",
+            "person_date": "USA",
+            "role_name": "Collaborator",
+            "role_display_name": "Collaborator:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248131\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236579\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Diagram: Layout Of Micro-sized Timing And Inertial Measurement Unit (T-IMU), 2014. Courtesy of MicroSystems Laboratory of the University of California, Irvine. The research is sponsored by the MicroSystems Technology Office of the Defense Advanced Research Projects Agency.. 17.2014.1."
+    },
+    "colors": [
+        {
+            "color": "#b6ddc8",
+            "closest_crayola": "#aaf0d1",
+            "closest_css3": "#b0e0e6",
+            "closest_css4": "#b0e0e6"
+        },
+        {
+            "color": "#adc376",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#87ad89",
+            "closest_crayola": "#6dae81",
+            "closest_css3": "#8fbc8f",
+            "closest_css4": "#8fbc8f"
+        },
+        {
+            "color": "#969199",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        },
+        {
+            "color": "#79887b",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "is_loan_object": 1
+}

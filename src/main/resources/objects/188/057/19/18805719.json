@@ -1,0 +1,330 @@
+{
+    "id": "18805719",
+    "tms:id": "183154",
+    "accession_number": "1985-84-3-a\/f",
+    "title": "Linoleum Printing Blocks (USA), 1954",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805719\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35293805",
+    "date": "1954",
+    "year_start": 1954,
+    "year_end": 1954,
+    "year_acquired": "1985",
+    "decade": "1950",
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Printing block (A): 73.7 x 86.4 cm (29 x 34 in.)\nPrinting block (B): 73.7 x 86.5 cm (29 in. x 34 1\/16 in.)\nPrinting block (C): 39.7 x 45.1 cm (15 5\/8 x 17 3\/4 in.)\nPrinting block (D): 47.6 x 55.9 cm (18 3\/4 in. x 22 in.)\nPrinting block (E): 40 x 45.1 cm (15 3\/4 x 17 3\/4 in.)\nPrinting block (F): 47.3 x 55.9 cm (18 5\/8 in. x 22 in.)",
+    "dimensions_raw": {
+        "height": [
+            "73.66",
+            "centimeters"
+        ],
+        "width": [
+            "86.52",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Henry C. and Eleanor Kluck",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Linoleum printing blocks",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/173668_f87c812567a8c551_b.jpg",
+                "width": 1024,
+                "height": 876,
+                "is_primary": "1",
+                "image_id": "173668"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/173668_f87c812567a8c551_z.jpg",
+                "width": 640,
+                "height": 547,
+                "is_primary": "1",
+                "image_id": "173668"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/173668_f87c812567a8c551_n.jpg",
+                "width": 320,
+                "height": 274,
+                "is_primary": "1",
+                "image_id": "173668"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/173668_f87c812567a8c551_d.gif",
+                "width": 320,
+                "height": 274,
+                "is_primary": "1",
+                "image_id": "173668"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/173668_f87c812567a8c551_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "173668"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87326_32459c72b931b163_b.jpg",
+                "width": 1024,
+                "height": 755,
+                "is_primary": "0",
+                "image_id": "87326"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87326_32459c72b931b163_z.jpg",
+                "width": 640,
+                "height": 472,
+                "is_primary": "0",
+                "image_id": "87326"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87326_32459c72b931b163_n.jpg",
+                "width": 320,
+                "height": 236,
+                "is_primary": "0",
+                "image_id": "87326"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87326_32459c72b931b163_d.gif",
+                "width": 320,
+                "height": 236,
+                "is_primary": "0",
+                "image_id": "87326"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87326_32459c72b931b163_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "87326"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87324_70820713f6503d94_b.jpg",
+                "width": 1024,
+                "height": 724,
+                "is_primary": "0",
+                "image_id": "87324"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87324_70820713f6503d94_z.jpg",
+                "width": 640,
+                "height": 452,
+                "is_primary": "0",
+                "image_id": "87324"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87324_70820713f6503d94_n.jpg",
+                "width": 320,
+                "height": 226,
+                "is_primary": "0",
+                "image_id": "87324"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87324_70820713f6503d94_d.gif",
+                "width": 320,
+                "height": 226,
+                "is_primary": "0",
+                "image_id": "87324"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87324_70820713f6503d94_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "87324"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87325_12271a3c00efc267_b.jpg",
+                "width": 1024,
+                "height": 756,
+                "is_primary": "0",
+                "image_id": "87325"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87325_12271a3c00efc267_z.jpg",
+                "width": 640,
+                "height": 473,
+                "is_primary": "0",
+                "image_id": "87325"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87325_12271a3c00efc267_n.jpg",
+                "width": 320,
+                "height": 236,
+                "is_primary": "0",
+                "image_id": "87325"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87325_12271a3c00efc267_d.gif",
+                "width": 320,
+                "height": 236,
+                "is_primary": "0",
+                "image_id": "87325"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87325_12271a3c00efc267_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "87325"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87323_28af6ea8ac95f131_b.jpg",
+                "width": 1024,
+                "height": 742,
+                "is_primary": "0",
+                "image_id": "87323"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87323_28af6ea8ac95f131_z.jpg",
+                "width": 640,
+                "height": 464,
+                "is_primary": "0",
+                "image_id": "87323"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87323_28af6ea8ac95f131_n.jpg",
+                "width": 320,
+                "height": 232,
+                "is_primary": "0",
+                "image_id": "87323"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87323_28af6ea8ac95f131_d.gif",
+                "width": 320,
+                "height": 232,
+                "is_primary": "0",
+                "image_id": "87323"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87323_28af6ea8ac95f131_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "87323"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38575_f5c2613cd5fb93bb_b.jpg",
+                "width": 1024,
+                "height": 806,
+                "is_primary": "0",
+                "image_id": "38575"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38575_f5c2613cd5fb93bb_z.jpg",
+                "width": 640,
+                "height": 503,
+                "is_primary": "0",
+                "image_id": "38575"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38575_f5c2613cd5fb93bb_n.jpg",
+                "width": 320,
+                "height": 252,
+                "is_primary": "0",
+                "image_id": "38575"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38575_f5c2613cd5fb93bb_d.gif",
+                "width": 320,
+                "height": 252,
+                "is_primary": "0",
+                "image_id": "38575"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38575_f5c2613cd5fb93bb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "38575"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18056499",
+            "role_id": "35351535",
+            "person_name": "Henry C. Kluck",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056499\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18056501",
+            "role_id": "35351535",
+            "person_name": "Eleanor Kluck",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056501\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18045697",
+            "role_id": "35236655",
+            "person_name": "Elenhank",
+            "person_date": "Chicago, Illinois, 1948 \u2013 1980",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045697\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Linoleum Printing Blocks (USA), 1954. Gift of Henry C. and Eleanor Kluck. 1985-84-3-a\/f."
+    },
+    "colors": [
+        {
+            "color": "#53573d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#727856",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#393933",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#898a79",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

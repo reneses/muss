@@ -1,0 +1,66 @@
+{
+    "id": "18802805",
+    "tms:id": "181590",
+    "accession_number": "1984-78-2-1\/111",
+    "title": "Sample Book, L. C. Orrell & Co. Book No. 3, ca. 1906",
+    "title_raw": "L. C. Orrell & Co. Book No. 3",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18802805\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35426589",
+    "type_id": "35247403",
+    "date": "ca. 1906",
+    "year_start": 1901,
+    "year_end": 1911,
+    "year_acquired": "1984",
+    "decade": "1900",
+    "woe:country_id": "23424977",
+    "medium": "machine-printed, embossed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "39 x 47.5 cm (15 3\/8 x 18 11\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "39.00",
+            "centimeters"
+        ],
+        "width": [
+            "47.50",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "sample book",
+    "images": [
+
+    ],
+    "participants": [
+        {
+            "person_id": "18047269",
+            "role_id": "35236659",
+            "person_name": "Orrell & Co., L.C.",
+            "person_date": "",
+            "role_name": "Distributor",
+            "role_display_name": "Distributed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047269\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236659\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sample Book, L. C. Orrell & Co. Book No. 3, ca. 1906. machine-printed, embossed. 1984-78-2-1\/111."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

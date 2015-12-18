@@ -1,0 +1,121 @@
+{
+    "id": "18800071",
+    "tms:id": "180198",
+    "accession_number": "1982-52-38",
+    "title": "Band (USA)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800071\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35254631",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1982",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Mr. and Mrs. Boris Kroll",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Band",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217648_9d7855f1cc6a6595_b.jpg",
+                "width": 1024,
+                "height": 437,
+                "is_primary": "1",
+                "image_id": "217648"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217648_9d7855f1cc6a6595_z.jpg",
+                "width": 640,
+                "height": 273,
+                "is_primary": "1",
+                "image_id": "217648"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217648_9d7855f1cc6a6595_n.jpg",
+                "width": 320,
+                "height": 137,
+                "is_primary": "1",
+                "image_id": "217648"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217648_9d7855f1cc6a6595_d.gif",
+                "width": 320,
+                "height": 137,
+                "is_primary": "1",
+                "image_id": "217648"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217648_9d7855f1cc6a6595_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "217648"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77344_a444e52b624b3d7a_b.jpg",
+                "width": 1024,
+                "height": 486,
+                "is_primary": "0",
+                "image_id": "77344"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77344_a444e52b624b3d7a_z.jpg",
+                "width": 640,
+                "height": 304,
+                "is_primary": "0",
+                "image_id": "77344"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77344_a444e52b624b3d7a_n.jpg",
+                "width": 320,
+                "height": 152,
+                "is_primary": "0",
+                "image_id": "77344"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77344_a444e52b624b3d7a_d.gif",
+                "width": 320,
+                "height": 152,
+                "is_primary": "0",
+                "image_id": "77344"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77344_a444e52b624b3d7a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77344"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Band (USA). Gift of Mr. and Mrs. Boris Kroll. 1982-52-38."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

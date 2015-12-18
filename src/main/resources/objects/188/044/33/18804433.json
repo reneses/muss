@@ -1,0 +1,84 @@
+{
+    "id": "18804433",
+    "tms:id": "182501",
+    "accession_number": "1985-109-1",
+    "title": "Drawing (USA)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18804433\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35237093",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/221810_d6791a10128d94c8_b.jpg",
+                "width": 690,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "221810"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/221810_d6791a10128d94c8_z.jpg",
+                "width": 431,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "221810"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/221810_d6791a10128d94c8_n.jpg",
+                "width": 216,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "221810"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/221810_d6791a10128d94c8_d.gif",
+                "width": 216,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "221810"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/221810_d6791a10128d94c8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "221810"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Drawing (USA). 1985-109-1."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

@@ -1,0 +1,154 @@
+{
+    "id": "35457203",
+    "tms:id": "274537",
+    "accession_number": "15.2012.2",
+    "title": "Cylinder Seal And Two Casts (Iraq), 2nd millenium BCE",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35457203\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "68515297",
+    "type_id": "68894355",
+    "date": "2nd millenium BCE",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": null,
+    "decade": null,
+    "woe:country_id": "23424855",
+    "medium": "seal: worked slate; casts: plaster",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam. (cylinder seal): 2.5 x 1.3 cm (1 in. x 1\/2 in.)\nH x W (plaster cast): 3.8 x 7 cm (1 1\/2 x 2 3\/4 in.)\nH x W (plaster cast): 3.8 x 7 cm (1 1\/2 x 2 3\/4 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "1.27",
+            "centimeters"
+        ],
+        "height": [
+            "3.81",
+            "centimeters"
+        ],
+        "width": [
+            "6.99",
+            "centimeters"
+        ]
+    },
+    "creditline": "Department of Anthropology, National Museum of Natural History, Smithsonian Institution, A207910",
+    "description": "Inscription: be-el-\u0161u-nu\/ ARAD d.IM \/ \u00f9 d.\u0161a-la (Belshunu, servant of [the gods] Adad and Shala)",
+    "justification": null,
+    "gallery_text": "Throughout the ancient Near East, cylinder seals, made of stone, metal, or glass, were tools for marking property. Generally, the cylinder was rolled over damp or semi-hardened clay or wax, leaving a legible inscription; the piece of clay or wax was affixed to an object or sealed a door. The design on the seal was carved in recess with a flint point; different local contexts and eras produced carvings of varying quality. Records indicate both men and women in Babylon possessed at least one seal, worn as a pendant.. The Old Babylonian cuneiform inscription on this example identifies the owner of the seal as a certain Belshunu. Flanking the inscription on the cylinder seal are two figures on either side, a nude female and a horned, turban-wearing warrior god, that is, the deities Shala and Adad, as well as two other figures in long robes, probably worshippers of their cults.",
+    "label_text": "Codes and symbols are shorthand for simple and complex information that may be understood by one person or multitudes. Patterns formed by knots, lines, colors, and 1s and 0s distill data, transmitting it through touch, sight, or hearing. Memory aid, accounting register, or calorie counter, these objects act as physical and virtual messengers of information.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424855",
+    "type": "Cylinder Seal and Two Casts",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93899_5f1f7118a2903cec_b.jpg",
+                "width": 767,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "93899"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93899_5f1f7118a2903cec_z.jpg",
+                "width": 479,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "93899"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93899_5f1f7118a2903cec_n.jpg",
+                "width": 240,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93899"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93899_5f1f7118a2903cec_d.gif",
+                "width": 240,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93899"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93899_5f1f7118a2903cec_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93899"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113674_5f1f7118a2903cec_b.jpg",
+                "width": 767,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113674"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113674_5f1f7118a2903cec_z.jpg",
+                "width": 479,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113674"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113674_5f1f7118a2903cec_n.jpg",
+                "width": 240,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113674"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113674_5f1f7118a2903cec_d.gif",
+                "width": 240,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113674"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113674_5f1f7118a2903cec_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113674"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "51676437",
+            "role_id": "51571131",
+            "person_name": "National Museum of Natural History",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676437\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Cylinder Seal And Two Casts (Iraq), 2nd millenium BCE. seal: worked slate; casts: plaster. Department of Anthropology, National Museum of Natural History, Smithsonian Institution, A207910. 15.2012.2."
+    },
+    "colors": [
+        {
+            "color": "#322c20",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#504f4b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "Iraq",
+    "is_loan_object": 1
+}

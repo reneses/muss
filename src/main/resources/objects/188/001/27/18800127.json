@@ -1,0 +1,141 @@
+{
+    "id": "18800127",
+    "tms:id": "180226",
+    "accession_number": "1982-6-1",
+    "title": "Textile, Les Quatre Elements, ca. 1810",
+    "title_raw": "Les Quatre Elements",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800127\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "ca. 1810",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1982",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "cotton",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Height of repeat: 19 inches",
+    "dimensions_raw": {
+        "height": [
+            "48.26",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Black printed on yellow ground. Four gods arranged in stripes: Vulcan, Juno, Venus, Saturn or Pluto. Central stripe attributed to the four elements, stripe at right the twelve signs of the zodiac.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110796_bf4403621fed8c67_b.jpg",
+                "width": 667,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "110796"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110796_bf4403621fed8c67_z.jpg",
+                "width": 417,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "110796"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110796_bf4403621fed8c67_n.jpg",
+                "width": 208,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "110796"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110796_bf4403621fed8c67_d.gif",
+                "width": 208,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "110796"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110796_bf4403621fed8c67_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "110796"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18041197",
+            "role_id": "35352249",
+            "person_name": "Cora Ginsburg",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041197\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "18042739",
+            "role_id": "35236671",
+            "person_name": "Hartmann et Fils Manufactory",
+            "person_date": "",
+            "role_name": "Producer",
+            "role_display_name": "Produced by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042739\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236671\/"
+        },
+        {
+            "person_id": "18042741",
+            "role_id": "35236655",
+            "person_name": "Bonaventure M. Lebert",
+            "person_date": "1759\u20131836",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042741\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile, Les Quatre Elements, ca. 1810. cotton. 1982-6-1."
+    },
+    "colors": [
+        {
+            "color": "#695d34",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#917e3b",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#6b8e23",
+            "closest_css4": "#6b8e23"
+        },
+        {
+            "color": "#48422e",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#b8a14f",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

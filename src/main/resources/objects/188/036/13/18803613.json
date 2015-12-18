@@ -1,0 +1,97 @@
+{
+    "id": "18803613",
+    "tms:id": "182080",
+    "accession_number": "1985-102-10",
+    "title": "Tumbler",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18803613\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35237437",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 8.6 x 7.1 cm (3 3\/8 x 2 13\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "7.10",
+            "centimeters"
+        ],
+        "height": [
+            "8.60",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Octoganal shaped glass with clear bubbles formed in an grid-like pattern",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "tumbler",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115210_33bb311c7b847928_b.jpg",
+                "width": 809,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "115210"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115210_33bb311c7b847928_z.jpg",
+                "width": 505,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "115210"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115210_33bb311c7b847928_n.jpg",
+                "width": 253,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "115210"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115210_33bb311c7b847928_d.gif",
+                "width": 253,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "115210"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115210_33bb311c7b847928_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "115210"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Tumbler. glass. 1985-102-10."
+    },
+    "colors": [
+        {
+            "color": "#cbcece",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        }
+    ],
+    "is_loan_object": 0
+}

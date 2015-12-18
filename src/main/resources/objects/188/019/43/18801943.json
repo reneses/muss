@@ -1,0 +1,116 @@
+{
+    "id": "18801943",
+    "tms:id": "181138",
+    "accession_number": "1984-124-25-126",
+    "title": "Drawing, Fire Screen & marble-top Table, 1860",
+    "title_raw": "Fire Screen & marble-top Table",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801943\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35237093",
+    "date": "1860",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/140328_3031cdc7c98ccd67_b.jpg",
+                "width": 1024,
+                "height": 743,
+                "is_primary": "1",
+                "image_id": "140328"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/140328_3031cdc7c98ccd67_z.jpg",
+                "width": 640,
+                "height": 464,
+                "is_primary": "1",
+                "image_id": "140328"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/140328_3031cdc7c98ccd67_n.jpg",
+                "width": 320,
+                "height": 232,
+                "is_primary": "1",
+                "image_id": "140328"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/140328_3031cdc7c98ccd67_d.gif",
+                "width": 320,
+                "height": 232,
+                "is_primary": "1",
+                "image_id": "140328"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/140328_3031cdc7c98ccd67_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "140328"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18539191",
+            "role_id": "35236655",
+            "person_name": "W. Kimbel",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539191\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Fire Screen & marble-top Table, 1860. 1984-124-25-126."
+    },
+    "colors": [
+        {
+            "color": "#ae9e87",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#a77a56",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#4e4945",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#867b6e",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

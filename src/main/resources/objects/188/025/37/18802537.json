@@ -1,0 +1,187 @@
+{
+    "id": "18802537",
+    "tms:id": "181454",
+    "accession_number": "1984-20-1",
+    "title": "Textile (Indonesia), 19th\u201320th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18802537\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "19th\u201320th century",
+    "year_start": null,
+    "year_end": 1984,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": "23424846",
+    "medium": "cotton",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 40.6 x 40.6 cm (16 x 16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "40.64",
+            "centimeters"
+        ],
+        "width": [
+            "40.64",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Two tubular, interlocking fabrics painted with all-over geometric pattern in black on an off-white ground, which, on one side, is interrupted by a rider in a circle.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424846",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/178206_c8b816ffc62d7ceb_b.jpg",
+                "width": 1024,
+                "height": 1014,
+                "is_primary": "1",
+                "image_id": "178206"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/178206_c8b816ffc62d7ceb_z.jpg",
+                "width": 640,
+                "height": 633,
+                "is_primary": "1",
+                "image_id": "178206"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/178206_c8b816ffc62d7ceb_n.jpg",
+                "width": 320,
+                "height": 317,
+                "is_primary": "1",
+                "image_id": "178206"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/178206_c8b816ffc62d7ceb_d.gif",
+                "width": 320,
+                "height": 317,
+                "is_primary": "1",
+                "image_id": "178206"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/178206_c8b816ffc62d7ceb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "178206"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77592_2cf8282d7a606c22_b.jpg",
+                "width": 894,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "77592"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77592_2cf8282d7a606c22_z.jpg",
+                "width": 558,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "77592"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77592_2cf8282d7a606c22_n.jpg",
+                "width": 279,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77592"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77592_2cf8282d7a606c22_d.gif",
+                "width": 279,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77592"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77592_2cf8282d7a606c22_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77592"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77593_fa0e9f418fe4b5df_b.jpg",
+                "width": 1024,
+                "height": 939,
+                "is_primary": "0",
+                "image_id": "77593"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77593_fa0e9f418fe4b5df_z.jpg",
+                "width": 640,
+                "height": 587,
+                "is_primary": "0",
+                "image_id": "77593"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77593_fa0e9f418fe4b5df_n.jpg",
+                "width": 320,
+                "height": 293,
+                "is_primary": "0",
+                "image_id": "77593"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77593_fa0e9f418fe4b5df_d.gif",
+                "width": 320,
+                "height": 293,
+                "is_primary": "0",
+                "image_id": "77593"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77593_fa0e9f418fe4b5df_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77593"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "51688145",
+            "role_id": "35352249",
+            "person_name": "Mary Kahlenberg",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51688145\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile (Indonesia), 19th\u201320th century. cotton. 1984-20-1."
+    },
+    "colors": [
+        {
+            "color": "#524539",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#94918c",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "Indonesia",
+    "is_loan_object": 0
+}

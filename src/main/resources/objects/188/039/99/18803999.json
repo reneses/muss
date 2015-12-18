@@ -1,0 +1,160 @@
+{
+    "id": "18803999",
+    "tms:id": "182277",
+    "accession_number": "1985-103-243",
+    "title": "Spoon (Netherlands), late 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18803999\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389463",
+    "type_id": "35249775",
+    "date": "late 19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424909",
+    "medium": "silver",
+    "markings": "On handle: Coat of Arms of Amsterdam, I , Amsterdam, 1598 ; Goblet: unidentified maker's mark, 1597 see: Voet, Elias Jr., MERKEN VAN AMSTERDAMSE GOUD EN ZILVERSMEDEN, Den Haag, 1912\/66",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Robert L. Metzenberg",
+    "dimensions": "L x W: 19.9 x 5.5 cm (7 13\/16 x 2 3\/16 in.)",
+    "dimensions_raw": {
+        "length": [
+            "19.90",
+            "centimeters"
+        ],
+        "width": [
+            "5.50",
+            "centimeters"
+        ]
+    },
+    "creditline": "The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg",
+    "description": "Large fig-shaped spoon bowl, flat flaring neck, scrolled decoration on front, lion's head in the centre. Long plain neck, round in section. On top of handle a soldier holding a spear with both hands, standing on a pedestal.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "spoon",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118541_dbc14aad4db38ff4_b.jpg",
+                "width": 703,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "118541"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118541_dbc14aad4db38ff4_z.jpg",
+                "width": 439,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "118541"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118541_dbc14aad4db38ff4_n.jpg",
+                "width": 220,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118541"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118541_dbc14aad4db38ff4_d.gif",
+                "width": 220,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118541"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118541_dbc14aad4db38ff4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "118541"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19129_d60305ab9c7bce9f_b.jpg",
+                "width": 432,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "19129"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19129_d60305ab9c7bce9f_z.jpg",
+                "width": 270,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "19129"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19129_d60305ab9c7bce9f_n.jpg",
+                "width": 135,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19129"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19129_d60305ab9c7bce9f_d.gif",
+                "width": 135,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19129"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19129_d60305ab9c7bce9f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "19129"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18535985",
+            "role_id": "35351535",
+            "person_name": "Eleanor L. Metzenberg",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048365",
+            "role_id": "35352245",
+            "person_name": "S. Wilmering",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Spoon (Netherlands), late 19th century. silver. The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg. 1985-103-243."
+    },
+    "colors": [
+        {
+            "color": "#a99f93",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#867c73",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
+}

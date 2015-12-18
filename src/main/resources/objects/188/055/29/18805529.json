@@ -1,0 +1,169 @@
+{
+    "id": "18805529",
+    "tms:id": "183058",
+    "accession_number": "1985-65-1",
+    "title": "Napkin, Fish: Design no. 561, ca. 1905",
+    "title_raw": "Fish: Design no. 561",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805529\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35433049",
+    "type_id": "35256421",
+    "date": "ca. 1905",
+    "year_start": null,
+    "year_end": 1915,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424909",
+    "medium": null,
+    "markings": "\"DV\" in each corner",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 67.9 \u00d7 70.2 cm (26 3\/4 \u00d7 27 5\/8 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "68.00",
+            "centimeters"
+        ],
+        "weft": [
+            "70.17",
+            "centimeters"
+        ]
+    },
+    "creditline": "Museum purchase from Alice Baldwin Beer Memorial Fund",
+    "description": "Center field of eight confronted fish forming a 9 1\/4\" square, with a border of 16 confronted fish.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "Napkin",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/125010_ee445a0773db2965_b.jpg",
+                "width": 1024,
+                "height": 969,
+                "is_primary": "0",
+                "image_id": "125010"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/125010_ee445a0773db2965_z.jpg",
+                "width": 640,
+                "height": 605,
+                "is_primary": "0",
+                "image_id": "125010"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/125010_ee445a0773db2965_n.jpg",
+                "width": 320,
+                "height": 303,
+                "is_primary": "0",
+                "image_id": "125010"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/125010_ee445a0773db2965_d.gif",
+                "width": 320,
+                "height": 303,
+                "is_primary": "0",
+                "image_id": "125010"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/125010_ee445a0773db2965_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "125010"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10355_49d9513b782ad31e_b.jpg",
+                "width": 993,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "10355"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10355_49d9513b782ad31e_z.jpg",
+                "width": 620,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "10355"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10355_49d9513b782ad31e_n.jpg",
+                "width": 310,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10355"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10355_49d9513b782ad31e_d.gif",
+                "width": 310,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10355"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10355_49d9513b782ad31e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "10355"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18055713",
+            "role_id": "35352249",
+            "person_name": "C.A. Burgers",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055713\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "18047497",
+            "role_id": "35352245",
+            "person_name": "Milton Sonday",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047497\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18045687",
+            "role_id": "35236657",
+            "person_name": "E.F.J. Van Dissel and Son",
+            "person_date": "Eindhoven, The Netherlands, 1880 \u2013 1971",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045687\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18045685",
+            "role_id": "35236655",
+            "person_name": "Chris Lebeau",
+            "person_date": "Dutch, 1875 - 1945",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045685\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Napkin, Fish: Design no. 561, ca. 1905. Museum purchase from Alice Baldwin Beer Memorial Fund. 1985-65-1."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
+}

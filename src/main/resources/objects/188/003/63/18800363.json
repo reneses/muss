@@ -1,0 +1,113 @@
+{
+    "id": "18800363",
+    "tms:id": "180344",
+    "accession_number": "1983-14-8",
+    "title": "Pattern For Embroidery (possibly USA), early 20th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800363\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "136269491",
+    "type_id": "35293565",
+    "date": "early 20th century",
+    "year_start": 1901,
+    "year_end": 1925,
+    "year_acquired": "1983",
+    "decade": "1900",
+    "woe:country_id": "23424977",
+    "medium": "linen (foundation), mercerized cotton (thread),  how identified: by eye",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "19 1\/4 inches (49 cm) by 27 1\/2 inches(70 cm)",
+    "dimensions_raw": {
+        "height": [
+            "49.00",
+            "centimeters"
+        ],
+        "width": [
+            "70.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Mr. and Mrs. Robert Mertz",
+    "description": "Printed pattern for Cut Fabric embroidery. Design is of two humans dressed as a rooster and a hen in a landscape.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "pattern for embroidery",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77391_63e2d1c1c57026cf_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "1",
+                "image_id": "77391"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77391_63e2d1c1c57026cf_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "1",
+                "image_id": "77391"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77391_63e2d1c1c57026cf_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "1",
+                "image_id": "77391"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77391_63e2d1c1c57026cf_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "1",
+                "image_id": "77391"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77391_63e2d1c1c57026cf_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "77391"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18047459",
+            "role_id": "35352245",
+            "person_name": "Gillian Moss",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Pattern For Embroidery (possibly USA), early 20th century. linen (foundation), mercerized cotton (thread),  how identified: by eye. Gift of Mr. and Mrs. Robert Mertz. 1983-14-8."
+    },
+    "colors": [
+        {
+            "color": "#8a9492",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        },
+        {
+            "color": "#546d78",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

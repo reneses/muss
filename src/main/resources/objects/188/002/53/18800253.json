@@ -1,0 +1,233 @@
+{
+    "id": "18800253",
+    "tms:id": "180289",
+    "accession_number": "1982-81-1",
+    "title": "Length (northeastern Italy), late 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800253\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "139717",
+    "type_id": "35255725",
+    "date": "late 19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1982",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Length",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77373_de07772d801a7806_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "1",
+                "image_id": "77373"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77373_de07772d801a7806_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "1",
+                "image_id": "77373"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77373_de07772d801a7806_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "1",
+                "image_id": "77373"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77373_de07772d801a7806_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "1",
+                "image_id": "77373"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77373_de07772d801a7806_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "77373"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/129916_113ef28d97a9d4dc_b.jpg",
+                "width": 1024,
+                "height": 534,
+                "is_primary": "0",
+                "image_id": "129916"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/129916_113ef28d97a9d4dc_z.jpg",
+                "width": 640,
+                "height": 334,
+                "is_primary": "0",
+                "image_id": "129916"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/129916_113ef28d97a9d4dc_n.jpg",
+                "width": 320,
+                "height": 167,
+                "is_primary": "0",
+                "image_id": "129916"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/129916_113ef28d97a9d4dc_d.gif",
+                "width": 320,
+                "height": 167,
+                "is_primary": "0",
+                "image_id": "129916"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/129916_113ef28d97a9d4dc_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "129916"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77374_798027d1ba888176_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "77374"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77374_798027d1ba888176_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "77374"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77374_798027d1ba888176_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "77374"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77374_798027d1ba888176_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "77374"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77374_798027d1ba888176_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77374"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77375_08dfbc867f3eed72_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "77375"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77375_08dfbc867f3eed72_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "77375"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77375_08dfbc867f3eed72_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "77375"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77375_08dfbc867f3eed72_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "77375"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77375_08dfbc867f3eed72_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77375"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18053215",
+            "role_id": "35351535",
+            "person_name": "Mrs. Ruth M. Blaine",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053215\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Length (northeastern Italy), late 19th century. 1982-81-1."
+    },
+    "colors": [
+        {
+            "color": "#2c2a38",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#aa9ea3",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#e3d5d6",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
+        },
+        {
+            "color": "#67626b",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#8a7e84",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
+}

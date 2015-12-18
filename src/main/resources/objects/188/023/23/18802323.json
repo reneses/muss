@@ -1,0 +1,232 @@
+{
+    "id": "18802323",
+    "tms:id": "181328",
+    "accession_number": "1984-126-1",
+    "title": "Shawl, mid-19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18802323\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35410677",
+    "type_id": "35259619",
+    "date": "mid-19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "cotton, wool",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 368 x 157.5 cm (12 ft. 7\/8 in. x 5 ft. 2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "368.00",
+            "centimeters"
+        ],
+        "width": [
+            "157.50",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Long rectangular shawl with a paisley pattern and black in the center",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Shawl",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/174296_042dad09ef9b93ca_b.jpg",
+                "width": 1024,
+                "height": 805,
+                "is_primary": "1",
+                "image_id": "174296"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/174296_042dad09ef9b93ca_z.jpg",
+                "width": 640,
+                "height": 503,
+                "is_primary": "1",
+                "image_id": "174296"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/174296_042dad09ef9b93ca_n.jpg",
+                "width": 320,
+                "height": 252,
+                "is_primary": "1",
+                "image_id": "174296"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/174296_042dad09ef9b93ca_d.gif",
+                "width": 320,
+                "height": 252,
+                "is_primary": "1",
+                "image_id": "174296"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/174296_042dad09ef9b93ca_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "174296"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77575_52f0feead6e04543_b.jpg",
+                "width": 686,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "77575"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77575_52f0feead6e04543_z.jpg",
+                "width": 429,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "77575"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77575_52f0feead6e04543_n.jpg",
+                "width": 214,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77575"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77575_52f0feead6e04543_d.gif",
+                "width": 214,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77575"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77575_52f0feead6e04543_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77575"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77576_3d8e24d7c4928c67_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "77576"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77576_3d8e24d7c4928c67_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "77576"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77576_3d8e24d7c4928c67_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "77576"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77576_3d8e24d7c4928c67_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "77576"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77576_3d8e24d7c4928c67_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77576"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77577_d5099f864b20347b_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "77577"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77577_d5099f864b20347b_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "77577"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77577_d5099f864b20347b_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "77577"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77577_d5099f864b20347b_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "77577"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77577_d5099f864b20347b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77577"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Shawl, mid-19th century. cotton, wool. 1984-126-1."
+    },
+    "colors": [
+        {
+            "color": "#674d25",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#685f55",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#786843",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#83624a",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#733927",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        }
+    ],
+    "is_loan_object": 0
+}

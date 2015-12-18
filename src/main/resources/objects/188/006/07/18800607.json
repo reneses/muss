@@ -1,0 +1,188 @@
+{
+    "id": "18800607",
+    "tms:id": "180470",
+    "accession_number": "1983-40-2-a,b",
+    "title": "Earring (Norway)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800607\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35367405",
+    "type_id": "35249407",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1983",
+    "decade": null,
+    "woe:country_id": "23424910",
+    "medium": "enamel",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 0.8 x 1.8 cm (5\/16 x 11\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "1.80",
+            "centimeters"
+        ],
+        "height": [
+            "0.80",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Fred and Julia Haiblen",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424910",
+    "type": "earring",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132167_bb85a9efb96de803_b.jpg",
+                "width": 1024,
+                "height": 603,
+                "is_primary": "1",
+                "image_id": "132167"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132167_bb85a9efb96de803_z.jpg",
+                "width": 640,
+                "height": 377,
+                "is_primary": "1",
+                "image_id": "132167"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132167_bb85a9efb96de803_n.jpg",
+                "width": 320,
+                "height": 188,
+                "is_primary": "1",
+                "image_id": "132167"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132167_bb85a9efb96de803_d.gif",
+                "width": 320,
+                "height": 188,
+                "is_primary": "1",
+                "image_id": "132167"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132167_bb85a9efb96de803_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "132167"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10134_a8036b18f9c2d8c0_b.jpg",
+                "width": 1024,
+                "height": 554,
+                "is_primary": "0",
+                "image_id": "10134"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10134_a8036b18f9c2d8c0_z.jpg",
+                "width": 640,
+                "height": 346,
+                "is_primary": "0",
+                "image_id": "10134"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10134_a8036b18f9c2d8c0_n.jpg",
+                "width": 320,
+                "height": 173,
+                "is_primary": "0",
+                "image_id": "10134"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10134_a8036b18f9c2d8c0_d.gif",
+                "width": 320,
+                "height": 173,
+                "is_primary": "0",
+                "image_id": "10134"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10134_a8036b18f9c2d8c0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "10134"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18040945",
+            "role_id": "35351535",
+            "person_name": "Julia A. Haiblen",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18040945\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18059561",
+            "role_id": "35351535",
+            "person_name": "Fred Haiblen",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18059561\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18052357",
+            "role_id": "35236655",
+            "person_name": "David Andersen",
+            "person_date": "Norwegian, 1843\u20131901",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052357\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Earring (Norway). enamel. Gift of Fred and Julia Haiblen. 1983-40-2-a,b."
+    },
+    "colors": [
+        {
+            "color": "#72a079",
+            "closest_crayola": "#6dae81",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#9fd0a7",
+            "closest_crayola": "#a8e4a0",
+            "closest_css3": "#8fbc8f",
+            "closest_css4": "#8fbc8f"
+        },
+        {
+            "color": "#988d6d",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#74694a",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#443826",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "Norway",
+    "is_loan_object": 0
+}

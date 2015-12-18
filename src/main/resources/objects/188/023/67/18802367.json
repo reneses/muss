@@ -1,0 +1,125 @@
+{
+    "id": "18802367",
+    "tms:id": "181354",
+    "accession_number": "1984-132-10-a,b",
+    "title": "Snuff Bottle And Stopper",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18802367\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35375039",
+    "type_id": "35286135",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "amber",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Overall: 8.5 x 6.3 x 3.6 cm (3 3\/8 x 2 1\/2 x 1 7\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "3.60",
+            "centimeters"
+        ],
+        "height": [
+            "8.50",
+            "centimeters"
+        ],
+        "width": [
+            "6.30",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Snuff bottle and stopper",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120076_8fc434df76faa586_b.jpg",
+                "width": 910,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "120076"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120076_8fc434df76faa586_z.jpg",
+                "width": 569,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "120076"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120076_8fc434df76faa586_n.jpg",
+                "width": 284,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "120076"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120076_8fc434df76faa586_d.gif",
+                "width": 284,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "120076"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120076_8fc434df76faa586_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "120076"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Snuff Bottle And Stopper. amber. 1984-132-10-a,b."
+    },
+    "colors": [
+        {
+            "color": "#423935",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#331d16",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#60564d",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#7a7672",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#8e6262",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
+}

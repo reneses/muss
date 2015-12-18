@@ -1,0 +1,157 @@
+{
+    "id": "18803899",
+    "tms:id": "182227",
+    "accession_number": "1985-103-199",
+    "title": "Spoon (France), ca. 1798\u20131809",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18803899\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35428065",
+    "type_id": "35249775",
+    "date": "ca. 1798\u20131809",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "ivory, silver",
+    "markings": "On back of handle: crowned R P ; mark in shape of a gate; Tardy, Silver (1981) p. 189, 192, 318; France, 1798-1809",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Robert L. Metzenberg",
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg",
+    "description": "Small oval spoon bowl, rattail on the back of bowl; flat stem, drop bolster. Plain rectangular ferrule, pistol-shaped handle of carved ivory with beaded cresting on top of handle and halfway on one side. End of handle carved on front and back with snail-shell and drop-shaped ornaments.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "spoon",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118412_89a34480f10d3406_b.jpg",
+                "width": 488,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "118412"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118412_89a34480f10d3406_z.jpg",
+                "width": 305,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "118412"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118412_89a34480f10d3406_n.jpg",
+                "width": 153,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118412"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118412_89a34480f10d3406_d.gif",
+                "width": 153,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118412"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118412_89a34480f10d3406_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "118412"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19101_0499547f84460958_b.jpg",
+                "width": 538,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "19101"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19101_0499547f84460958_z.jpg",
+                "width": 336,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "19101"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19101_0499547f84460958_n.jpg",
+                "width": 168,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19101"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19101_0499547f84460958_d.gif",
+                "width": 168,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19101"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19101_0499547f84460958_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "19101"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18535985",
+            "role_id": "35351535",
+            "person_name": "Eleanor L. Metzenberg",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048365",
+            "role_id": "35352245",
+            "person_name": "S. Wilmering",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Spoon (France), ca. 1798\u20131809. ivory, silver. The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg. 1985-103-199."
+    },
+    "colors": [
+        {
+            "color": "#ebdaba",
+            "closest_crayola": "#efcdb8",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
+        },
+        {
+            "color": "#9e958b",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#6b6564",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

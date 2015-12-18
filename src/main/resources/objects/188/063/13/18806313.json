@@ -1,0 +1,161 @@
+{
+    "id": "18806313",
+    "tms:id": "183461",
+    "accession_number": "1986-118-6",
+    "title": "Drawing, Everybody's Acting, 1924",
+    "title_raw": "Everybody's Acting",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18806313\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35475357",
+    "type_id": "35237093",
+    "date": "1924",
+    "year_start": 1924,
+    "year_end": 1924,
+    "year_acquired": "1986",
+    "decade": "1920",
+    "woe:country_id": "23424977",
+    "medium": "brush and gouache on cardboard",
+    "markings": null,
+    "signed": "Signed in green gouache, right: BATISTE \/ MADALENA; in graphite: 1924",
+    "inscribed": null,
+    "provenance": "Judith and Steven Katten",
+    "dimensions": "109.5 x 61 cm (43 1\/8 in. x 24 in.)",
+    "dimensions_raw": {
+        "height": [
+            "109.50",
+            "centimeters"
+        ],
+        "width": [
+            "61.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Judith and Steven Katten",
+    "description": "The poster depicts a young woman, wearing a red dress and black Mary Janes, shown from behind. Lower left, a small silhouette of a dancer; lower right, a small figure playing the guitar. Text in light blue-gray gouache, upper left: A FASCINATING \/ GLIMPSE BEHIND \/ THE FOOTLIGHTS; in white gouache, lower right: BETTY \/ BRONSON \/ IN; in white gouache, lower margin: \"EVERYBODY'S \/ ACTING\" \/ [in green gouache] WITH\/ [in blue gouache] LOUISE DRESSER & FORD STERLING.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28183_6a281a87f90a755e_b.jpg",
+                "width": 603,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "28183"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28183_6a281a87f90a755e_z.jpg",
+                "width": 377,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "28183"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28183_6a281a87f90a755e_n.jpg",
+                "width": 188,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "28183"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28183_6a281a87f90a755e_d.gif",
+                "width": 188,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "28183"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28183_6a281a87f90a755e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "28183"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "51676457",
+            "role_id": "35352245",
+            "person_name": "Karin Zonis",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18061845",
+            "role_id": "35351535",
+            "person_name": "Judith Katten",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061845\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18061847",
+            "role_id": "35351535",
+            "person_name": "Steven Katten",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061847\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18041971",
+            "role_id": "35236655",
+            "person_name": "Batiste Madalena, Italian",
+            "person_date": "active USA, 1902\u20131988",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041971\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Everybody's Acting, 1924. brush and gouache on cardboard. Gift of Judith and Steven Katten. 1986-118-6."
+    },
+    "colors": [
+        {
+            "color": "#414585",
+            "closest_crayola": "#58427c",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        },
+        {
+            "color": "#536c99",
+            "closest_crayola": "#2e5894",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        },
+        {
+            "color": "#d87d3f",
+            "closest_crayola": "#d68a59",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#c6d295",
+            "closest_crayola": "#c5e384",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#36374b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

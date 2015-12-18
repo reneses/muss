@@ -1,0 +1,203 @@
+{
+    "id": "18803979",
+    "tms:id": "182267",
+    "accession_number": "1985-103-234",
+    "title": "Knife (France), ca. 1730",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18803979\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35432863",
+    "type_id": "35248783",
+    "date": "ca. 1730",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "porcelain, silver, steel",
+    "markings": "On blade: Cutler's mark ; On silver ferrule: Fleur-de-lis",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Robert L. Metzenberg",
+    "dimensions": "L x W: 24.6 x 2.2 cm (9 11\/16 x 7\/8 in.)",
+    "dimensions_raw": {
+        "length": [
+            "24.60",
+            "centimeters"
+        ],
+        "width": [
+            "2.20",
+            "centimeters"
+        ]
+    },
+    "creditline": "The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg",
+    "description": "Leaf-shaped blade, almost straight edges, plain bolster. Silver ferrule with horizontal bands. Tapering white porcelain handle with dark blue floral and scrolled decoration. Silver button cap at the top of the handle.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "knife",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119619_59788fa40a24e8ca_b.jpg",
+                "width": 531,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "119619"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119619_59788fa40a24e8ca_z.jpg",
+                "width": 332,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "119619"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119619_59788fa40a24e8ca_n.jpg",
+                "width": 166,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "119619"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119619_59788fa40a24e8ca_d.gif",
+                "width": 166,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "119619"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119619_59788fa40a24e8ca_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "119619"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10761_9410c99aa2fd7690_b.jpg",
+                "width": 452,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "10761"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10761_9410c99aa2fd7690_z.jpg",
+                "width": 282,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "10761"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10761_9410c99aa2fd7690_n.jpg",
+                "width": 141,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10761"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10761_9410c99aa2fd7690_d.gif",
+                "width": 141,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10761"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10761_9410c99aa2fd7690_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "10761"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10760_d100cb16d1ef9410_b.jpg",
+                "width": 328,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "10760"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10760_d100cb16d1ef9410_z.jpg",
+                "width": 205,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "10760"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10760_d100cb16d1ef9410_n.jpg",
+                "width": 102,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10760"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10760_d100cb16d1ef9410_d.gif",
+                "width": 102,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10760"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10760_d100cb16d1ef9410_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "10760"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18535985",
+            "role_id": "35351535",
+            "person_name": "Eleanor L. Metzenberg",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048365",
+            "role_id": "35352245",
+            "person_name": "S. Wilmering",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Knife (France), ca. 1730. porcelain, silver, steel. The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg. 1985-103-234."
+    },
+    "colors": [
+        {
+            "color": "#b2aca8",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#8f8782",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#6e6876",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

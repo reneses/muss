@@ -1,0 +1,308 @@
+{
+    "id": "18804363",
+    "tms:id": "182464",
+    "accession_number": "1985-103-77-a,b",
+    "title": "Folding Fork And Spoon Bowl (Germany), ca. 1690",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18804363\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389463",
+    "type_id": "35293753",
+    "date": "ca. 1690",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424829",
+    "medium": "silver",
+    "markings": "Stamped handle: FW\nStamp of block numbers (?) on reverse side",
+    "signed": null,
+    "inscribed": "On fork: VI (engraved)\n\nOn spoon: VI (engraved)",
+    "provenance": "Robert L. Metzenberg",
+    "dimensions": "L x W (fork): 15.5 x 1.9 cm (6 1\/8 x 3\/4 in.)\nL x W (spoon bowl): 6.3 x 4.2 cm (2 1\/2 x 1 5\/8 in.)",
+    "dimensions_raw": {
+        "length": [
+            "15.50",
+            "centimeters"
+        ],
+        "width": [
+            "1.90",
+            "centimeters"
+        ]
+    },
+    "creditline": "The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg",
+    "description": "Fork has three curved tines, flat tapering handle with bowl-shaped end, scrolled shoulders. Hinged at neck, faceted sliding lock bar. Octagonal handle with engraved fish-bone decoration and floral design, baluster shaped top.\n\nOval spoon bowl, engraved on back with symmetrical floral design. Two slots on the back of bowl to attach the fork.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "Folding fork and spoon bowl",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122107_47cf65b987fb53dd_b.jpg",
+                "width": 589,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "122107"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122107_47cf65b987fb53dd_z.jpg",
+                "width": 368,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "122107"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122107_47cf65b987fb53dd_n.jpg",
+                "width": 184,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "122107"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122107_47cf65b987fb53dd_d.gif",
+                "width": 184,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "122107"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122107_47cf65b987fb53dd_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "122107"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19251_8f3ceef1ef00c608_b.jpg",
+                "width": 1024,
+                "height": 552,
+                "is_primary": "0",
+                "image_id": "19251"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19251_8f3ceef1ef00c608_z.jpg",
+                "width": 640,
+                "height": 345,
+                "is_primary": "0",
+                "image_id": "19251"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19251_8f3ceef1ef00c608_n.jpg",
+                "width": 320,
+                "height": 173,
+                "is_primary": "0",
+                "image_id": "19251"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19251_8f3ceef1ef00c608_d.gif",
+                "width": 320,
+                "height": 173,
+                "is_primary": "0",
+                "image_id": "19251"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19251_8f3ceef1ef00c608_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "19251"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10383_f313ea97b5b4bf69_b.jpg",
+                "width": 428,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "10383"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10383_f313ea97b5b4bf69_z.jpg",
+                "width": 268,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "10383"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10383_f313ea97b5b4bf69_n.jpg",
+                "width": 134,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10383"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10383_f313ea97b5b4bf69_d.gif",
+                "width": 134,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10383"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10383_f313ea97b5b4bf69_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "10383"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10384_dd556961818e2d7b_b.jpg",
+                "width": 464,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "10384"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10384_dd556961818e2d7b_z.jpg",
+                "width": 290,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "10384"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10384_dd556961818e2d7b_n.jpg",
+                "width": 145,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10384"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10384_dd556961818e2d7b_d.gif",
+                "width": 145,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10384"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10384_dd556961818e2d7b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "10384"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10385_6e8a6c7057d87910_b.jpg",
+                "width": 580,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "10385"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10385_6e8a6c7057d87910_z.jpg",
+                "width": 362,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "10385"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10385_6e8a6c7057d87910_n.jpg",
+                "width": 181,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10385"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10385_6e8a6c7057d87910_d.gif",
+                "width": 181,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10385"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10385_6e8a6c7057d87910_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "10385"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10386_84ab73b9dd78aff0_b.jpg",
+                "width": 572,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "10386"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10386_84ab73b9dd78aff0_z.jpg",
+                "width": 358,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "10386"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10386_84ab73b9dd78aff0_n.jpg",
+                "width": 179,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10386"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10386_84ab73b9dd78aff0_d.gif",
+                "width": 179,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10386"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10386_84ab73b9dd78aff0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "10386"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18048365",
+            "role_id": "35352245",
+            "person_name": "S. Wilmering",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18535985",
+            "role_id": "35351535",
+            "person_name": "Eleanor L. Metzenberg",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Folding Fork And Spoon Bowl (Germany), ca. 1690. silver. The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg. 1985-103-77-a,b."
+    },
+    "colors": [
+        {
+            "color": "#988f83",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#7b736b",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
+}

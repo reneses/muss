@@ -1,0 +1,129 @@
+{
+    "id": "18800971",
+    "tms:id": "180652",
+    "accession_number": "1983-69-1",
+    "title": "Ring (Italy), 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800971\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35432589",
+    "type_id": "35236865",
+    "date": "19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1983",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "gold, carved shell",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Overall: 2.6 x 2.3 x 2.2 cm (1 x 7\/8 x 7\/8 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "2.20",
+            "centimeters"
+        ],
+        "height": [
+            "2.60",
+            "centimeters"
+        ],
+        "width": [
+            "2.30",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift from the Thomas W. Evans Collection from University of Pennsylvania School of Dental Medicine",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Ring",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/131974_3adcdd155b0d43b6_b.jpg",
+                "width": 1024,
+                "height": 884,
+                "is_primary": "1",
+                "image_id": "131974"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/131974_3adcdd155b0d43b6_z.jpg",
+                "width": 640,
+                "height": 553,
+                "is_primary": "1",
+                "image_id": "131974"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/131974_3adcdd155b0d43b6_n.jpg",
+                "width": 320,
+                "height": 276,
+                "is_primary": "1",
+                "image_id": "131974"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/131974_3adcdd155b0d43b6_d.gif",
+                "width": 320,
+                "height": 276,
+                "is_primary": "1",
+                "image_id": "131974"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/131974_3adcdd155b0d43b6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "131974"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18057517",
+            "role_id": "35351535",
+            "person_name": "University of Pennsylvania School of Dental Medicine",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18057517\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Ring (Italy), 19th century. gold, carved shell. Gift from the Thomas W. Evans Collection from University of Pennsylvania School of Dental Medicine. 1983-69-1."
+    },
+    "colors": [
+        {
+            "color": "#b9ad96",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#ab893a",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#99886c",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#78571d",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
+}

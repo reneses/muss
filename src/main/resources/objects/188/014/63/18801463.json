@@ -1,0 +1,83 @@
+{
+    "id": "18801463",
+    "tms:id": "180898",
+    "accession_number": "1984-112-1",
+    "title": "Livery Band",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801463\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35367101",
+    "type_id": "35289255",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "velvet",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Livery band",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/198339_3273f3f8198cbdca_b.jpg",
+                "width": 367,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "198339"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/198339_3273f3f8198cbdca_z.jpg",
+                "width": 229,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "198339"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/198339_3273f3f8198cbdca_n.jpg",
+                "width": 115,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "198339"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/198339_3273f3f8198cbdca_d.gif",
+                "width": 115,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "198339"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/198339_3273f3f8198cbdca_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "198339"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Livery Band. velvet. 1984-112-1."
+    },
+    "colors": [
+
+    ],
+    "is_loan_object": 0
+}

@@ -1,0 +1,182 @@
+{
+    "id": "35460347",
+    "tms:id": "274667",
+    "accession_number": "14.2012.52",
+    "title": "Mariner's Astrolabe (replica) (USA), Original: 1602; replica: 1963",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35460347\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "35390047",
+    "type_id": "68250193",
+    "date": "Original: 1602; replica: 1963",
+    "year_start": 1963,
+    "year_end": 1963,
+    "year_acquired": null,
+    "decade": "1960",
+    "woe:country_id": "23424977",
+    "medium": "bronze",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 22.2 x 17.1 x 6 cm (8 3\/4 x 6 3\/4 x 2 3\/8 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "6.03",
+            "centimeters"
+        ],
+        "height": [
+            "22.23",
+            "centimeters"
+        ],
+        "width": [
+            "17.15",
+            "centimeters"
+        ]
+    },
+    "creditline": "Smithsonian Institution, National Museum of American History, 323719",
+    "description": null,
+    "justification": null,
+    "gallery_text": "Tables for calculating ship position from the sun and stars were published in 15th century Europe, transforming marine navigation from a coastal enterprise to open sea sailing. Instrument makers devised new observation tools, including the mariner\u2019s astrolabe, a device that displayed how star position shifted with changes in time and latitude. Astrolabes were typically made of bronze or similarly non-corrosive metals and consisted of a heavy wheel attached to a pivoted suspension ring arm, called the alidade. The arm rotated over a scale of degrees on the wheel\u2019s upper quadrants and had two sighting vanes equipped with pinholes that were aligned with either the polestar or the sun. The navigator read the degrees of altitude indicated, measured from either the horizon or the zenith, and determined the ship\u2019s latitude according to astronomical tables. The first documented use of a mariner\u2019s astrolabe was on a Portuguese voyage along the west coast of Africa in 1481 and later evidence suggests that a single ship might carry many astrolabes alongside other aids to celestial navigation.",
+    "label_text": "The great European voyages of exploration and trade that began in the fifteenth century depended on a new kind of celestial-navigation tool, the mariner\u2019s astrolabe. Together with astronomical tables, astrolabes helped mariners calculate a ship\u2019s latitude on the open seas, based on the angle measured between the Sun or a specific star and the horizon or zenith.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Mariner's astrolabe (replica)",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93476_b6bf0ac57b71d696_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "93476"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93476_b6bf0ac57b71d696_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "93476"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93476_b6bf0ac57b71d696_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93476"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93476_b6bf0ac57b71d696_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93476"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93476_b6bf0ac57b71d696_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93476"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113629_b6bf0ac57b71d696_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113629"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113629_b6bf0ac57b71d696_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113629"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113629_b6bf0ac57b71d696_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113629"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113629_b6bf0ac57b71d696_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113629"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113629_b6bf0ac57b71d696_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113629"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68248093",
+            "role_id": "35236685",
+            "person_name": "Laurits Christian Eichner",
+            "person_date": "(American, b. Denmark, 1894 - 1967)",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248093\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18041125",
+            "role_id": "51571131",
+            "person_name": "National Museum of American History",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041125\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Mariner's Astrolabe (replica) (USA), Original: 1602; replica: 1963. bronze. Smithsonian Institution, National Museum of American History, 323719. 14.2012.52."
+    },
+    "colors": [
+        {
+            "color": "#938670",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#b9a882",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#b5b1aa",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#312e2a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#f2e2b2",
+            "closest_crayola": "#fae7b5",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

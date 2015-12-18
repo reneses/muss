@@ -1,0 +1,182 @@
+{
+    "id": "35460629",
+    "tms:id": "274778",
+    "accession_number": "2012-16-6",
+    "title": "Design # 940 Shallow Bowl, 1949",
+    "title_raw": "Design # 940",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35460629\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "68777601",
+    "type_id": "35460627",
+    "date": "1949",
+    "year_start": 1949,
+    "year_end": 1949,
+    "year_acquired": "2012",
+    "decade": "1940",
+    "woe:country_id": "23424977",
+    "medium": "handblown glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "August 4, 2006: gifted to Damon Crain by Winslow Anderon, Milton, West Virginia; 2012: acquired by Museum",
+    "dimensions": "H x diam.: 5.3 \u00d7 22.1 cm (2 1\/16 \u00d7 8 11\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "22.10",
+            "centimeters"
+        ],
+        "height": [
+            "5.30",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Damon Crain",
+    "description": "Shallow blue thick glass bowl with two ridges.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Shallow Bowl",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50241_27a7f25c1441ac26_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "50241"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50241_27a7f25c1441ac26_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "50241"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50241_27a7f25c1441ac26_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "50241"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50241_27a7f25c1441ac26_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "50241"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50241_27a7f25c1441ac26_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "50241"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116106_361629d87cd086f5_b.jpg",
+                "width": 1024,
+                "height": 565,
+                "is_primary": "0",
+                "image_id": "116106"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116106_361629d87cd086f5_z.jpg",
+                "width": 640,
+                "height": 353,
+                "is_primary": "0",
+                "image_id": "116106"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116106_361629d87cd086f5_n.jpg",
+                "width": 320,
+                "height": 177,
+                "is_primary": "0",
+                "image_id": "116106"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116106_361629d87cd086f5_d.gif",
+                "width": 320,
+                "height": 177,
+                "is_primary": "0",
+                "image_id": "116106"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116106_361629d87cd086f5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "116106"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "35459779",
+            "role_id": "35236657",
+            "person_name": "Blenko Glass Company",
+            "person_date": "Milton, West Virginia, 1921 - 2012",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/35459779\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "35459783",
+            "role_id": "35236655",
+            "person_name": "Winslow Anderson",
+            "person_date": "American, 1917\u20132007",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/35459783\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "51676487",
+            "role_id": "35351535",
+            "person_name": "Damon Crain",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676487\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Design # 940 Shallow Bowl, 1949. handblown glass. Gift of Damon Crain. 2012-16-6."
+    },
+    "colors": [
+        {
+            "color": "#68809b",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        },
+        {
+            "color": "#99b1cb",
+            "closest_crayola": "#a2add0",
+            "closest_css3": "#b0c4de",
+            "closest_css4": "#b0c4de"
+        },
+        {
+            "color": "#122a64",
+            "closest_crayola": "#1a4876",
+            "closest_css3": "#191970",
+            "closest_css4": "#191970"
+        },
+        {
+            "color": "#495e7f",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

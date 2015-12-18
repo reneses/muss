@@ -1,0 +1,211 @@
+{
+    "id": "18802753",
+    "tms:id": "181563",
+    "accession_number": "1984-69-8",
+    "title": "Textile, Fleur",
+    "title_raw": "Fleur",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18802753\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": "23424829",
+    "medium": "cotton",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1984: acquired by Museum",
+    "dimensions": "Warp x Weft: 122 x 136.5 cm (48 1\/16 x 53 3\/4 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "122.00",
+            "centimeters"
+        ],
+        "weft": [
+            "136.50",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Sheer fabric with a pattern of tulips on a striped background in pale colors.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/152060_c16ca2353aaf02a7_b.jpg",
+                "width": 1024,
+                "height": 923,
+                "is_primary": "1",
+                "image_id": "152060"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/152060_c16ca2353aaf02a7_z.jpg",
+                "width": 640,
+                "height": 577,
+                "is_primary": "1",
+                "image_id": "152060"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/152060_c16ca2353aaf02a7_n.jpg",
+                "width": 320,
+                "height": 288,
+                "is_primary": "1",
+                "image_id": "152060"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/152060_c16ca2353aaf02a7_d.gif",
+                "width": 320,
+                "height": 288,
+                "is_primary": "1",
+                "image_id": "152060"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/152060_c16ca2353aaf02a7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "152060"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77614_56d242fffc129553_b.jpg",
+                "width": 1024,
+                "height": 870,
+                "is_primary": "0",
+                "image_id": "77614"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77614_56d242fffc129553_z.jpg",
+                "width": 640,
+                "height": 544,
+                "is_primary": "0",
+                "image_id": "77614"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77614_56d242fffc129553_n.jpg",
+                "width": 320,
+                "height": 272,
+                "is_primary": "0",
+                "image_id": "77614"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77614_56d242fffc129553_d.gif",
+                "width": 320,
+                "height": 272,
+                "is_primary": "0",
+                "image_id": "77614"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77614_56d242fffc129553_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77614"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77615_fe8df1cc5ab08ec8_b.jpg",
+                "width": 1024,
+                "height": 669,
+                "is_primary": "0",
+                "image_id": "77615"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77615_fe8df1cc5ab08ec8_z.jpg",
+                "width": 640,
+                "height": 418,
+                "is_primary": "0",
+                "image_id": "77615"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77615_fe8df1cc5ab08ec8_n.jpg",
+                "width": 320,
+                "height": 209,
+                "is_primary": "0",
+                "image_id": "77615"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77615_fe8df1cc5ab08ec8_d.gif",
+                "width": 320,
+                "height": 209,
+                "is_primary": "0",
+                "image_id": "77615"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77615_fe8df1cc5ab08ec8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77615"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18048019",
+            "role_id": "35352245",
+            "person_name": "lm",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048019\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18046357",
+            "role_id": "35236681",
+            "person_name": "Interlubke Creation MEDITA",
+            "person_date": "",
+            "role_name": "Company",
+            "role_display_name": "Company:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046357\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236681\/"
+        },
+        {
+            "person_id": "18045467",
+            "role_id": "35236685",
+            "person_name": "Taunus Textildruck Zimmer",
+            "person_date": "Oberusel, Germany, est. 1899",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045467\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18045487",
+            "role_id": "35236655",
+            "person_name": "Inga Leder",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045487\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile, Fleur. cotton. 1984-69-8."
+    },
+    "colors": [
+        {
+            "color": "#9d9b93",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
+}

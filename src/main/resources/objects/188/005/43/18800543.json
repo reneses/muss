@@ -1,0 +1,84 @@
+{
+    "id": "18800543",
+    "tms:id": "180435",
+    "accession_number": "1983-33-26",
+    "title": "Drawing (USA)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800543\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35237093",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1983",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/190554_b30504d1b71e9601_b.jpg",
+                "width": 759,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "190554"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/190554_b30504d1b71e9601_z.jpg",
+                "width": 474,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "190554"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/190554_b30504d1b71e9601_n.jpg",
+                "width": 237,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "190554"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/190554_b30504d1b71e9601_d.gif",
+                "width": 237,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "190554"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/190554_b30504d1b71e9601_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "190554"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Drawing (USA). 1983-33-26."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

@@ -1,0 +1,121 @@
+{
+    "id": "18800017",
+    "tms:id": "180171",
+    "accession_number": "1982-52-13",
+    "title": "Souvenir (USA), 1893",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800017\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35293535",
+    "date": "1893",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1982",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Mr. and Mrs. Boris Kroll",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "souvenir",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217317_83b832f46be06690_b.jpg",
+                "width": 376,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "217317"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217317_83b832f46be06690_z.jpg",
+                "width": 235,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "217317"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217317_83b832f46be06690_n.jpg",
+                "width": 118,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "217317"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217317_83b832f46be06690_d.gif",
+                "width": 118,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "217317"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217317_83b832f46be06690_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "217317"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77325_5f1405825c704aed_b.jpg",
+                "width": 545,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "77325"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77325_5f1405825c704aed_z.jpg",
+                "width": 341,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "77325"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77325_5f1405825c704aed_n.jpg",
+                "width": 170,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77325"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77325_5f1405825c704aed_d.gif",
+                "width": 170,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77325"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77325_5f1405825c704aed_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77325"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Souvenir (USA), 1893. Gift of Mr. and Mrs. Boris Kroll. 1982-52-13."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

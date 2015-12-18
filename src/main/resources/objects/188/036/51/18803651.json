@@ -1,0 +1,171 @@
+{
+    "id": "18803651",
+    "tms:id": "182103",
+    "accession_number": "1985-103-103",
+    "title": "Folding Fork, late 17th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18803651\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35393845",
+    "type_id": "35293701",
+    "date": "late 17th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "brass, steel",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "L x W: 14.5 x 2.3 cm (5 11\/16 x 7\/8 in.)",
+    "dimensions_raw": {
+        "length": [
+            "14.50",
+            "centimeters"
+        ],
+        "width": [
+            "2.30",
+            "centimeters"
+        ]
+    },
+    "creditline": "The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg",
+    "description": "Fork has four curved tines, rounded shoulders. Plain flat neck which is hinged. Centre of handle made of steel, brass along the sides, top has flat round shape. Simple engraved floral decoration on front and back.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Folding fork",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118151_c7f3d21cdbdaae30_b.jpg",
+                "width": 574,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "118151"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118151_c7f3d21cdbdaae30_z.jpg",
+                "width": 358,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "118151"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118151_c7f3d21cdbdaae30_n.jpg",
+                "width": 179,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118151"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118151_c7f3d21cdbdaae30_d.gif",
+                "width": 179,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118151"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118151_c7f3d21cdbdaae30_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "118151"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19027_a6083bb22fdd0e9f_b.jpg",
+                "width": 512,
+                "height": 948,
+                "is_primary": "0",
+                "image_id": "19027"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19027_a6083bb22fdd0e9f_z.jpg",
+                "width": 346,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "19027"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19027_a6083bb22fdd0e9f_n.jpg",
+                "width": 173,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19027"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19027_a6083bb22fdd0e9f_d.gif",
+                "width": 173,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19027"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19027_a6083bb22fdd0e9f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "19027"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18048365",
+            "role_id": "35352245",
+            "person_name": "S. Wilmering",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18535985",
+            "role_id": "35351535",
+            "person_name": "Eleanor L. Metzenberg",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Folding Fork, late 17th century. brass, steel. The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg. 1985-103-103."
+    },
+    "colors": [
+        {
+            "color": "#877755",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#6d614f",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#958d81",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#c4b38c",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "is_loan_object": 0
+}

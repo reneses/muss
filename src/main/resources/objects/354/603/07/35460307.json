@@ -1,0 +1,182 @@
+{
+    "id": "35460307",
+    "tms:id": "274658",
+    "accession_number": "14.2012.43",
+    "title": "Ether Inhaler (USA), ca. 1846",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35460307\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "68515337",
+    "type_id": "35460305",
+    "date": "ca. 1846",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": null,
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "glass, horn, metal, textile wrapping, wooden base (not original to the object)",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D (overall): 27.9 \u00d7 31.8 \u00d7 30.5 cm (11 in. \u00d7 12 1\/2 in. \u00d7 12 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "30.50",
+            "centimeters"
+        ],
+        "height": [
+            "27.90",
+            "centimeters"
+        ],
+        "width": [
+            "31.80",
+            "centimeters"
+        ]
+    },
+    "creditline": "Smithsonian Institution, National Museum of American History, Cat. M-09244",
+    "description": null,
+    "justification": null,
+    "gallery_text": "This device for administering anesthesia represents the first attempt to sedate surgery patients on a mass-scale. It consists of a glass vessel containing a sponge soaked with the evaporat\u00acing chemical that the patient then inhaled through the tube. In the 1840s, Massa\u00acchusetts dentist Horace Wells introduced anesthesia into operations. After Wells\u2019 death, fellow dentist William T. G. Morton experimented with the promising sedatives ether and chloroform, though ether smelled pungent and chloroform could cause sudden death. Nonetheless, Morton succeeded in pulling teeth painlessly from a patient under ether sedation and in 1846, another surgeon successfully removed a neck tumor. Within a year, this \u201canaesthestic\u201d\u2014a term coined by physician Oliver Wendell Holmes\u2014was employed in nearly every surgery when available. Later designs of this simple two-necked glass tool limited administration of the gas to the patient, not to oth\u00acers in the room as well.",
+    "label_text": "Finding cures for illnesses, protecting against negative forces, and increasing quality of life with prosthetics and pain-prevention all result from our desire to live longer and healthier. Managing pain in the operating room was complicated and mostly ineffective until ether was introduced in 1846. Within a year of its introduction, anesthesia was employed in every surgery where it was available.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Ether inhaler",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93479_31e61db7ecbea607_b.jpg",
+                "width": 1024,
+                "height": 768,
+                "is_primary": "1",
+                "image_id": "93479"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93479_31e61db7ecbea607_z.jpg",
+                "width": 640,
+                "height": 480,
+                "is_primary": "1",
+                "image_id": "93479"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93479_31e61db7ecbea607_n.jpg",
+                "width": 320,
+                "height": 240,
+                "is_primary": "1",
+                "image_id": "93479"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93479_31e61db7ecbea607_d.gif",
+                "width": 320,
+                "height": 240,
+                "is_primary": "1",
+                "image_id": "93479"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93479_31e61db7ecbea607_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93479"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113641_6dbeaf9e2aa9288d_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113641"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113641_6dbeaf9e2aa9288d_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113641"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113641_6dbeaf9e2aa9288d_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113641"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113641_6dbeaf9e2aa9288d_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113641"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113641_6dbeaf9e2aa9288d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113641"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68248095",
+            "role_id": "35236655",
+            "person_name": "William T.G. Morton",
+            "person_date": "(American, 1819-1868)",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248095\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18041125",
+            "role_id": "51571131",
+            "person_name": "National Museum of American History",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041125\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Ether Inhaler (USA), ca. 1846. glass, horn, metal, textile wrapping, wooden base (not original to the object). Smithsonian Institution, National Museum of American History, Cat. M-09244. 14.2012.43."
+    },
+    "colors": [
+        {
+            "color": "#644a3a",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#3c3832",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#836956",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#a5988b",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#635b4e",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

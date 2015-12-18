@@ -1,0 +1,161 @@
+{
+    "id": "18800369",
+    "tms:id": "180347",
+    "accession_number": "1983-16-1",
+    "title": "PH Artichoke Hanging Lamp, 1958",
+    "title_raw": "PH Artichoke",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800369\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "68742997",
+    "type_id": "35253861",
+    "date": "1958",
+    "year_start": 1958,
+    "year_end": 1958,
+    "year_acquired": "1983",
+    "decade": "1950",
+    "woe:country_id": "23424796",
+    "medium": "bent sheet copper, cast steel, enameled metal",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1983: acquired directly from the manufacturer, Louis Poulson & Co. A\/S",
+    "dimensions": "H x diam.: 69 x 84 cm (27 3\/16 x 33 1\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "84.00",
+            "centimeters"
+        ],
+        "height": [
+            "69.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Museum purchase from General Exhibition Funds",
+    "description": "Ceiling-hung light, the segmented artichoke-like form with copper leaves supported on metal framework.",
+    "justification": null,
+    "gallery_text": "Poul Henningsen began experimenting with lighting in 1919, creating a range of lamps that directed rather than diffused light, mimicking gas lighting. The Artichoke lamp is arguably his most decorative variation. Its copper \u201cleaves\u201d create a warm red tone and reflect a maximum of light across a room while shielding viewers from glare. Originally designed for use in a Copenhagen restaurant, the Artichoke was commercially produced in a reduced size.",
+    "label_text": "Henningsen\u2019s PH Artichoke lamp employs copper leaves attached to a metal framework to suggest the actual plant. The resulting composition creates industrial-looking uniform layered planes while evoking a naturally occurring structure.",
+    "videos": null,
+    "on_display": "1",
+    "woe:country": "23424796",
+    "type": "hanging lamp",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16125_5ab1f5766b08f7b3_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "16125"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16125_5ab1f5766b08f7b3_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "16125"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16125_5ab1f5766b08f7b3_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "16125"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16125_5ab1f5766b08f7b3_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "16125"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16125_5ab1f5766b08f7b3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "16125"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18537205",
+            "role_id": "35352249",
+            "person_name": "Louis Poulsen & Co. A\/S",
+            "person_date": "Denmark",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537205\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "18049091",
+            "role_id": "35352247",
+            "person_name": "General Exhibitions Funds",
+            "person_date": "",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049091\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        },
+        {
+            "person_id": "18537205",
+            "role_id": "35236657",
+            "person_name": "Louis Poulsen & Co. A\/S",
+            "person_date": "Denmark",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537205\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18537201",
+            "role_id": "35236655",
+            "person_name": "Poul Henningsen",
+            "person_date": "Danish, 1894\u20131967",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537201\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "PH Artichoke Hanging Lamp, 1958. bent sheet copper, cast steel, enameled metal. Museum purchase from General Exhibition Funds. 1983-16-1."
+    },
+    "colors": [
+        {
+            "color": "#503532",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#7f5049",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#c39781",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#dcba98",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#aa7664",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#cd5c5c",
+            "closest_css4": "#cd5c5c"
+        }
+    ],
+    "woe:country_name": "Denmark",
+    "is_loan_object": 0
+}

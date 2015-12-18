@@ -1,0 +1,172 @@
+{
+    "id": "18803633",
+    "tms:id": "182093",
+    "accession_number": "1985-103-1-a\/c",
+    "title": "Fork Tines, Knife, Sheath Or Fork Handle (probably Austria), ca. 1780\u20131820",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18803633\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35432725",
+    "type_id": "35293697",
+    "date": "ca. 1780\u20131820",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424750",
+    "medium": "antler, nickel-plated metal, steel, leather",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Robert L. Metzenberg Collection",
+    "dimensions": "a: cm: L: 20 x W: 2.5 (7 7\/8 x 1 in.)\nb: cm: L: 10.9 x W: 2.7 (4 5\/16 x 1 1\/16 in.)\nc: cm: L: 8.9 x W: 1.1 (3 1\/2 x 7\/16 in.)",
+    "dimensions_raw": {
+        "length": [
+            "8.90",
+            "centimeters"
+        ],
+        "width": [
+            "1.10",
+            "centimeters"
+        ]
+    },
+    "creditline": "The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg",
+    "description": "Set consisting of: knife (a) with blade having straight top edge and cutting edge tapered to a point, mounted on curved bone handle with baluster ferrule and metal end. Tapered stitched leather sheath (b) with metal tip guard and reeded metal end collar to hold knife and two-pronged fork (c) with short neck and tapered pin. Sheath's tip guard fitted with screw pocket to accept fork pin and become fork's handle.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424750",
+    "type": "Fork tines, knife, sheath or fork handle",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118178_654ae8021fb6bf1b_b.jpg",
+                "width": 786,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "118178"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118178_654ae8021fb6bf1b_z.jpg",
+                "width": 491,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "118178"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118178_654ae8021fb6bf1b_n.jpg",
+                "width": 246,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118178"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118178_654ae8021fb6bf1b_d.gif",
+                "width": 246,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118178"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118178_654ae8021fb6bf1b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "118178"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19371_7e57cec5bc49f7d3_b.jpg",
+                "width": 354,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "19371"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19371_7e57cec5bc49f7d3_z.jpg",
+                "width": 221,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "19371"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19371_7e57cec5bc49f7d3_n.jpg",
+                "width": 111,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19371"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19371_7e57cec5bc49f7d3_d.gif",
+                "width": 111,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19371"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19371_7e57cec5bc49f7d3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "19371"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18535985",
+            "role_id": "35351535",
+            "person_name": "Eleanor L. Metzenberg",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048365",
+            "role_id": "35352245",
+            "person_name": "S. Wilmering",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Fork Tines, Knife, Sheath Or Fork Handle (probably Austria), ca. 1780\u20131820. antler, nickel-plated metal, steel, leather. The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg. 1985-103-1-a\/c."
+    },
+    "colors": [
+        {
+            "color": "#998f83",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#574a46",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#b09369",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#796c60",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "Austria",
+    "is_loan_object": 0
+}

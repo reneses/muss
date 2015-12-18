@@ -1,0 +1,141 @@
+{
+    "id": "18804471",
+    "tms:id": "182520",
+    "accession_number": "1985-119-1",
+    "title": "Dish (England), ca. 1850\u201364",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18804471\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35432993",
+    "type_id": "35248735",
+    "date": "ca. 1850\u201364",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "paper [papier-m\u00e2ch\u00e9], enamel, gilding, varnish",
+    "markings": "stamped at bottom: \"Jennens & Bettridge\"",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 3.4 x 26 cm (1 5\/16 x 10 1\/4 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "26.00",
+            "centimeters"
+        ],
+        "height": [
+            "3.40",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Janet Mavec",
+    "description": "Rococo revival",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "dish",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/171287_634ff91508ddb9e9_b.jpg",
+                "width": 1024,
+                "height": 801,
+                "is_primary": "1",
+                "image_id": "171287"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/171287_634ff91508ddb9e9_z.jpg",
+                "width": 640,
+                "height": 500,
+                "is_primary": "1",
+                "image_id": "171287"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/171287_634ff91508ddb9e9_n.jpg",
+                "width": 320,
+                "height": 250,
+                "is_primary": "1",
+                "image_id": "171287"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/171287_634ff91508ddb9e9_d.gif",
+                "width": 320,
+                "height": 250,
+                "is_primary": "1",
+                "image_id": "171287"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/171287_634ff91508ddb9e9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "171287"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18538847",
+            "role_id": "35351535",
+            "person_name": "Janet Mavec",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538847\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18043821",
+            "role_id": "35236657",
+            "person_name": "Jennens & Bettridge",
+            "person_date": "1816\u20131864",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043821\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Dish (England), ca. 1850\u201364. paper [papier-m\u00e2ch\u00e9], enamel, gilding, varnish. Gift of Janet Mavec. 1985-119-1."
+    },
+    "colors": [
+        {
+            "color": "#b4b5a8",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#564736",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#7c684b",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#4f2c19",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#9c7d4c",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
+}

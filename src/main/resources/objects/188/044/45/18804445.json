@@ -1,0 +1,83 @@
+{
+    "id": "18804445",
+    "tms:id": "182507",
+    "accession_number": "1985-110-2",
+    "title": "Cut Paper",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18804445\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35289565",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "cut paper",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/188706_27b7a970ae923d0a_b.jpg",
+                "width": 1024,
+                "height": 920,
+                "is_primary": "1",
+                "image_id": "188706"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/188706_27b7a970ae923d0a_z.jpg",
+                "width": 640,
+                "height": 575,
+                "is_primary": "1",
+                "image_id": "188706"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/188706_27b7a970ae923d0a_n.jpg",
+                "width": 320,
+                "height": 288,
+                "is_primary": "1",
+                "image_id": "188706"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/188706_27b7a970ae923d0a_d.gif",
+                "width": 320,
+                "height": 288,
+                "is_primary": "1",
+                "image_id": "188706"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/188706_27b7a970ae923d0a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "188706"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Cut Paper. 1985-110-2."
+    },
+    "colors": [
+
+    ],
+    "is_loan_object": 0
+}

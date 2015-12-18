@@ -1,0 +1,168 @@
+{
+    "id": "18802539",
+    "tms:id": "181455",
+    "accession_number": "1984-21-1",
+    "title": "Poster, Karl Schrag,  Kraushaar Galleries, NYC, 1982",
+    "title_raw": "Karl Schrag,  Kraushaar Galleries, NYC",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18802539\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35431679",
+    "type_id": "35238163",
+    "date": "1982",
+    "year_start": 1982,
+    "year_end": 1982,
+    "year_acquired": "1984",
+    "decade": "1980",
+    "woe:country_id": "23424977",
+    "medium": "screenprint on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1984: acquired by Museum",
+    "dimensions": "71.1 x 56 cm (28 in. x 22 1\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "71.10",
+            "centimeters"
+        ],
+        "width": [
+            "56.00",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Poster depicts what looks like a hand-drawn and painted landscape of red, yellow and green trees of different shapes and sizes, highlighted with black. In black script above: Karl Schrag; below: KRAUSHAAR GALLERIES \/ 724 5th AVENUE, N.Y. 10019 \/ MARCH 10 \u2013 APRIL 3 1982.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64047_f00c56ebac959140_b.jpg",
+                "width": 812,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "64047"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64047_f00c56ebac959140_z.jpg",
+                "width": 507,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "64047"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64047_f00c56ebac959140_n.jpg",
+                "width": 254,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "64047"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64047_f00c56ebac959140_d.gif",
+                "width": 254,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "64047"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64047_f00c56ebac959140_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "64047"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/203061_fd34f4c91fd2a7cd_b.jpg",
+                "width": 814,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "203061"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/203061_fd34f4c91fd2a7cd_z.jpg",
+                "width": 508,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "203061"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/203061_fd34f4c91fd2a7cd_n.jpg",
+                "width": 254,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "203061"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/203061_fd34f4c91fd2a7cd_d.gif",
+                "width": 254,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "203061"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/203061_fd34f4c91fd2a7cd_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "203061"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18051017",
+            "role_id": "35236655",
+            "person_name": "Karl Schrag",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051017\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, Karl Schrag,  Kraushaar Galleries, NYC, 1982. screenprint on paper. 1984-21-1."
+    },
+    "colors": [
+        {
+            "color": "#eaee95",
+            "closest_crayola": "#f0e891",
+            "closest_css3": "#f0e68c",
+            "closest_css4": "#f0e68c"
+        },
+        {
+            "color": "#34322a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#c4816e",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#6c6352",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#918d71",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

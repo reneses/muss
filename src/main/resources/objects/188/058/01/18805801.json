@@ -1,0 +1,107 @@
+{
+    "id": "18805801",
+    "tms:id": "183201",
+    "accession_number": "1985-91-4",
+    "title": "\"Exquisit\" Cordial Glass, ca. 1985",
+    "title_raw": "\"Exquisit\"",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805801\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35291071",
+    "date": "ca. 1985",
+    "year_start": 1975,
+    "year_end": 1995,
+    "year_acquired": "1985",
+    "decade": "1970",
+    "woe:country_id": "23424750",
+    "medium": "glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 17.4 x 5.2 cm (6 7\/8 x 2 1\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "5.20",
+            "centimeters"
+        ],
+        "height": [
+            "17.40",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424750",
+    "type": "Cordial glass",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122888_76d3e8ffe9282e0f_b.jpg",
+                "width": 509,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "122888"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122888_76d3e8ffe9282e0f_z.jpg",
+                "width": 318,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "122888"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122888_76d3e8ffe9282e0f_n.jpg",
+                "width": 159,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "122888"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122888_76d3e8ffe9282e0f_d.gif",
+                "width": 159,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "122888"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122888_76d3e8ffe9282e0f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "122888"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18539073",
+            "role_id": "35236685",
+            "person_name": "Riedel Crystal",
+            "person_date": "Austria, founded 1756",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539073\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "\"Exquisit\" Cordial Glass, ca. 1985. glass. 1985-91-4."
+    },
+    "colors": [
+        {
+            "color": "#ffffff",
+            "closest_crayola": "#ffffff",
+            "closest_css3": "#ffffff",
+            "closest_css4": "#ffffff"
+        }
+    ],
+    "woe:country_name": "Austria",
+    "is_loan_object": 0
+}

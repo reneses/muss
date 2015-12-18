@@ -1,0 +1,84 @@
+{
+    "id": "18805559",
+    "tms:id": "183073",
+    "accession_number": "1985-68-12-a\/g",
+    "title": "Skeins Of Yarn (Scotland (Yarn)), ca. 1910",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805559\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35293793",
+    "date": "ca. 1910",
+    "year_start": null,
+    "year_end": 1920,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Margery B. Howe",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Skeins of yarn",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/193449_8f2104ef6813b46e_b.jpg",
+                "width": 1024,
+                "height": 599,
+                "is_primary": "1",
+                "image_id": "193449"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/193449_8f2104ef6813b46e_z.jpg",
+                "width": 640,
+                "height": 374,
+                "is_primary": "1",
+                "image_id": "193449"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/193449_8f2104ef6813b46e_n.jpg",
+                "width": 320,
+                "height": 187,
+                "is_primary": "1",
+                "image_id": "193449"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/193449_8f2104ef6813b46e_d.gif",
+                "width": 320,
+                "height": 187,
+                "is_primary": "1",
+                "image_id": "193449"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/193449_8f2104ef6813b46e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "193449"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Skeins Of Yarn (Scotland (Yarn)), ca. 1910. Gift of Margery B. Howe. 1985-68-12-a\/g."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
+}

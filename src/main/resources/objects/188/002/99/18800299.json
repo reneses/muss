@@ -1,0 +1,194 @@
+{
+    "id": "18800299",
+    "tms:id": "180312",
+    "accession_number": "1983-1-28",
+    "title": "Drawing, Hall Seat, Henry J. Allen Residence, Wichita, Kansas, 1917",
+    "title_raw": "Hall Seat, Henry J. Allen Residence, Wichita, Kansas",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800299\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35432513",
+    "type_id": "35237093",
+    "date": "1917",
+    "year_start": 1917,
+    "year_end": 1917,
+    "year_acquired": "1983",
+    "decade": "1910",
+    "woe:country_id": "23424977",
+    "medium": "graphite, color pencil on light brown wove paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Inscribed in graphite, right: HALL SEAT FOR\/ MR. J. ALLEN\/ NIEDECKEN-WALBRIDGE CO\/ INTERIOR ARCHITECTS\/ ORDER #186; SECTION THRU SEAT + BACK\/ 5 WOOD\/ FRAMES THIS SIDE\/ FOR BACK CUSHIONS\/ PLAN OF SEAT + BACK\/ PLAN FOR SEAT WOOD FRAMES; Right-angle\/ HOOK\/ RING\/ BRAID (all underlined);  upper center: hook smaller than diameter\/ of ring to allow for the turning\/ of the hook after ring is\/ shifted over hook (all underlined).",
+    "provenance": "Mr. and Mrs. Robert L. Jacobson",
+    "dimensions": "39 x 65 cm (15 3\/8 x 25 9\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "39.00",
+            "centimeters"
+        ],
+        "width": [
+            "65.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Museum purchase from Smithsonian Regents Collections Acquisition and Friends of Drawings and Prints Funds",
+    "description": "Drawing of two different views of hall seating.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42515_a268464cc973adb4_b.jpg",
+                "width": 1024,
+                "height": 615,
+                "is_primary": "1",
+                "image_id": "42515"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42515_a268464cc973adb4_z.jpg",
+                "width": 640,
+                "height": 384,
+                "is_primary": "1",
+                "image_id": "42515"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42515_a268464cc973adb4_n.jpg",
+                "width": 320,
+                "height": 192,
+                "is_primary": "1",
+                "image_id": "42515"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42515_a268464cc973adb4_d.gif",
+                "width": 320,
+                "height": 192,
+                "is_primary": "1",
+                "image_id": "42515"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42515_a268464cc973adb4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "42515"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/205794_def93a3fc9734985_b.jpg",
+                "width": 1024,
+                "height": 638,
+                "is_primary": "0",
+                "image_id": "205794"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/205794_def93a3fc9734985_z.jpg",
+                "width": 640,
+                "height": 399,
+                "is_primary": "0",
+                "image_id": "205794"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/205794_def93a3fc9734985_n.jpg",
+                "width": 320,
+                "height": 199,
+                "is_primary": "0",
+                "image_id": "205794"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/205794_def93a3fc9734985_d.gif",
+                "width": 320,
+                "height": 199,
+                "is_primary": "0",
+                "image_id": "205794"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/205794_def93a3fc9734985_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "205794"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18041629",
+            "role_id": "35352249",
+            "person_name": "Kelmscott Gallery",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041629\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "51676457",
+            "role_id": "35352245",
+            "person_name": "Karin Zonis",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "68738747",
+            "role_id": "35236667",
+            "person_name": "Elsie J. Nuzman (Mrs. Henry J.) Allen",
+            "person_date": "",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68738747\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        },
+        {
+            "person_id": "18042051",
+            "role_id": "35236667",
+            "person_name": "Henry J. Allen",
+            "person_date": "",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042051\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        },
+        {
+            "person_id": "18043485",
+            "role_id": "35236655",
+            "person_name": "George Mann Niedecken",
+            "person_date": "1878\u20131945",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043485\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18042049",
+            "role_id": "35236663",
+            "person_name": "Frank Lloyd Wright",
+            "person_date": "American, 1867\u20131959",
+            "role_name": "Architect",
+            "role_display_name": "Architect:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042049\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236663\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Hall Seat, Henry J. Allen Residence, Wichita, Kansas, 1917. graphite, color pencil on light brown wove paper. Museum purchase from Smithsonian Regents Collections Acquisition and Friends of Drawings and Prints Funds. 1983-1-28."
+    },
+    "colors": [
+        {
+            "color": "#ac9a7b",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

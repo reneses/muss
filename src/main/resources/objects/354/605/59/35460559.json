@@ -1,0 +1,260 @@
+{
+    "id": "35460559",
+    "tms:id": "274753",
+    "accession_number": "2013-3-8",
+    "title": "Clifton Birdhouse Model, ca. 1868",
+    "title_raw": "Clifton",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35460559\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "51588883",
+    "type_id": "51588879",
+    "date": "ca. 1868",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "2013",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "cast iron (model), wood (base)",
+    "markings": "Stamped: \"Miller Iron Co. PROV. RI PAT. D Apr 14 1868\"",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1980s: Eugene V. and Clare Thaw purchased in a shop, Bedford, New York; 2013: acquired by Museum",
+    "dimensions": "H x W x D: 25.4 x 38.1 x 22.9 cm (10 x 15 x 9 in.)\nH x W x D (with base): 29.2 x 44.5 x 33 cm (11 1\/2 in. x 17 1\/2 in. x 13 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "22.86",
+            "centimeters"
+        ],
+        "height": [
+            "25.40",
+            "centimeters"
+        ],
+        "width": [
+            "38.10",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Eugene V. and Clare E. Thaw",
+    "description": "Large metal house, meant to look like brick, with pointed arches and colonnaded side verandas, on a wooden base.",
+    "justification": "This birdhouse model would be a modern addition to the museum\u2019s collection of birdcages and models. It serves as both a model of the Gothic-style cottage, Clifton, in Roslyn, New York, and as a functional object. The model is typical of a sample a cast iron factory would have made to show off the quality of their work while satisfying the mid-19th-century interest in models. The use of cast iron, a material not normally associated with cottages, promoted the idea that an object could appear historic while utilizing new technology. It also is an example of the application of new technology in a collectible object. The birdhouse\u2019s design is very similar to some of the designs published by architect Alexander Jackson Davis and landscape designer J. C. Loudon, reflecting the popularity of Gothic as a domestic building style in mid-19th-century America. \nThis model is one of a group of models proposed for acquisition. Models are an important part of the design process and demonstrate craftsmanship, skill of execution, and the innovative use of materials. The group under consideration would provide the museum with an opportunity to examine the role of the model in many contexts.",
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Birdhouse model",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49348_2d20cd76281dcd4c_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "49348"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49348_2d20cd76281dcd4c_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "49348"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49348_2d20cd76281dcd4c_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "49348"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49348_2d20cd76281dcd4c_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "49348"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49348_2d20cd76281dcd4c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "49348"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49349_54fc4fd96cc23c5c_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "49349"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49349_54fc4fd96cc23c5c_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "49349"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49349_54fc4fd96cc23c5c_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "49349"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49349_54fc4fd96cc23c5c_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "49349"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49349_54fc4fd96cc23c5c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "49349"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49351_f9bc93905a708df3_b.jpg",
+                "width": 1020,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "49351"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49351_f9bc93905a708df3_z.jpg",
+                "width": 638,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "49351"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49351_f9bc93905a708df3_n.jpg",
+                "width": 319,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "49351"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49351_f9bc93905a708df3_d.gif",
+                "width": 319,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "49351"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49351_f9bc93905a708df3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "49351"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49350_4a45c041c52fbda1_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "49350"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49350_4a45c041c52fbda1_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "49350"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49350_4a45c041c52fbda1_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "49350"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49350_4a45c041c52fbda1_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "49350"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49350_4a45c041c52fbda1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "49350"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18060137",
+            "role_id": "35351535",
+            "person_name": "Clare E. Thaw",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18060137\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "35459733",
+            "role_id": "35236657",
+            "person_name": "Miller Iron Company",
+            "person_date": "Providence RI",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/35459733\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "68736639",
+            "role_id": "35351535",
+            "person_name": "Eugene V. Thaw",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68736639\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Clifton Birdhouse Model, ca. 1868. cast iron (model), wood (base). Gift of Eugene V. and Clare E. Thaw. 2013-3-8."
+    },
+    "colors": [
+        {
+            "color": "#373633",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#5b5852",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#9a7f51",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#796d58",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

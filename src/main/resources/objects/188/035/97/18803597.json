@@ -1,0 +1,167 @@
+{
+    "id": "18803597",
+    "tms:id": "182072",
+    "accession_number": "1984-99-2",
+    "title": "Ribbon (England), 1900",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18803597\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35254847",
+    "date": "1900",
+    "year_start": null,
+    "year_end": 1925,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Marion Francis",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Ribbon",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217354_8509b98325b080a5_b.jpg",
+                "width": 1024,
+                "height": 399,
+                "is_primary": "1",
+                "image_id": "217354"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217354_8509b98325b080a5_z.jpg",
+                "width": 640,
+                "height": 249,
+                "is_primary": "1",
+                "image_id": "217354"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217354_8509b98325b080a5_n.jpg",
+                "width": 320,
+                "height": 125,
+                "is_primary": "1",
+                "image_id": "217354"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217354_8509b98325b080a5_d.gif",
+                "width": 320,
+                "height": 125,
+                "is_primary": "1",
+                "image_id": "217354"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217354_8509b98325b080a5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "217354"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77622_f6704d94f9188719_b.jpg",
+                "width": 1024,
+                "height": 573,
+                "is_primary": "0",
+                "image_id": "77622"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77622_f6704d94f9188719_z.jpg",
+                "width": 640,
+                "height": 358,
+                "is_primary": "0",
+                "image_id": "77622"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77622_f6704d94f9188719_n.jpg",
+                "width": 320,
+                "height": 179,
+                "is_primary": "0",
+                "image_id": "77622"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77622_f6704d94f9188719_d.gif",
+                "width": 320,
+                "height": 179,
+                "is_primary": "0",
+                "image_id": "77622"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77622_f6704d94f9188719_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77622"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77623_0f5ceab6ec59dc0f_b.jpg",
+                "width": 1024,
+                "height": 571,
+                "is_primary": "0",
+                "image_id": "77623"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77623_0f5ceab6ec59dc0f_z.jpg",
+                "width": 640,
+                "height": 357,
+                "is_primary": "0",
+                "image_id": "77623"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77623_0f5ceab6ec59dc0f_n.jpg",
+                "width": 320,
+                "height": 178,
+                "is_primary": "0",
+                "image_id": "77623"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77623_0f5ceab6ec59dc0f_d.gif",
+                "width": 320,
+                "height": 178,
+                "is_primary": "0",
+                "image_id": "77623"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77623_0f5ceab6ec59dc0f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77623"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18058937",
+            "role_id": "35351535",
+            "person_name": "Marion Francis",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058937\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Ribbon (England), 1900. Gift of Marion Francis. 1984-99-2."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
+}

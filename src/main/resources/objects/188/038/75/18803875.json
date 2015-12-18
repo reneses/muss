@@ -1,0 +1,277 @@
+{
+    "id": "18803875",
+    "tms:id": "182215",
+    "accession_number": "1985-103-188",
+    "title": "Knife (Germany), mid-19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18803875\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35432837",
+    "type_id": "35248783",
+    "date": "mid-19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424829",
+    "medium": "silver, gold, porcelain",
+    "markings": "On blade: two crossed swords, \"12\", \"D\". Tardy, Silver (1981) p 36; Dresden, 1730; \"G\" , \"TM\"",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Robert L. Metzenberg",
+    "dimensions": "L x W: 22.9 x 2.1 cm (9 x 13\/16 in.)",
+    "dimensions_raw": {
+        "length": [
+            "22.90",
+            "centimeters"
+        ],
+        "width": [
+            "2.10",
+            "centimeters"
+        ]
+    },
+    "creditline": "The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg",
+    "description": "Gilded sabre-shaped blade, bolster decorated with scrolls in relief. Ribbed ferrule, round in section. Tapering white porcelain handle with multi-color decoration of flowers, birds and two scenes: on the front side, two men looking out over a harbor. On the back a lady with a fan standing outside next to a rosebush; landscape with trees.  Gilded, scrolled decoration around scenes, along the sides, and on the top of handle.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "knife",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119556_4222a902abfefc48_b.jpg",
+                "width": 526,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "119556"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119556_4222a902abfefc48_z.jpg",
+                "width": 328,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "119556"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119556_4222a902abfefc48_n.jpg",
+                "width": 164,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "119556"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119556_4222a902abfefc48_d.gif",
+                "width": 164,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "119556"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119556_4222a902abfefc48_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "119556"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9821_aa5f38ca85f4ebc3_b.jpg",
+                "width": 746,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "9821"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9821_aa5f38ca85f4ebc3_z.jpg",
+                "width": 466,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "9821"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9821_aa5f38ca85f4ebc3_n.jpg",
+                "width": 233,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "9821"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9821_aa5f38ca85f4ebc3_d.gif",
+                "width": 233,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "9821"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9821_aa5f38ca85f4ebc3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "9821"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10750_f453f11be7f91df2_b.jpg",
+                "width": 315,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "10750"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10750_f453f11be7f91df2_z.jpg",
+                "width": 197,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "10750"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10750_f453f11be7f91df2_n.jpg",
+                "width": 99,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10750"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10750_f453f11be7f91df2_d.gif",
+                "width": 99,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10750"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10750_f453f11be7f91df2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "10750"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10751_5165651f9b6037aa_b.jpg",
+                "width": 367,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "10751"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10751_5165651f9b6037aa_z.jpg",
+                "width": 230,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "10751"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10751_5165651f9b6037aa_n.jpg",
+                "width": 115,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10751"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10751_5165651f9b6037aa_d.gif",
+                "width": 115,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10751"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10751_5165651f9b6037aa_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "10751"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19183_29ae845043650219_b.jpg",
+                "width": 511,
+                "height": 700,
+                "is_primary": "0",
+                "image_id": "19183"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19183_29ae845043650219_z.jpg",
+                "width": 467,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "19183"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19183_29ae845043650219_n.jpg",
+                "width": 234,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19183"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19183_29ae845043650219_d.gif",
+                "width": 234,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19183"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19183_29ae845043650219_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "19183"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18535985",
+            "role_id": "35351535",
+            "person_name": "Eleanor L. Metzenberg",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048365",
+            "role_id": "35352245",
+            "person_name": "S. Wilmering",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Knife (Germany), mid-19th century. silver, gold, porcelain. The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg. 1985-103-188."
+    },
+    "colors": [
+        {
+            "color": "#a59988",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#fefcdf",
+            "closest_crayola": "#fddde6",
+            "closest_css3": "#ffffe0",
+            "closest_css4": "#ffffe0"
+        },
+        {
+            "color": "#88786c",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
+}

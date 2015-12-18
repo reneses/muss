@@ -1,0 +1,204 @@
+{
+    "id": "35520989",
+    "tms:id": "275100",
+    "accession_number": "2013-14-1",
+    "title": "Software And Source Code, Planetary, 2011\u201312",
+    "title_raw": "Planetary",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35520989\/",
+    "department_id": "35518655",
+    "period_id": null,
+    "media_id": "35520985",
+    "type_id": "35520987",
+    "date": "2011\u201312",
+    "year_start": 2011,
+    "year_end": 2012,
+    "year_acquired": "2013",
+    "decade": "2010",
+    "woe:country_id": "23424977",
+    "medium": "c++ and objective-c source files",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Acquired from the designer in 2013",
+    "dimensions": "File size (not incl. image files and other assets): 12779 lines",
+    "dimensions_raw": {
+        "digital file": [
+            "12779.00",
+            "lines"
+        ]
+    },
+    "creditline": "Gift of Ben Cerveny, Tom Carden, Jesper Andersen, and Robert Hodgin",
+    "description": null,
+    "justification": "Planetary is a software application (app) written in C++ using the Cinder framework, originally designed as an alternative music player to the iPad\u2019s default Music app. Planetary visualizes your music collection as a series of celestial bodies. Songs are moons, albums are planets, artists are suns\u2014and the orbits of each are determined by the length of albums and tracks. Their brightness represents their frequency of playback and their behavior is governed by known celestial mechanics. Version 2.0 of the software added new celestial occurrences, such as eclipses and solar flares. Although generated algorithmically, the abstract surfaces and atmospheres of planets are based upon the cover art of the album being played. \nBloom Studio Inc.  was a creative design studio based in San Francisco, California. Its goal was to promote new types of visual discovery experiences\u2014or \u201cvisual instruments\u201d\u2014to help users explore, navigate, and understand their lives as experienced through online and social media services. Bloom was founded in 2010 by three principals: Ben Cerveny, Tom Carden and Jesper Sparre Andersen. In 2011, Robert Hodgin served as the studio's Creative Director.\nPlanetary represents an important strain of data visualization and is also an example of generative graphic design in the early 21st century. The close relationship between the data (music) being visualized and the formal properties of the celestial mechanics used to represent the data was unprecedented in the consumer marketplace. The interaction design of Planetary is also notable for the subtle, dynamic, usage-based representation of the celestial mechanics (the brightness and position of stars and planets varies according to frequency of playback). Planetary was also conceived of as a prototype for future \u201cliving adaptable interfaces\u201d that reflect actual use and the personality of its user. \nPlanetary\u2019s presence in Cooper Hewitt\u2019s collection would signal an engagement with software and algorithmic design, and would be the first such acquisition by a Smithsonian institution. \nIn addition to the final public release of the app, Bloom is offering all related historical documentation (programming notes and design sketches) and underlying source code. If acquired by the museum, Bloom would open-license the underlying source code so that Cooper-Hewitt could make it available to the public\u2014to build upon and incorporate into other software design. The proposed gift of the Planetary source code would provide Cooper-Hewitt with the opportunity to lead the museum field in collecting \u201cliving software\u201d and would allow the museum to explore the issues around the stewardship of such code. The underlying source code would enable the future exhibition of the object as a work in stasis, but also the exhibition and demonstration of the underlying interaction and experience design principles and models upon which it is based, enabling Planetary to subtly change as certain songs and artists are played more than others over the course of an exhibition.",
+    "gallery_text": "Planetary\u2019s alternative music-player application for the iPad represents your music collection as a series of celestial bodies. Songs are moons, albums are planets, artists are suns\u2014and the orbits of each are determined by the length of albums and tracks. Their brightness depends on how often you play them. Written in C++ using the Cinder framework, Planetary is an elegant interactive visualization, the first offering from Bloom, a San Francisco start-up founded in 2010 to explore new ways to picture data and new forms of interactive products. Planetary was originally developed for the iPad, as there were no alternatives at the time. Nowadays, there are many more hardware and software environments in which Planetary may be implemented. \n(The source code for the app and its previous public versions is available online from https:\/\/github.com\/cooperhewitt\/planetary, along with programming notes and design sketches.)",
+    "label_text": "Planetary is an interactive, fun, and elegant way to visualize data. Originally developed for the iPad, this software code enables the user to quantify and represent a music collection as a series of moving celestial bodies. Songs are moons, albums are planets, artists are suns. The source code for the app and its previous public versions are available online free of charge at https:\/\/github.com\/cooperhewitt\/planetary, along with programming notes and design sketches.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Software and source code",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/53933_3493556f35af259d_b.jpg",
+                "width": 1024,
+                "height": 1023,
+                "is_primary": "1",
+                "image_id": "53933"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/53933_3493556f35af259d_z.jpg",
+                "width": 640,
+                "height": 639,
+                "is_primary": "1",
+                "image_id": "53933"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/53933_3493556f35af259d_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "53933"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/53933_3493556f35af259d_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "53933"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/53933_3493556f35af259d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "53933"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/114020_3493556f35af259d_b.jpg",
+                "width": 1024,
+                "height": 1023,
+                "is_primary": "0",
+                "image_id": "114020"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/114020_3493556f35af259d_z.jpg",
+                "width": 640,
+                "height": 639,
+                "is_primary": "0",
+                "image_id": "114020"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/114020_3493556f35af259d_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "114020"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/114020_3493556f35af259d_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "114020"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/114020_3493556f35af259d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "114020"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "51685789",
+            "role_id": "35236655",
+            "person_name": "Robert Hodgin",
+            "person_date": "American",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51685789\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "51685349",
+            "role_id": "35351535",
+            "person_name": "Jesper Andersen",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51685349\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "51685347",
+            "role_id": "35351535",
+            "person_name": "Ben Cerveny",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51685347\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "51685345",
+            "role_id": "35351535",
+            "person_name": "Tom Carden",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51685345\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "51677191",
+            "role_id": "35236655",
+            "person_name": "Bloom Studio",
+            "person_date": "San Francisco, California, USA, 2010\u20132012",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51677191\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Software And Source Code, Planetary, 2011\u201312. c++ and objective-c source files. Gift of Ben Cerveny, Tom Carden, Jesper Andersen, and Robert Hodgin. 2013-14-1."
+    },
+    "colors": [
+        {
+            "color": "#11294f",
+            "closest_crayola": "#1a4876",
+            "closest_css3": "#191970",
+            "closest_css4": "#191970"
+        },
+        {
+            "color": "#1d4b83",
+            "closest_crayola": "#1a4876",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        },
+        {
+            "color": "#3d6dab",
+            "closest_crayola": "#2b6cc4",
+            "closest_css3": "#4682b4",
+            "closest_css4": "#4682b4"
+        },
+        {
+            "color": "#a29094",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#6e90af",
+            "closest_crayola": "#6699cc",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

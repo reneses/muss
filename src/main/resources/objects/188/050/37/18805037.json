@@ -1,0 +1,178 @@
+{
+    "id": "18805037",
+    "tms:id": "182803",
+    "accession_number": "1985-28-1-8",
+    "title": "Print, December, from La Belle Jardini\u00e8re, 1896",
+    "title_raw": "December, from La Belle Jardini\u00e8re",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805037\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35419317",
+    "type_id": "35236873",
+    "date": "1896",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "lithograph on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1985: acquired by Museum",
+    "dimensions": "27.7 x 20.7 cm (10 7\/8 x 8 1\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "27.70",
+            "centimeters"
+        ],
+        "width": [
+            "20.70",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Unknown Donor",
+    "description": "A red-headed woman wearing a long terracotta-colored dress and a black shawl around her head stands carrying a cloth filled with green plants. The ground is snow covered and some plants and flowers stand around her. Behind her is an urn on a pedestal covered with snow. Upper left: D\u00c9 \/ CEM \/ BRE.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Print",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65468_86dc1f6873d2d10b_b.jpg",
+                "width": 788,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "65468"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65468_86dc1f6873d2d10b_z.jpg",
+                "width": 493,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "65468"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65468_86dc1f6873d2d10b_n.jpg",
+                "width": 246,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "65468"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65468_86dc1f6873d2d10b_d.gif",
+                "width": 246,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "65468"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65468_86dc1f6873d2d10b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "65468"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/222649_8203225212d1ab64_b.jpg",
+                "width": 792,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "222649"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/222649_8203225212d1ab64_z.jpg",
+                "width": 495,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "222649"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/222649_8203225212d1ab64_n.jpg",
+                "width": 248,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "222649"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/222649_8203225212d1ab64_d.gif",
+                "width": 248,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "222649"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/222649_8203225212d1ab64_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "222649"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18057545",
+            "role_id": "35352257",
+            "person_name": "Cooper Hewitt, Smithsonian Design Museum: Picture Library",
+            "person_date": "",
+            "role_name": "Transferor",
+            "role_display_name": "Transferred from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18057545\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352257\/"
+        },
+        {
+            "person_id": "18042605",
+            "role_id": "35236655",
+            "person_name": "Eug\u00e8ne Samuel Grasset",
+            "person_date": "Swiss, 1841 \u2013 1917; active Paris, France 1871\u20131917",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042605\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Print, December, from La Belle Jardini\u00e8re, 1896. lithograph on paper. Gift of Unknown Donor. 1985-28-1-8."
+    },
+    "colors": [
+        {
+            "color": "#d7c68e",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#deb887",
+            "closest_css4": "#deb887"
+        },
+        {
+            "color": "#ad9b65",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#827851",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#564d3b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#7e4f36",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

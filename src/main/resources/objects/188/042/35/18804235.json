@@ -1,0 +1,141 @@
+{
+    "id": "18804235",
+    "tms:id": "182396",
+    "accession_number": "1985-103-283-b",
+    "title": "Case (probably Germany), early 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18804235\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35432921",
+    "type_id": "35268321",
+    "date": "early 18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424829",
+    "medium": "wood, leather, gilding",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Robert L. Metzenberg",
+    "dimensions": "H x W: 9 x 5.8cm (3 9\/16 x 2 5\/16in.)",
+    "dimensions_raw": {
+        "height": [
+            "9.00",
+            "centimeters"
+        ],
+        "width": [
+            "5.80",
+            "centimeters"
+        ]
+    },
+    "creditline": "The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg",
+    "description": "Top of cylindrical shape lid which slides partly over bottom (a).",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "Case",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19491_6f0468f4c573a0f1_b.jpg",
+                "width": 612,
+                "height": 842,
+                "is_primary": "1",
+                "image_id": "19491"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19491_6f0468f4c573a0f1_z.jpg",
+                "width": 465,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "19491"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19491_6f0468f4c573a0f1_n.jpg",
+                "width": 233,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "19491"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19491_6f0468f4c573a0f1_d.gif",
+                "width": 233,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "19491"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19491_6f0468f4c573a0f1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "19491"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18535985",
+            "role_id": "35351535",
+            "person_name": "Eleanor L. Metzenberg",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048365",
+            "role_id": "35352245",
+            "person_name": "S. Wilmering",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Case (probably Germany), early 18th century. wood, leather, gilding. The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg. 1985-103-283-b."
+    },
+    "colors": [
+        {
+            "color": "#544c48",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#a99ea4",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#857a7a",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#b07749",
+            "closest_crayola": "#b4674d",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#f5d4ab",
+            "closest_crayola": "#ffcfab",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
+        }
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
+}

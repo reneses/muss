@@ -1,0 +1,176 @@
+{
+    "id": "18803671",
+    "tms:id": "182113",
+    "accession_number": "1985-103-112",
+    "title": "Knife (England), ca. 1700\u201325",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18803671\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35432737",
+    "type_id": "35248783",
+    "date": "ca. 1700\u201325",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "steel, silver, agate",
+    "markings": "On blade; HOW, mark of Ephraim How, Sheffield Dagger, London Cutlers' Compagny; see; Hayward, J.F., ENGLISH CUTLERY, (London, V&A, 1956) p. 11, 16, 17, 38, 39, plate XVIII, XIX",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Robert L. Metzenberg",
+    "dimensions": "L x W: 18.8 x 1.5 cm (7 3\/8 x 9\/16 in.)",
+    "dimensions_raw": {
+        "length": [
+            "18.80",
+            "centimeters"
+        ],
+        "width": [
+            "1.50",
+            "centimeters"
+        ]
+    },
+    "creditline": "The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg",
+    "description": "Sabre-shaped blade, plain bolster. Silver ferrule, engraved. Flaring, faceted agate handle, metal pin on top of handle.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "knife",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118562_db46a5de8880e25c_b.jpg",
+                "width": 412,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "118562"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118562_db46a5de8880e25c_z.jpg",
+                "width": 257,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "118562"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118562_db46a5de8880e25c_n.jpg",
+                "width": 129,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118562"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118562_db46a5de8880e25c_d.gif",
+                "width": 129,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118562"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118562_db46a5de8880e25c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "118562"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19465_7cb38af2c44a277f_b.jpg",
+                "width": 480,
+                "height": 908,
+                "is_primary": "0",
+                "image_id": "19465"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19465_7cb38af2c44a277f_z.jpg",
+                "width": 338,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "19465"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19465_7cb38af2c44a277f_n.jpg",
+                "width": 169,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19465"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19465_7cb38af2c44a277f_d.gif",
+                "width": 169,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19465"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19465_7cb38af2c44a277f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "19465"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18535985",
+            "role_id": "35351535",
+            "person_name": "Eleanor L. Metzenberg",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18054963",
+            "role_id": "35236685",
+            "person_name": "Ephraim How",
+            "person_date": "",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18054963\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18048365",
+            "role_id": "35352245",
+            "person_name": "S. Wilmering",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Knife (England), ca. 1700\u201325. steel, silver, agate. The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg. 1985-103-112."
+    },
+    "colors": [
+        {
+            "color": "#a39b93",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#8e674f",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#726861",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
+}

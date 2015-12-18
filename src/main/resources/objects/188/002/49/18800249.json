@@ -1,0 +1,170 @@
+{
+    "id": "18800249",
+    "tms:id": "180287",
+    "accession_number": "1982-8-1",
+    "title": "Argenta ware Plate, ca. 1940",
+    "title_raw": "Argenta ware",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800249\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "68724209",
+    "type_id": "35236833",
+    "date": "ca. 1940",
+    "year_start": 1940,
+    "year_end": 1940,
+    "year_acquired": "1982",
+    "decade": "1940",
+    "woe:country_id": "23424954",
+    "medium": "glazed stoneware inlaid with raised silver",
+    "markings": "On underside, overglaze black: \"Gustavsberg \/ [anchor symbol] \/ Q \/ ARGENTA \/ 1035 \/ I\"; \"73\"; impressed: \"P14\"",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1982: acquired by Museum",
+    "dimensions": "H x diam.: 3.8 x 29.9 cm (1 1\/2 x 11 3\/4 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "29.90",
+            "centimeters"
+        ],
+        "height": [
+            "3.80",
+            "centimeters"
+        ]
+    },
+    "creditline": "Museum purchase from General Acquisitions Endowment",
+    "description": "\"Argenta\" ware.  Circular plate with molded plain foot ring.  Upper surface concave in center, rising to curved convex plain rim.  Overall mottled blue-green glaze.  Silver inlay on surface of mermaid with one arm raised and one pointed downward grasping leaf garland.  Individual silver inlay leaves scattered across surface.  Mermaid body curved to follow circular edge of plate.  Plain silver band at edge.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424954",
+    "type": "plate",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111676_6c5f557393090597_b.jpg",
+                "width": 1024,
+                "height": 605,
+                "is_primary": "1",
+                "image_id": "111676"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111676_6c5f557393090597_z.jpg",
+                "width": 640,
+                "height": 378,
+                "is_primary": "1",
+                "image_id": "111676"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111676_6c5f557393090597_n.jpg",
+                "width": 320,
+                "height": 189,
+                "is_primary": "1",
+                "image_id": "111676"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111676_6c5f557393090597_d.gif",
+                "width": 320,
+                "height": 189,
+                "is_primary": "1",
+                "image_id": "111676"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111676_6c5f557393090597_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "111676"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48023_b7f514c7a3819ff2_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "48023"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48023_b7f514c7a3819ff2_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "48023"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48023_b7f514c7a3819ff2_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "48023"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48023_b7f514c7a3819ff2_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "48023"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48023_b7f514c7a3819ff2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "48023"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18048535",
+            "role_id": "35352247",
+            "person_name": "General Acquisitions Endowment",
+            "person_date": "",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048535\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        },
+        {
+            "person_id": "18044803",
+            "role_id": "35236655",
+            "person_name": "Wilhelm K\u00e5ge",
+            "person_date": "Swedish, 1889 - 1960",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044803\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18054719",
+            "role_id": "35236657",
+            "person_name": "Gustavsberg Ceramic Factory",
+            "person_date": "founded 1825",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18054719\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Argenta ware Plate, ca. 1940. glazed stoneware inlaid with raised silver. Museum purchase from General Acquisitions Endowment. 1982-8-1."
+    },
+    "colors": [
+        {
+            "color": "#5d7874",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#373c3d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "Sweden",
+    "is_loan_object": 0
+}

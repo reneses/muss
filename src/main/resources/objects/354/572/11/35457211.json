@@ -1,0 +1,209 @@
+{
+    "id": "35457211",
+    "tms:id": "274541",
+    "accession_number": "15.2012.6",
+    "title": "Big Road Census (USA), 1881 or 1882",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35457211\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "68250149",
+    "type_id": "68250151",
+    "date": "1881 or 1882",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": null,
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "colored pencil, graphite, and watercolor on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 41 \u00d7 34 cm (16 1\/8 \u00d7 13 3\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "41.20",
+            "centimeters"
+        ],
+        "width": [
+            "32.20",
+            "centimeters"
+        ]
+    },
+    "creditline": "National Anthropological Archives, Smithsonian Institution NAA MS 2372 (Inv. 08631100)",
+    "description": null,
+    "justification": null,
+    "gallery_text": "The Oglala Lakota chief Big Road produced this pictorial roster after his band was assigned to the Standing Rock Indian Agency (in what is today parts of North and South Dakota), and the agent there demanded a list of his followers. Each man is identified by a small image suggesting his name, such as Bear Looking Back (top row, second from the left) and Low Dog (second row, first image). The leaders of family bands hold a pipe and pipe bag, while leaders of war expeditions brandish war clubs. This paper has served many purposes: to the government agent, this census was an instrument of control, while to Big Road it was an assertion of chiefly authority. Contemporary Lakota artist Arthur Amiotte used scraps of images from it in one of his signature collages, which combine visual traces from a tribal past to construct a wry commentary on Lakota history.",
+    "label_text": "This pictorial roster by the Oglala Lakota chief Big Road is a list of his followers. A small image beside each man suggests his name, for example, Bear Looking Back (top row, second from left). The head of each family band holds a pipe and pipe bag, while leaders in battle brandish war clubs.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Big Road Census",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93901_b5611185e186e299_b.jpg",
+                "width": 800,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "93901"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93901_b5611185e186e299_z.jpg",
+                "width": 500,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "93901"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93901_b5611185e186e299_n.jpg",
+                "width": 250,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93901"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93901_b5611185e186e299_d.gif",
+                "width": 250,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93901"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93901_b5611185e186e299_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93901"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113695_22eed2e8178a6ba6_b.jpg",
+                "width": 799,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113695"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113695_22eed2e8178a6ba6_z.jpg",
+                "width": 499,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113695"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113695_22eed2e8178a6ba6_n.jpg",
+                "width": 250,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113695"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113695_22eed2e8178a6ba6_d.gif",
+                "width": 250,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113695"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113695_22eed2e8178a6ba6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113695"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113673_b5611185e186e299_b.jpg",
+                "width": 800,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113673"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113673_b5611185e186e299_z.jpg",
+                "width": 500,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113673"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113673_b5611185e186e299_n.jpg",
+                "width": 250,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113673"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113673_b5611185e186e299_d.gif",
+                "width": 250,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113673"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113673_b5611185e186e299_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113673"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68248113",
+            "role_id": "35236685",
+            "person_name": "Big Road",
+            "person_date": "(Lakota people, USA)",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248113\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "51676437",
+            "role_id": "51571131",
+            "person_name": "National Museum of Natural History",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676437\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Big Road Census (USA), 1881 or 1882. colored pencil, graphite, and watercolor on paper. National Anthropological Archives, Smithsonian Institution NAA MS 2372 (Inv. 08631100). 15.2012.6."
+    },
+    "colors": [
+        {
+            "color": "#afa79d",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#907e78",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#cea294",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#625553",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

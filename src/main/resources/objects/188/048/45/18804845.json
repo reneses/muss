@@ -1,0 +1,168 @@
+{
+    "id": "18804845",
+    "tms:id": "182707",
+    "accession_number": "1985-19-42",
+    "title": "Sidewall - Sample (USA), 1906\u201308",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18804845\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35367333",
+    "type_id": "35289147",
+    "date": "1906\u201308",
+    "year_start": 1906,
+    "year_end": 1908,
+    "year_acquired": "1985",
+    "decade": "1900",
+    "woe:country_id": "23424977",
+    "medium": "machine-printed on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Dorwin L. Starr; 1985: acquired by Museum",
+    "dimensions": "70 x 48 cm (27 9\/16 x 18 7\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "70.00",
+            "centimeters"
+        ],
+        "width": [
+            "48.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Dorwin L. Starr",
+    "description": "Ground of light brown overlapping leaves with staggered stemmed tulips in shades of brown and leaves that curve inward in shades of green.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sidewall - sample",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48893_35ea2ee673ca3c2a_b.jpg",
+                "width": 698,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "48893"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48893_35ea2ee673ca3c2a_z.jpg",
+                "width": 436,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "48893"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48893_35ea2ee673ca3c2a_n.jpg",
+                "width": 218,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "48893"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48893_35ea2ee673ca3c2a_d.gif",
+                "width": 218,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "48893"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48893_35ea2ee673ca3c2a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "48893"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9912_d25b7e8ec846abb6_b.jpg",
+                "width": 704,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "9912"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9912_d25b7e8ec846abb6_z.jpg",
+                "width": 440,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "9912"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9912_d25b7e8ec846abb6_n.jpg",
+                "width": 220,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "9912"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9912_d25b7e8ec846abb6_d.gif",
+                "width": 220,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "9912"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9912_d25b7e8ec846abb6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "9912"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18537637",
+            "role_id": "35351535",
+            "person_name": "Dorwin L. Starr",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537637\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sidewall - Sample (USA), 1906\u201308. machine-printed on paper. Gift of Dorwin L. Starr. 1985-19-42."
+    },
+    "colors": [
+        {
+            "color": "#b8a660",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#9d8646",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#3b2218",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#4b4623",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#5e4528",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

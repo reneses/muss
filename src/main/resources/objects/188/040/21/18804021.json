@@ -1,0 +1,240 @@
+{
+    "id": "18804021",
+    "tms:id": "182289",
+    "accession_number": "1985-103-253-a",
+    "title": "Case (Northern Italy), early 17th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18804021\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35432873",
+    "type_id": "35268321",
+    "date": "early 17th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "leather, gilding, cotton cord",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Robert L. Metzenberg",
+    "dimensions": "L x W: 9.8 x 4.3 cm (3 7\/8 x 1 11\/16 in.)",
+    "dimensions_raw": {
+        "length": [
+            "9.80",
+            "centimeters"
+        ],
+        "width": [
+            "4.30",
+            "centimeters"
+        ]
+    },
+    "creditline": "The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg",
+    "description": "Small case for six implements, stamped leather with scrolled decoration in gold. Case consists of two parts, body and lid, held together with a cord.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Case",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118514_e677ff806518e857_b.jpg",
+                "width": 925,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "118514"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118514_e677ff806518e857_z.jpg",
+                "width": 578,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "118514"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118514_e677ff806518e857_n.jpg",
+                "width": 289,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118514"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118514_e677ff806518e857_d.gif",
+                "width": 289,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118514"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118514_e677ff806518e857_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "118514"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9838_7e616c77e44e8e60_b.jpg",
+                "width": 1024,
+                "height": 1013,
+                "is_primary": "0",
+                "image_id": "9838"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9838_7e616c77e44e8e60_z.jpg",
+                "width": 640,
+                "height": 633,
+                "is_primary": "0",
+                "image_id": "9838"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9838_7e616c77e44e8e60_n.jpg",
+                "width": 320,
+                "height": 316,
+                "is_primary": "0",
+                "image_id": "9838"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9838_7e616c77e44e8e60_d.gif",
+                "width": 320,
+                "height": 316,
+                "is_primary": "0",
+                "image_id": "9838"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9838_7e616c77e44e8e60_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "9838"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21564_8fe8e3af06063c29_b.jpg",
+                "width": 950,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "21564"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21564_8fe8e3af06063c29_z.jpg",
+                "width": 593,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "21564"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21564_8fe8e3af06063c29_n.jpg",
+                "width": 297,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "21564"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21564_8fe8e3af06063c29_d.gif",
+                "width": 297,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "21564"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21564_8fe8e3af06063c29_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "21564"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9835_75f5725dc027970d_b.jpg",
+                "width": 1024,
+                "height": 779,
+                "is_primary": "0",
+                "image_id": "9835"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9835_75f5725dc027970d_z.jpg",
+                "width": 640,
+                "height": 487,
+                "is_primary": "0",
+                "image_id": "9835"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9835_75f5725dc027970d_n.jpg",
+                "width": 320,
+                "height": 243,
+                "is_primary": "0",
+                "image_id": "9835"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9835_75f5725dc027970d_d.gif",
+                "width": 320,
+                "height": 243,
+                "is_primary": "0",
+                "image_id": "9835"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9835_75f5725dc027970d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "9835"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18535985",
+            "role_id": "35351535",
+            "person_name": "Eleanor L. Metzenberg",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048365",
+            "role_id": "35352245",
+            "person_name": "S. Wilmering",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Case (Northern Italy), early 17th century. leather, gilding, cotton cord. The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg. 1985-103-253-a."
+    },
+    "colors": [
+        {
+            "color": "#695a4f",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#837c76",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#413532",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
+}

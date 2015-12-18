@@ -1,0 +1,153 @@
+{
+    "id": "18802821",
+    "tms:id": "181598",
+    "accession_number": "1984-81-1",
+    "title": "Scarf (France), 1982",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18802821\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35367167",
+    "type_id": "35251935",
+    "date": "1982",
+    "year_start": 1982,
+    "year_end": 1982,
+    "year_acquired": "1984",
+    "decade": "1980",
+    "woe:country_id": "23424819",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of John Goelet",
+    "description": "Central square shows Bacchus riding a kangaroo and a burro: a reference to Taltarni Vineyards in Moonambel, Victoria, Australia and Clos Du Val Wine Co., Ltd. in Napa, California.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "scarf",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105640_e043f41b2dc8a467_b.jpg",
+                "width": 1024,
+                "height": 913,
+                "is_primary": "1",
+                "image_id": "105640"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105640_e043f41b2dc8a467_z.jpg",
+                "width": 640,
+                "height": 570,
+                "is_primary": "1",
+                "image_id": "105640"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105640_e043f41b2dc8a467_n.jpg",
+                "width": 320,
+                "height": 285,
+                "is_primary": "1",
+                "image_id": "105640"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105640_e043f41b2dc8a467_d.gif",
+                "width": 320,
+                "height": 285,
+                "is_primary": "1",
+                "image_id": "105640"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105640_e043f41b2dc8a467_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "105640"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77617_47b236762a8cdb4b_b.jpg",
+                "width": 1024,
+                "height": 938,
+                "is_primary": "0",
+                "image_id": "77617"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77617_47b236762a8cdb4b_z.jpg",
+                "width": 640,
+                "height": 586,
+                "is_primary": "0",
+                "image_id": "77617"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77617_47b236762a8cdb4b_n.jpg",
+                "width": 320,
+                "height": 293,
+                "is_primary": "0",
+                "image_id": "77617"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77617_47b236762a8cdb4b_d.gif",
+                "width": 320,
+                "height": 293,
+                "is_primary": "0",
+                "image_id": "77617"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77617_47b236762a8cdb4b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77617"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18059435",
+            "role_id": "35351535",
+            "person_name": "John Goelet",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18059435\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Scarf (France), 1982. Gift of John Goelet. 1984-81-1."
+    },
+    "colors": [
+        {
+            "color": "#9cb5b6",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#70735c",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#8c8d73",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#544f4a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

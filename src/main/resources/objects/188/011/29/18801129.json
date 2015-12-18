@@ -1,0 +1,235 @@
+{
+    "id": "18801129",
+    "tms:id": "180731",
+    "accession_number": "1983-87-2",
+    "title": "Textile, Design 103, Taliesin Line, 1955",
+    "title_raw": "Design 103, Taliesin Line",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801129\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35390039",
+    "type_id": "35251739",
+    "date": "1955",
+    "year_start": 1955,
+    "year_end": 1955,
+    "year_acquired": "1983",
+    "decade": "1950",
+    "woe:country_id": "23424977",
+    "medium": "cotton, rayon",
+    "markings": null,
+    "signed": null,
+    "inscribed": "\"Design 103 An Exclusive Schumacher Hand Print\" and \"Taliesin Line of Frank Lloyd Wright\" (printed in selvedge)",
+    "provenance": null,
+    "dimensions": "H x W: 144.8 x 127 cm (57 x 50 in.)\nRepeat H: 121.9 cm (48 in.)",
+    "dimensions_raw": {
+        "height": [
+            "121.92",
+            "centimeters"
+        ],
+        "width": [
+            "127.00",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Length of printed fabric with a large-scale geometric design of vertical and horizontal bars in beige, teal and yellow with black outlines on an off-white ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42777_6251ad7fac56a293_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "42777"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42777_6251ad7fac56a293_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "42777"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42777_6251ad7fac56a293_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "42777"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42777_6251ad7fac56a293_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "42777"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42777_6251ad7fac56a293_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "42777"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77481_aba4d72cead0a231_b.jpg",
+                "width": 800,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "77481"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77481_aba4d72cead0a231_z.jpg",
+                "width": 500,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "77481"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77481_aba4d72cead0a231_n.jpg",
+                "width": 250,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77481"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77481_aba4d72cead0a231_d.gif",
+                "width": 250,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77481"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77481_aba4d72cead0a231_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77481"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77482_653c9148e1899db8_b.jpg",
+                "width": 1024,
+                "height": 558,
+                "is_primary": "0",
+                "image_id": "77482"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77482_653c9148e1899db8_z.jpg",
+                "width": 640,
+                "height": 349,
+                "is_primary": "0",
+                "image_id": "77482"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77482_653c9148e1899db8_n.jpg",
+                "width": 320,
+                "height": 174,
+                "is_primary": "0",
+                "image_id": "77482"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77482_653c9148e1899db8_d.gif",
+                "width": 320,
+                "height": 174,
+                "is_primary": "0",
+                "image_id": "77482"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77482_653c9148e1899db8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77482"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18046337",
+            "role_id": "35236657",
+            "person_name": "F. Schumacher & Co.",
+            "person_date": "New York, New York, USA, founded 1889",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046337\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18042049",
+            "role_id": "35236655",
+            "person_name": "Frank Lloyd Wright",
+            "person_date": "American, 1867\u20131959",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042049\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18536745",
+            "role_id": "35351535",
+            "person_name": "William Conklin",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18536745\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18047459",
+            "role_id": "35352245",
+            "person_name": "Gillian Moss",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile, Design 103, Taliesin Line, 1955. cotton, rayon. 1983-87-2."
+    },
+    "colors": [
+        {
+            "color": "#ccb48f",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#ebe5cd",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#faebd7",
+            "closest_css4": "#faebd7"
+        },
+        {
+            "color": "#3c817f",
+            "closest_crayola": "#319177",
+            "closest_css3": "#2e8b57",
+            "closest_css4": "#2e8b57"
+        },
+        {
+            "color": "#47423c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#ecd64d",
+            "closest_crayola": "#ffcf48",
+            "closest_css3": "#f4a460",
+            "closest_css4": "#f4a460"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

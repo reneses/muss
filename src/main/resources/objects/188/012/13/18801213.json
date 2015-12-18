@@ -1,0 +1,169 @@
+{
+    "id": "18801213",
+    "tms:id": "180773",
+    "accession_number": "1984-103-1",
+    "title": "Pebbled YKB Bowl, ca. 1980",
+    "title_raw": "Pebbled YKB",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801213\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402703",
+    "type_id": "35237197",
+    "date": "ca. 1980",
+    "year_start": 1975,
+    "year_end": 1985,
+    "year_acquired": "1984",
+    "decade": "1970",
+    "woe:country_id": "23424977",
+    "medium": "ceramic",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Dr. J. William Fielding; 1984: acquired by Museum",
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Dr. J. William Fielding",
+    "description": "Blue ceramic bowl of inverted conical form with indented rim of opposing heights; narrow circular foot in white.",
+    "justification": null,
+    "gallery_text": "Ceramist Elsa Rady studied pottery as a child, starting at age seven, and later at the California Institute of the Arts (formerly the Chouinard Art Institute) in the 1960s. The artist experimented both with form and process; the two notches on the rim of this bowl were added to prevent cracking during firing, but also for aesthetic effect. Rady created both functional and more decorative works, which she is best known for today. She preferred to display pieces on shelves as art rather than on a tabletop.",
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Bowl",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10167_ecd739293c0243bb_b.jpg",
+                "width": 1024,
+                "height": 594,
+                "is_primary": "1",
+                "image_id": "10167"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10167_ecd739293c0243bb_z.jpg",
+                "width": 640,
+                "height": 371,
+                "is_primary": "1",
+                "image_id": "10167"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10167_ecd739293c0243bb_n.jpg",
+                "width": 320,
+                "height": 186,
+                "is_primary": "1",
+                "image_id": "10167"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10167_ecd739293c0243bb_d.gif",
+                "width": 320,
+                "height": 186,
+                "is_primary": "1",
+                "image_id": "10167"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10167_ecd739293c0243bb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "10167"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/189592_66fe7549896bcb34_b.jpg",
+                "width": 1024,
+                "height": 690,
+                "is_primary": "0",
+                "image_id": "189592"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/189592_66fe7549896bcb34_z.jpg",
+                "width": 640,
+                "height": 431,
+                "is_primary": "0",
+                "image_id": "189592"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/189592_66fe7549896bcb34_n.jpg",
+                "width": 320,
+                "height": 216,
+                "is_primary": "0",
+                "image_id": "189592"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/189592_66fe7549896bcb34_d.gif",
+                "width": 320,
+                "height": 216,
+                "is_primary": "0",
+                "image_id": "189592"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/189592_66fe7549896bcb34_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "189592"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18055943",
+            "role_id": "35351535",
+            "person_name": "Dr. J. William Fielding",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055943\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18055917",
+            "role_id": "35236565",
+            "person_name": "Elsa Rady",
+            "person_date": "American, born 1943",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055917\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Pebbled YKB Bowl, ca. 1980. ceramic. Gift of Dr. J. William Fielding. 1984-103-1."
+    },
+    "colors": [
+        {
+            "color": "#f7f3cf",
+            "closest_crayola": "#eceabe",
+            "closest_css3": "#fafad2",
+            "closest_css4": "#fafad2"
+        },
+        {
+            "color": "#3d3019",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#231aba",
+            "closest_crayola": "#324ab2",
+            "closest_css3": "#0000cd",
+            "closest_css4": "#0000cd"
+        },
+        {
+            "color": "#77623f",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#393989",
+            "closest_crayola": "#2e5894",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

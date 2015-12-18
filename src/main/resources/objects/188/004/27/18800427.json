@@ -1,0 +1,111 @@
+{
+    "id": "18800427",
+    "tms:id": "180376",
+    "accession_number": "1983-23-7",
+    "title": "Obelisk pattern Knife, 1950",
+    "title_raw": "Obelisk pattern",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800427\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35431463",
+    "type_id": "35248783",
+    "date": "1950",
+    "year_start": 1950,
+    "year_end": 1950,
+    "year_acquired": "1983",
+    "decade": "1950",
+    "woe:country_id": "23424796",
+    "medium": "steel, stainless",
+    "markings": "On reverse of terminal: COPEN-; HAGEN; CUTLERY; DENMARK",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "cm: L: 21 x W: 1.7 x D: 0.7",
+    "dimensions_raw": {
+        "depth": [
+            "0.70",
+            "centimeters"
+        ],
+        "length": [
+            "21.00",
+            "centimeters"
+        ],
+        "width": [
+            "1.70",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Rounded flat blade with tubular join to the tapering wedge-like stem and terminal.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424796",
+    "type": "knife",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118188_84381bfc3779cfdb_b.jpg",
+                "width": 542,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "118188"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118188_84381bfc3779cfdb_z.jpg",
+                "width": 339,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "118188"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118188_84381bfc3779cfdb_n.jpg",
+                "width": 169,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118188"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118188_84381bfc3779cfdb_d.gif",
+                "width": 169,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118188"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118188_84381bfc3779cfdb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "118188"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18043805",
+            "role_id": "35236655",
+            "person_name": "Erick Herlow",
+            "person_date": "b. 1913",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043805\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Obelisk pattern Knife, 1950. steel, stainless. 1983-23-7."
+    },
+    "colors": [
+        {
+            "color": "#96908a",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "Denmark",
+    "is_loan_object": 0
+}

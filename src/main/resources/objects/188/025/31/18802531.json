@@ -1,0 +1,262 @@
+{
+    "id": "18802531",
+    "tms:id": "181451",
+    "accession_number": "1984-19-1",
+    "title": "Textile, Lario, 1982",
+    "title_raw": "Lario",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18802531\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "139997",
+    "type_id": "35251739",
+    "date": "1982",
+    "year_start": 1982,
+    "year_end": 1982,
+    "year_acquired": "1984",
+    "decade": "1980",
+    "woe:country_id": "23424853",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 353 x 146 cm (11 ft. 7 in. x 57 1\/2 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "353.00",
+            "centimeters"
+        ],
+        "weft": [
+            "146.00",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Red, yellow and teal shapes printed over white brushstroke squiggles on a dark purple background",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106201_89ec26d85efadf20_b.jpg",
+                "width": 1024,
+                "height": 700,
+                "is_primary": "1",
+                "image_id": "106201"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106201_89ec26d85efadf20_z.jpg",
+                "width": 640,
+                "height": 437,
+                "is_primary": "1",
+                "image_id": "106201"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106201_89ec26d85efadf20_n.jpg",
+                "width": 320,
+                "height": 219,
+                "is_primary": "1",
+                "image_id": "106201"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106201_89ec26d85efadf20_d.gif",
+                "width": 320,
+                "height": 219,
+                "is_primary": "1",
+                "image_id": "106201"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106201_89ec26d85efadf20_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "106201"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77585_2643e839256f26fa_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "77585"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77585_2643e839256f26fa_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "77585"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77585_2643e839256f26fa_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77585"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77585_2643e839256f26fa_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77585"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77585_2643e839256f26fa_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77585"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77586_45f87517d9ff0105_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "77586"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77586_45f87517d9ff0105_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "77586"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77586_45f87517d9ff0105_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77586"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77586_45f87517d9ff0105_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77586"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77586_45f87517d9ff0105_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77586"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51929_8c318ad54ed501c8_b.jpg",
+                "width": 722,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "51929"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51929_8c318ad54ed501c8_z.jpg",
+                "width": 451,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "51929"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51929_8c318ad54ed501c8_n.jpg",
+                "width": 226,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "51929"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51929_8c318ad54ed501c8_d.gif",
+                "width": 226,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "51929"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51929_8c318ad54ed501c8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "51929"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18048019",
+            "role_id": "35352245",
+            "person_name": "lm",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048019\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18045499",
+            "role_id": "35236681",
+            "person_name": "Cugnasca S.P.A.",
+            "person_date": "",
+            "role_name": "Company",
+            "role_display_name": "Company:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045499\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236681\/"
+        },
+        {
+            "person_id": "18045497",
+            "role_id": "35236655",
+            "person_name": "Glenn Peckman",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045497\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile, Lario, 1982. 1984-19-1."
+    },
+    "colors": [
+        {
+            "color": "#695b75",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#7b333c",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#a52a2a",
+            "closest_css4": "#a52a2a"
+        },
+        {
+            "color": "#cabb65",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#416c77",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#7f7481",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
+}

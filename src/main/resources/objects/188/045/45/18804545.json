@@ -1,0 +1,112 @@
+{
+    "id": "18804545",
+    "tms:id": "182557",
+    "accession_number": "1985-14-33",
+    "title": "Drawing, Design for lidded jar with cherries and blossoms",
+    "title_raw": "Design for lidded jar with cherries and blossoms",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18804545\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "68266191",
+    "type_id": "35237093",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424856",
+    "medium": "brush and watercolor, gold gouache, graphite on cream paper",
+    "markings": "Stamped in blue ink, upper margin: DD \/ 869; lower left: 1332",
+    "signed": null,
+    "inscribed": "Inscribed in graphite, lower left: Japanese letters and notations",
+    "provenance": "1985: acquired by Museum",
+    "dimensions": "28.5 x 15.5 cm (11 1\/4 x 6 1\/8 in.)\nMat: 35.7 x 45.7 cm (14 1\/16 in. x 18 in.)",
+    "dimensions_raw": {
+        "height": [
+            "35.70",
+            "centimeters"
+        ],
+        "width": [
+            "45.70",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Lidded bulbous jar decorated with two red cherries and three pink cherry blossoms and green vines and leaves. Neck and lid have gold wavy lines.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424856",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/210935_8554a58694fc4f1f_b.jpg",
+                "width": 572,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "210935"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/210935_8554a58694fc4f1f_z.jpg",
+                "width": 357,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "210935"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/210935_8554a58694fc4f1f_n.jpg",
+                "width": 179,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "210935"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/210935_8554a58694fc4f1f_d.gif",
+                "width": 179,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "210935"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/210935_8554a58694fc4f1f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "210935"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18057835",
+            "role_id": "35351535",
+            "person_name": "Roger Selchow",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18057835\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18044209",
+            "role_id": "35236675",
+            "person_name": "Noritake",
+            "person_date": "",
+            "role_name": "For",
+            "role_display_name": "Made for",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044209\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236675\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Design for lidded jar with cherries and blossoms. brush and watercolor, gold gouache, graphite on cream paper. 1985-14-33."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "Japan",
+    "is_loan_object": 0
+}

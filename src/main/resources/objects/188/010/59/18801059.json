@@ -1,0 +1,83 @@
+{
+    "id": "18801059",
+    "tms:id": "180696",
+    "accession_number": "1983-83-12",
+    "title": "Decorated Paper, Marbled",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801059\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35293593",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1983",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "decorated paper, marbled",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/207812_ea5833024b78ec76_b.jpg",
+                "width": 1024,
+                "height": 850,
+                "is_primary": "1",
+                "image_id": "207812"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/207812_ea5833024b78ec76_z.jpg",
+                "width": 640,
+                "height": 532,
+                "is_primary": "1",
+                "image_id": "207812"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/207812_ea5833024b78ec76_n.jpg",
+                "width": 320,
+                "height": 266,
+                "is_primary": "1",
+                "image_id": "207812"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/207812_ea5833024b78ec76_d.gif",
+                "width": 320,
+                "height": 266,
+                "is_primary": "1",
+                "image_id": "207812"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/207812_ea5833024b78ec76_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "207812"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Decorated Paper, Marbled. 1983-83-12."
+    },
+    "colors": [
+
+    ],
+    "is_loan_object": 0
+}

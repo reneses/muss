@@ -1,0 +1,166 @@
+{
+    "id": "35520557",
+    "tms:id": "274987",
+    "accession_number": "15.2012.59",
+    "title": "Hand Axe (Tanzania), 1.4 million years old",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35520557\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "51681221",
+    "type_id": "35460151",
+    "date": "1.4 million years old",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": null,
+    "decade": null,
+    "woe:country_id": "23424973",
+    "medium": "volcanic rock (trachyte)",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 17.8 x 10.2 x 6 cm (7 in. x 4 in. x 2 3\/8 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "6.00",
+            "centimeters"
+        ],
+        "height": [
+            "17.78",
+            "centimeters"
+        ],
+        "width": [
+            "10.16",
+            "centimeters"
+        ]
+    },
+    "creditline": "Department of Archaeology, National Museum of Natural History, Smithsonian Institution, Control Number: 2065648, Loc. 77-IIV",
+    "description": null,
+    "justification": null,
+    "gallery_text": "The classic handaxe is a teardrop-shaped stone tool knapped on both sides; for this reason, it is sometimes called a \"biface.\" This example, made of trachyte, a type of volcanic rock obtained east of Olduvai Gorge, is around 1.4 million years old. This tool illustrates the period of technological innovation known as the Acheulean, which followed the Oldowan and would predominate between 1.76 million and 150,000 years ago in Africa, parts of Asia, and Europe. Handaxes probably served multiple functions, including cutting, chopping, and whittling wood; digging for tubers and roots; breaking open animal bones for marrow; and as the cores from which the sharp flakes were struck that were used to butcher the meat from animal carcasses. Earlier Oldowan technology included only small, minimally altered tools, whereas the larger handaxes made by Acheulean tool makers were sharpened all the way around, providing a more effective way of continually knapping sharp flakes while collecting food on the go.",
+    "label_text": "There is a long tradition of technical economy, of individual tools performing multiple tasks\u2014the ancient handaxe is an elegant example. It shares design features with the Victorinox@work and iPhone: portability, tactility, and good fit for the hand, yet each of their many functions reflects the particular needs and technology of its era.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424973",
+    "type": "Hand axe",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93347_332d36f2a75b144d_b.jpg",
+                "width": 723,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "93347"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93347_332d36f2a75b144d_z.jpg",
+                "width": 452,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "93347"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93347_332d36f2a75b144d_n.jpg",
+                "width": 226,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93347"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93347_332d36f2a75b144d_d.gif",
+                "width": 226,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93347"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93347_332d36f2a75b144d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93347"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113690_332d36f2a75b144d_b.jpg",
+                "width": 723,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113690"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113690_332d36f2a75b144d_z.jpg",
+                "width": 452,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113690"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113690_332d36f2a75b144d_n.jpg",
+                "width": 226,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113690"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113690_332d36f2a75b144d_d.gif",
+                "width": 226,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113690"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113690_332d36f2a75b144d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113690"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "51676437",
+            "role_id": "51571131",
+            "person_name": "National Museum of Natural History",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676437\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Hand Axe (Tanzania), 1.4 million years old. volcanic rock (trachyte). Department of Archaeology, National Museum of Natural History, Smithsonian Institution, Control Number: 2065648, Loc. 77-IIV. 15.2012.59."
+    },
+    "colors": [
+        {
+            "color": "#262116",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#5e503a",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#8a7f68",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#aca38c",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "Tanzania",
+    "is_loan_object": 1
+}

@@ -1,0 +1,252 @@
+{
+    "id": "18801017",
+    "tms:id": "180675",
+    "accession_number": "1983-71-1",
+    "title": "Pleated Fan (France), 1910\u201320",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801017\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "102639337",
+    "type_id": "69117343",
+    "date": "1910\u201320",
+    "year_start": 1910,
+    "year_end": 1920,
+    "year_acquired": "1983",
+    "decade": "1910",
+    "woe:country_id": "23424819",
+    "medium": "printed paper leaf with chromolithograph; painted wood sticks",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W (open): 22.9 x 29.2 cm (9 in. x 11 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "22.86",
+            "centimeters"
+        ],
+        "width": [
+            "29.21",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Pleated fan. Printed paper leaf with chromolithograph. Obverse: restaurant scene advertising Peter Champagne \"Passage des Princes\". Reverse: Father Christmas with bottle of champagne. Marked \"Chambrelent Evantailliste-Paris\". Plain wood sticks painted white.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Pleated fan",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81105_bd10b3399e6a1bf1_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "81105"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81105_bd10b3399e6a1bf1_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "81105"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81105_bd10b3399e6a1bf1_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "81105"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81105_bd10b3399e6a1bf1_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "81105"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81105_bd10b3399e6a1bf1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "81105"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81106_5f601fb81b42a20f_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "81106"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81106_5f601fb81b42a20f_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "81106"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81106_5f601fb81b42a20f_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "81106"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81106_5f601fb81b42a20f_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "81106"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81106_5f601fb81b42a20f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "81106"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77428_59c409b776f82ceb_b.jpg",
+                "width": 1024,
+                "height": 700,
+                "is_primary": "0",
+                "image_id": "77428"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77428_59c409b776f82ceb_z.jpg",
+                "width": 640,
+                "height": 437,
+                "is_primary": "0",
+                "image_id": "77428"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77428_59c409b776f82ceb_n.jpg",
+                "width": 320,
+                "height": 219,
+                "is_primary": "0",
+                "image_id": "77428"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77428_59c409b776f82ceb_d.gif",
+                "width": 320,
+                "height": 219,
+                "is_primary": "0",
+                "image_id": "77428"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77428_59c409b776f82ceb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77428"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77429_d460dce826826fb0_b.jpg",
+                "width": 1024,
+                "height": 715,
+                "is_primary": "0",
+                "image_id": "77429"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77429_d460dce826826fb0_z.jpg",
+                "width": 640,
+                "height": 447,
+                "is_primary": "0",
+                "image_id": "77429"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77429_d460dce826826fb0_n.jpg",
+                "width": 320,
+                "height": 223,
+                "is_primary": "0",
+                "image_id": "77429"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77429_d460dce826826fb0_d.gif",
+                "width": 320,
+                "height": 223,
+                "is_primary": "0",
+                "image_id": "77429"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77429_d460dce826826fb0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77429"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18048071",
+            "role_id": "35352245",
+            "person_name": "lac",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048071\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "68739079",
+            "role_id": "35351535",
+            "person_name": "Anonymous",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68739079\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Pleated Fan (France), 1910\u201320. printed paper leaf with chromolithograph; painted wood sticks. 1983-71-1."
+    },
+    "colors": [
+        {
+            "color": "#5f4b36",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#c19462",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#966d47",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#dbc89e",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#deb887",
+            "closest_css4": "#deb887"
+        },
+        {
+            "color": "#d8d3c9",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

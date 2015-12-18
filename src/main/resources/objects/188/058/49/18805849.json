@@ -1,0 +1,97 @@
+{
+    "id": "18805849",
+    "tms:id": "183225",
+    "accession_number": "1985-93-4",
+    "title": "Glass, Vino",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805849\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35293843",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 11.6 x 8.5 cm (4 9\/16 x 3 3\/8 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "8.50",
+            "centimeters"
+        ],
+        "height": [
+            "11.60",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Short cone-shaped glass at an asymmetrical tilt to glass",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "glass, vino",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122943_c6906d605d6cf2d2_b.jpg",
+                "width": 748,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "122943"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122943_c6906d605d6cf2d2_z.jpg",
+                "width": 467,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "122943"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122943_c6906d605d6cf2d2_n.jpg",
+                "width": 234,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "122943"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122943_c6906d605d6cf2d2_d.gif",
+                "width": 234,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "122943"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122943_c6906d605d6cf2d2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "122943"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Glass, Vino. glass. 1985-93-4."
+    },
+    "colors": [
+        {
+            "color": "#ffffff",
+            "closest_crayola": "#ffffff",
+            "closest_css3": "#ffffff",
+            "closest_css4": "#ffffff"
+        }
+    ],
+    "is_loan_object": 0
+}

@@ -1,0 +1,215 @@
+{
+    "id": "35457357",
+    "tms:id": "274606",
+    "accession_number": "18.2012.1",
+    "title": "Squeeze Of Foundation Inscription Of Darius I At Persepolis (Iran, Persepolis, Southern Terrace Wall), Made between 1923\u201334",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35457357\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "35389525",
+    "type_id": "68515331",
+    "date": "Made between 1923\u201334",
+    "year_start": 1923,
+    "year_end": 1934,
+    "year_acquired": null,
+    "decade": "1920",
+    "woe:country_id": "23424851",
+    "medium": "paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Frame H x W x D: 112.1 x 112.7 cm (44 1\/8 x 44 3\/8 in.)\n88.9 x 96.5 cm (35 x 38 in.)",
+    "dimensions_raw": {
+        "height": [
+            "112.08",
+            "centimeters"
+        ],
+        "width": [
+            "112.71",
+            "centimeters"
+        ]
+    },
+    "creditline": "The Ernst Herzfeld Papers, Freer Gallery of Art and the Arthur M. Sackler Gallery, FSA A.6 06.C061",
+    "description": null,
+    "justification": null,
+    "gallery_text": "A squeeze is essentially a molded negative impression of a carved surface. Early western travelers to the ruins in Egypt, Greece, and the Middle East often brought along draftsmen to make drawings of ancient monuments and sculptures. But in the 18th-century, the practice of recording the reliefs and inscriptions from ancient monuments by molding wet paper \"squeezes\" heralded a new age of scientific documentation. These inscriptions from monuments preserve information about their construction, and the squeezes aided Western scholars in deciphering and reconstructing the texts. In addition, the texts made possible the instruction and training of new generations of philologists, just as casts of sculptures were employed to teach students of art and history. Interestingly, these impressions also became (unintentionally) receptacles for pigments that were and stripped off in the squeeze-making process. This is among fifty-seven squeezes made by Ernst Herzfeld at Persepolis.",
+    "label_text": "Paper squeezes are molded negative impressions of carved surfaces. Introduced in the 18th century as a new form of scientific documentation, they functioned as three-dimensional records of inscriptions and reliefs on ancient monuments. Western archeologists and other scholars used them to decipher and reconstruct the texts.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424851",
+    "type": "Squeeze of Foundation Inscription of Darius I at Persepolis",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84265_10b3bc9d0e855169_b.jpg",
+                "width": 1024,
+                "height": 923,
+                "is_primary": "1",
+                "image_id": "84265"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84265_10b3bc9d0e855169_z.jpg",
+                "width": 640,
+                "height": 577,
+                "is_primary": "1",
+                "image_id": "84265"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84265_10b3bc9d0e855169_n.jpg",
+                "width": 320,
+                "height": 288,
+                "is_primary": "1",
+                "image_id": "84265"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84265_10b3bc9d0e855169_d.gif",
+                "width": 320,
+                "height": 288,
+                "is_primary": "1",
+                "image_id": "84265"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84265_10b3bc9d0e855169_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "84265"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113720_c8402d409148f851_b.jpg",
+                "width": 1024,
+                "height": 932,
+                "is_primary": "0",
+                "image_id": "113720"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113720_c8402d409148f851_z.jpg",
+                "width": 640,
+                "height": 583,
+                "is_primary": "0",
+                "image_id": "113720"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113720_c8402d409148f851_n.jpg",
+                "width": 320,
+                "height": 291,
+                "is_primary": "0",
+                "image_id": "113720"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113720_c8402d409148f851_d.gif",
+                "width": 320,
+                "height": 291,
+                "is_primary": "0",
+                "image_id": "113720"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113720_c8402d409148f851_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113720"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113719_10b3bc9d0e855169_b.jpg",
+                "width": 1024,
+                "height": 923,
+                "is_primary": "0",
+                "image_id": "113719"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113719_10b3bc9d0e855169_z.jpg",
+                "width": 640,
+                "height": 577,
+                "is_primary": "0",
+                "image_id": "113719"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113719_10b3bc9d0e855169_n.jpg",
+                "width": 320,
+                "height": 288,
+                "is_primary": "0",
+                "image_id": "113719"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113719_10b3bc9d0e855169_d.gif",
+                "width": 320,
+                "height": 288,
+                "is_primary": "0",
+                "image_id": "113719"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113719_10b3bc9d0e855169_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113719"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68248163",
+            "role_id": "35236685",
+            "person_name": "Ernst Herzfeld",
+            "person_date": "German, 1879\u20131948",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248163\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18058219",
+            "role_id": "51571131",
+            "person_name": "Freer Gallery of Art and Arthur M. Sackler Gallery",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058219\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Squeeze Of Foundation Inscription Of Darius I At Persepolis (Iran, Persepolis, Southern Terrace Wall), Made between 1923\u201334. paper. The Ernst Herzfeld Papers, Freer Gallery of Art and the Arthur M. Sackler Gallery, FSA A.6 06.C061. 18.2012.1."
+    },
+    "colors": [
+        {
+            "color": "#a99f93",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#c9c6ba",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#726558",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#3a2c21",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#927f6c",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "Iran",
+    "is_loan_object": 1
+}

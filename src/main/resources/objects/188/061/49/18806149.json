@@ -1,0 +1,123 @@
+{
+    "id": "18806149",
+    "tms:id": "183375",
+    "accession_number": "1986-110-4",
+    "title": "Drawing, Costume for the March Har",
+    "title_raw": "Costume for the March Har",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18806149\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "136269805",
+    "type_id": "35237093",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1986",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "pen and black ink, watercolor, over graphite\nsupport: white wove tracing paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "39.6 x 25.9 cm (15 9\/16 x 10 3\/16 in.)\nMat:  45.7 x 35.6 cm (18 x 14 in.)",
+    "dimensions_raw": {
+        "height": [
+            "45.70",
+            "centimeters"
+        ],
+        "width": [
+            "35.60",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/171760_7228a56ee6e86a0a_b.jpg",
+                "width": 676,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "171760"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/171760_7228a56ee6e86a0a_z.jpg",
+                "width": 423,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "171760"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/171760_7228a56ee6e86a0a_n.jpg",
+                "width": 211,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "171760"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/171760_7228a56ee6e86a0a_d.gif",
+                "width": 211,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "171760"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/171760_7228a56ee6e86a0a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "171760"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18047443",
+            "role_id": "35352245",
+            "person_name": "Megan L. Smith",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047443\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18042815",
+            "role_id": "35236565",
+            "person_name": "Gladys Calthrop",
+            "person_date": "ca. 1900\u20131980",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042815\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Costume for the March Har. pen and black ink, watercolor, over graphite\nsupport: white wove tracing paper. 1986-110-4."
+    },
+    "colors": [
+        {
+            "color": "#a2a08a",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#7c7c6e",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
+}

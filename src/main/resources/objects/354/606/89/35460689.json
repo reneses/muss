@@ -1,0 +1,174 @@
+{
+    "id": "35460689",
+    "tms:id": "274794",
+    "accession_number": "14.2012.66",
+    "title": "Protractor (USA), 1889\u201392",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35460689\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "68250211",
+    "type_id": "35520389",
+    "date": "1889\u201392",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": null,
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "sheet steel",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 15.7 x 26.1 x 0.2 cm (6 3\/16 x 10 1\/4 x 1\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "0.16",
+            "centimeters"
+        ],
+        "height": [
+            "15.70",
+            "centimeters"
+        ],
+        "width": [
+            "26.10",
+            "centimeters"
+        ]
+    },
+    "creditline": "Smithsonian Institution, National Museum of American History, 1977.0460.01",
+    "description": null,
+    "justification": null,
+    "gallery_text": "While commonplace in most American classrooms by the 20th century, the earliest protractors date to the 1500s and only became standard as tools for sea navigation and land surveying in the 17th century. Used to draw and measure angles, these mathematical devices were adapted into a variety of forms by 19th-century machinists, including this example by Alton J. Shaw, an apprentice at machinist toolmaker Darling, Brown & Sharpe. Cut from sheet steel, Shaw created a first-of-its kind reversible protractor that consisted of a circle set inside a three-sided square with an extending arm. His design simplified the form of a similar protractor created by company partner Samuel J. Darling. Two weeks after receiving patent approval, Shaw sold his patent back to his employer for $75. Between 1889 and 1892, Darling, Brown & Sharpe marketed the device for $6.50\u2014or $7.75 with a case.",
+    "label_text": "An abacus, a calculator, and a slide rule answer the question HOW MUCH? by means of very different techniques. The construction\nof some of our greatest modern buildings was calculated using slide rules. For surveying complex sites and surfaces, 3D laser scanners achieve such high precision that the interior of an entire building can be represented in minute detail.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Protractor",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93471_6beb256a24b8ee29_b.jpg",
+                "width": 1024,
+                "height": 737,
+                "is_primary": "1",
+                "image_id": "93471"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93471_6beb256a24b8ee29_z.jpg",
+                "width": 640,
+                "height": 460,
+                "is_primary": "1",
+                "image_id": "93471"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93471_6beb256a24b8ee29_n.jpg",
+                "width": 320,
+                "height": 230,
+                "is_primary": "1",
+                "image_id": "93471"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93471_6beb256a24b8ee29_d.gif",
+                "width": 320,
+                "height": 230,
+                "is_primary": "1",
+                "image_id": "93471"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93471_6beb256a24b8ee29_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93471"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113653_6beb256a24b8ee29_b.jpg",
+                "width": 1024,
+                "height": 737,
+                "is_primary": "0",
+                "image_id": "113653"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113653_6beb256a24b8ee29_z.jpg",
+                "width": 640,
+                "height": 461,
+                "is_primary": "0",
+                "image_id": "113653"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113653_6beb256a24b8ee29_n.jpg",
+                "width": 320,
+                "height": 230,
+                "is_primary": "0",
+                "image_id": "113653"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113653_6beb256a24b8ee29_d.gif",
+                "width": 320,
+                "height": 230,
+                "is_primary": "0",
+                "image_id": "113653"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113653_6beb256a24b8ee29_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113653"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68739555",
+            "role_id": "35236655",
+            "person_name": "Alton J. Shaw",
+            "person_date": "(American, n.d.)",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68739555\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "68248109",
+            "role_id": "35236657",
+            "person_name": "Darling, Brown & Sharpe Manufacturing Company",
+            "person_date": "Providence, Rhode Island, USA",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248109\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18041125",
+            "role_id": "51571131",
+            "person_name": "National Museum of American History",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041125\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Protractor (USA), 1889\u201392. sheet steel. Smithsonian Institution, National Museum of American History, 1977.0460.01. 14.2012.66."
+    },
+    "colors": [
+        {
+            "color": "#cdc7ba",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#a59f93",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

@@ -1,0 +1,131 @@
+{
+    "id": "18800625",
+    "tms:id": "180479",
+    "accession_number": "1983-46-11",
+    "title": "Vase (Sweden), ca. 1980",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800625\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389891",
+    "type_id": "35237225",
+    "date": "ca. 1980",
+    "year_start": 1975,
+    "year_end": 1985,
+    "year_acquired": "1983",
+    "decade": "1970",
+    "woe:country_id": "23424954",
+    "medium": "porcelain",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Height: 10.5 cm (4 1\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "10.50",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Flat base with flattened globular body rising to angular shoulder with long flattened cylindrical neck.  Oxblood glaze with flecks of blue grey glaze.  White ground glaze on shoulder and base edge.  Area of blue-grey glaze on interior of neck.  Unglazed underside.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424954",
+    "type": "Vase",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111610_396f5d2ee261367e_b.jpg",
+                "width": 879,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "111610"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111610_396f5d2ee261367e_z.jpg",
+                "width": 549,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "111610"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111610_396f5d2ee261367e_n.jpg",
+                "width": 275,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "111610"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111610_396f5d2ee261367e_d.gif",
+                "width": 275,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "111610"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111610_396f5d2ee261367e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "111610"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18054719",
+            "role_id": "35236657",
+            "person_name": "Gustavsberg Ceramic Factory",
+            "person_date": "founded 1825",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18054719\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18046089",
+            "role_id": "35236655",
+            "person_name": "Stig Lindberg",
+            "person_date": "(Swedish, 1916-1982)",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046089\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Vase (Sweden), ca. 1980. porcelain. 1983-46-11."
+    },
+    "colors": [
+        {
+            "color": "#3d3737",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#8f8d84",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#6d625b",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#24171a",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        }
+    ],
+    "woe:country_name": "Sweden",
+    "is_loan_object": 0
+}

@@ -1,0 +1,168 @@
+{
+    "id": "18805591",
+    "tms:id": "183089",
+    "accession_number": "1985-69-6",
+    "title": "Poster, Town for Memphis, 20th century",
+    "title_raw": "Town for Memphis",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805591\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35399021",
+    "type_id": "35238163",
+    "date": "20th century",
+    "year_start": 1975,
+    "year_end": 1985,
+    "year_acquired": "1985",
+    "decade": "1970",
+    "woe:country_id": "23424977",
+    "medium": "offset lithograph on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1985: acquired by Museum",
+    "dimensions": "H x W: 49 x 70.2 cm (19 5\/16 x 27 5\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "49.00",
+            "centimeters"
+        ],
+        "width": [
+            "70.20",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Poster depicts a diptych featuring an aerial view of a town with multicolored buildings on black asphalt. Below, in black ink: TOWN FOR MEMPHIS \/ GEORGE J. SOWDEN.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63534_6b06c3661f795435_b.jpg",
+                "width": 1024,
+                "height": 738,
+                "is_primary": "1",
+                "image_id": "63534"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63534_6b06c3661f795435_z.jpg",
+                "width": 640,
+                "height": 461,
+                "is_primary": "1",
+                "image_id": "63534"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63534_6b06c3661f795435_n.jpg",
+                "width": 320,
+                "height": 231,
+                "is_primary": "1",
+                "image_id": "63534"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63534_6b06c3661f795435_d.gif",
+                "width": 320,
+                "height": 231,
+                "is_primary": "1",
+                "image_id": "63534"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63534_6b06c3661f795435_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "63534"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/196615_ee6eb40647625e34_b.jpg",
+                "width": 1024,
+                "height": 732,
+                "is_primary": "0",
+                "image_id": "196615"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/196615_ee6eb40647625e34_z.jpg",
+                "width": 640,
+                "height": 457,
+                "is_primary": "0",
+                "image_id": "196615"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/196615_ee6eb40647625e34_n.jpg",
+                "width": 320,
+                "height": 229,
+                "is_primary": "0",
+                "image_id": "196615"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/196615_ee6eb40647625e34_d.gif",
+                "width": 320,
+                "height": 229,
+                "is_primary": "0",
+                "image_id": "196615"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/196615_ee6eb40647625e34_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "196615"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18047289",
+            "role_id": "35236655",
+            "person_name": "George J. Sowden",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047289\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, Town for Memphis, 20th century. offset lithograph on paper. 1985-69-6."
+    },
+    "colors": [
+        {
+            "color": "#4f4947",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#d1e5f8",
+            "closest_crayola": "#c5d0e6",
+            "closest_css3": "#e6e6fa",
+            "closest_css4": "#e6e6fa"
+        },
+        {
+            "color": "#fbed2d",
+            "closest_crayola": "#fefe22",
+            "closest_css3": "#ffff00",
+            "closest_css4": "#ffff00"
+        },
+        {
+            "color": "#8b9ab7",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#676168",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

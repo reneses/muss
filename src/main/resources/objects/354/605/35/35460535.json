@@ -1,0 +1,133 @@
+{
+    "id": "35460535",
+    "tms:id": "274746",
+    "accession_number": "2013-3-5",
+    "title": "Sudbury Hall Architectural Model, ca. 1660\u201390",
+    "title_raw": "Sudbury Hall",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35460535\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35463327",
+    "type_id": "35238913",
+    "date": "ca. 1660\u201390",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "2013",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "stained pine",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "ca. 1980: Eugene V. and Clare Thaw acquired from antiques fair, England; 2013: acquired by Museum",
+    "dimensions": "H x W x D (base): 30.5 x 69.2 x 35.6 cm (12 in. x 27 1\/4 in. x 14 in.)\nH x W x D (house): 30.5 x 49.5 x 25.4 cm (12 in. x 19 1\/2 in. x 10 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "35.56",
+            "centimeters"
+        ],
+        "height": [
+            "30.48",
+            "centimeters"
+        ],
+        "width": [
+            "69.22",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Eugene V. and Clare E. Thaw",
+    "description": "Model in the form of Sudbury Hall, Derbyshire, an English country house of c. 1665-early 1690s, a rectangle with protruding central entrances and end wings, a central domed cupola and rectangular chimneys on the main block and two at each end, with small dormer windows above the two floors, delineated by a line of moulding.",
+    "justification": "While the precise purpose of this model is undocumented, it may be a working model for Sudbury Hall, an English country house built over a period of nearly 30 years. Sudbury Hall\u2019s lavish decoration, brick patterns, fenestration, and interior decoration with rich carvings (some by Grinling Gibbons), are not featured in this model. The model\u2019s end blocks have only minor protrusions, whereas the completed house has more of a full Roman capital letter \u201cI\u201d formation with extensions deep enough to provide room for large windows. \nThe model shows a greater interest in overall architectural elements rather than in decoration, which indicates its use as a prospective overall plan. It is likely that the model was created as an early concept for Sudbury Hall, making this a good example of the model as part of the design process. \nThis model is one of a group of models proposed for acquisition. Models are an important part of the design process, and demonstrate craftsmanship, skill of execution, and the innovative use of materials. The group under consideration would provide the museum with an opportunity to examine the role of the model in many contexts.",
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "architectural model",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49352_98501a4225bd7c71_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "49352"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49352_98501a4225bd7c71_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "49352"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49352_98501a4225bd7c71_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "49352"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49352_98501a4225bd7c71_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "49352"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49352_98501a4225bd7c71_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "49352"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18060137",
+            "role_id": "35351535",
+            "person_name": "Clare E. Thaw",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18060137\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "68736639",
+            "role_id": "35351535",
+            "person_name": "Eugene V. Thaw",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68736639\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sudbury Hall Architectural Model, ca. 1660\u201390. stained pine. Gift of Eugene V. and Clare E. Thaw. 2013-3-5."
+    },
+    "colors": [
+        {
+            "color": "#342f2b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#686057",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#928d86",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
+}

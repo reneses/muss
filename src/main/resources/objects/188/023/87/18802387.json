@@ -1,0 +1,113 @@
+{
+    "id": "18802387",
+    "tms:id": "181372",
+    "accession_number": "1984-132-3-a,b",
+    "title": "Bottle And Stopper",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18802387\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35367577",
+    "type_id": "35289377",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "stone",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Overall: 6.6 x 4 x 3 cm (2 5\/8 x 1 9\/16 x 1 3\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "3.00",
+            "centimeters"
+        ],
+        "height": [
+            "6.60",
+            "centimeters"
+        ],
+        "width": [
+            "4.00",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Bottle and stopper",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119582_5c73ed4f8c772ea7_b.jpg",
+                "width": 964,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "119582"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119582_5c73ed4f8c772ea7_z.jpg",
+                "width": 602,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "119582"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119582_5c73ed4f8c772ea7_n.jpg",
+                "width": 301,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "119582"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119582_5c73ed4f8c772ea7_d.gif",
+                "width": 301,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "119582"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119582_5c73ed4f8c772ea7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "119582"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Bottle And Stopper. stone. 1984-132-3-a,b."
+    },
+    "colors": [
+        {
+            "color": "#8a7a7e",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#a29a93",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#695e60",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
+}

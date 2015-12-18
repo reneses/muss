@@ -1,0 +1,104 @@
+{
+    "id": "18801869",
+    "tms:id": "181101",
+    "accession_number": "1984-124-24-18",
+    "title": "Print, Monthly Cabinet Makers Album: \"Library Curtains\", 1859",
+    "title_raw": "Monthly Cabinet Makers Album: \"Library Curtains\"",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801869\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35236873",
+    "date": "1859",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Print",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/138594_240e5f8ad04d8efe_b.jpg",
+                "width": 801,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "138594"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/138594_240e5f8ad04d8efe_z.jpg",
+                "width": 500,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "138594"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/138594_240e5f8ad04d8efe_n.jpg",
+                "width": 250,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "138594"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/138594_240e5f8ad04d8efe_d.gif",
+                "width": 250,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "138594"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/138594_240e5f8ad04d8efe_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "138594"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18539371",
+            "role_id": "35236655",
+            "person_name": "M. Kimbel",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539371\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Print, Monthly Cabinet Makers Album: \"Library Curtains\", 1859. 1984-124-24-18."
+    },
+    "colors": [
+        {
+            "color": "#938f88",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#79746e",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

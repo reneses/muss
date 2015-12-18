@@ -1,0 +1,132 @@
+{
+    "id": "18805169",
+    "tms:id": "182873",
+    "accession_number": "1985-37-1",
+    "title": "Textile (England)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805169\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35367167",
+    "type_id": "35251739",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123903_9c8954c386c46461_b.jpg",
+                "width": 680,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "123903"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123903_9c8954c386c46461_z.jpg",
+                "width": 425,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "123903"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123903_9c8954c386c46461_n.jpg",
+                "width": 213,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "123903"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123903_9c8954c386c46461_d.gif",
+                "width": 213,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "123903"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123903_9c8954c386c46461_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "123903"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77641_360e8c121c06ac7b_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "77641"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77641_360e8c121c06ac7b_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "77641"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77641_360e8c121c06ac7b_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77641"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77641_360e8c121c06ac7b_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77641"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77641_360e8c121c06ac7b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77641"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Textile (England). 1985-37-1."
+    },
+    "colors": [
+        {
+            "color": "#745948",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#6d6c5c",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
+}

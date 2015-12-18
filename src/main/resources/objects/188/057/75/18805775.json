@@ -1,0 +1,107 @@
+{
+    "id": "18805775",
+    "tms:id": "183188",
+    "accession_number": "1985-91-1",
+    "title": "\"Exquisit\" Goblet, ca. 1985",
+    "title_raw": "\"Exquisit\"",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805775\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35250731",
+    "date": "ca. 1985",
+    "year_start": 1975,
+    "year_end": 1995,
+    "year_acquired": "1985",
+    "decade": "1970",
+    "woe:country_id": "23424750",
+    "medium": "glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 22.6 x 7.8 cm (8 7\/8 x 3 1\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "7.80",
+            "centimeters"
+        ],
+        "height": [
+            "22.60",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "goblet\/Burgunder",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424750",
+    "type": "goblet",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123015_4c400b6d5d05adda_b.jpg",
+                "width": 527,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "123015"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123015_4c400b6d5d05adda_z.jpg",
+                "width": 329,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "123015"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123015_4c400b6d5d05adda_n.jpg",
+                "width": 165,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "123015"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123015_4c400b6d5d05adda_d.gif",
+                "width": 165,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "123015"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123015_4c400b6d5d05adda_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "123015"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18539073",
+            "role_id": "35236685",
+            "person_name": "Riedel Crystal",
+            "person_date": "Austria, founded 1756",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539073\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "\"Exquisit\" Goblet, ca. 1985. glass. 1985-91-1."
+    },
+    "colors": [
+        {
+            "color": "#ffffff",
+            "closest_crayola": "#ffffff",
+            "closest_css3": "#ffffff",
+            "closest_css4": "#ffffff"
+        }
+    ],
+    "woe:country_name": "Austria",
+    "is_loan_object": 0
+}

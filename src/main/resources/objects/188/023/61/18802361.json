@@ -1,0 +1,94 @@
+{
+    "id": "18802361",
+    "tms:id": "181348",
+    "accession_number": "1984-131-3-a,b",
+    "title": "Prince Carl Wilhelm Ferdinand (Erbprinz Ferdinand) Bust, 1772",
+    "title_raw": "Prince Carl Wilhelm Ferdinand (Erbprinz Ferdinand)",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18802361\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389891",
+    "type_id": "35248151",
+    "date": "1772",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "porcelain",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": "Bust of Prince Carl Wilhelm Ferdinand (Erbprinz Ferdinand).",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "bust",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115683_f99d7d4b42445db1_b.jpg",
+                "width": 696,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "115683"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115683_f99d7d4b42445db1_z.jpg",
+                "width": 435,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "115683"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115683_f99d7d4b42445db1_n.jpg",
+                "width": 218,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "115683"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115683_f99d7d4b42445db1_d.gif",
+                "width": 218,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "115683"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115683_f99d7d4b42445db1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "115683"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Prince Carl Wilhelm Ferdinand (Erbprinz Ferdinand) Bust, 1772. porcelain. 1984-131-3-a,b."
+    },
+    "colors": [
+        {
+            "color": "#796a5e",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#604545",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "is_loan_object": 0
+}

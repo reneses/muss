@@ -1,0 +1,204 @@
+{
+    "id": "18805063",
+    "tms:id": "182819",
+    "accession_number": "1985-3-5-a,b",
+    "title": "TAC Cup And Saucer, 1969",
+    "title_raw": "TAC",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805063\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35392471",
+    "type_id": "35248193",
+    "date": "1969",
+    "year_start": 1969,
+    "year_end": 1969,
+    "year_acquired": "1985",
+    "decade": "1960",
+    "woe:country_id": "23424829",
+    "medium": "glazed porcelain",
+    "markings": "On base of (a) in green: \"Rosenthal [logo] \/ studio-linie \/ GERMANY\"; (b) in white: \"Rosenthal [logo] \/ PORCELAINE NOIRE \/ studio-linie \/ GERMANY\"",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1985: acquired directly from the manufacturer, Rosenthal Glas und Porzellan AG",
+    "dimensions": "H x W x D (a: cup): 4.6 x 11.7 x 10.2 cm (1 13\/16 in. x 4 5\/8 in. x 4 in.)\nH x diam. (b: saucer): 1.9 x 15.6 cm (3\/4 x 6 1\/8 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "10.16",
+            "centimeters"
+        ],
+        "diameter": [
+            "15.56",
+            "centimeters"
+        ],
+        "height": [
+            "1.91",
+            "centimeters"
+        ],
+        "width": [
+            "11.75",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Rosenthal Glas und Porzellan AG",
+    "description": "Open white cup with angular handle on a black porcelain saucer.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "cup and saucer",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108459_57c4bf86f6179e6c_b.jpg",
+                "width": 1024,
+                "height": 679,
+                "is_primary": "1",
+                "image_id": "108459"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108459_57c4bf86f6179e6c_z.jpg",
+                "width": 640,
+                "height": 424,
+                "is_primary": "1",
+                "image_id": "108459"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108459_57c4bf86f6179e6c_n.jpg",
+                "width": 320,
+                "height": 212,
+                "is_primary": "1",
+                "image_id": "108459"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108459_57c4bf86f6179e6c_d.gif",
+                "width": 320,
+                "height": 212,
+                "is_primary": "1",
+                "image_id": "108459"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108459_57c4bf86f6179e6c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "108459"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42531_8226a2ac59e2e25d_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "42531"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42531_8226a2ac59e2e25d_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "42531"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42531_8226a2ac59e2e25d_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "42531"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42531_8226a2ac59e2e25d_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "42531"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42531_8226a2ac59e2e25d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "42531"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18044069",
+            "role_id": "35351535",
+            "person_name": "Rosenthal Aktiengesellschaft",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044069\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18043913",
+            "role_id": "35236685",
+            "person_name": "Rosenthal Glas Und Porzellan Aktiengesellschaft",
+            "person_date": "founded 1891",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043913\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18537663",
+            "role_id": "35236703",
+            "person_name": "Walter Gropius\/Louis McMillen",
+            "person_date": "",
+            "role_name": "Office of",
+            "role_display_name": "Office of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537663\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236703\/"
+        },
+        {
+            "person_id": "18537661",
+            "role_id": "35236675",
+            "person_name": "The Architects Collaborative (T.A.C.)",
+            "person_date": "",
+            "role_name": "For",
+            "role_display_name": "Made for",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537661\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236675\/"
+        },
+        {
+            "person_id": "18537657",
+            "role_id": "35236655",
+            "person_name": "Catherine de Souza",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537657\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "TAC Cup And Saucer, 1969. glazed porcelain. Gift of Rosenthal Glas und Porzellan AG. 1985-3-5-a,b."
+    },
+    "colors": [
+        {
+            "color": "#5b5852",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#95938a",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#2b2520",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
+}

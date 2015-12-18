@@ -1,0 +1,83 @@
+{
+    "id": "18805369",
+    "tms:id": "182973",
+    "accession_number": "1985-47-1",
+    "title": "Calender",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805369\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35285497",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Calender",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/223197_a19a368cce3f3751_b.jpg",
+                "width": 768,
+                "height": 577,
+                "is_primary": "1",
+                "image_id": "223197"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/223197_a19a368cce3f3751_z.jpg",
+                "width": 640,
+                "height": 481,
+                "is_primary": "1",
+                "image_id": "223197"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/223197_a19a368cce3f3751_n.jpg",
+                "width": 320,
+                "height": 240,
+                "is_primary": "1",
+                "image_id": "223197"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/223197_a19a368cce3f3751_d.gif",
+                "width": 320,
+                "height": 240,
+                "is_primary": "1",
+                "image_id": "223197"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/223197_a19a368cce3f3751_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "223197"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Calender. 1985-47-1."
+    },
+    "colors": [
+
+    ],
+    "is_loan_object": 0
+}

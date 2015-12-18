@@ -1,0 +1,178 @@
+{
+    "id": "18801245",
+    "tms:id": "180789",
+    "accession_number": "1984-11-9",
+    "title": "Poster (USA), 1980",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801245\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35399021",
+    "type_id": "35238163",
+    "date": "1980",
+    "year_start": 1980,
+    "year_end": 1980,
+    "year_acquired": "1984",
+    "decade": "1980",
+    "woe:country_id": "23424977",
+    "medium": "offset lithograph on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1984: acquired by Museum",
+    "dimensions": "71 x 46 cm (27 15\/16 x 18 1\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "71.00",
+            "centimeters"
+        ],
+        "width": [
+            "46.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Dayton's Department Store",
+    "description": "Poster depicting black and white photograph of a woman wearing a white satin dress with puffy sleeves and shoulders. Her face is superimposed by a Picasso abstracted painted face in purple and yellow with red lips. All bordered by yellow with ornate red lines. Below photograph, in red: Picasso \/ [in green:] FROM THE FUTURE MUS\u00c9E PICASSO, PARIS \/ FEBRUARY 10 THROUGH MARCH 30 . WALKER ART CENTER, MINNEAPOLIS, MINNESOTA.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63854_5984113c3d39c2e2_b.jpg",
+                "width": 805,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "63854"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63854_5984113c3d39c2e2_z.jpg",
+                "width": 503,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "63854"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63854_5984113c3d39c2e2_n.jpg",
+                "width": 252,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63854"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63854_5984113c3d39c2e2_d.gif",
+                "width": 252,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63854"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63854_5984113c3d39c2e2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "63854"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/203829_2eacd57d6e1fc15f_b.jpg",
+                "width": 815,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "203829"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/203829_2eacd57d6e1fc15f_z.jpg",
+                "width": 509,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "203829"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/203829_2eacd57d6e1fc15f_n.jpg",
+                "width": 255,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "203829"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/203829_2eacd57d6e1fc15f_d.gif",
+                "width": 255,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "203829"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/203829_2eacd57d6e1fc15f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "203829"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "51676457",
+            "role_id": "35352245",
+            "person_name": "Karin Zonis",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18537101",
+            "role_id": "35351535",
+            "person_name": "Dayton's Department Store",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537101\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster (USA), 1980. offset lithograph on paper. Gift of Dayton's Department Store. 1984-11-9."
+    },
+    "colors": [
+        {
+            "color": "#d8c644",
+            "closest_crayola": "#ffcf48",
+            "closest_css3": "#daa520",
+            "closest_css4": "#daa520"
+        },
+        {
+            "color": "#2a2927",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#b55428",
+            "closest_crayola": "#c46210",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#b1b19e",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#bc7b36",
+            "closest_crayola": "#b4674d",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

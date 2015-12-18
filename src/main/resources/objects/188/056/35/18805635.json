@@ -1,0 +1,98 @@
+{
+    "id": "18805635",
+    "tms:id": "183111",
+    "accession_number": "1985-81-12",
+    "title": "Button (USA), ca. 1930",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805635\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35393671",
+    "type_id": "35237135",
+    "date": "ca. 1930",
+    "year_start": 1920,
+    "year_end": 1940,
+    "year_acquired": "1985",
+    "decade": "1920",
+    "woe:country_id": "23424977",
+    "medium": "porcelain, enamel, gilding",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Collection Mrs. Simon Lissim.",
+    "dimensions": "Diameter: 1.6 cm (5\/8 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "1.60",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Circular, molded porcelain blank. Slightly domed obverse with geometric and stylized fish motifs in green, blue, black, and coral enamel, with gilded edge. Reverse with molded shank, and with two gold bands.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "button",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/154357_b7b8bb13ddc2979a_b.jpg",
+                "width": 1024,
+                "height": 966,
+                "is_primary": "0",
+                "image_id": "154357"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/154357_b7b8bb13ddc2979a_z.jpg",
+                "width": 640,
+                "height": 603,
+                "is_primary": "0",
+                "image_id": "154357"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/154357_b7b8bb13ddc2979a_n.jpg",
+                "width": 320,
+                "height": 302,
+                "is_primary": "0",
+                "image_id": "154357"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/154357_b7b8bb13ddc2979a_d.gif",
+                "width": 320,
+                "height": 302,
+                "is_primary": "0",
+                "image_id": "154357"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/154357_b7b8bb13ddc2979a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "154357"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18043845",
+            "role_id": "35236655",
+            "person_name": "Simon Lissim",
+            "person_date": "American, b. Kiev, Russia, 1900\u20131981",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043845\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Button (USA), ca. 1930. porcelain, enamel, gilding. 1985-81-12."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

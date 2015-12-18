@@ -1,0 +1,112 @@
+{
+    "id": "18806413",
+    "tms:id": "183511",
+    "accession_number": "1986-119-10-22",
+    "title": "Card",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18806413\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35290281",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1986",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Barbara Jarocki and Robert Fudim",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Card",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/149453_5d99dad16b055e91_b.jpg",
+                "width": 656,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "149453"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/149453_5d99dad16b055e91_z.jpg",
+                "width": 410,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "149453"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/149453_5d99dad16b055e91_n.jpg",
+                "width": 205,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "149453"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/149453_5d99dad16b055e91_d.gif",
+                "width": 205,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "149453"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/149453_5d99dad16b055e91_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "149453"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Card. Gift of Barbara Jarocki and Robert Fudim. 1986-119-10-22."
+    },
+    "colors": [
+        {
+            "color": "#6f8e61",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#323d34",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#555f48",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#3f2b2a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#e3cd65",
+            "closest_crayola": "#f8d568",
+            "closest_css3": "#deb887",
+            "closest_css4": "#deb887"
+        }
+    ],
+    "is_loan_object": 0
+}

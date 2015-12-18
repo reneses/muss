@@ -1,0 +1,117 @@
+{
+    "id": "18804467",
+    "tms:id": "182518",
+    "accession_number": "1985-118-1",
+    "title": "Vase (Finland), 1961",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18804467\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35397053",
+    "type_id": "35237225",
+    "date": "1961",
+    "year_start": 1961,
+    "year_end": 1961,
+    "year_acquired": "1985",
+    "decade": "1960",
+    "woe:country_id": "23424812",
+    "medium": "stoneware, glaze",
+    "markings": "Marks: Unmarked. Paper label affixed to underside: \"Toini Muona \/ Arabia \/ 1961.\"",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 50.2 x 9.8 cm (19 3\/4 x 3 7\/8 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "9.80",
+            "centimeters"
+        ],
+        "height": [
+            "50.20",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Tall thrown vase. Cylindrical at base, tapered outward toward plain lip. Irregular profile, with body curved toward one side. Interior and exterior glazed with semi-mat greenish-white glaze over white porcellaneous stone- ware body. Underside of base unglazed.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424812",
+    "type": "Vase",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112094_aa73cf6177173e83_b.jpg",
+                "width": 512,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "112094"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112094_aa73cf6177173e83_z.jpg",
+                "width": 320,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "112094"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112094_aa73cf6177173e83_n.jpg",
+                "width": 160,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "112094"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112094_aa73cf6177173e83_d.gif",
+                "width": 160,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "112094"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112094_aa73cf6177173e83_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "112094"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18044055",
+            "role_id": "35236657",
+            "person_name": "Arabia",
+            "person_date": "founded 1873",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044055\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18044087",
+            "role_id": "35236565",
+            "person_name": "Toini Muona",
+            "person_date": "1904\u20131987",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044087\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Vase (Finland), 1961. stoneware, glaze. 1985-118-1."
+    },
+    "colors": [
+        {
+            "color": "#87847c",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "Finland",
+    "is_loan_object": 0
+}

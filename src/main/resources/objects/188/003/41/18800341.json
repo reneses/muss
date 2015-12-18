@@ -1,0 +1,150 @@
+{
+    "id": "18800341",
+    "tms:id": "180333",
+    "accession_number": "1983-14-1",
+    "title": "Pattern For Embroidery (possibly USA), early 20th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800341\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "68266153",
+    "type_id": "35293565",
+    "date": "early 20th century",
+    "year_start": 1901,
+    "year_end": 1925,
+    "year_acquired": "1983",
+    "decade": "1900",
+    "woe:country_id": "23424977",
+    "medium": "linen, mercerized cotton (?) how identified: by eye",
+    "markings": null,
+    "signed": null,
+    "inscribed": "at bottom. \"Use Richardson Mt Mellick silk\" \"1791\" \"18 in.\"",
+    "provenance": null,
+    "dimensions": "17 1\/2 inches (44.5 cm) by 18 1\/2 inches(47 cm)",
+    "dimensions_raw": {
+        "height": [
+            "44.50",
+            "centimeters"
+        ],
+        "width": [
+            "47.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Mr. and Mrs. Robert Mertz",
+    "description": "Partly worked printed pattern for embroidery. If finished result would have been a circular table center.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "pattern for embroidery",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77376_31a1d550d1c1fefc_b.jpg",
+                "width": 1024,
+                "height": 715,
+                "is_primary": "1",
+                "image_id": "77376"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77376_31a1d550d1c1fefc_z.jpg",
+                "width": 640,
+                "height": 447,
+                "is_primary": "1",
+                "image_id": "77376"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77376_31a1d550d1c1fefc_n.jpg",
+                "width": 320,
+                "height": 223,
+                "is_primary": "1",
+                "image_id": "77376"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77376_31a1d550d1c1fefc_d.gif",
+                "width": 320,
+                "height": 223,
+                "is_primary": "1",
+                "image_id": "77376"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77376_31a1d550d1c1fefc_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "77376"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77377_65ff12844fcdf400_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "77377"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77377_65ff12844fcdf400_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "77377"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77377_65ff12844fcdf400_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "77377"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77377_65ff12844fcdf400_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "77377"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77377_65ff12844fcdf400_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77377"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18047459",
+            "role_id": "35352245",
+            "person_name": "Gillian Moss",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Pattern For Embroidery (possibly USA), early 20th century. linen, mercerized cotton (?) how identified: by eye. Gift of Mr. and Mrs. Robert Mertz. 1983-14-1."
+    },
+    "colors": [
+        {
+            "color": "#2f2d33",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#858d90",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

@@ -1,0 +1,166 @@
+{
+    "id": "18804261",
+    "tms:id": "182410",
+    "accession_number": "1985-103-34",
+    "title": "Knife (Germany), ca. 1650",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18804261\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35432927",
+    "type_id": "35248783",
+    "date": "ca. 1650",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424829",
+    "medium": "wood, steel",
+    "markings": "Blade: star-shaped cutler's mark (partly visible)",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Blumka Gallery, New York\/ Robert L. Metzenberg",
+    "dimensions": "L x W: 27 x 2 cm (10 5\/8 x 13\/16 in.)",
+    "dimensions_raw": {
+        "length": [
+            "27.00",
+            "centimeters"
+        ],
+        "width": [
+            "2.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg",
+    "description": "Long flat leaf-shaped blade. Ribbed bolster. Almond-section handle, wood scales inlaid with metal wires in scrolls, trefoils and dots along length. Steel cap at terminal.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "knife",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119298_7e55ff9dde4c2d44_b.jpg",
+                "width": 485,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "119298"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119298_7e55ff9dde4c2d44_z.jpg",
+                "width": 303,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "119298"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119298_7e55ff9dde4c2d44_n.jpg",
+                "width": 152,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "119298"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119298_7e55ff9dde4c2d44_d.gif",
+                "width": 152,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "119298"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119298_7e55ff9dde4c2d44_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "119298"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19279_6eb0c62303cd5cb5_b.jpg",
+                "width": 342,
+                "height": 1010,
+                "is_primary": "0",
+                "image_id": "19279"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19279_6eb0c62303cd5cb5_z.jpg",
+                "width": 217,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "19279"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19279_6eb0c62303cd5cb5_n.jpg",
+                "width": 108,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19279"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19279_6eb0c62303cd5cb5_d.gif",
+                "width": 108,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19279"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19279_6eb0c62303cd5cb5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "19279"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18535985",
+            "role_id": "35351535",
+            "person_name": "Eleanor L. Metzenberg",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048365",
+            "role_id": "35352245",
+            "person_name": "S. Wilmering",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Knife (Germany), ca. 1650. wood, steel. The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg. 1985-103-34."
+    },
+    "colors": [
+        {
+            "color": "#d9d2ca",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#a8a199",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#524744",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
+}

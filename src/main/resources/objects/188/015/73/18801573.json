@@ -1,0 +1,83 @@
+{
+    "id": "18801573",
+    "tms:id": "180953",
+    "accession_number": "1984-120-17",
+    "title": "Textile",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801573\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "121769",
+    "type_id": "35251739",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/214513_6a49c72fe2146ed3_b.jpg",
+                "width": 1024,
+                "height": 886,
+                "is_primary": "1",
+                "image_id": "214513"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/214513_6a49c72fe2146ed3_z.jpg",
+                "width": 640,
+                "height": 553,
+                "is_primary": "1",
+                "image_id": "214513"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/214513_6a49c72fe2146ed3_n.jpg",
+                "width": 320,
+                "height": 277,
+                "is_primary": "1",
+                "image_id": "214513"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/214513_6a49c72fe2146ed3_d.gif",
+                "width": 320,
+                "height": 277,
+                "is_primary": "1",
+                "image_id": "214513"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/214513_6a49c72fe2146ed3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "214513"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Textile. 1984-120-17."
+    },
+    "colors": [
+
+    ],
+    "is_loan_object": 0
+}

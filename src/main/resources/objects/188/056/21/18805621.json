@@ -1,0 +1,166 @@
+{
+    "id": "18805621",
+    "tms:id": "183104",
+    "accession_number": "1985-79-1-a,b",
+    "title": "Lampshade Cover (USA)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805621\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "122769",
+    "type_id": "35293803",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Lampshade cover",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87319_586204f8e255b483_b.jpg",
+                "width": null,
+                "height": null,
+                "is_primary": "1",
+                "image_id": "87319"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87319_586204f8e255b483_z.jpg",
+                "width": 640,
+                "height": 439,
+                "is_primary": "1",
+                "image_id": "87319"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/195469_9c51c67dc5f5fde6_b.jpg",
+                "width": 1024,
+                "height": 751,
+                "is_primary": "0",
+                "image_id": "195469"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/195469_9c51c67dc5f5fde6_z.jpg",
+                "width": 640,
+                "height": 469,
+                "is_primary": "0",
+                "image_id": "195469"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/195469_9c51c67dc5f5fde6_n.jpg",
+                "width": 320,
+                "height": 235,
+                "is_primary": "0",
+                "image_id": "195469"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/195469_9c51c67dc5f5fde6_d.gif",
+                "width": 320,
+                "height": 235,
+                "is_primary": "0",
+                "image_id": "195469"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/195469_9c51c67dc5f5fde6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "195469"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/196054_a58285edf794c330_b.jpg",
+                "width": 1024,
+                "height": 751,
+                "is_primary": "0",
+                "image_id": "196054"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/196054_a58285edf794c330_z.jpg",
+                "width": 640,
+                "height": 469,
+                "is_primary": "0",
+                "image_id": "196054"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/196054_a58285edf794c330_n.jpg",
+                "width": 320,
+                "height": 235,
+                "is_primary": "0",
+                "image_id": "196054"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/196054_a58285edf794c330_d.gif",
+                "width": 320,
+                "height": 235,
+                "is_primary": "0",
+                "image_id": "196054"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/196054_a58285edf794c330_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "196054"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Lampshade Cover (USA). 1985-79-1-a,b."
+    },
+    "colors": [
+        {
+            "color": "#d7cec7",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#3f3b47",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#241827",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#afa59e",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#746867",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

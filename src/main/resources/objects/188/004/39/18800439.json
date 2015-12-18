@@ -1,0 +1,103 @@
+{
+    "id": "18800439",
+    "tms:id": "180382",
+    "accession_number": "1983-26-1",
+    "title": "Button",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800439\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35428109",
+    "type_id": "35237135",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1983",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "composition brass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Mrs. H.Klee",
+    "description": "1983-26-1\/4 are a matching set",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "button",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/144048_1791e51f29821389_b.jpg",
+                "width": 1024,
+                "height": 941,
+                "is_primary": "1",
+                "image_id": "144048"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/144048_1791e51f29821389_z.jpg",
+                "width": 640,
+                "height": 588,
+                "is_primary": "1",
+                "image_id": "144048"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/144048_1791e51f29821389_n.jpg",
+                "width": 320,
+                "height": 294,
+                "is_primary": "1",
+                "image_id": "144048"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/144048_1791e51f29821389_d.gif",
+                "width": 320,
+                "height": 294,
+                "is_primary": "1",
+                "image_id": "144048"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/144048_1791e51f29821389_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "144048"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18061969",
+            "role_id": "35351535",
+            "person_name": "Mrs. H. Klee",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061969\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Button. composition brass. Gift of Mrs. H.Klee. 1983-26-1."
+    },
+    "colors": [
+        {
+            "color": "#372c22",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#60533d",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "is_loan_object": 0
+}

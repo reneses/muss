@@ -1,0 +1,171 @@
+{
+    "id": "35457253",
+    "tms:id": "274560",
+    "accession_number": "15.2012.25",
+    "title": "Clovis Point, ca. 11,000 BCE",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35457253\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "68743119",
+    "type_id": "35520391",
+    "date": "ca. 11,000 BCE",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": null,
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "chert from north central ohio",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 12.4 x 3.2 x 1 cm (4 7\/8 x 1 1\/4 x 3\/8 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "0.95",
+            "centimeters"
+        ],
+        "height": [
+            "12.38",
+            "centimeters"
+        ],
+        "width": [
+            "3.18",
+            "centimeters"
+        ]
+    },
+    "creditline": "Department of Anthropology, National Museum of Natural History, Smithsonian Institution, A581650",
+    "description": null,
+    "justification": null,
+    "gallery_text": "These spear points, dating to between 13,200 and 12,900 years ago, represent one of the first widespread cultural and technological traditions in North America. The distinctive shape of the points and the characteristic flute, or channel, driven up from the base characterize a style that was followed by artisans across what is today North America. The fact that these design traits persisted across great distances is evidence of close social interactions and provides an example of how a material object can express cultural identity. The smaller of the two is from the New Mexico\u2013Texas border, the other is from eastern North America. Projectile points like these have been found near mammoth kills across North America, revealing that hunting large animals was part of early subsistence practices. Clovis points, however, were undoubtedly used as tools for other functions as well, including hunting smaller game, rituals, and cutting.",
+    "label_text": "A sharpened blade or honed point helps to make farming more efficient, perform surgery with extra precision, or enable hunting with greater success. Carved (bird dart), forged (throwing knives), or fractured (obsidian scalpel) to be razor-sharp, these tools also show how good design is found in the shape and at the edge.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Clovis point",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93903_5e9c328de31eb26b_b.jpg",
+                "width": 767,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "93903"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93903_5e9c328de31eb26b_z.jpg",
+                "width": 479,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "93903"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93903_5e9c328de31eb26b_n.jpg",
+                "width": 240,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93903"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93903_5e9c328de31eb26b_d.gif",
+                "width": 240,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93903"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93903_5e9c328de31eb26b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93903"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113670_2b377d858fd80dd4_b.jpg",
+                "width": 616,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113670"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113670_2b377d858fd80dd4_z.jpg",
+                "width": 385,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113670"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113670_2b377d858fd80dd4_n.jpg",
+                "width": 193,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113670"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113670_2b377d858fd80dd4_d.gif",
+                "width": 193,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113670"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113670_2b377d858fd80dd4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113670"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "51676437",
+            "role_id": "51571131",
+            "person_name": "National Museum of Natural History",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676437\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Clovis Point, ca. 11,000 BCE. chert from north central ohio. Department of Anthropology, National Museum of Natural History, Smithsonian Institution, A581650. 15.2012.25."
+    },
+    "colors": [
+        {
+            "color": "#948d70",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#766c54",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#5d5038",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#c7c2ac",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#3a2f1b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "is_loan_object": 1
+}

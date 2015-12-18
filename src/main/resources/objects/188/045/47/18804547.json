@@ -1,0 +1,112 @@
+{
+    "id": "18804547",
+    "tms:id": "182558",
+    "accession_number": "1985-14-34",
+    "title": "Drawing, Design for lidded jar with purple blossoms",
+    "title_raw": "Design for lidded jar with purple blossoms",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18804547\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "68266191",
+    "type_id": "35237093",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424856",
+    "medium": "brush and watercolor, gold gouache, graphite on cream paper",
+    "markings": "Stamped in blue ink, upper margin: D \/ 863; lower left: 1325 \/ 1594 \/ 1663",
+    "signed": null,
+    "inscribed": "Inscribed in graphite, upper margin: tableware designs and numbers with Japanese notations",
+    "provenance": "1985: acquired by Museum",
+    "dimensions": "(irregular): 28.5 x 15.6 cm (11 1\/4 x 6 1\/8 in.)\nMat: 35.7 x 45.7 cm (14 1\/16 in. x 18 in.)",
+    "dimensions_raw": {
+        "height": [
+            "28.50",
+            "centimeters"
+        ],
+        "width": [
+            "15.60",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Lidded jar with slightly tapered body at the top; body decorated with dark purple blossoms against green leaves and some gold branches; with lid decorated in gold circles.k",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424856",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/210921_e0bf7d7c0cc08075_b.jpg",
+                "width": 584,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "210921"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/210921_e0bf7d7c0cc08075_z.jpg",
+                "width": 365,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "210921"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/210921_e0bf7d7c0cc08075_n.jpg",
+                "width": 183,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "210921"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/210921_e0bf7d7c0cc08075_d.gif",
+                "width": 183,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "210921"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/210921_e0bf7d7c0cc08075_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "210921"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18057835",
+            "role_id": "35351535",
+            "person_name": "Roger Selchow",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18057835\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18044209",
+            "role_id": "35236675",
+            "person_name": "Noritake",
+            "person_date": "",
+            "role_name": "For",
+            "role_display_name": "Made for",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044209\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236675\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Design for lidded jar with purple blossoms. brush and watercolor, gold gouache, graphite on cream paper. 1985-14-34."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "Japan",
+    "is_loan_object": 0
+}

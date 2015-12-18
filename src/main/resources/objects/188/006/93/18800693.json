@@ -1,0 +1,157 @@
+{
+    "id": "18800693",
+    "tms:id": "180513",
+    "accession_number": "1983-5-1",
+    "title": "Textile (possibly USA), ca. 1936",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800693\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35251739",
+    "date": "ca. 1936",
+    "year_start": 1931,
+    "year_end": 1941,
+    "year_acquired": "1983",
+    "decade": "1930",
+    "woe:country_id": "23424977",
+    "medium": "silk",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Repeat H: 18 cm (7 1\/16 in.)\nWarp x Weft (selvage to selvage): 38 x 50 cm (14 15\/16 x 19 11\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "18.00",
+            "centimeters"
+        ],
+        "warp": [
+            "38.00",
+            "centimeters"
+        ],
+        "weft": [
+            "50.00",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Statue of Libery with a halo of stars surrounded by flowers in a half-drop repeat on blue background.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115122_cb8a2d3f59aa19d8_b.jpg",
+                "width": 1024,
+                "height": 760,
+                "is_primary": "1",
+                "image_id": "115122"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115122_cb8a2d3f59aa19d8_z.jpg",
+                "width": 640,
+                "height": 475,
+                "is_primary": "1",
+                "image_id": "115122"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115122_cb8a2d3f59aa19d8_n.jpg",
+                "width": 320,
+                "height": 238,
+                "is_primary": "1",
+                "image_id": "115122"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115122_cb8a2d3f59aa19d8_d.gif",
+                "width": 320,
+                "height": 238,
+                "is_primary": "1",
+                "image_id": "115122"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115122_cb8a2d3f59aa19d8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "115122"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77421_854a3ed9a0c58c6b_b.jpg",
+                "width": 1024,
+                "height": 705,
+                "is_primary": "0",
+                "image_id": "77421"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77421_854a3ed9a0c58c6b_z.jpg",
+                "width": 640,
+                "height": 441,
+                "is_primary": "0",
+                "image_id": "77421"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77421_854a3ed9a0c58c6b_n.jpg",
+                "width": 320,
+                "height": 220,
+                "is_primary": "0",
+                "image_id": "77421"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77421_854a3ed9a0c58c6b_d.gif",
+                "width": 320,
+                "height": 220,
+                "is_primary": "0",
+                "image_id": "77421"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77421_854a3ed9a0c58c6b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77421"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Textile (possibly USA), ca. 1936. silk. 1983-5-1."
+    },
+    "colors": [
+        {
+            "color": "#818699",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        },
+        {
+            "color": "#72636a",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#514c4d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#64484b",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

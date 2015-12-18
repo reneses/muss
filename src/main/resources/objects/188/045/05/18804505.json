@@ -1,0 +1,112 @@
+{
+    "id": "18804505",
+    "tms:id": "182537",
+    "accession_number": "1985-14-15",
+    "title": "Drawing, Design for plate with green and gold floral motif",
+    "title_raw": "Design for plate with green and gold floral motif",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18804505\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "68266205",
+    "type_id": "35237093",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424856",
+    "medium": "brush and gold, green gouache on cream paper",
+    "markings": "Stamped in brown and blue ink, upper margin: C; AA \/ 525; above this is a circular blue stamp containing Japanese character",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1985: acquired by Museum",
+    "dimensions": "(irregular): 28.6 x 15.4 cm (11 1\/4 x 6 1\/16 in.)\nMat: 35.7 x 45.7 cm (14 1\/16 in. x 18 in.)",
+    "dimensions_raw": {
+        "height": [
+            "35.70",
+            "centimeters"
+        ],
+        "width": [
+            "45.70",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Design for a plate with gold and green border; border has green areas filled with gold rinceaux and blossoms; some trellis-like designs along border interior; at center quatrefoil in gold and green with little dots leading out.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424856",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/210686_7fe9bf5d9c8fa7d0_b.jpg",
+                "width": 576,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "210686"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/210686_7fe9bf5d9c8fa7d0_z.jpg",
+                "width": 360,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "210686"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/210686_7fe9bf5d9c8fa7d0_n.jpg",
+                "width": 180,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "210686"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/210686_7fe9bf5d9c8fa7d0_d.gif",
+                "width": 180,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "210686"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/210686_7fe9bf5d9c8fa7d0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "210686"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18044209",
+            "role_id": "35236675",
+            "person_name": "Noritake",
+            "person_date": "",
+            "role_name": "For",
+            "role_display_name": "Made for",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044209\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236675\/"
+        },
+        {
+            "person_id": "18057835",
+            "role_id": "35351535",
+            "person_name": "Roger Selchow",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18057835\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Design for plate with green and gold floral motif. brush and gold, green gouache on cream paper. 1985-14-15."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "Japan",
+    "is_loan_object": 0
+}

@@ -1,0 +1,111 @@
+{
+    "id": "18800115",
+    "tms:id": "180220",
+    "accession_number": "1982-58-5",
+    "title": "Servus Knife, 20th century",
+    "title_raw": "Servus",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800115\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35431463",
+    "type_id": "35248783",
+    "date": "20th century",
+    "year_start": 1901,
+    "year_end": 1982,
+    "year_acquired": "1982",
+    "decade": "1900",
+    "woe:country_id": "23424954",
+    "medium": "steel, stainless",
+    "markings": "On blade: SERVUS RFR. STAL",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "cm: L: 18.1 x W: 1.9 x D: 0.4",
+    "dimensions_raw": {
+        "depth": [
+            "0.40",
+            "centimeters"
+        ],
+        "length": [
+            "18.10",
+            "centimeters"
+        ],
+        "width": [
+            "1.90",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Rounded pointed blade with serrated edge. Tapering, rounded square handle formed as one piece.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424954",
+    "type": "knife",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118237_9fe395d6835426bc_b.jpg",
+                "width": 585,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "118237"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118237_9fe395d6835426bc_z.jpg",
+                "width": 366,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "118237"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118237_9fe395d6835426bc_n.jpg",
+                "width": 183,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118237"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118237_9fe395d6835426bc_d.gif",
+                "width": 183,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118237"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118237_9fe395d6835426bc_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "118237"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18055809",
+            "role_id": "35236655",
+            "person_name": "Sigurd Persson",
+            "person_date": "b. 1914",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055809\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Servus Knife, 20th century. steel, stainless. 1982-58-5."
+    },
+    "colors": [
+        {
+            "color": "#aca59e",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "Sweden",
+    "is_loan_object": 0
+}

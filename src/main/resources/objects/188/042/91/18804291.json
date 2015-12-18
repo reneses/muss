@@ -1,0 +1,57 @@
+{
+    "id":"18804291",
+    "tms:id":"182428",
+    "accession_number":"1985-103-48",
+    "title":"Steel, ca. 1700\u20131800",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18804291\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35432755",
+    "type_id":"35293751",
+    "date":"ca. 1700\u20131800",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1985",
+    "decade":null,
+    "woe:country":"23424829",
+    "medium":"steel, brass",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"Robert L. Metzenberg",
+    "dimensions":"L x W: 23.4 x 2.6 cm (9 3\/16 x 1 in.)",
+    "creditline":"The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg",
+    "description":"Plain steel. Brass socket chased with scrolls, twisted spiral brass handle, terminates in oval loop handle of brass, held by screw and nut.",
+    "justification":null,
+    "type":{
+        "id":"35293751",
+        "name":"steel"
+    },
+    "images":[
+
+    ],
+    "participants":[
+        {
+            "person_id":"18535985",
+            "role_id":"35351535",
+            "person_name":"Eleanor L. Metzenberg",
+            "role_name":"Donor",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18535985\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id":"18048365",
+            "role_id":"35352245",
+            "person_name":"S. Wilmering",
+            "role_name":"Cataloguer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18048365\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Steel, ca. 1700\u20131800.steel, brass. The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg. 1985-103-48."
+    },
+    "colors":[
+
+    ]
+}

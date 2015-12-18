@@ -1,0 +1,83 @@
+{
+    "id": "18805003",
+    "tms:id": "182786",
+    "accession_number": "1985-27-1-12",
+    "title": "Perpetual Calender",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805003\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35293783",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Perpetual calender",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/223120_944a06ef3f5da313_b.jpg",
+                "width": 832,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "223120"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/223120_944a06ef3f5da313_z.jpg",
+                "width": 520,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "223120"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/223120_944a06ef3f5da313_n.jpg",
+                "width": 260,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "223120"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/223120_944a06ef3f5da313_d.gif",
+                "width": 260,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "223120"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/223120_944a06ef3f5da313_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "223120"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Perpetual Calender. 1985-27-1-12."
+    },
+    "colors": [
+
+    ],
+    "is_loan_object": 0
+}

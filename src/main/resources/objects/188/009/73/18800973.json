@@ -1,0 +1,135 @@
+{
+    "id": "18800973",
+    "tms:id": "180653",
+    "accession_number": "1983-69-10-a,b",
+    "title": "Cuff Buttons (France), late 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800973\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35432591",
+    "type_id": "35284957",
+    "date": "late 19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1983",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "gold, sapphires, diamonds",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Overall: 2.4 x 2.5 x 1.2 cm (15\/16 x 1 x 1\/2 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "1.20",
+            "centimeters"
+        ],
+        "height": [
+            "2.40",
+            "centimeters"
+        ],
+        "width": [
+            "2.50",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift from the Thomas W. Evans Collection from University of Pennsylvania School of Dental Medicine",
+    "description": "Pair of carbochon saphire, diamond and gold cuff buttons.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Cuff buttons",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132422_773d3d29a0c2c3d9_b.jpg",
+                "width": 1024,
+                "height": 602,
+                "is_primary": "1",
+                "image_id": "132422"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132422_773d3d29a0c2c3d9_z.jpg",
+                "width": 640,
+                "height": 376,
+                "is_primary": "1",
+                "image_id": "132422"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132422_773d3d29a0c2c3d9_n.jpg",
+                "width": 320,
+                "height": 188,
+                "is_primary": "1",
+                "image_id": "132422"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132422_773d3d29a0c2c3d9_d.gif",
+                "width": 320,
+                "height": 188,
+                "is_primary": "1",
+                "image_id": "132422"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132422_773d3d29a0c2c3d9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "132422"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18057517",
+            "role_id": "35351535",
+            "person_name": "University of Pennsylvania School of Dental Medicine",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18057517\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Cuff Buttons (France), late 19th century. gold, sapphires, diamonds. Gift from the Thomas W. Evans Collection from University of Pennsylvania School of Dental Medicine. 1983-69-10-a,b."
+    },
+    "colors": [
+        {
+            "color": "#c5a85d",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#fef88e",
+            "closest_crayola": "#ffff99",
+            "closest_css3": "#f0e68c",
+            "closest_css4": "#f0e68c"
+        },
+        {
+            "color": "#a67619",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#b8860b",
+            "closest_css4": "#b8860b"
+        },
+        {
+            "color": "#aea084",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#3a2e38",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

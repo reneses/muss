@@ -1,0 +1,200 @@
+{
+    "id": "18805725",
+    "tms:id": "183163",
+    "accession_number": "1985-84-6",
+    "title": "Textile, Skyline, 1958",
+    "title_raw": "Skyline",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805725\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35414465",
+    "type_id": "35251739",
+    "date": "1958",
+    "year_start": 1958,
+    "year_end": 1958,
+    "year_acquired": "1985",
+    "decade": "1950",
+    "woe:country_id": "23424977",
+    "medium": "linen",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 275 \u00d7 131.4 cm (9 ft. 1\/4 in. \u00d7 51 3\/4 in.)\nRepeat H x W (printed area): 233.7 \u00d7 121.9 cm (7 ft. 8 in. \u00d7 48 in.)",
+    "dimensions_raw": {
+        "height": [
+            "233.68",
+            "centimeters"
+        ],
+        "warp": [
+            "275.00",
+            "centimeters"
+        ],
+        "weft": [
+            "131.50",
+            "centimeters"
+        ],
+        "width": [
+            "121.92",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Henry C. and Eleanor Kluck",
+    "description": "Textile with a single large print of a receding vista of skyscrapers in textured black, brown and white on an unbleached linen ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15475_466f70e851d12fd4_b.jpg",
+                "width": 513,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "15475"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15475_466f70e851d12fd4_z.jpg",
+                "width": 321,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "15475"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15475_466f70e851d12fd4_n.jpg",
+                "width": 160,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "15475"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15475_466f70e851d12fd4_d.gif",
+                "width": 160,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "15475"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15475_466f70e851d12fd4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "15475"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/144227_9b504b4818d4a037_b.jpg",
+                "width": 1024,
+                "height": 952,
+                "is_primary": "0",
+                "image_id": "144227"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/144227_9b504b4818d4a037_z.jpg",
+                "width": 640,
+                "height": 595,
+                "is_primary": "0",
+                "image_id": "144227"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/144227_9b504b4818d4a037_n.jpg",
+                "width": 320,
+                "height": 298,
+                "is_primary": "0",
+                "image_id": "144227"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/144227_9b504b4818d4a037_d.gif",
+                "width": 320,
+                "height": 298,
+                "is_primary": "0",
+                "image_id": "144227"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/144227_9b504b4818d4a037_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "144227"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18056499",
+            "role_id": "35351535",
+            "person_name": "Henry C. Kluck",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056499\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18056501",
+            "role_id": "35351535",
+            "person_name": "Eleanor Kluck",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056501\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18045697",
+            "role_id": "35236685",
+            "person_name": "Elenhank",
+            "person_date": "Chicago, Illinois, 1948 \u2013 1980",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045697\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18045697",
+            "role_id": "35236655",
+            "person_name": "Elenhank",
+            "person_date": "Chicago, Illinois, 1948 \u2013 1980",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045697\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile, Skyline, 1958. linen. Gift of Henry C. and Eleanor Kluck. 1985-84-6."
+    },
+    "colors": [
+        {
+            "color": "#bd9e86",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#956647",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#716f6a",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#8d8b85",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

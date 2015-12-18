@@ -1,0 +1,192 @@
+{
+    "id": "35460705",
+    "tms:id": "274801",
+    "accession_number": "14.2012.73",
+    "title": "Tonsillotome (France), 1855",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35460705\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "68250223",
+    "type_id": "51588897",
+    "date": "1855",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": null,
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "brass, steel, ivory",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 8.5 x 2.8 x 27.8 cm (3 3\/8 x 1 1\/8 x 10 15\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "27.80",
+            "centimeters"
+        ],
+        "height": [
+            "8.50",
+            "centimeters"
+        ],
+        "width": [
+            "2.80",
+            "centimeters"
+        ]
+    },
+    "creditline": "Smithsonian Institution, National Museum of American History, 1978.0874.02",
+    "description": null,
+    "justification": null,
+    "gallery_text": "Invented by American physician Phillip Syng Physick in 1828, the tonsillotome presented a convenient way to partially remove tonsils, transforming the tonsillotomy, or partial tonsil removal, into a routine procedure. Physick\u2019s original \"tonsil guillotine\" used a razor blade to compress the tonsil and cut it from front to back. The tonsillotome required no other instruments and considerably less skill than a scalpel and forceps. In fact, a doctor could perform a tonsillotomy with one hand and no assistant. There was minimal pain using this instrument\u2014most doctors worked without anesthetic. Some practitioners customized and modified tonsillotomes to suit their individual needs and styles. In 1855, Alfred-Armand- Louis-Marie Velpeau designed this ornate example with an ivory handle and gold loops for the fingers; spears to hold the tonsil; and a sickle-shaped knife, rather than a blade, to sever it. Most doctors found his model impractical and awkward, and variations by other practitioners followed.",
+    "label_text": "Hand tools extend our physical capability to reach, throw, and catch, as well as to perform actions that are difficult if not impossible with bare hands and fingers. Specialized tasks\u2014tonsil removal, halibut fishing\u2014require unique shapes, distinct materials, and the maker\u2019s personal touch to create an appropriate tool for the task.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Tonsillotome",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93456_2b49b9137a808b14_b.jpg",
+                "width": 675,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "93456"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93456_2b49b9137a808b14_z.jpg",
+                "width": 422,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "93456"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93456_2b49b9137a808b14_n.jpg",
+                "width": 211,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93456"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93456_2b49b9137a808b14_d.gif",
+                "width": 211,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93456"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93456_2b49b9137a808b14_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93456"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113657_2b49b9137a808b14_b.jpg",
+                "width": 676,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113657"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113657_2b49b9137a808b14_z.jpg",
+                "width": 422,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113657"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113657_2b49b9137a808b14_n.jpg",
+                "width": 211,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113657"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113657_2b49b9137a808b14_d.gif",
+                "width": 211,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113657"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113657_2b49b9137a808b14_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113657"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68248051",
+            "role_id": "35236685",
+            "person_name": "Joseph-Fr\u00e9d\u00e9ric-Beno\u00eet Charri\u00e8re",
+            "person_date": "(French, b. Switzerland, 1803 - 1876)",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248051\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "68248059",
+            "role_id": "35236655",
+            "person_name": "Alfred-Armand-Louis-Marie Velpeau",
+            "person_date": "(French, 1795-1867)",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248059\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18041125",
+            "role_id": "51571131",
+            "person_name": "National Museum of American History",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041125\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Tonsillotome (France), 1855. brass, steel, ivory. Smithsonian Institution, National Museum of American History, 1978.0874.02. 14.2012.73."
+    },
+    "colors": [
+        {
+            "color": "#aba488",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#313029",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#dddbc9",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#65645d",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#897537",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 1
+}

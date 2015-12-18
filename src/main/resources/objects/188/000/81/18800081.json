@@ -1,0 +1,139 @@
+{
+    "id": "18800081",
+    "tms:id": "180203",
+    "accession_number": "1982-52-8",
+    "title": "Campaign Ribbon (USA), 1904",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800081\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35293537",
+    "date": "1904",
+    "year_start": 1904,
+    "year_end": 1904,
+    "year_acquired": "1982",
+    "decade": "1900",
+    "woe:country_id": "23424977",
+    "medium": "silk",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 12.8 x 5.2 cm (5 1\/16 x 2 1\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "12.80",
+            "centimeters"
+        ],
+        "weft": [
+            "5.20",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Mr. and Mrs. Boris Kroll",
+    "description": "Black and white. Inscription: \"Democratic \/ nominee \/ for \/ President \/ 1904\". Portrait of Arthur B. Parker. Inscription: \"Alton B. Parker\".",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Campaign ribbon",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217625_64c23c32b15a4298_b.jpg",
+                "width": 456,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "217625"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217625_64c23c32b15a4298_z.jpg",
+                "width": 285,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "217625"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217625_64c23c32b15a4298_n.jpg",
+                "width": 143,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "217625"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217625_64c23c32b15a4298_d.gif",
+                "width": 143,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "217625"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217625_64c23c32b15a4298_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "217625"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28651_1b746a65721bc2ba_b.jpg",
+                "width": 469,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "28651"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28651_1b746a65721bc2ba_z.jpg",
+                "width": 293,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "28651"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28651_1b746a65721bc2ba_n.jpg",
+                "width": 147,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "28651"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28651_1b746a65721bc2ba_d.gif",
+                "width": 147,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "28651"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28651_1b746a65721bc2ba_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "28651"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18046035",
+            "role_id": "35351535",
+            "person_name": "Boris Kroll",
+            "person_date": "1913 \u2013 1991",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046035\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Campaign Ribbon (USA), 1904. silk. Gift of Mr. and Mrs. Boris Kroll. 1982-52-8."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

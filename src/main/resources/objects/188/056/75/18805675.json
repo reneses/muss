@@ -1,0 +1,205 @@
+{
+    "id": "18805675",
+    "tms:id": "183131",
+    "accession_number": "1985-83-6-a,b",
+    "title": "Border (France), 20th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805675\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "117731",
+    "type_id": "35237285",
+    "date": "20th century",
+    "year_start": 1901,
+    "year_end": 1985,
+    "year_acquired": "1985",
+    "decade": "1900",
+    "woe:country_id": "23424819",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W (a): 303 x 7 cm (9 ft. 11 5\/16 in. x 2 3\/4 in.)\nH x W (b): 232.5 x 9 cm (7 ft. 7 9\/16 in. x 3 9\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "303.00",
+            "centimeters"
+        ],
+        "width": [
+            "7.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Emily Finch",
+    "description": "Lace bands made in imitation of withdrawn element work. Component \"a\" is a straight edged, and \"b\" has one scalloped edge.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Border",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32640_b3fc88491f192c74_b.jpg",
+                "width": 1024,
+                "height": 670,
+                "is_primary": "1",
+                "image_id": "32640"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32640_b3fc88491f192c74_z.jpg",
+                "width": 640,
+                "height": 419,
+                "is_primary": "1",
+                "image_id": "32640"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32640_b3fc88491f192c74_n.jpg",
+                "width": 320,
+                "height": 209,
+                "is_primary": "1",
+                "image_id": "32640"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32640_b3fc88491f192c74_d.gif",
+                "width": 320,
+                "height": 209,
+                "is_primary": "1",
+                "image_id": "32640"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32640_b3fc88491f192c74_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "32640"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/135633_168450b3cedb72cc_b.jpg",
+                "width": 1024,
+                "height": 122,
+                "is_primary": "0",
+                "image_id": "135633"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/135633_168450b3cedb72cc_z.jpg",
+                "width": 640,
+                "height": 76,
+                "is_primary": "0",
+                "image_id": "135633"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/135633_168450b3cedb72cc_n.jpg",
+                "width": 320,
+                "height": 38,
+                "is_primary": "0",
+                "image_id": "135633"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/135633_168450b3cedb72cc_d.gif",
+                "width": 320,
+                "height": 38,
+                "is_primary": "0",
+                "image_id": "135633"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/135633_168450b3cedb72cc_sq.jpg",
+                "width": 300,
+                "height": 122,
+                "is_primary": "0",
+                "image_id": "135633"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/135608_b8e78044cf2139da_b.jpg",
+                "width": 1024,
+                "height": 141,
+                "is_primary": "0",
+                "image_id": "135608"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/135608_b8e78044cf2139da_z.jpg",
+                "width": 640,
+                "height": 88,
+                "is_primary": "0",
+                "image_id": "135608"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/135608_b8e78044cf2139da_n.jpg",
+                "width": 320,
+                "height": 44,
+                "is_primary": "0",
+                "image_id": "135608"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/135608_b8e78044cf2139da_d.gif",
+                "width": 320,
+                "height": 44,
+                "is_primary": "0",
+                "image_id": "135608"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/135608_b8e78044cf2139da_sq.jpg",
+                "width": 300,
+                "height": 141,
+                "is_primary": "0",
+                "image_id": "135608"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18058735",
+            "role_id": "35351535",
+            "person_name": "Emily Finch",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058735\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Border (France), 20th century. Gift of Emily Finch. 1985-83-6-a,b."
+    },
+    "colors": [
+        {
+            "color": "#bebecb",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#2c1912",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#93979f",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#bba7aa",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#87706c",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

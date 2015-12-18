@@ -1,0 +1,149 @@
+{
+    "id": "18806257",
+    "tms:id": "183433",
+    "accession_number": "1986-114-1",
+    "title": "Scarf (USA), 1950s",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18806257\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "139975",
+    "type_id": "35251935",
+    "date": "1950s",
+    "year_start": 1950,
+    "year_end": 1959,
+    "year_acquired": "1986",
+    "decade": "1950",
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": "'Brooke Cadwallader' at lower right edge.",
+    "provenance": null,
+    "dimensions": "H x W: 52 x 51 cm (20 1\/2 x 20 1\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "52.00",
+            "centimeters"
+        ],
+        "width": [
+            "51.00",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Five donkeys dressed as humans look out of the windows in a house. There is a donkey at the front door.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "scarf",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/220633_8a81d0f65c9af100_b.jpg",
+                "width": 1003,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "220633"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/220633_8a81d0f65c9af100_z.jpg",
+                "width": 627,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "220633"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/220633_8a81d0f65c9af100_n.jpg",
+                "width": 313,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "220633"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/220633_8a81d0f65c9af100_d.gif",
+                "width": 313,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "220633"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/220633_8a81d0f65c9af100_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "220633"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77684_beb68cb566e91746_b.jpg",
+                "width": 1024,
+                "height": 790,
+                "is_primary": "0",
+                "image_id": "77684"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77684_beb68cb566e91746_z.jpg",
+                "width": 640,
+                "height": 493,
+                "is_primary": "0",
+                "image_id": "77684"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77684_beb68cb566e91746_n.jpg",
+                "width": 320,
+                "height": 247,
+                "is_primary": "0",
+                "image_id": "77684"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77684_beb68cb566e91746_d.gif",
+                "width": 320,
+                "height": 247,
+                "is_primary": "0",
+                "image_id": "77684"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77684_beb68cb566e91746_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77684"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18047459",
+            "role_id": "35352245",
+            "person_name": "Gillian Moss",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18046071",
+            "role_id": "35236655",
+            "person_name": "Brooke Cadwallader",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046071\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Scarf (USA), 1950s. 1986-114-1."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

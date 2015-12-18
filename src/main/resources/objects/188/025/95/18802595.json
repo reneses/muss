@@ -1,0 +1,84 @@
+{
+    "id": "18802595",
+    "tms:id": "181483",
+    "accession_number": "1984-38-1",
+    "title": "Poster (USA)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18802595\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35238163",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/201034_66838302a40cbb73_b.jpg",
+                "width": 744,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "201034"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/201034_66838302a40cbb73_z.jpg",
+                "width": 465,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "201034"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/201034_66838302a40cbb73_n.jpg",
+                "width": 233,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "201034"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/201034_66838302a40cbb73_d.gif",
+                "width": 233,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "201034"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/201034_66838302a40cbb73_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "201034"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Poster (USA). 1984-38-1."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

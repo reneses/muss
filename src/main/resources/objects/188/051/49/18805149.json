@@ -1,0 +1,77 @@
+{
+    "id": "18805149",
+    "tms:id": "182862",
+    "accession_number": "1985-30-8",
+    "title": "Portfolio Plate, All of 1984 Through Part of 1985 Book of Days, May 1984, 1984",
+    "title_raw": "All of 1984 Through Part of 1985 Book of Days, May 1984",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805149\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35291207",
+    "date": "1984",
+    "year_start": 1984,
+    "year_end": 1984,
+    "year_acquired": "1985",
+    "decade": "1980",
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1985: acquired by Museum",
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "portfolio plate",
+    "images": [
+
+    ],
+    "participants": [
+        {
+            "person_id": "18042111",
+            "role_id": "35236675",
+            "person_name": "P.M. Typography",
+            "person_date": "",
+            "role_name": "For",
+            "role_display_name": "Made for",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042111\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236675\/"
+        },
+        {
+            "person_id": "18042085",
+            "role_id": "35236655",
+            "person_name": "Ivan Chermayeff",
+            "person_date": "English, b. 1932",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042085\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18053275",
+            "role_id": "35236655",
+            "person_name": "Chermayeff & Geismar Associates",
+            "person_date": "New York, New York, USA",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053275\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Portfolio Plate, All of 1984 Through Part of 1985 Book of Days, May 1984, 1984. \n1985-30-8"
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

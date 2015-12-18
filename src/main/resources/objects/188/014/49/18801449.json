@@ -1,0 +1,192 @@
+{
+    "id": "18801449",
+    "tms:id": "180891",
+    "accession_number": "1984-111-71",
+    "title": "Textile (Philippines), 1950\u201355",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801449\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35394271",
+    "type_id": "35251739",
+    "date": "1950\u201355",
+    "year_start": 1950,
+    "year_end": 1955,
+    "year_acquired": "1984",
+    "decade": "1950",
+    "woe:country_id": "23424934",
+    "medium": "linen, cotton",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1984: acquired by Museum",
+    "dimensions": "H x W: 64.1 x 81 cm (25 1\/4 x 31 7\/8 in.)\nRepeat H x W: 31.1 x 31.1 cm (12 1\/4 x 12 1\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "31.12",
+            "centimeters"
+        ],
+        "width": [
+            "31.12",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Marianne Strengell",
+    "description": "Printed textile with a grid of fine white lines and zig-zag lines giving a three-dimensional effect, on a printed black background.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424934",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43122_1bfa6f8ba5e5855b_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "43122"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43122_1bfa6f8ba5e5855b_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "43122"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43122_1bfa6f8ba5e5855b_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "43122"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43122_1bfa6f8ba5e5855b_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "43122"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43122_1bfa6f8ba5e5855b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "43122"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32448_6e04ed5145ca1799_b.jpg",
+                "width": 1024,
+                "height": 815,
+                "is_primary": "0",
+                "image_id": "32448"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32448_6e04ed5145ca1799_z.jpg",
+                "width": 640,
+                "height": 510,
+                "is_primary": "0",
+                "image_id": "32448"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32448_6e04ed5145ca1799_n.jpg",
+                "width": 320,
+                "height": 255,
+                "is_primary": "0",
+                "image_id": "32448"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32448_6e04ed5145ca1799_d.gif",
+                "width": 320,
+                "height": 255,
+                "is_primary": "0",
+                "image_id": "32448"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32448_6e04ed5145ca1799_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "32448"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18041443",
+            "role_id": "35236685",
+            "person_name": "Marianne Strengell",
+            "person_date": "Finnish, active USA, 1909\u20131998",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041443\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18041443",
+            "role_id": "35236655",
+            "person_name": "Marianne Strengell",
+            "person_date": "Finnish, active USA, 1909\u20131998",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041443\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18041809",
+            "role_id": "35236673",
+            "person_name": "Cranbrook Academy of Art",
+            "person_date": "",
+            "role_name": "Printer",
+            "role_display_name": "Printed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041809\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236673\/"
+        },
+        {
+            "person_id": "18041443",
+            "role_id": "35351535",
+            "person_name": "Marianne Strengell",
+            "person_date": "Finnish, active USA, 1909\u20131998",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041443\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile (Philippines), 1950\u201355. linen, cotton. Gift of Marianne Strengell. 1984-111-71."
+    },
+    "colors": [
+        {
+            "color": "#dbceb9",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#938775",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#60574d",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#baa78c",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "Philippines",
+    "is_loan_object": 0
+}

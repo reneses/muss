@@ -1,0 +1,316 @@
+{
+    "id": "18804491",
+    "tms:id": "182530",
+    "accession_number": "1985-13-1",
+    "title": "Side Chair (USA), ca. 1930",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18804491\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35414491",
+    "type_id": "35237951",
+    "date": "ca. 1930",
+    "year_start": 1920,
+    "year_end": 1940,
+    "year_acquired": "1985",
+    "decade": "1920",
+    "woe:country_id": "23424977",
+    "medium": "painted wood",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Dorothy S. Teegen and Carola Teegen Walton; 1985: acquired by Museum",
+    "dimensions": "H x W x D: 86 x 52.5 x 45.3 cm (33 7\/8 x 20 11\/16 x 17 13\/16 in. )",
+    "dimensions_raw": {
+        "depth": [
+            "45.30",
+            "centimeters"
+        ],
+        "height": [
+            "86.00",
+            "centimeters"
+        ],
+        "width": [
+            "52.50",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Dorothy S. Teegen and Carola Teegen Walton in memory of Otto J. Teegen",
+    "description": "A side chair with a square back made up of 8 squares and one solid wood square in the center. Straight legs and no arm rests, with a wood seat.",
+    "justification": null,
+    "gallery_text": "Joseph Urban, in his native Austria, was a leader of the turn-of-the-century Vienna Secession movement, which sought a new, modern design removed from tradition. Out of that movement came the more concrete Wiener Werkst\u00e4tte, which, for the first two decades of the twentieth century, promoted geometric, abstract designs that lacked any unnecessary ornamentation, and in which Urban was also involved. He left Europe in 1912 to work for the Boston Opera Company, and despite his theatrical tendencies in stage sets, much of his work in the US remained reminiscent of his fin-de-siecle Vienna roots. This chair (c. 1930) exemplifies those early ideals and its square cut-outs are reminiscent of other Weiner Werkst\u00e4tte designs in silver. Painted black, it has hints of color on the inside edges of the backsplat, and, with its geometric forms, is also reminiscent of American Art Deco, which developed in the late 1920s, thanks, in part, to an influx of European emigre-designers after World War I. In an otherwise white space\u2014there were twenty-four shades of white, he used to argue\u2014this chair and other spare furnishings like it formed the decor of the eclectic yet always modern designer\u2019s office reception room.",
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "side chair",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103248_b36eb00bc2ee8a80_b.jpg",
+                "width": 739,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "103248"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103248_b36eb00bc2ee8a80_z.jpg",
+                "width": 462,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "103248"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103248_b36eb00bc2ee8a80_n.jpg",
+                "width": 231,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "103248"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103248_b36eb00bc2ee8a80_d.gif",
+                "width": 231,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "103248"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103248_b36eb00bc2ee8a80_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "103248"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9764_e13745f99537b83a_b.jpg",
+                "width": 693,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "9764"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9764_e13745f99537b83a_z.jpg",
+                "width": 433,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "9764"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9764_e13745f99537b83a_n.jpg",
+                "width": 217,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "9764"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9764_e13745f99537b83a_d.gif",
+                "width": 217,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "9764"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9764_e13745f99537b83a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "9764"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9763_3b26cf7df02c9399_b.jpg",
+                "width": 713,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "9763"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9763_3b26cf7df02c9399_z.jpg",
+                "width": 446,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "9763"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9763_3b26cf7df02c9399_n.jpg",
+                "width": 223,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "9763"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9763_3b26cf7df02c9399_d.gif",
+                "width": 223,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "9763"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9763_3b26cf7df02c9399_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "9763"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9765_33eb799f5cc78084_b.jpg",
+                "width": 640,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "9765"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9765_33eb799f5cc78084_z.jpg",
+                "width": 400,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "9765"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9765_33eb799f5cc78084_n.jpg",
+                "width": 200,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "9765"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9765_33eb799f5cc78084_d.gif",
+                "width": 200,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "9765"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9765_33eb799f5cc78084_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "9765"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9766_f80c72e477133022_b.jpg",
+                "width": 728,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "9766"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9766_f80c72e477133022_z.jpg",
+                "width": 455,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "9766"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9766_f80c72e477133022_n.jpg",
+                "width": 227,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "9766"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9766_f80c72e477133022_d.gif",
+                "width": 227,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "9766"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9766_f80c72e477133022_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "9766"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9762_b38f827a74d396af_b.jpg",
+                "width": 737,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "9762"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9762_b38f827a74d396af_z.jpg",
+                "width": 461,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "9762"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9762_b38f827a74d396af_n.jpg",
+                "width": 230,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "9762"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9762_b38f827a74d396af_d.gif",
+                "width": 230,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "9762"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9762_b38f827a74d396af_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "9762"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18057569",
+            "role_id": "35351535",
+            "person_name": "Carola Teegen Walton",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18057569\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18057567",
+            "role_id": "35351535",
+            "person_name": "Dorothy S. Teegen",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18057567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18536903",
+            "role_id": "35236655",
+            "person_name": "Joseph Urban",
+            "person_date": "1872 \u2013 1933",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18536903\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Side Chair (USA), ca. 1930. painted wood. Gift of Dorothy S. Teegen and Carola Teegen Walton in memory of Otto J. Teegen. 1985-13-1."
+    },
+    "colors": [
+        {
+            "color": "#292b2a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

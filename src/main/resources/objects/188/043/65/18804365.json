@@ -1,0 +1,153 @@
+{
+    "id": "18804365",
+    "tms:id": "182466",
+    "accession_number": "1985-103-78-a,b",
+    "title": "Folding Fork And Spoon Bowl, ca. 1640",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18804365\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389463",
+    "type_id": "35293753",
+    "date": "ca. 1640",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "silver",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Robert L. Metzenberg",
+    "dimensions": "L x W: 15.9 x 3.9 cm (6 1\/4 x 1 9\/16 in.)",
+    "dimensions_raw": {
+        "length": [
+            "15.90",
+            "centimeters"
+        ],
+        "width": [
+            "3.90",
+            "centimeters"
+        ]
+    },
+    "creditline": "The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg",
+    "description": "Fork has three curved tines, shoulders scrolled. Hinged at neck, faceted sliding lock bar. Octagonal handle with engraved fishbone decoration, baluster-shaped top.\n\nLarge oval spoon bowl with three rings on the back to hold the tines of the fork. Simple engraved decoration on the bowl of the spoon.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Folding fork and spoon bowl",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122248_ece829eac8966d64_b.jpg",
+                "width": 981,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "122248"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122248_ece829eac8966d64_z.jpg",
+                "width": 613,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "122248"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122248_ece829eac8966d64_n.jpg",
+                "width": 307,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "122248"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122248_ece829eac8966d64_d.gif",
+                "width": 307,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "122248"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122248_ece829eac8966d64_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "122248"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19374_30573cf48b9824fd_b.jpg",
+                "width": 249,
+                "height": 715,
+                "is_primary": "0",
+                "image_id": "19374"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19374_30573cf48b9824fd_z.jpg",
+                "width": 223,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "19374"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19374_30573cf48b9824fd_n.jpg",
+                "width": 111,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19374"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19374_30573cf48b9824fd_d.gif",
+                "width": 111,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19374"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19374_30573cf48b9824fd_sq.jpg",
+                "width": 249,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "19374"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18048365",
+            "role_id": "35352245",
+            "person_name": "S. Wilmering",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18535985",
+            "role_id": "35351535",
+            "person_name": "Eleanor L. Metzenberg",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Folding Fork And Spoon Bowl, ca. 1640. silver. The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg. 1985-103-78-a,b."
+    },
+    "colors": [
+        {
+            "color": "#aca297",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "is_loan_object": 0
+}

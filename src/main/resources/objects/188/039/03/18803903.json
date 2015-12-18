@@ -1,0 +1,159 @@
+{
+    "id": "18803903",
+    "tms:id": "182229",
+    "accession_number": "1985-103-20",
+    "title": "Fork, ca. 1550",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18803903\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35432849",
+    "type_id": "35254209",
+    "date": "ca. 1550",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "steel, gilt-bronze, gold",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Robert L. Metzenberg",
+    "dimensions": "L x W: 22.2 x 2.8 cm (8 3\/4 x 1 1\/8 in.)",
+    "dimensions_raw": {
+        "length": [
+            "22.20",
+            "centimeters"
+        ],
+        "width": [
+            "2.80",
+            "centimeters"
+        ]
+    },
+    "creditline": "The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg",
+    "description": "Two tines, rounded shoulders. Spiral neck; cast gilded bronze handle in the form of female term; lower pedestal with imbricated scale work; demi-figure with arms curved down to sides. Modeled front and back.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "fork",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118122_13b8a476a6250329_b.jpg",
+                "width": 489,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "118122"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118122_13b8a476a6250329_z.jpg",
+                "width": 306,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "118122"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118122_13b8a476a6250329_n.jpg",
+                "width": 153,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118122"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118122_13b8a476a6250329_d.gif",
+                "width": 153,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118122"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118122_13b8a476a6250329_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "118122"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18952_6381cb27a38ab9f1_b.jpg",
+                "width": 466,
+                "height": 960,
+                "is_primary": "0",
+                "image_id": "18952"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18952_6381cb27a38ab9f1_z.jpg",
+                "width": 311,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "18952"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18952_6381cb27a38ab9f1_n.jpg",
+                "width": 155,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "18952"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18952_6381cb27a38ab9f1_d.gif",
+                "width": 155,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "18952"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18952_6381cb27a38ab9f1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "18952"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18535985",
+            "role_id": "35351535",
+            "person_name": "Eleanor L. Metzenberg",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048365",
+            "role_id": "35352245",
+            "person_name": "S. Wilmering",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Fork, ca. 1550. steel, gilt-bronze, gold. The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg. 1985-103-20."
+    },
+    "colors": [
+        {
+            "color": "#7b6b59",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#9e907d",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "is_loan_object": 0
+}

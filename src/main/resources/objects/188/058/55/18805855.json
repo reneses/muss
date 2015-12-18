@@ -1,0 +1,97 @@
+{
+    "id": "18805855",
+    "tms:id": "183228",
+    "accession_number": "1985-93-7-a,b",
+    "title": "Decanter And Stopper, 1983",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805855\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35284209",
+    "date": "1983",
+    "year_start": 1983,
+    "year_end": 1983,
+    "year_acquired": "1985",
+    "decade": "1980",
+    "woe:country_id": null,
+    "medium": "glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 31.5 x 23.3 cm (12 3\/8 x 9 3\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "23.30",
+            "centimeters"
+        ],
+        "height": [
+            "31.50",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Broad conical decanter with cylindrical neck, flared circular mouth and thick stopper with ring handle. Decanter designed without foot, to rest at angle.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Decanter and stopper",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122968_09e4d5e6dec16a69_b.jpg",
+                "width": 1024,
+                "height": 858,
+                "is_primary": "1",
+                "image_id": "122968"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122968_09e4d5e6dec16a69_z.jpg",
+                "width": 640,
+                "height": 536,
+                "is_primary": "1",
+                "image_id": "122968"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122968_09e4d5e6dec16a69_n.jpg",
+                "width": 320,
+                "height": 268,
+                "is_primary": "1",
+                "image_id": "122968"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122968_09e4d5e6dec16a69_d.gif",
+                "width": 320,
+                "height": 268,
+                "is_primary": "1",
+                "image_id": "122968"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122968_09e4d5e6dec16a69_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "122968"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Decanter And Stopper, 1983. glass. 1985-93-7-a,b."
+    },
+    "colors": [
+        {
+            "color": "#ffffff",
+            "closest_crayola": "#ffffff",
+            "closest_css3": "#ffffff",
+            "closest_css4": "#ffffff"
+        }
+    ],
+    "is_loan_object": 0
+}

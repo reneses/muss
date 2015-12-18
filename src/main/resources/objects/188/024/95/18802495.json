@@ -1,0 +1,83 @@
+{
+    "id": "18802495",
+    "tms:id": "181433",
+    "accession_number": "1984-15-18",
+    "title": "Drawing,lace Design",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18802495\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35293649",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Andrea Jeffries",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "drawing,lace design",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/194046_36bebf3262af76ac_b.jpg",
+                "width": 1024,
+                "height": 962,
+                "is_primary": "1",
+                "image_id": "194046"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/194046_36bebf3262af76ac_z.jpg",
+                "width": 640,
+                "height": 601,
+                "is_primary": "1",
+                "image_id": "194046"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/194046_36bebf3262af76ac_n.jpg",
+                "width": 320,
+                "height": 301,
+                "is_primary": "1",
+                "image_id": "194046"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/194046_36bebf3262af76ac_d.gif",
+                "width": 320,
+                "height": 301,
+                "is_primary": "1",
+                "image_id": "194046"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/194046_36bebf3262af76ac_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "194046"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Drawing,lace Design. Gift of Andrea Jeffries. 1984-15-18."
+    },
+    "colors": [
+
+    ],
+    "is_loan_object": 0
+}

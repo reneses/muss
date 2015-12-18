@@ -1,0 +1,235 @@
+{
+    "id": "18805421",
+    "tms:id": "183001",
+    "accession_number": "1985-54-17",
+    "title": "Ciga Spoon, 1979",
+    "title_raw": "Ciga",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805421\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35371275",
+    "type_id": "35249775",
+    "date": "1979",
+    "year_start": 1979,
+    "year_end": 1979,
+    "year_acquired": "1985",
+    "decade": "1970",
+    "woe:country_id": "23424853",
+    "medium": "silverplate",
+    "markings": "On reverse of handle: CALEGARO-ITALY VIGNELLI DESIGNS",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "cm: L: 18.4 x W: 4.4 x D: 1.8",
+    "dimensions_raw": {
+        "depth": [
+            "1.80",
+            "centimeters"
+        ],
+        "length": [
+            "18.40",
+            "centimeters"
+        ],
+        "width": [
+            "4.40",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Lella and Massimo Vignelli",
+    "description": "Rounded-square bowl and flat, long rounded-rectangular handle with raised-rounded border.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "spoon",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94377_f47a27a87e2818de_b.jpg",
+                "width": 385,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "94377"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94377_f47a27a87e2818de_z.jpg",
+                "width": 241,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "94377"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94377_f47a27a87e2818de_n.jpg",
+                "width": 120,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "94377"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94377_f47a27a87e2818de_d.gif",
+                "width": 120,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "94377"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94377_f47a27a87e2818de_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "94377"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118131_46715ce066783c61_b.jpg",
+                "width": 602,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "118131"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118131_46715ce066783c61_z.jpg",
+                "width": 376,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "118131"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118131_46715ce066783c61_n.jpg",
+                "width": 188,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "118131"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118131_46715ce066783c61_d.gif",
+                "width": 188,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "118131"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118131_46715ce066783c61_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "118131"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18894_efcb55661cb880a4_b.jpg",
+                "width": 1024,
+                "height": 768,
+                "is_primary": "0",
+                "image_id": "18894"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18894_efcb55661cb880a4_z.jpg",
+                "width": 640,
+                "height": 480,
+                "is_primary": "0",
+                "image_id": "18894"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18894_efcb55661cb880a4_n.jpg",
+                "width": 320,
+                "height": 240,
+                "is_primary": "0",
+                "image_id": "18894"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18894_efcb55661cb880a4_d.gif",
+                "width": 320,
+                "height": 240,
+                "is_primary": "0",
+                "image_id": "18894"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18894_efcb55661cb880a4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "18894"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18044029",
+            "role_id": "35236655",
+            "person_name": "Lella Vignelli",
+            "person_date": "Italian, b. 1934",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044029\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18042329",
+            "role_id": "35236655",
+            "person_name": "Massimo Vignelli",
+            "person_date": "Italian, active USA, 1931\u20132014",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042329\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "68738419",
+            "role_id": "35236657",
+            "person_name": "Calegaro Argenteria",
+            "person_date": "Italy, founded 1921",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68738419\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18042329",
+            "role_id": "35351535",
+            "person_name": "Massimo Vignelli",
+            "person_date": "Italian, active USA, 1931\u20132014",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042329\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18044029",
+            "role_id": "35351535",
+            "person_name": "Lella Vignelli",
+            "person_date": "Italian, b. 1934",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044029\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18044737",
+            "role_id": "35236801",
+            "person_name": "David Law",
+            "person_date": "American, b. 1937",
+            "role_name": "Design Team member",
+            "role_display_name": "Design Team Member:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044737\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236801\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Ciga Spoon, 1979. silverplate. Gift of Lella and Massimo Vignelli. 1985-54-17."
+    },
+    "colors": [
+        {
+            "color": "#a9a194",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
+}

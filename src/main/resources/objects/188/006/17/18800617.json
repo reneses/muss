@@ -1,0 +1,125 @@
+{
+    "id": "18800617",
+    "tms:id": "180475",
+    "accession_number": "1983-44-1",
+    "title": "Necklace",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800617\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35432579",
+    "type_id": "35237147",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1983",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "jade, shell, gold",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Overall: 34.5 x 3.5 x 3 cm (13 9\/16 x 1 3\/8 x 1 3\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "3.00",
+            "centimeters"
+        ],
+        "height": [
+            "34.50",
+            "centimeters"
+        ],
+        "width": [
+            "3.50",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Necklace",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132467_c1ec174b659cf90c_b.jpg",
+                "width": 597,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "132467"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132467_c1ec174b659cf90c_z.jpg",
+                "width": 373,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "132467"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132467_c1ec174b659cf90c_n.jpg",
+                "width": 187,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "132467"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132467_c1ec174b659cf90c_d.gif",
+                "width": 187,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "132467"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132467_c1ec174b659cf90c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "132467"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Necklace. jade, shell, gold. 1983-44-1."
+    },
+    "colors": [
+        {
+            "color": "#cec6b6",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#5a4b33",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#947658",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#462d1b",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#f6f3da",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#f5f5dc",
+            "closest_css4": "#f5f5dc"
+        }
+    ],
+    "is_loan_object": 0
+}

@@ -1,0 +1,225 @@
+{
+    "id": "18802801",
+    "tms:id": "181588",
+    "accession_number": "1984-77-1",
+    "title": "Hexagonal Pink Bowl, 20th century",
+    "title_raw": "Hexagonal Pink",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18802801\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389891",
+    "type_id": "35237197",
+    "date": "20th century",
+    "year_start": 1901,
+    "year_end": 2000,
+    "year_acquired": "1984",
+    "decade": "1900",
+    "woe:country_id": "23424796",
+    "medium": "porcelain",
+    "markings": "On underside: painted \"HMA X\"",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1984: acquired by Museum (from Hans Munck Andersen)",
+    "dimensions": "H x diam.: 15 x 12 cm (5 7\/8 x 4 3\/4 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "12.00",
+            "centimeters"
+        ],
+        "height": [
+            "15.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Museum purchase from General Acquisition Endowment",
+    "description": "One porcelain bowl, \"Hexagonal Pink,\" coiled polychrome clay body (Neriage tech.) with exterior unglazed and interior clear glaze; 22 carat gold ornament on interior bottom.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424796",
+    "type": "Bowl",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110365_92cfc7032eee287a_b.jpg",
+                "width": 1024,
+                "height": 798,
+                "is_primary": "1",
+                "image_id": "110365"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110365_92cfc7032eee287a_z.jpg",
+                "width": 640,
+                "height": 499,
+                "is_primary": "1",
+                "image_id": "110365"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110365_92cfc7032eee287a_n.jpg",
+                "width": 320,
+                "height": 249,
+                "is_primary": "1",
+                "image_id": "110365"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110365_92cfc7032eee287a_d.gif",
+                "width": 320,
+                "height": 249,
+                "is_primary": "1",
+                "image_id": "110365"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110365_92cfc7032eee287a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "110365"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50929_5781c00205db872c_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "50929"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50929_5781c00205db872c_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "50929"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50929_5781c00205db872c_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "50929"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50929_5781c00205db872c_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "50929"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50929_5781c00205db872c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "50929"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50930_aa336888b2e90537_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "50930"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50930_aa336888b2e90537_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "50930"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50930_aa336888b2e90537_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "50930"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50930_aa336888b2e90537_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "50930"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50930_aa336888b2e90537_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "50930"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18054065",
+            "role_id": "35352249",
+            "person_name": "Hans Munck Andersen",
+            "person_date": "Danish, b. 1943",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18054065\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "18048535",
+            "role_id": "35352247",
+            "person_name": "General Acquisitions Endowment",
+            "person_date": "",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048535\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        },
+        {
+            "person_id": "18054065",
+            "role_id": "35236655",
+            "person_name": "Hans Munck Andersen",
+            "person_date": "Danish, b. 1943",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18054065\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Hexagonal Pink Bowl, 20th century. porcelain. Museum purchase from General Acquisition Endowment. 1984-77-1."
+    },
+    "colors": [
+        {
+            "color": "#ada697",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#b0837f",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#888381",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#805c5c",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#d9b0a5",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "woe:country_name": "Denmark",
+    "is_loan_object": 0
+}

@@ -1,0 +1,172 @@
+{
+    "id": "35457265",
+    "tms:id": "274565",
+    "accession_number": "15.2012.30",
+    "title": "Raven Rattle (USA), Created before 1910s",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35457265\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "35417541",
+    "type_id": "68250163",
+    "date": "Created before 1910s",
+    "year_start": 1910,
+    "year_end": 1910,
+    "year_acquired": null,
+    "decade": "1910",
+    "woe:country_id": "23424977",
+    "medium": "carved and painted wood",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 32.1 x 7.6 x 8.9 cm (12 5\/8 in. x 3 in. x 3 1\/2 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "8.89",
+            "centimeters"
+        ],
+        "height": [
+            "32.07",
+            "centimeters"
+        ],
+        "width": [
+            "7.62",
+            "centimeters"
+        ]
+    },
+    "creditline": "Collected by Rev. Sheldon Jackson, 1877\u201394, Department of Anthropology, National Museum of Natural History, Smithsonian Institution, E316756",
+    "description": null,
+    "justification": null,
+    "gallery_text": "Among peoples of the Northwest Coast of the United States, clan leaders, dancers, and shamans were traditionally responsible for connecting events in daily life to the remote, but powerful realm of the spirits. These intermediaries helped ward off evil and harnessed spirits\u2019 healing powers using Raven rattles like this one. Dialogues with the supernatural domain were facilitated by Raven, who the community viewed as a mythical creator. In particular, when the rattle was used in curing ceremonies, the bird was believed to enable healing and clairvoyant powers. These rattles were used during dances by clan leaders and other high-status people, the wealthy hosts of memorial feasts, in the Tlingit culture, or of spirit-possession ceremonies, among the Haida and Tsimshian. Rattles were carved in one piece, split and hollowed, filled with seeds or stones, and bound back together. When shaken, the sound helped summon the supernatural world.",
+    "label_text": "Among peoples of the Northwest Coast, clan leaders, dancers, and shamans connected daily life with the spirit realm. As intermediaries, they were traditionally relied upon to ward off evil and harness the spirits\u2019 healing powers. Raven rattles were important tools that facilitated these negotiations. When shaken, their sound helped summon the supernatural world.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Raven rattle",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84684_bc4594a42c73e2b4_b.jpg",
+                "width": 648,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "84684"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84684_bc4594a42c73e2b4_z.jpg",
+                "width": 405,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "84684"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84684_bc4594a42c73e2b4_n.jpg",
+                "width": 203,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "84684"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84684_bc4594a42c73e2b4_d.gif",
+                "width": 203,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "84684"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84684_bc4594a42c73e2b4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "84684"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113675_bc4594a42c73e2b4_b.jpg",
+                "width": 648,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113675"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113675_bc4594a42c73e2b4_z.jpg",
+                "width": 405,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113675"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113675_bc4594a42c73e2b4_n.jpg",
+                "width": 203,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113675"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113675_bc4594a42c73e2b4_d.gif",
+                "width": 203,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113675"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113675_bc4594a42c73e2b4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113675"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "51676437",
+            "role_id": "51571131",
+            "person_name": "National Museum of Natural History",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676437\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Raven Rattle (USA), Created before 1910s. carved and painted wood. Collected by Rev. Sheldon Jackson, 1877\u201394, Department of Anthropology, National Museum of Natural History, Smithsonian Institution, E316756. 15.2012.30."
+    },
+    "colors": [
+        {
+            "color": "#594323",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#826336",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#aa915e",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#3b3a31",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#261407",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

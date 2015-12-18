@@ -1,0 +1,104 @@
+{
+    "id": "18801949",
+    "tms:id": "181141",
+    "accession_number": "1984-124-25-129",
+    "title": "Drawing, Ottomane D'encoignere (Genre Louis XV), lithograph, 1860",
+    "title_raw": "Ottomane D'encoignere (Genre Louis XV), lithograph",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801949\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35237093",
+    "date": "1860",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/140062_0ee525be977840c8_b.jpg",
+                "width": 1024,
+                "height": 777,
+                "is_primary": "1",
+                "image_id": "140062"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/140062_0ee525be977840c8_z.jpg",
+                "width": 640,
+                "height": 486,
+                "is_primary": "1",
+                "image_id": "140062"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/140062_0ee525be977840c8_n.jpg",
+                "width": 320,
+                "height": 243,
+                "is_primary": "1",
+                "image_id": "140062"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/140062_0ee525be977840c8_d.gif",
+                "width": 320,
+                "height": 243,
+                "is_primary": "1",
+                "image_id": "140062"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/140062_0ee525be977840c8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "140062"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18539191",
+            "role_id": "35236655",
+            "person_name": "W. Kimbel",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539191\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Ottomane D'encoignere (Genre Louis XV), lithograph, 1860. 1984-124-25-129."
+    },
+    "colors": [
+        {
+            "color": "#ada18e",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#837a6f",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

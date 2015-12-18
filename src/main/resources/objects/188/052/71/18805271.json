@@ -1,0 +1,93 @@
+{
+    "id": "18805271",
+    "tms:id": "182924",
+    "accession_number": "1985-39-5",
+    "title": "Label (USA), 1980\u201385",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805271\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "116107",
+    "type_id": "35293655",
+    "date": "1980\u201385",
+    "year_start": 1980,
+    "year_end": 1985,
+    "year_acquired": "1985",
+    "decade": "1980",
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Label",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217145_ea2cf5344ee2a8b3_b.jpg",
+                "width": 1024,
+                "height": 581,
+                "is_primary": "1",
+                "image_id": "217145"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217145_ea2cf5344ee2a8b3_z.jpg",
+                "width": 640,
+                "height": 363,
+                "is_primary": "1",
+                "image_id": "217145"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217145_ea2cf5344ee2a8b3_n.jpg",
+                "width": 320,
+                "height": 182,
+                "is_primary": "1",
+                "image_id": "217145"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217145_ea2cf5344ee2a8b3_d.gif",
+                "width": 320,
+                "height": 182,
+                "is_primary": "1",
+                "image_id": "217145"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217145_ea2cf5344ee2a8b3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "217145"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18051437",
+            "role_id": "35351535",
+            "person_name": "A.S.L. Industries Inc.",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051437\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Label (USA), 1980\u201385. 1985-39-5."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

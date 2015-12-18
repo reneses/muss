@@ -1,0 +1,207 @@
+{
+    "id": "18804971",
+    "tms:id": "182770",
+    "accession_number": "1985-2-1",
+    "title": "Hanging, Hawaiian Fishes, ca. 1917",
+    "title_raw": "Hawaiian Fishes",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18804971\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35257233",
+    "date": "ca. 1917",
+    "year_start": 1907,
+    "year_end": 1927,
+    "year_acquired": "1985",
+    "decade": "1900",
+    "woe:country_id": "23424977",
+    "medium": "silk",
+    "markings": null,
+    "signed": "Signature: L.B.B.",
+    "inscribed": null,
+    "provenance": "Estate of Lydia Bush-Brown Head; 1985: acquired by Museum",
+    "dimensions": "H x W: 70 x 99 cm (27 9\/16 in. x 39 in.)",
+    "dimensions_raw": {
+        "height": [
+            "70.00",
+            "centimeters"
+        ],
+        "width": [
+            "99.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of the Estate of Lydia Bush-Brown Head",
+    "description": "Underwater scene of tropical fish, seaweed, snails, starfish and anemones.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Hanging",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97072_c108f7aaac5e8ca2_b.jpg",
+                "width": 1024,
+                "height": 735,
+                "is_primary": "1",
+                "image_id": "97072"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97072_c108f7aaac5e8ca2_z.jpg",
+                "width": 640,
+                "height": 459,
+                "is_primary": "1",
+                "image_id": "97072"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97072_c108f7aaac5e8ca2_n.jpg",
+                "width": 320,
+                "height": 230,
+                "is_primary": "1",
+                "image_id": "97072"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97072_c108f7aaac5e8ca2_d.gif",
+                "width": 320,
+                "height": 230,
+                "is_primary": "1",
+                "image_id": "97072"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97072_c108f7aaac5e8ca2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "97072"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95155_8bdb0ec1188f68be_b.jpg",
+                "width": 1024,
+                "height": 735,
+                "is_primary": "0",
+                "image_id": "95155"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95155_8bdb0ec1188f68be_z.jpg",
+                "width": 640,
+                "height": 459,
+                "is_primary": "0",
+                "image_id": "95155"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95155_8bdb0ec1188f68be_n.jpg",
+                "width": 320,
+                "height": 230,
+                "is_primary": "0",
+                "image_id": "95155"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95155_8bdb0ec1188f68be_d.gif",
+                "width": 320,
+                "height": 230,
+                "is_primary": "0",
+                "image_id": "95155"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95155_8bdb0ec1188f68be_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "95155"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37495_b1beff7a3c007bd4_b.jpg",
+                "width": 1024,
+                "height": 746,
+                "is_primary": "0",
+                "image_id": "37495"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37495_b1beff7a3c007bd4_z.jpg",
+                "width": 640,
+                "height": 466,
+                "is_primary": "0",
+                "image_id": "37495"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37495_b1beff7a3c007bd4_n.jpg",
+                "width": 320,
+                "height": 233,
+                "is_primary": "0",
+                "image_id": "37495"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37495_b1beff7a3c007bd4_d.gif",
+                "width": 320,
+                "height": 233,
+                "is_primary": "0",
+                "image_id": "37495"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37495_b1beff7a3c007bd4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "37495"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18047459",
+            "role_id": "35352245",
+            "person_name": "Gillian Moss",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18045909",
+            "role_id": "35236655",
+            "person_name": "Lydia Bush-Brown",
+            "person_date": "American, 1887\u20131984",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045909\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18045909",
+            "role_id": "35236685",
+            "person_name": "Lydia Bush-Brown",
+            "person_date": "American, 1887\u20131984",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045909\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Hanging, Hawaiian Fishes, ca. 1917. silk. Gift of the Estate of Lydia Bush-Brown Head. 1985-2-1."
+    },
+    "colors": [
+        {
+            "color": "#c2ab74",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#62554d",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

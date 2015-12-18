@@ -1,0 +1,151 @@
+{
+    "id": "18800087",
+    "tms:id": "180206",
+    "accession_number": "1982-54-1",
+    "title": "Textile, Pythagoras, 1953",
+    "title_raw": "Pythagoras",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800087\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1953",
+    "year_start": 1953,
+    "year_end": 1953,
+    "year_acquired": "1982",
+    "decade": "1950",
+    "woe:country_id": "23424954",
+    "medium": "cotton",
+    "markings": null,
+    "signed": null,
+    "inscribed": "KK \"Pythagoras\" Sven Markelius Design (printed in selvedge)",
+    "provenance": null,
+    "dimensions": "H x W: 280 x 126 cm (9 ft. 2 1\/4 in. x 49 5\/8 in.)\nRepeat H: 144.1 cm (56 3\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "280.04",
+            "centimeters"
+        ],
+        "width": [
+            "126.05",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of August Boj",
+    "description": "Length of printed cotton with a design of wide bands of blue and white, each composed of small triangles in black, grey, light blue, yellow-green, green, blue-green, magenta, and blue with over-printing to produce additional colors.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424954",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46555_3e26222efa335425_b.jpg",
+                "width": 735,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "46555"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46555_3e26222efa335425_z.jpg",
+                "width": 459,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "46555"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46555_3e26222efa335425_n.jpg",
+                "width": 230,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "46555"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46555_3e26222efa335425_d.gif",
+                "width": 230,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "46555"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46555_3e26222efa335425_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "46555"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "51677155",
+            "role_id": "35351535",
+            "person_name": "August Boj",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51677155\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18041409",
+            "role_id": "35236671",
+            "person_name": "Knoll Textiles",
+            "person_date": "New York, New York, USA, founded 1947",
+            "role_name": "Producer",
+            "role_display_name": "Produced by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041409\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236671\/"
+        },
+        {
+            "person_id": "18050049",
+            "role_id": "35236655",
+            "person_name": "Sven Markelius",
+            "person_date": "(Swedish, 1889 \u2013 1972)",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050049\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile, Pythagoras, 1953. cotton. Gift of August Boj. 1982-54-1."
+    },
+    "colors": [
+        {
+            "color": "#3e3d7a",
+            "closest_crayola": "#58427c",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        },
+        {
+            "color": "#21173a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#191970",
+            "closest_css4": "#191970"
+        },
+        {
+            "color": "#516b9b",
+            "closest_crayola": "#2e5894",
+            "closest_css3": "#4682b4",
+            "closest_css4": "#4682b4"
+        },
+        {
+            "color": "#3c606c",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#a49f99",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "Sweden",
+    "is_loan_object": 0
+}

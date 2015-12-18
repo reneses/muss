@@ -1,0 +1,215 @@
+{
+    "id": "35460835",
+    "tms:id": "274849",
+    "accession_number": "2013-18-1",
+    "title": "Poster, Specimen, 2008",
+    "title_raw": "Specimen",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35460835\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35399021",
+    "type_id": "35238163",
+    "date": "2008",
+    "year_start": 2008,
+    "year_end": 2008,
+    "year_acquired": "2013",
+    "decade": "2000",
+    "woe:country_id": "23424819",
+    "medium": "offset lithograph on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Fanette Mellier; October 2012: acquired by Museum",
+    "dimensions": "175 x 118.6 cm (5 ft. 8 7\/8 in. x 46 11\/16 in.)",
+    "dimensions_raw": {
+        "length": [
+            "175.00",
+            "centimeters"
+        ],
+        "width": [
+            "118.60",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Fanette Mellier",
+    "description": "Poster depicts tapestry of printer's marks with text on lower left verso to be folded up on right side for exhibition purposes.",
+    "justification": "The Specimen poster, designed by Fanette Mellier, was featured in Cooper-Hewitt\u2019s 2012 exhibition, Graphic Design: Now in Production, and is depicted on the exhibition catalog\u2019s cover. Particularly engaging is the way the lower-right corner is folded back to reveal the poster\u2019s text, which advertises a series of exhibitions on editorial design held in 2008 in the town of Chaumont, France. \nTo the general public, the non-repetitive pattern of colorful geometric signs appears to resemble a diagram of a microchip. To the graphic designer, however, these symbols are immediately recognizable as printers\u2019 control marks. According to Mellier, she placed the text on the poster's reverse to avoid interrupting the tapestry-like design, but did so in a location that allows the viewer to easily access the information without folding the paper. The poster won second prize at the 2011 Chaumont International Poster and Graphic Design Festival.",
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": "1",
+    "woe:country": "23424819",
+    "type": "poster",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90531_17a7545b90c5aca4_b.jpg",
+                "width": 697,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "90531"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90531_17a7545b90c5aca4_z.jpg",
+                "width": 436,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "90531"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90531_17a7545b90c5aca4_n.jpg",
+                "width": 218,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90531"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90531_17a7545b90c5aca4_d.gif",
+                "width": 218,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90531"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90531_17a7545b90c5aca4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "90531"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88750_fde776a9b72c6a1b_b.jpg",
+                "width": 1024,
+                "height": 693,
+                "is_primary": "0",
+                "image_id": "88750"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88750_fde776a9b72c6a1b_z.jpg",
+                "width": 640,
+                "height": 433,
+                "is_primary": "0",
+                "image_id": "88750"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88750_fde776a9b72c6a1b_n.jpg",
+                "width": 320,
+                "height": 217,
+                "is_primary": "0",
+                "image_id": "88750"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88750_fde776a9b72c6a1b_d.gif",
+                "width": 320,
+                "height": 217,
+                "is_primary": "0",
+                "image_id": "88750"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88750_fde776a9b72c6a1b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "88750"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88751_4e774b19e8252215_b.jpg",
+                "width": 1024,
+                "height": 696,
+                "is_primary": "1",
+                "image_id": "88751"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88751_4e774b19e8252215_z.jpg",
+                "width": 640,
+                "height": 435,
+                "is_primary": "1",
+                "image_id": "88751"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88751_4e774b19e8252215_n.jpg",
+                "width": 320,
+                "height": 218,
+                "is_primary": "1",
+                "image_id": "88751"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88751_4e774b19e8252215_d.gif",
+                "width": 320,
+                "height": 218,
+                "is_primary": "1",
+                "image_id": "88751"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88751_4e774b19e8252215_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "88751"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "35459755",
+            "role_id": "35236655",
+            "person_name": "Fanette Mellier",
+            "person_date": "French, b. 1977",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/35459755\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "35459755",
+            "role_id": "35351535",
+            "person_name": "Fanette Mellier",
+            "person_date": "French, b. 1977",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/35459755\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, Specimen, 2008. offset lithograph on paper. Gift of Fanette Mellier. 2013-18-1."
+    },
+    "colors": [
+        {
+            "color": "#a8d0ed",
+            "closest_crayola": "#9aceeb",
+            "closest_css3": "#add8e6",
+            "closest_css4": "#add8e6"
+        },
+        {
+            "color": "#f4ecad",
+            "closest_crayola": "#fae7b5",
+            "closest_css3": "#eee8aa",
+            "closest_css4": "#eee8aa"
+        },
+        {
+            "color": "#f0e2ed",
+            "closest_crayola": "#fddde6",
+            "closest_css3": "#e6e6fa",
+            "closest_css4": "#e6e6fa"
+        },
+        {
+            "color": "#9a92a2",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#dd8ebc",
+            "closest_crayola": "#ef98aa",
+            "closest_css3": "#dda0dd",
+            "closest_css4": "#dda0dd"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

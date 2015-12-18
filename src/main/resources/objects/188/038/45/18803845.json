@@ -1,0 +1,246 @@
+{
+    "id": "18803845",
+    "tms:id": "182200",
+    "accession_number": "1985-103-176-a",
+    "title": "Case (possibly Germany), ca. 1595\u20131700",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18803845\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35432765",
+    "type_id": "35268321",
+    "date": "ca. 1595\u20131700",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424829",
+    "medium": "shark skin",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Robert L. Metzenberg",
+    "dimensions": "L x W: 20.2 x 4.1 cm (7 15\/16 x 1 5\/8 in.)",
+    "dimensions_raw": {
+        "length": [
+            "20.20",
+            "centimeters"
+        ],
+        "width": [
+            "4.10",
+            "centimeters"
+        ]
+    },
+    "creditline": "The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg",
+    "description": "Shagreen case for two implements, pointed tip.",
+    "justification": null,
+    "gallery_text": "It was the norm for travelers to carry personal cutlery until the early eighteenth century. Cutlery cases were hung from the belt and worn by both men and women. This example is missing its cover, possibly made of silver, which could be attached to the belt with a cord. Early travel cases were just for knives, but later sets included a fork as the implement became gradually accepted. Forks with two long, widely separated prongs were used to stabilize a piece of meat while cutting it with a knife. It was not until the end of the seventeenth century that forks began to be produced with multiple, closely spaced tines. \n \nElaborately carved handles were standard features of cutlery design until the mid-eighteenth century, when they began to flatten out to form a useful resting place for the thumb. The carved ivory handles of this set feature the god Jupiter and his wife Juno with their avian attributes, the eagle and peacock.",
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "Case",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94382_b1d64948d144d4de_b.jpg",
+                "width": 631,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "94382"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94382_b1d64948d144d4de_z.jpg",
+                "width": 394,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "94382"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94382_b1d64948d144d4de_n.jpg",
+                "width": 197,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "94382"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94382_b1d64948d144d4de_d.gif",
+                "width": 197,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "94382"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94382_b1d64948d144d4de_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "94382"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122487_5d22ec19bdbf1774_b.jpg",
+                "width": 617,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "122487"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122487_5d22ec19bdbf1774_z.jpg",
+                "width": 386,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "122487"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122487_5d22ec19bdbf1774_n.jpg",
+                "width": 193,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "122487"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122487_5d22ec19bdbf1774_d.gif",
+                "width": 193,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "122487"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122487_5d22ec19bdbf1774_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "122487"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94381_71c62f5744c67f0d_b.jpg",
+                "width": 415,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "94381"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94381_71c62f5744c67f0d_z.jpg",
+                "width": 259,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "94381"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94381_71c62f5744c67f0d_n.jpg",
+                "width": 130,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "94381"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94381_71c62f5744c67f0d_d.gif",
+                "width": 130,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "94381"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94381_71c62f5744c67f0d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "94381"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19468_86fd9485ae73f1c3_b.jpg",
+                "width": 767,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "19468"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19468_86fd9485ae73f1c3_z.jpg",
+                "width": 479,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "19468"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19468_86fd9485ae73f1c3_n.jpg",
+                "width": 240,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19468"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19468_86fd9485ae73f1c3_d.gif",
+                "width": 240,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19468"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19468_86fd9485ae73f1c3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "19468"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18535985",
+            "role_id": "35351535",
+            "person_name": "Eleanor L. Metzenberg",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048365",
+            "role_id": "35352245",
+            "person_name": "S. Wilmering",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Case (possibly Germany), ca. 1595\u20131700. shark skin. The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg. 1985-103-176-a."
+    },
+    "colors": [
+        {
+            "color": "#625448",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#f0dfb2",
+            "closest_crayola": "#fae7b5",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
+        },
+        {
+            "color": "#a49e96",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#887666",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
+}

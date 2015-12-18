@@ -1,0 +1,104 @@
+{
+    "id": "18801947",
+    "tms:id": "181140",
+    "accession_number": "1984-124-25-128",
+    "title": "Drawing, Mirror on Swivel Floor Stand & open arm Chair, floral motif, 1860",
+    "title_raw": "Mirror on Swivel Floor Stand & open arm Chair, floral motif",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801947\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35237093",
+    "date": "1860",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/140229_18a3e6d41b8a9d04_b.jpg",
+                "width": 785,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "140229"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/140229_18a3e6d41b8a9d04_z.jpg",
+                "width": 490,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "140229"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/140229_18a3e6d41b8a9d04_n.jpg",
+                "width": 245,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "140229"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/140229_18a3e6d41b8a9d04_d.gif",
+                "width": 245,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "140229"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/140229_18a3e6d41b8a9d04_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "140229"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18539191",
+            "role_id": "35236655",
+            "person_name": "W. Kimbel",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539191\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Mirror on Swivel Floor Stand & open arm Chair, floral motif, 1860. 1984-124-25-128."
+    },
+    "colors": [
+        {
+            "color": "#9f9484",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#807062",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

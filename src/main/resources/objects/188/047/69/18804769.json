@@ -1,0 +1,178 @@
+{
+    "id": "18804769",
+    "tms:id": "182669",
+    "accession_number": "1985-19-16",
+    "title": "Frieze (USA), 1907\u201308",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18804769\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35414653",
+    "type_id": "35259269",
+    "date": "1907\u201308",
+    "year_start": 1907,
+    "year_end": 1908,
+    "year_acquired": "1985",
+    "decade": "1900",
+    "woe:country_id": "23424977",
+    "medium": "machine-printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "72 x 49 cm (28 3\/8 x 19 5\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "72.00",
+            "centimeters"
+        ],
+        "width": [
+            "49.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Dorwin L. Starr",
+    "description": "Heraldic shield on large cartouch, on red background having appearance of fabric.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Frieze",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45612_bfb7c35108fc600c_b.jpg",
+                "width": 1024,
+                "height": 784,
+                "is_primary": "1",
+                "image_id": "45612"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45612_bfb7c35108fc600c_z.jpg",
+                "width": 640,
+                "height": 490,
+                "is_primary": "1",
+                "image_id": "45612"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45612_bfb7c35108fc600c_n.jpg",
+                "width": 320,
+                "height": 245,
+                "is_primary": "1",
+                "image_id": "45612"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45612_bfb7c35108fc600c_d.gif",
+                "width": 320,
+                "height": 245,
+                "is_primary": "1",
+                "image_id": "45612"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45612_bfb7c35108fc600c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "45612"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10203_9b6320b1b272fc5f_b.jpg",
+                "width": 1024,
+                "height": 801,
+                "is_primary": "0",
+                "image_id": "10203"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10203_9b6320b1b272fc5f_z.jpg",
+                "width": 640,
+                "height": 501,
+                "is_primary": "0",
+                "image_id": "10203"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10203_9b6320b1b272fc5f_n.jpg",
+                "width": 320,
+                "height": 250,
+                "is_primary": "0",
+                "image_id": "10203"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10203_9b6320b1b272fc5f_d.gif",
+                "width": 320,
+                "height": 250,
+                "is_primary": "0",
+                "image_id": "10203"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10203_9b6320b1b272fc5f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "10203"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18046363",
+            "role_id": "35236659",
+            "person_name": "S.A. Maxwell & Co.",
+            "person_date": "",
+            "role_name": "Distributor",
+            "role_display_name": "Distributed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046363\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236659\/"
+        },
+        {
+            "person_id": "18537637",
+            "role_id": "35351535",
+            "person_name": "Dorwin L. Starr",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537637\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Frieze (USA), 1907\u201308. machine-printed. Gift of Dorwin L. Starr. 1985-19-16."
+    },
+    "colors": [
+        {
+            "color": "#281811",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#4f3c28",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#92563b",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#6f5e3c",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#9a8959",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

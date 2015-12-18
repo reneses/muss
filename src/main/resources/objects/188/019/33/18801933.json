@@ -1,0 +1,104 @@
+{
+    "id": "18801933",
+    "tms:id": "181133",
+    "accession_number": "1984-124-25-121",
+    "title": "Drawing, Fauteil & Chaise, lithograph, 1850\u20131900",
+    "title_raw": "Fauteil & Chaise, lithograph",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801933\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35237093",
+    "date": "1850\u20131900",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/139791_a8e701debde81056_b.jpg",
+                "width": 1024,
+                "height": 767,
+                "is_primary": "1",
+                "image_id": "139791"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/139791_a8e701debde81056_z.jpg",
+                "width": 640,
+                "height": 479,
+                "is_primary": "1",
+                "image_id": "139791"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/139791_a8e701debde81056_n.jpg",
+                "width": 320,
+                "height": 240,
+                "is_primary": "1",
+                "image_id": "139791"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/139791_a8e701debde81056_d.gif",
+                "width": 320,
+                "height": 240,
+                "is_primary": "1",
+                "image_id": "139791"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/139791_a8e701debde81056_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "139791"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18539191",
+            "role_id": "35236655",
+            "person_name": "W. Kimbel",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539191\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Fauteil & Chaise, lithograph, 1850\u20131900. 1984-124-25-121."
+    },
+    "colors": [
+        {
+            "color": "#84796b",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#625a51",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

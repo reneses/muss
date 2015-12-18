@@ -1,0 +1,121 @@
+{
+    "id": "18801105",
+    "tms:id": "180719",
+    "accession_number": "1983-85-2",
+    "title": "Textile (England), 1830s",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801105\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1830s",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1983",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "cotton",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 35 \u00d7 57.5 cm (13 3\/4 \u00d7 22 5\/8 in.)\nRepeat H: 31.1 cm (12 1\/4 in.)",
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": "Predominantly red and blue pillar print with curling acanthus leaf capitals, flowers and birds in a half-drop repeat.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/218930_cc579dc6d915fe62_b.jpg",
+                "width": 1024,
+                "height": 651,
+                "is_primary": "1",
+                "image_id": "218930"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/218930_cc579dc6d915fe62_z.jpg",
+                "width": 640,
+                "height": 407,
+                "is_primary": "1",
+                "image_id": "218930"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/218930_cc579dc6d915fe62_n.jpg",
+                "width": 320,
+                "height": 203,
+                "is_primary": "1",
+                "image_id": "218930"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/218930_cc579dc6d915fe62_d.gif",
+                "width": 320,
+                "height": 203,
+                "is_primary": "1",
+                "image_id": "218930"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/218930_cc579dc6d915fe62_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "218930"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77467_ddb5fe0e0d75d6cd_b.jpg",
+                "width": 1024,
+                "height": 722,
+                "is_primary": "0",
+                "image_id": "77467"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77467_ddb5fe0e0d75d6cd_z.jpg",
+                "width": 640,
+                "height": 451,
+                "is_primary": "0",
+                "image_id": "77467"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77467_ddb5fe0e0d75d6cd_n.jpg",
+                "width": 320,
+                "height": 226,
+                "is_primary": "0",
+                "image_id": "77467"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77467_ddb5fe0e0d75d6cd_d.gif",
+                "width": 320,
+                "height": 226,
+                "is_primary": "0",
+                "image_id": "77467"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77467_ddb5fe0e0d75d6cd_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77467"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Textile (England), 1830s. cotton. 1983-85-2."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
+}

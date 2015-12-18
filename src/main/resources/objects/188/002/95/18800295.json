@@ -1,0 +1,200 @@
+{
+    "id": "18800295",
+    "tms:id": "180310",
+    "accession_number": "1983-1-26",
+    "title": "Drawing, Dressing Table and Mirror, Henry J. Allen Residence, Wichita, Kansas, 1917",
+    "title_raw": "Dressing Table and Mirror, Henry J. Allen Residence, Wichita, Kansas",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800295\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35432511",
+    "type_id": "35237093",
+    "date": "1917",
+    "year_start": 1917,
+    "year_end": 1917,
+    "year_acquired": "1983",
+    "decade": "1910",
+    "woe:country_id": "23424977",
+    "medium": "graphite on light brown wove paper, laid down",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Inscribed in graphite, lower right: Mrs. Allen's dressing table\/ Mirrors center - 29\" w\/ Sides: 13 1\/2\" w. (measurements crossed out); numerical notation lower right; lower right: 1 1\/2\" = 1' 0\"",
+    "provenance": "Mr. and Mrs. Robert L. Jacobson",
+    "dimensions": "40.8 x 47.8 cm (16 1\/16 x 18 13\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "40.80",
+            "centimeters"
+        ],
+        "width": [
+            "47.80",
+            "centimeters"
+        ]
+    },
+    "creditline": "Museum purchase from Smithsonian Regents Collections Acquisition and Friends of Drawings and Prints Funds",
+    "description": "Design for dressing table, set of drawers and mirror.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42514_de844f8f8a1953ba_b.jpg",
+                "width": 1024,
+                "height": 885,
+                "is_primary": "1",
+                "image_id": "42514"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42514_de844f8f8a1953ba_z.jpg",
+                "width": 640,
+                "height": 553,
+                "is_primary": "1",
+                "image_id": "42514"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42514_de844f8f8a1953ba_n.jpg",
+                "width": 320,
+                "height": 277,
+                "is_primary": "1",
+                "image_id": "42514"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42514_de844f8f8a1953ba_d.gif",
+                "width": 320,
+                "height": 277,
+                "is_primary": "1",
+                "image_id": "42514"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42514_de844f8f8a1953ba_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "42514"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/205088_138ecba004fddc1b_b.jpg",
+                "width": 1024,
+                "height": 886,
+                "is_primary": "0",
+                "image_id": "205088"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/205088_138ecba004fddc1b_z.jpg",
+                "width": 640,
+                "height": 554,
+                "is_primary": "0",
+                "image_id": "205088"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/205088_138ecba004fddc1b_n.jpg",
+                "width": 320,
+                "height": 277,
+                "is_primary": "0",
+                "image_id": "205088"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/205088_138ecba004fddc1b_d.gif",
+                "width": 320,
+                "height": 277,
+                "is_primary": "0",
+                "image_id": "205088"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/205088_138ecba004fddc1b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "205088"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18041629",
+            "role_id": "35352249",
+            "person_name": "Kelmscott Gallery",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041629\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "51676457",
+            "role_id": "35352245",
+            "person_name": "Karin Zonis",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "68738747",
+            "role_id": "35236667",
+            "person_name": "Elsie J. Nuzman (Mrs. Henry J.) Allen",
+            "person_date": "",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68738747\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        },
+        {
+            "person_id": "18042051",
+            "role_id": "35236667",
+            "person_name": "Henry J. Allen",
+            "person_date": "",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042051\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        },
+        {
+            "person_id": "18043485",
+            "role_id": "35236655",
+            "person_name": "George Mann Niedecken",
+            "person_date": "1878\u20131945",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043485\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18042049",
+            "role_id": "35236663",
+            "person_name": "Frank Lloyd Wright",
+            "person_date": "American, 1867\u20131959",
+            "role_name": "Architect",
+            "role_display_name": "Architect:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042049\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236663\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Dressing Table and Mirror, Henry J. Allen Residence, Wichita, Kansas, 1917. graphite on light brown wove paper, laid down. Museum purchase from Smithsonian Regents Collections Acquisition and Friends of Drawings and Prints Funds. 1983-1-26."
+    },
+    "colors": [
+        {
+            "color": "#f0edd1",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#faebd7",
+            "closest_css4": "#faebd7"
+        },
+        {
+            "color": "#a89671",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

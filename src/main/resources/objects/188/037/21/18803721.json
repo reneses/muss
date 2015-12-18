@@ -1,0 +1,166 @@
+{
+    "id": "18803721",
+    "tms:id": "182138",
+    "accession_number": "1985-103-131",
+    "title": "Fork (possibly Netherlands), 1730\u201350",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18803721\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35432761",
+    "type_id": "35254209",
+    "date": "1730\u201350",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424909",
+    "medium": "ivory, silver, steel",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "L x W: 15 x 1.4 cm (5 7\/8 x 9\/16 in.)",
+    "dimensions_raw": {
+        "length": [
+            "15.00",
+            "centimeters"
+        ],
+        "width": [
+            "1.40",
+            "centimeters"
+        ]
+    },
+    "creditline": "The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg",
+    "description": "Three short tines, slightly curved shoulders, flat neck and rounded bolster. Ivory handle, painted green. Three silver appliques on each side of the handle in the shape of a lion and two scallops. Silver mount on the end of the handle has a floral decoration.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "fork",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118033_460f6bc78f3bce5f_b.jpg",
+                "width": 591,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "118033"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118033_460f6bc78f3bce5f_z.jpg",
+                "width": 369,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "118033"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118033_460f6bc78f3bce5f_n.jpg",
+                "width": 185,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118033"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118033_460f6bc78f3bce5f_d.gif",
+                "width": 185,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118033"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118033_460f6bc78f3bce5f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "118033"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19076_6273d1f8ef79d518_b.jpg",
+                "width": 291,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "19076"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19076_6273d1f8ef79d518_z.jpg",
+                "width": 182,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "19076"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19076_6273d1f8ef79d518_n.jpg",
+                "width": 91,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19076"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19076_6273d1f8ef79d518_d.gif",
+                "width": 91,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19076"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19076_6273d1f8ef79d518_sq.jpg",
+                "width": 291,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "19076"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18535985",
+            "role_id": "35351535",
+            "person_name": "Eleanor L. Metzenberg",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048365",
+            "role_id": "35352245",
+            "person_name": "S. Wilmering",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Fork (possibly Netherlands), 1730\u201350. ivory, silver, steel. The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg. 1985-103-131."
+    },
+    "colors": [
+        {
+            "color": "#546656",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#8b8179",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#aba29a",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
+}

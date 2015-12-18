@@ -1,0 +1,154 @@
+{
+    "id": "18804005",
+    "tms:id": "182280",
+    "accession_number": "1985-103-246",
+    "title": "Folding Knife (Germany), ca. 1700",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18804005\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35371493",
+    "type_id": "35293711",
+    "date": "ca. 1700",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424829",
+    "medium": "silver, steel",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Robert L. Metzenberg",
+    "dimensions": "L x W: 16.7 x 1.9 cm (6 9\/16 x 3\/4 in.)",
+    "dimensions_raw": {
+        "length": [
+            "16.70",
+            "centimeters"
+        ],
+        "width": [
+            "1.90",
+            "centimeters"
+        ]
+    },
+    "creditline": "The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg",
+    "description": "Sabre-shaped blade. Handle straight-sided, flaring towards the end. Engraved floral decoration with a lion in the cartouche on front and back. Diamond-shaped pattern along the sides. Blade folds into handle.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "Folding knife",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118105_850ab57646259729_b.jpg",
+                "width": 685,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "118105"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118105_850ab57646259729_z.jpg",
+                "width": 428,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "118105"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118105_850ab57646259729_n.jpg",
+                "width": 214,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118105"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118105_850ab57646259729_d.gif",
+                "width": 214,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118105"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118105_850ab57646259729_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "118105"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19119_8e3f9eac0bf767be_b.jpg",
+                "width": 611,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "19119"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19119_8e3f9eac0bf767be_z.jpg",
+                "width": 382,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "19119"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19119_8e3f9eac0bf767be_n.jpg",
+                "width": 191,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19119"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19119_8e3f9eac0bf767be_d.gif",
+                "width": 191,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19119"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19119_8e3f9eac0bf767be_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "19119"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18535985",
+            "role_id": "35351535",
+            "person_name": "Eleanor L. Metzenberg",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048365",
+            "role_id": "35352245",
+            "person_name": "S. Wilmering",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Folding Knife (Germany), ca. 1700. silver, steel. The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg. 1985-103-246."
+    },
+    "colors": [
+        {
+            "color": "#948c85",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
+}

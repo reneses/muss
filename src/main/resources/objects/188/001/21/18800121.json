@@ -1,0 +1,137 @@
+{
+    "id": "18800121",
+    "tms:id": "180223",
+    "accession_number": "1982-59-1",
+    "title": "AJ pattern Knife, designed 1957",
+    "title_raw": "AJ pattern",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800121\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35431463",
+    "type_id": "35248783",
+    "date": "designed 1957",
+    "year_start": 1957,
+    "year_end": 1957,
+    "year_acquired": "1982",
+    "decade": "1950",
+    "woe:country_id": "23424796",
+    "medium": "steel, stainless",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "cm: L: 19.9 x W: 1.6 x D: 0.3",
+    "dimensions_raw": {
+        "depth": [
+            "0.30",
+            "centimeters"
+        ],
+        "length": [
+            "19.90",
+            "centimeters"
+        ],
+        "width": [
+            "1.60",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Blade and handle formed from one piece of tapering stainless steel. Upper edge cut away to form the flat top edge of the knife blade.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424796",
+    "type": "knife",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118323_8ca6112098e83c20_b.jpg",
+                "width": 529,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "118323"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118323_8ca6112098e83c20_z.jpg",
+                "width": 331,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "118323"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118323_8ca6112098e83c20_n.jpg",
+                "width": 165,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118323"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118323_8ca6112098e83c20_d.gif",
+                "width": 165,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118323"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118323_8ca6112098e83c20_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "118323"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18055819",
+            "role_id": "35236657",
+            "person_name": "Michelson",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055819\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18043787",
+            "role_id": "35236671",
+            "person_name": "Georg Jensen S\u00f8lvsmedie",
+            "person_date": "founded 1904",
+            "role_name": "Producer",
+            "role_display_name": "Produced by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043787\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236671\/"
+        },
+        {
+            "person_id": "18044547",
+            "role_id": "35236655",
+            "person_name": "Arne Jacobsen",
+            "person_date": "Danish, 1902 \u2013 1971",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044547\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "AJ pattern Knife, designed 1957. steel, stainless. 1982-59-1."
+    },
+    "colors": [
+        {
+            "color": "#908983",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#736d6a",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "Denmark",
+    "is_loan_object": 0
+}

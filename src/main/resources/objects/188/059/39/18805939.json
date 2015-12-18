@@ -1,0 +1,106 @@
+{
+    "id": "18805939",
+    "tms:id": "183270",
+    "accession_number": "1985-99-6",
+    "title": "Glass",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805939\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35249055",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 34.6 x 15.1 cm (13 5\/8 x 5 15\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "15.10",
+            "centimeters"
+        ],
+        "height": [
+            "34.60",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Clear glass oversized red wine form",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "glass",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117744_db8c4f5244e4e070_b.jpg",
+                "width": 568,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "117744"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117744_db8c4f5244e4e070_z.jpg",
+                "width": 355,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "117744"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117744_db8c4f5244e4e070_n.jpg",
+                "width": 178,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "117744"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117744_db8c4f5244e4e070_d.gif",
+                "width": 178,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "117744"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117744_db8c4f5244e4e070_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "117744"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18055021",
+            "role_id": "35236655",
+            "person_name": "Peter Kaspar",
+            "person_date": "1944\u2013",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055021\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Glass. glass. 1985-99-6."
+    },
+    "colors": [
+        {
+            "color": "#ffffff",
+            "closest_crayola": "#ffffff",
+            "closest_css3": "#ffffff",
+            "closest_css4": "#ffffff"
+        }
+    ],
+    "is_loan_object": 0
+}

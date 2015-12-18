@@ -1,0 +1,121 @@
+{
+    "id": "18800059",
+    "tms:id": "180192",
+    "accession_number": "1982-52-32",
+    "title": "Souvenir (USA)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800059\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35293535",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1982",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Mr. and Mrs. Boris Kroll",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "souvenir",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217506_834707b7902aa3d5_b.jpg",
+                "width": 635,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "217506"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217506_834707b7902aa3d5_z.jpg",
+                "width": 397,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "217506"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217506_834707b7902aa3d5_n.jpg",
+                "width": 198,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "217506"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217506_834707b7902aa3d5_d.gif",
+                "width": 198,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "217506"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/217506_834707b7902aa3d5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "217506"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77338_8ece2f66f5094543_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "77338"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77338_8ece2f66f5094543_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "77338"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77338_8ece2f66f5094543_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77338"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77338_8ece2f66f5094543_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77338"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77338_8ece2f66f5094543_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77338"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Souvenir (USA). Gift of Mr. and Mrs. Boris Kroll. 1982-52-32."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

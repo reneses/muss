@@ -1,0 +1,146 @@
+{
+    "id": "18800399",
+    "tms:id": "180362",
+    "accession_number": "1983-20-1-a,b",
+    "title": "Portiere, 1915",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800399\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35390039",
+    "type_id": "35251037",
+    "date": "1915",
+    "year_start": 1915,
+    "year_end": 1915,
+    "year_acquired": "1983",
+    "decade": "1910",
+    "woe:country_id": null,
+    "medium": "cotton, rayon",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W (a): 256 \u00d7 117.5 cm (8 ft. 4 13\/16 in. \u00d7 46 1\/4 in.)\nH x W (b): 254 \u00d7 117.5 cm (8 ft. 4 in. \u00d7 46 1\/4 in.)",
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": "Pair of portieres with a field decorated by swags descending from rows of architectural pediments. Side and bottom borders have architectural details. Colors are rose red and light brown. Woven so the fabric is reversible.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "portiere",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/161345_1c81212a9ece0791_b.jpg",
+                "width": 923,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "161345"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/161345_1c81212a9ece0791_z.jpg",
+                "width": 577,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "161345"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/161345_1c81212a9ece0791_n.jpg",
+                "width": 288,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "161345"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/161345_1c81212a9ece0791_d.gif",
+                "width": 288,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "161345"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/161345_1c81212a9ece0791_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "161345"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/161717_59c1c3d72232bed6_b.jpg",
+                "width": 944,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "161717"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/161717_59c1c3d72232bed6_z.jpg",
+                "width": 590,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "161717"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/161717_59c1c3d72232bed6_n.jpg",
+                "width": 295,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "161717"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/161717_59c1c3d72232bed6_d.gif",
+                "width": 295,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "161717"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/161717_59c1c3d72232bed6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "161717"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18048353",
+            "role_id": "35352249",
+            "person_name": "Jordan Volpe Gallery",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048353\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Portiere, 1915. cotton, rayon. 1983-20-1-a,b."
+    },
+    "colors": [
+        {
+            "color": "#504027",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#714e41",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#441b19",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#800000",
+            "closest_css4": "#800000"
+        }
+    ],
+    "is_loan_object": 0
+}

@@ -1,0 +1,266 @@
+{
+    "id": "35520973",
+    "tms:id": "275095",
+    "accession_number": "18.2014.1",
+    "title": "Mobosens, Smartphone Liquid Sensor (Prototype), 2011",
+    "title_raw": "Smartphone Liquid Sensor (Prototype)",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35520973\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "68743159",
+    "type_id": "68250291",
+    "date": "2011",
+    "year_start": 2011,
+    "year_end": 2011,
+    "year_acquired": null,
+    "decade": "2010",
+    "woe:country_id": "23424977",
+    "medium": "smartphone plug-in electrochemical sensor, microfluidic chip, microelectronic integrated circuits",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 2 \u00d7 5 \u00d7 3 cm (13\/16 \u00d7 1 15\/16 \u00d7 1 3\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "3.02",
+            "centimeters"
+        ],
+        "height": [
+            "2.00",
+            "centimeters"
+        ],
+        "width": [
+            "5.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Courtesy of the University of Illinois at Urbana-Champaign",
+    "description": null,
+    "justification": null,
+    "gallery_text": "The MoboSens is a sensor that allows anyone with a smartphone to detect contami\u00acnated water and analyze biofluids. The sensor plugs into a cell phone through the audio jack; the phone app controls the sensor and shows the nature and precise amount of contaminants in a single drop of water on the sensor\u2014nitrate, arsenic, chromium, and pathogenic bacteria, among others. An on-line map permits the results to be communicated in real time, so users can monitor and share local environmental data. The MoboSens can also identify contaminants or illnesses in the user\u2019s body by analyzing blood, urine, and saliva. By combining revolutionary technologies\u2014mobile devices, social media, sensors, and geographical informa\u00action systems\u2014the MoboSens delivers an affordable product that will revolutionize digital health care.",
+    "label_text": "With a smartphone and a MoboSens anyone can detect contaminated water or analyze blood, urine, or saliva for illnesses. An online map allows the results to be shared and monitored in real time. MoboSens is an affordable tool that is part of the digital revolution in environmental awareness and health care.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Mobosens",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93926_6fc4823306b89334_b.jpg",
+                "width": 200,
+                "height": 410,
+                "is_primary": "1",
+                "image_id": "93926"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93926_6fc4823306b89334_z.jpg",
+                "width": 200,
+                "height": 410,
+                "is_primary": "1",
+                "image_id": "93926"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93926_6fc4823306b89334_n.jpg",
+                "width": 156,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93926"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93926_6fc4823306b89334_d.gif",
+                "width": 156,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93926"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93926_6fc4823306b89334_sq.jpg",
+                "width": 200,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93926"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180840_5256ea3351e267e0_b.jpg",
+                "width": 579,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "180840"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180840_5256ea3351e267e0_z.jpg",
+                "width": 362,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "180840"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180840_5256ea3351e267e0_n.jpg",
+                "width": 181,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "180840"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180840_5256ea3351e267e0_d.gif",
+                "width": 181,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "180840"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180840_5256ea3351e267e0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "180840"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113671_5256ea3351e267e0_b.jpg",
+                "width": 579,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113671"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113671_5256ea3351e267e0_z.jpg",
+                "width": 362,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113671"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113671_5256ea3351e267e0_n.jpg",
+                "width": 181,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113671"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113671_5256ea3351e267e0_d.gif",
+                "width": 181,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113671"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113671_5256ea3351e267e0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113671"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113669_8f36571fa11099c5_b.jpg",
+                "width": 683,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113669"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113669_8f36571fa11099c5_z.jpg",
+                "width": 427,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113669"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113669_8f36571fa11099c5_n.jpg",
+                "width": 213,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113669"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113669_8f36571fa11099c5_d.gif",
+                "width": 213,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113669"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113669_8f36571fa11099c5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113669"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68739563",
+            "role_id": "35236655",
+            "person_name": "Dr. Logan Liu",
+            "person_date": "(American, b.1978)",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68739563\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "68514985",
+            "role_id": "51571131",
+            "person_name": "MoboSense",
+            "person_date": "USA",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68514985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        },
+        {
+            "person_id": "68514985",
+            "role_id": "35236657",
+            "person_name": "MoboSense",
+            "person_date": "USA",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68514985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Mobosens, Smartphone Liquid Sensor (Prototype), 2011. smartphone plug-in electrochemical sensor, microfluidic chip, microelectronic integrated circuits. Courtesy of the University of Illinois at Urbana-Champaign. 18.2014.1."
+    },
+    "colors": [
+        {
+            "color": "#6dbcde",
+            "closest_crayola": "#78dbe2",
+            "closest_css3": "#87ceeb",
+            "closest_css4": "#87ceeb"
+        },
+        {
+            "color": "#6b7544",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#beb79a",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#c1e5f2",
+            "closest_crayola": "#ace5ee",
+            "closest_css3": "#afeeee",
+            "closest_css4": "#afeeee"
+        },
+        {
+            "color": "#5889d0",
+            "closest_crayola": "#5d76cb",
+            "closest_css3": "#6495ed",
+            "closest_css4": "#6495ed"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

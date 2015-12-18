@@ -1,0 +1,151 @@
+{
+    "id": "18806267",
+    "tms:id": "183438",
+    "accession_number": "1986-116-3",
+    "title": "Bowl (USA), 1985",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18806267\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "68249233",
+    "type_id": "35237197",
+    "date": "1985",
+    "year_start": 1985,
+    "year_end": 1985,
+    "year_acquired": "1986",
+    "decade": "1980",
+    "woe:country_id": "23424977",
+    "medium": "laminated earthenware (nerikomi technique)",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1986: acquired by Museum",
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Bowl",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112167_f358ccb59c182a9d_b.jpg",
+                "width": 1024,
+                "height": 678,
+                "is_primary": "1",
+                "image_id": "112167"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112167_f358ccb59c182a9d_z.jpg",
+                "width": 640,
+                "height": 423,
+                "is_primary": "1",
+                "image_id": "112167"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112167_f358ccb59c182a9d_n.jpg",
+                "width": 320,
+                "height": 212,
+                "is_primary": "1",
+                "image_id": "112167"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112167_f358ccb59c182a9d_d.gif",
+                "width": 320,
+                "height": 212,
+                "is_primary": "1",
+                "image_id": "112167"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112167_f358ccb59c182a9d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "112167"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10451_8474893a9c60c095_b.jpg",
+                "width": 1024,
+                "height": 720,
+                "is_primary": "0",
+                "image_id": "10451"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10451_8474893a9c60c095_z.jpg",
+                "width": 640,
+                "height": 450,
+                "is_primary": "0",
+                "image_id": "10451"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10451_8474893a9c60c095_n.jpg",
+                "width": 320,
+                "height": 225,
+                "is_primary": "0",
+                "image_id": "10451"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10451_8474893a9c60c095_d.gif",
+                "width": 320,
+                "height": 225,
+                "is_primary": "0",
+                "image_id": "10451"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10451_8474893a9c60c095_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "10451"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18044851",
+            "role_id": "35236565",
+            "person_name": "Beth Forer",
+            "person_date": "American, b. 1951",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044851\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        },
+        {
+            "person_id": "18051451",
+            "role_id": "35351535",
+            "person_name": "Felice and David Axelrod",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051451\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Bowl (USA), 1985. laminated earthenware (nerikomi technique). 1986-116-3."
+    },
+    "colors": [
+        {
+            "color": "#b7bac1",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#bab6a4",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

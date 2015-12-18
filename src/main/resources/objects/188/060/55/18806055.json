@@ -1,0 +1,125 @@
+{
+    "id": "18806055",
+    "tms:id": "183328",
+    "accession_number": "1986-104-8",
+    "title": "Necklace",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18806055\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35237147",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1986",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Overall: 17 x 19 x 1.5 cm (6 11\/16 x 7 1\/2 x 9\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "1.50",
+            "centimeters"
+        ],
+        "height": [
+            "17.00",
+            "centimeters"
+        ],
+        "width": [
+            "19.00",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Necklace",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132575_bb4261e7e700cdc8_b.jpg",
+                "width": 786,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "132575"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132575_bb4261e7e700cdc8_z.jpg",
+                "width": 491,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "132575"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132575_bb4261e7e700cdc8_n.jpg",
+                "width": 246,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "132575"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132575_bb4261e7e700cdc8_d.gif",
+                "width": 246,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "132575"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132575_bb4261e7e700cdc8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "132575"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Necklace. 1986-104-8."
+    },
+    "colors": [
+        {
+            "color": "#c6af6c",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#f7efa5",
+            "closest_crayola": "#fae7b5",
+            "closest_css3": "#eee8aa",
+            "closest_css4": "#eee8aa"
+        },
+        {
+            "color": "#82693a",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#ac8a45",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#6c4d22",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        }
+    ],
+    "is_loan_object": 0
+}

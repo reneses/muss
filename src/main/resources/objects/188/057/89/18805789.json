@@ -1,0 +1,117 @@
+{
+    "id": "18805789",
+    "tms:id": "183195",
+    "accession_number": "1985-91-16",
+    "title": "\"Sommeliers\" Glass, ca. 1985",
+    "title_raw": "\"Sommeliers\"",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805789\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35249055",
+    "date": "ca. 1985",
+    "year_start": 1975,
+    "year_end": 1995,
+    "year_acquired": "1985",
+    "decade": "1970",
+    "woe:country_id": "23424750",
+    "medium": "glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 16 x 9.3 cm (6 5\/16 x 3 11\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "9.30",
+            "centimeters"
+        ],
+        "height": [
+            "16.00",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Moscato, Supamante",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424750",
+    "type": "glass",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123007_ebf3552cc7e4dc39_b.jpg",
+                "width": 608,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "123007"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123007_ebf3552cc7e4dc39_z.jpg",
+                "width": 380,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "123007"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123007_ebf3552cc7e4dc39_n.jpg",
+                "width": 190,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "123007"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123007_ebf3552cc7e4dc39_d.gif",
+                "width": 190,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "123007"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123007_ebf3552cc7e4dc39_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "123007"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18539231",
+            "role_id": "35236655",
+            "person_name": "Claus Josef Riedel",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539231\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18539073",
+            "role_id": "35236685",
+            "person_name": "Riedel Crystal",
+            "person_date": "Austria, founded 1756",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539073\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "\"Sommeliers\" Glass, ca. 1985. glass. 1985-91-16."
+    },
+    "colors": [
+        {
+            "color": "#ffffff",
+            "closest_crayola": "#ffffff",
+            "closest_css3": "#ffffff",
+            "closest_css4": "#ffffff"
+        }
+    ],
+    "woe:country_name": "Austria",
+    "is_loan_object": 0
+}

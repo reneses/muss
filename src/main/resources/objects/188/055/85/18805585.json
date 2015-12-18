@@ -1,0 +1,156 @@
+{
+    "id": "18805585",
+    "tms:id": "183086",
+    "accession_number": "1985-69-3",
+    "title": "Print, Dining Area, 1985",
+    "title_raw": "Dining Area",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805585\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35432313",
+    "type_id": "35236873",
+    "date": "1985",
+    "year_start": 1985,
+    "year_end": 1985,
+    "year_acquired": "1985",
+    "decade": "1980",
+    "woe:country_id": "23424853",
+    "medium": "screenprint on white wove paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1985: acquired by Museum",
+    "dimensions": "H x W: 71 x 50.5 cm (27 15\/16 x 19 7\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "71.00",
+            "centimeters"
+        ],
+        "width": [
+            "50.50",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "A dining room interior in black and white cow and speckled pattern motif of different sized splotches: cabinet, dining table and chairs, rug, and sideboard.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Print",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63531_e3104f94f363b0a6_b.jpg",
+                "width": 720,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "63531"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63531_e3104f94f363b0a6_z.jpg",
+                "width": 450,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "63531"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63531_e3104f94f363b0a6_n.jpg",
+                "width": 225,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63531"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63531_e3104f94f363b0a6_d.gif",
+                "width": 225,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63531"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63531_e3104f94f363b0a6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "63531"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/196652_55f086eb6d2dc889_b.jpg",
+                "width": 735,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "196652"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/196652_55f086eb6d2dc889_z.jpg",
+                "width": 459,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "196652"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/196652_55f086eb6d2dc889_n.jpg",
+                "width": 230,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "196652"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/196652_55f086eb6d2dc889_d.gif",
+                "width": 230,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "196652"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/196652_55f086eb6d2dc889_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "196652"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18047289",
+            "role_id": "35236655",
+            "person_name": "George J. Sowden",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047289\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Print, Dining Area, 1985. screenprint on white wove paper. 1985-69-3."
+    },
+    "colors": [
+        {
+            "color": "#c3beb2",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#959086",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#6b6861",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
+}

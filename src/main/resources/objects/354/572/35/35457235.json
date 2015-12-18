@@ -1,0 +1,172 @@
+{
+    "id": "35457235",
+    "tms:id": "274552",
+    "accession_number": "15.2012.17",
+    "title": "Fishhook (Solomon Islands), Before 1917",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35457235\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "68515305",
+    "type_id": "68724263",
+    "date": "Before 1917",
+    "year_start": 1917,
+    "year_end": 1917,
+    "year_acquired": null,
+    "decade": "1910",
+    "woe:country_id": "23424766",
+    "medium": "carved turtle shell, mother-of-pearl, glass beads, fiber cord",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 2.5 x 1.4 x 8.3 cm (1 in. x 9\/16 in. x 3 1\/4 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "8.26",
+            "centimeters"
+        ],
+        "height": [
+            "2.50",
+            "centimeters"
+        ],
+        "width": [
+            "1.40",
+            "centimeters"
+        ]
+    },
+    "creditline": "Department of Anthropology, National Museum of Natural History, Smithsonian Institution, E399972",
+    "description": null,
+    "justification": null,
+    "gallery_text": "This Solomon Islands fishhook, or pasa, consists of a turtle-shell hook bound to a mother-of-pearl shank with a twisted fiber cord. At one end are two strings of bright blue European trade beads threaded on twisted fiber cord, which is further decorated with two tufts of red calico trade cloth. The beads and calico were used throughout the Pacific as payment for plantation labor and as trade items. Fishhooks, such as this one, were made and used by men to catch ocean-dwelling bonito or skipjack tuna. Throughout the Solomons, the bonito was a sacred fish, belonging to a wider assemblage of relationships that included the smaller fish that bonito hunt in schools; the birds attracted to the chase; and ancestral beings that took the form of sharks. The first sighting of the bonito each season began a series of rituals during which young initiates were trained to catch these aggressive fish and thus learn about their place within the wider world.",
+    "label_text": "Hand tools extend our physical capability to reach, throw, and catch, as well as to perform actions that are difficult if not impossible with bare hands and fingers. Specialized tasks\u2014tonsil removal, halibut fishing\u2014require unique shapes, distinct materials, and the maker\u2019s personal touch to create an appropriate tool for the task.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424766",
+    "type": "Fishhook",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84681_96a17fbf3ac09f03_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "1",
+                "image_id": "84681"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84681_96a17fbf3ac09f03_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "1",
+                "image_id": "84681"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84681_96a17fbf3ac09f03_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "1",
+                "image_id": "84681"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84681_96a17fbf3ac09f03_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "1",
+                "image_id": "84681"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84681_96a17fbf3ac09f03_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "84681"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113664_96a17fbf3ac09f03_b.jpg",
+                "width": 1024,
+                "height": 664,
+                "is_primary": "0",
+                "image_id": "113664"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113664_96a17fbf3ac09f03_z.jpg",
+                "width": 640,
+                "height": 415,
+                "is_primary": "0",
+                "image_id": "113664"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113664_96a17fbf3ac09f03_n.jpg",
+                "width": 320,
+                "height": 208,
+                "is_primary": "0",
+                "image_id": "113664"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113664_96a17fbf3ac09f03_d.gif",
+                "width": 320,
+                "height": 208,
+                "is_primary": "0",
+                "image_id": "113664"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113664_96a17fbf3ac09f03_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113664"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "51676437",
+            "role_id": "51571131",
+            "person_name": "National Museum of Natural History",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676437\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Fishhook (Solomon Islands), Before 1917. carved turtle shell, mother-of-pearl, glass beads, fiber cord. Department of Anthropology, National Museum of Natural History, Smithsonian Institution, E399972. 15.2012.17."
+    },
+    "colors": [
+        {
+            "color": "#e7e2c9",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
+        },
+        {
+            "color": "#a79866",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#c6bb8f",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#4d3725",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#b3afa1",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "Solomon Islands",
+    "is_loan_object": 1
+}

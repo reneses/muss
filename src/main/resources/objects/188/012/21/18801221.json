@@ -1,0 +1,196 @@
+{
+    "id": "18801221",
+    "tms:id": "180777",
+    "accession_number": "1984-106-2",
+    "title": "Valance (England), 1750\u20131800",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801221\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35414465",
+    "type_id": "35268719",
+    "date": "1750\u20131800",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1984",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "linen",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 46 \u00d7 308 cm (18 1\/8 in. \u00d7 10 ft. 1 1\/4 in.)\nRepeat H x W (size of reconstructed repeat): 27 \u00d7 21 cm (10 5\/8 \u00d7 8 1\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "27.00",
+            "centimeters"
+        ],
+        "width": [
+            "21.00",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Valance with scalloped edges made of printed linen with a large scale floral pattern in brown. Bound with a yellow silk ribbon.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Valance",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35862_dd87bb4f294ba5a4_b.jpg",
+                "width": 1024,
+                "height": 211,
+                "is_primary": "1",
+                "image_id": "35862"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35862_dd87bb4f294ba5a4_z.jpg",
+                "width": 640,
+                "height": 132,
+                "is_primary": "1",
+                "image_id": "35862"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35862_dd87bb4f294ba5a4_n.jpg",
+                "width": 320,
+                "height": 66,
+                "is_primary": "1",
+                "image_id": "35862"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35862_dd87bb4f294ba5a4_d.gif",
+                "width": 320,
+                "height": 66,
+                "is_primary": "1",
+                "image_id": "35862"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35862_dd87bb4f294ba5a4_sq.jpg",
+                "width": 300,
+                "height": 211,
+                "is_primary": "1",
+                "image_id": "35862"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35860_2a324c57fa628b9c_b.jpg",
+                "width": 1024,
+                "height": 322,
+                "is_primary": "0",
+                "image_id": "35860"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35860_2a324c57fa628b9c_z.jpg",
+                "width": 640,
+                "height": 201,
+                "is_primary": "0",
+                "image_id": "35860"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35860_2a324c57fa628b9c_n.jpg",
+                "width": 320,
+                "height": 101,
+                "is_primary": "0",
+                "image_id": "35860"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35860_2a324c57fa628b9c_d.gif",
+                "width": 320,
+                "height": 101,
+                "is_primary": "0",
+                "image_id": "35860"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35860_2a324c57fa628b9c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "35860"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35861_6807d7f507d743d5_b.jpg",
+                "width": 1024,
+                "height": 397,
+                "is_primary": "0",
+                "image_id": "35861"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35861_6807d7f507d743d5_z.jpg",
+                "width": 640,
+                "height": 248,
+                "is_primary": "0",
+                "image_id": "35861"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35861_6807d7f507d743d5_n.jpg",
+                "width": 320,
+                "height": 124,
+                "is_primary": "0",
+                "image_id": "35861"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35861_6807d7f507d743d5_d.gif",
+                "width": 320,
+                "height": 124,
+                "is_primary": "0",
+                "image_id": "35861"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35861_6807d7f507d743d5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "35861"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Valance (England), 1750\u20131800. linen. 1984-106-2."
+    },
+    "colors": [
+        {
+            "color": "#977c69",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#6a513d",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#4b474a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#c6bdbc",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#af9792",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
+}

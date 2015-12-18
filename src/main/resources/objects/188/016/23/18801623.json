@@ -1,0 +1,174 @@
+{
+    "id": "18801623",
+    "tms:id": "180978",
+    "accession_number": "1984-122-6",
+    "title": "Geometrie Tray, 1970",
+    "title_raw": "Geometrie",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18801623\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35397877",
+    "type_id": "35247437",
+    "date": "1970",
+    "year_start": 1970,
+    "year_end": 1970,
+    "year_acquired": "1984",
+    "decade": "1970",
+    "woe:country_id": "23424819",
+    "medium": "silver-plated metal",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Christofle Paris; 1984: acquired by Museum",
+    "dimensions": "Overall: 1.5 x 35.2 x 27.9 cm (9\/16 x 13 7\/8 x 11 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "27.90",
+            "centimeters"
+        ],
+        "height": [
+            "1.50",
+            "centimeters"
+        ],
+        "width": [
+            "35.20",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Christofle Paris",
+    "description": "Rectangular silver-plated tray.  Part of a six piece tea service.  The tea service relies on pure geometric form and highly reflective surfaces for its effect.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "tray",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123918_65a58268f861562f_b.jpg",
+                "width": 1024,
+                "height": 483,
+                "is_primary": "1",
+                "image_id": "123918"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123918_65a58268f861562f_z.jpg",
+                "width": 640,
+                "height": 302,
+                "is_primary": "1",
+                "image_id": "123918"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123918_65a58268f861562f_n.jpg",
+                "width": 320,
+                "height": 151,
+                "is_primary": "1",
+                "image_id": "123918"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123918_65a58268f861562f_d.gif",
+                "width": 320,
+                "height": 151,
+                "is_primary": "1",
+                "image_id": "123918"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123918_65a58268f861562f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "123918"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9731_67d2d8d2a32120db_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "9731"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9731_67d2d8d2a32120db_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "9731"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9731_67d2d8d2a32120db_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "9731"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9731_67d2d8d2a32120db_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "9731"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9731_67d2d8d2a32120db_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "9731"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18536507",
+            "role_id": "35236657",
+            "person_name": "Christofle",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18536507\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18537285",
+            "role_id": "35236655",
+            "person_name": "Henri Bouilhet",
+            "person_date": "French, b. 1931",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537285\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18536507",
+            "role_id": "35351535",
+            "person_name": "Christofle",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18536507\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Geometrie Tray, 1970. silver-plated metal. Gift of Christofle Paris. 1984-122-6."
+    },
+    "colors": [
+        {
+            "color": "#5a4f45",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#998e85",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

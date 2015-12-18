@@ -1,0 +1,154 @@
+{
+    "id": "18803877",
+    "tms:id": "182216",
+    "accession_number": "1985-103-189",
+    "title": "Knife (Germany), ca. 1730\u201340",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18803877\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35432839",
+    "type_id": "35248783",
+    "date": "ca. 1730\u201340",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424829",
+    "medium": "steel, porcelain, silver",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Robert L. Metzenberg",
+    "dimensions": "L x W: 22.2 x 2.3 cm (8 3\/4 x 7\/8 in.)",
+    "dimensions_raw": {
+        "length": [
+            "22.20",
+            "centimeters"
+        ],
+        "width": [
+            "2.30",
+            "centimeters"
+        ]
+    },
+    "creditline": "The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg",
+    "description": "Straight-sided, leaf-shaped blade. Horizontal bands on bolster, silver ferrule, octagonal in section. White pistol-shaped porcelain handle, octagonal in section. Multi-color Chinoiserie decoration with tiger, bamboo and flowers on one side, and flowers on the reverse side.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "knife",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120254_4ace2acff3bc1b6d_b.jpg",
+                "width": 585,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "120254"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120254_4ace2acff3bc1b6d_z.jpg",
+                "width": 366,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "120254"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120254_4ace2acff3bc1b6d_n.jpg",
+                "width": 183,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "120254"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120254_4ace2acff3bc1b6d_d.gif",
+                "width": 183,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "120254"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120254_4ace2acff3bc1b6d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "120254"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19100_10edc9c152bafe2d_b.jpg",
+                "width": 446,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "19100"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19100_10edc9c152bafe2d_z.jpg",
+                "width": 278,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "19100"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19100_10edc9c152bafe2d_n.jpg",
+                "width": 139,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19100"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19100_10edc9c152bafe2d_d.gif",
+                "width": 139,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19100"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19100_10edc9c152bafe2d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "19100"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18535985",
+            "role_id": "35351535",
+            "person_name": "Eleanor L. Metzenberg",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048365",
+            "role_id": "35352245",
+            "person_name": "S. Wilmering",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Knife (Germany), ca. 1730\u201340. steel, porcelain, silver. The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg. 1985-103-189."
+    },
+    "colors": [
+        {
+            "color": "#a19790",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
+}

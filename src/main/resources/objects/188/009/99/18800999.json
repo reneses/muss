@@ -1,0 +1,145 @@
+{
+    "id": "18800999",
+    "tms:id": "180666",
+    "accession_number": "1983-69-3-a\/c",
+    "title": "Brooch And Earrings (France), ca. 1870",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800999\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402685",
+    "type_id": "35293585",
+    "date": "ca. 1870",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1983",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "gold",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D (a): 6 x 3.4 x 1.2 cm (2 3\/8 x 1 5\/16 x 1\/2 in.)\nH x W x D (b,c): 4.7 x 2.2 x 1.2 cm (1 7\/8 x 7\/8 x 1\/2 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "1.20",
+            "centimeters"
+        ],
+        "height": [
+            "6.00",
+            "centimeters"
+        ],
+        "width": [
+            "3.40",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift from the Thomas W. Evans Collection from University of Pennsylvania School of Dental Medicine",
+    "description": "Suite of gold jewlert with a brooch and a pair of earrings, in a fitted box.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Brooch and earrings",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/138033_368e861ad687b805_b.jpg",
+                "width": 458,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "138033"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/138033_368e861ad687b805_z.jpg",
+                "width": 286,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "138033"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/138033_368e861ad687b805_n.jpg",
+                "width": 143,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "138033"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/138033_368e861ad687b805_d.gif",
+                "width": 143,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "138033"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/138033_368e861ad687b805_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "138033"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18057517",
+            "role_id": "35351535",
+            "person_name": "University of Pennsylvania School of Dental Medicine",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18057517\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18537815",
+            "role_id": "35236767",
+            "person_name": "Eugene Fontenay",
+            "person_date": "French, 1823 \u2013 1887",
+            "role_name": "Jeweler",
+            "role_display_name": "Jeweler:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537815\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236767\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Brooch And Earrings (France), ca. 1870. gold. Gift from the Thomas W. Evans Collection from University of Pennsylvania School of Dental Medicine. 1983-69-3-a\/c."
+    },
+    "colors": [
+        {
+            "color": "#a1998d",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#6e0318",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#800000",
+            "closest_css4": "#800000"
+        },
+        {
+            "color": "#92692d",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#94293a",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#a52a2a",
+            "closest_css4": "#a52a2a"
+        },
+        {
+            "color": "#ac8844",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

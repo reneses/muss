@@ -1,0 +1,182 @@
+{
+    "id": "35457297",
+    "tms:id": "274579",
+    "accession_number": "16.2012.14",
+    "title": "Flight Data Recorder F1000 (\"Black Box\") (USA), 1995",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35457297\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "68894363",
+    "type_id": "68515321",
+    "date": "1995",
+    "year_start": 1995,
+    "year_end": 1995,
+    "year_acquired": null,
+    "decade": "1990",
+    "woe:country_id": "23424977",
+    "medium": "epoxy-glass circuit cards, integrated-circuit chips, integrated connectors, stainless-steel housing",
+    "markings": "\"Do Not Open\" \"Enregistreur de Vol; Ne pas Ouvrir\"",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 20.3 \u00d7 55.9 \u00d7 12.2 cm (8 \u00d7 22 \u00d7 4 13\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "12.20",
+            "centimeters"
+        ],
+        "height": [
+            "20.30",
+            "centimeters"
+        ],
+        "width": [
+            "55.90",
+            "centimeters"
+        ]
+    },
+    "creditline": "Smithsonian National Air and Space Museum, Gift of Loral Data Systems, A19950036000",
+    "description": null,
+    "justification": null,
+    "gallery_text": "Investigators require accurate flight data to determine the causes of aircraft accidents. The now-obsolete F1000 Solid State Flight Data Recorder (SSFDR) could register between six and twenty data parameters over twenty-five hours, while surviving impacts of 100 G, temperatures of 1,000\u00b0 C (1,832\u00b0 F), and immersion in seawater for up to thirty days. The minimum data it recorded included altitude, airspeed, heading, vertical acceleration, time, and the duration of radio transmission. The F1000, the first certified SSFDR, was usually paired with a unit that recorded cockpit voice communications. Such devices are often called \"black boxes,\" because older aircraft electronic equipment was painted black to radiate excess heat. Today, they are painted orange and equipped with a radio beacon to make them easier to find at crash sites. Today\u2019s FDRs are more crashworthy and can record hundreds of parameters; in addition, the flight-data and cockpit voice recorders are now sometimes combined into a single unit.",
+    "label_text": "Flight data recorders often provide the key to understanding the cause of aircraft accidents. This now-obsolete example could survive impacts of 100 G-force, temperatures of 1,000 \u00b0C, and immersion in seawater for up to thirty days. Originally painted black to radiate excess heat, the boxes today are orange, making them easier to find.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Flight Data Recorder F1000 (\"Black Box\")",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93909_010b076478966c8b_b.jpg",
+                "width": 1024,
+                "height": 653,
+                "is_primary": "1",
+                "image_id": "93909"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93909_010b076478966c8b_z.jpg",
+                "width": 640,
+                "height": 408,
+                "is_primary": "1",
+                "image_id": "93909"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93909_010b076478966c8b_n.jpg",
+                "width": 320,
+                "height": 204,
+                "is_primary": "1",
+                "image_id": "93909"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93909_010b076478966c8b_d.gif",
+                "width": 320,
+                "height": 204,
+                "is_primary": "1",
+                "image_id": "93909"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93909_010b076478966c8b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93909"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113696_010b076478966c8b_b.jpg",
+                "width": 1024,
+                "height": 653,
+                "is_primary": "0",
+                "image_id": "113696"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113696_010b076478966c8b_z.jpg",
+                "width": 640,
+                "height": 408,
+                "is_primary": "0",
+                "image_id": "113696"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113696_010b076478966c8b_n.jpg",
+                "width": 320,
+                "height": 204,
+                "is_primary": "0",
+                "image_id": "113696"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113696_010b076478966c8b_d.gif",
+                "width": 320,
+                "height": 204,
+                "is_primary": "0",
+                "image_id": "113696"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113696_010b076478966c8b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113696"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "35518621",
+            "role_id": "35236657",
+            "person_name": "Loral Data Systems",
+            "person_date": "USA",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/35518621\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18056111",
+            "role_id": "51571131",
+            "person_name": "National Air & Space Museum, Smithsonian Institution",
+            "person_date": "Washington, DC, USA",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056111\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Flight Data Recorder F1000 (\"Black Box\") (USA), 1995. epoxy-glass circuit cards, integrated-circuit chips, integrated connectors, stainless-steel housing. Smithsonian National Air and Space Museum, Gift of Loral Data Systems, A19950036000. 16.2012.14."
+    },
+    "colors": [
+        {
+            "color": "#3a3d3e",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#3a311f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#08442a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#006400",
+            "closest_css4": "#006400"
+        },
+        {
+            "color": "#bac1c9",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#fe5908",
+            "closest_crayola": "#ff7538",
+            "closest_css3": "#ff4500",
+            "closest_css4": "#ff4500"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

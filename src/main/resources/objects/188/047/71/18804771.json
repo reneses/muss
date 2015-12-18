@@ -1,0 +1,168 @@
+{
+    "id": "18804771",
+    "tms:id": "182670",
+    "accession_number": "1985-19-160",
+    "title": "Sidewall - Sample (France), 1906\u201307",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18804771\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35414653",
+    "type_id": "35289147",
+    "date": "1906\u201307",
+    "year_start": 1906,
+    "year_end": 1907,
+    "year_acquired": "1985",
+    "decade": "1900",
+    "woe:country_id": "23424819",
+    "medium": "machine-printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "67 x 48 cm (26 3\/8 x 18 7\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "67.00",
+            "centimeters"
+        ],
+        "width": [
+            "48.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Dorwin L. Starr",
+    "description": "Cats playing with coils of wool and mice. Baskets with floral arrangements. Pindots cover the background. Printed in red, beige, pink, gold, ocher, black and green. Possibly a children's wallpaper.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Sidewall - sample",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45475_fc143bd923413dee_b.jpg",
+                "width": 732,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "45475"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45475_fc143bd923413dee_z.jpg",
+                "width": 458,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "45475"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45475_fc143bd923413dee_n.jpg",
+                "width": 229,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "45475"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45475_fc143bd923413dee_d.gif",
+                "width": 229,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "45475"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45475_fc143bd923413dee_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "45475"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10325_93b03e59e2e37768_b.jpg",
+                "width": 722,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "10325"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10325_93b03e59e2e37768_z.jpg",
+                "width": 451,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "10325"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10325_93b03e59e2e37768_n.jpg",
+                "width": 226,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10325"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10325_93b03e59e2e37768_d.gif",
+                "width": 226,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10325"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10325_93b03e59e2e37768_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "10325"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18537637",
+            "role_id": "35351535",
+            "person_name": "Dorwin L. Starr",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537637\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sidewall - Sample (France), 1906\u201307. machine-printed. Gift of Dorwin L. Starr. 1985-19-160."
+    },
+    "colors": [
+        {
+            "color": "#4b372f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#8e876d",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#65593f",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#8b5430",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#dcc0a4",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

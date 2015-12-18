@@ -1,0 +1,154 @@
+{
+    "id": "18805487",
+    "tms:id": "183037",
+    "accession_number": "1985-61-2",
+    "title": "Drawing, Design for a Bronze Mounted Vase, ca. 1890",
+    "title_raw": "Design for a Bronze Mounted Vase",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805487\/",
+    "department_id": "35347493",
+    "period_id": "35417231",
+    "media_id": "35433037",
+    "type_id": "35237093",
+    "date": "ca. 1890",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "graphite on wove paper",
+    "markings": "Stamp: ATELIER EMILE GALLE\/SOTHEBY MONACO\/24.10.1982",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "60.3 x 44.8 x 2.5 cm (23 3\/4 x 17 5\/8 x 1 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "2.54",
+            "centimeters"
+        ],
+        "height": [
+            "60.33",
+            "centimeters"
+        ],
+        "width": [
+            "44.77",
+            "centimeters"
+        ]
+    },
+    "creditline": "Museum purchase from McNiel Fund",
+    "description": "Design for a symmetrical vase, sitting on a raised foot, flaring out from the bottom, narrowing at the neck, topped with a lipped rim. Its ornamentation comprises an asymmetrical composition with three vine-like tendrils rising from the base of the vase, and terminating in lush leaves. One is short; two longer vines rise up the side of the vase, the largest of which leans over the top of the bowl.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/25008_17428a17c3babb00_b.jpg",
+                "width": 511,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "25008"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/25008_17428a17c3babb00_z.jpg",
+                "width": 319,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "25008"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/25008_17428a17c3babb00_n.jpg",
+                "width": 160,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "25008"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/25008_17428a17c3babb00_d.gif",
+                "width": 160,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "25008"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/25008_17428a17c3babb00_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "25008"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/158453_2c9fd226b3c104eb_b.jpg",
+                "width": 509,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "158453"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/158453_2c9fd226b3c104eb_z.jpg",
+                "width": 318,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "158453"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/158453_2c9fd226b3c104eb_n.jpg",
+                "width": 159,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "158453"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/158453_2c9fd226b3c104eb_d.gif",
+                "width": 159,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "158453"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/158453_2c9fd226b3c104eb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "158453"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18042001",
+            "role_id": "35236655",
+            "person_name": "Emile Gall\u00e9",
+            "person_date": "French, 1846\u20131904",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042001\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Design for a Bronze Mounted Vase, ca. 1890. graphite on wove paper. Museum purchase from McNiel Fund. 1985-61-2."
+    },
+    "colors": [
+        {
+            "color": "#948672",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#b6a486",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

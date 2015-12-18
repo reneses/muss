@@ -1,0 +1,168 @@
+{
+    "id": "35520541",
+    "tms:id": "274980",
+    "accession_number": "15.2012.52",
+    "title": "Work Bag (USA), Created before 1880s",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35520541\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "68250273",
+    "type_id": "35298659",
+    "date": "Created before 1880s",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": null,
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "stitched and embroidered sea lion intestine",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 25 x 22.5 cm (9 13\/16 x 8 7\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "25.00",
+            "centimeters"
+        ],
+        "width": [
+            "22.50",
+            "centimeters"
+        ]
+    },
+    "creditline": "Collection of Lucien M. Turner, 1882, Department of Anthropology, National Museum of Natural History, Smithsonian Institution, E65272",
+    "description": null,
+    "justification": null,
+    "gallery_text": "Waterproof and windproof, gut was an essential material in the indigenous communities of northwest Alaska. Women stitched into the material into parkas, floats, workbags, and even windows. They also performed the extremely laborious process of making it into cloth by washing the intestines of ocean mammals and inflating them to dry. The material was then cut into strips as long as 61 m (200 ft.); finally, the fabric was cut into panels for sewing.\nThis beautiful translucent bag for sewing materials (imgu\u011ddax^), made of sea-lion intestine, consists of four panels sewn with the fibrous sinew of a sea mammal. Colorful threads were delicately incorporated into the seams; such pouches might be personalized with caribou hair, seal fur, bird feathers, or strips of dyed esophagus. Before Russian fur merchants brought iron needles in the eighteenth century, women employed bird-or fish-bone needles, with notches to hold the thread.",
+    "label_text": "This gut bag contained sewing tools for making waterproof and windproof garments and accessories from sea-mammal intestine. Sewing and transforming it into \u201ccloth\u201d were reserved for women.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "work bag",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84693_8200fadd0c4b91a4_b.jpg",
+                "width": 982,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "84693"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84693_8200fadd0c4b91a4_z.jpg",
+                "width": 613,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "84693"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84693_8200fadd0c4b91a4_n.jpg",
+                "width": 307,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "84693"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84693_8200fadd0c4b91a4_d.gif",
+                "width": 307,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "84693"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84693_8200fadd0c4b91a4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "84693"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113689_8200fadd0c4b91a4_b.jpg",
+                "width": 982,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113689"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113689_8200fadd0c4b91a4_z.jpg",
+                "width": 614,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113689"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113689_8200fadd0c4b91a4_n.jpg",
+                "width": 307,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113689"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113689_8200fadd0c4b91a4_d.gif",
+                "width": 307,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113689"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113689_8200fadd0c4b91a4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113689"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "51676437",
+            "role_id": "51571131",
+            "person_name": "National Museum of Natural History",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676437\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Work Bag (USA), Created before 1880s. stitched and embroidered sea lion intestine. Collection of Lucien M. Turner, 1882, Department of Anthropology, National Museum of Natural History, Smithsonian Institution, E65272. 15.2012.52."
+    },
+    "colors": [
+        {
+            "color": "#d9d2a1",
+            "closest_crayola": "#edd19c",
+            "closest_css3": "#eee8aa",
+            "closest_css4": "#eee8aa"
+        },
+        {
+            "color": "#b3ab75",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#827443",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#403a1d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#625329",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

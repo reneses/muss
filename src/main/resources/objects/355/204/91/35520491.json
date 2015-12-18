@@ -1,0 +1,160 @@
+{
+    "id": "35520491",
+    "tms:id": "274967",
+    "accession_number": "15.2012.39",
+    "title": "Sickle Blade (Japan), Before 1855",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35520491\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "35414233",
+    "type_id": "68724277",
+    "date": "Before 1855",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": null,
+    "decade": null,
+    "woe:country_id": "23424856",
+    "medium": "iron",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 4.8 \u00d7 20.3 \u00d7 23.2 cm (1 7\/8 in. \u00d7 8 in. \u00d7 9 1\/8 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "22.90",
+            "centimeters"
+        ],
+        "height": [
+            "3.80",
+            "centimeters"
+        ],
+        "width": [
+            "16.50",
+            "centimeters"
+        ]
+    },
+    "creditline": "Collected by Commodore Matthew C. Perry in 1853-54, Department of Anthropology, National Museum of Natural History, Smithsonian Institution, E385",
+    "description": null,
+    "justification": null,
+    "gallery_text": "Tools handcrafted by specialized artisans are accorded particular respect in Japan, where echizen uchihamano, the forged blades made in Echizen Province during the Edo period (1603\u20131868), are designated as an official traditional craft of Japan. Communities of metal workers began to specialize in tools like this sickle as early as the fourteenth century. Subsequent generations of artisans have continued this practice, using virtually identical tools and materials, and seated cross-legged on the floor in the middle of their small workshop. This sickle is one of four similar cast iron tools acquired during Commodore Matthew C. Perry\u2019s historic voyages to Japan in 1853\u201354, which led to the first-of-its-kind collection of Japanese artifacts at the then-new Smithsonian Institution.",
+    "label_text": "Traditional Japanese hand tools are believed to embody a spiritual presence, instilled by an artisan\u2019s wisdom and mastery of tool making. These skillfully forged instruments reflect a unique aesthetic value, which has been selectively passed down to apprentices through many generations. With a dwindling number of artisans, master craftsmen are now sharing their secrets to ensure their expertise will survive.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424856",
+    "type": "Sickle Blade",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84688_9c8d5a6450fb4c2f_b.jpg",
+                "width": 1024,
+                "height": 692,
+                "is_primary": "1",
+                "image_id": "84688"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84688_9c8d5a6450fb4c2f_z.jpg",
+                "width": 640,
+                "height": 432,
+                "is_primary": "1",
+                "image_id": "84688"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84688_9c8d5a6450fb4c2f_n.jpg",
+                "width": 320,
+                "height": 216,
+                "is_primary": "1",
+                "image_id": "84688"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84688_9c8d5a6450fb4c2f_d.gif",
+                "width": 320,
+                "height": 216,
+                "is_primary": "1",
+                "image_id": "84688"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84688_9c8d5a6450fb4c2f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "84688"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113678_9c8d5a6450fb4c2f_b.jpg",
+                "width": 1024,
+                "height": 692,
+                "is_primary": "0",
+                "image_id": "113678"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113678_9c8d5a6450fb4c2f_z.jpg",
+                "width": 640,
+                "height": 432,
+                "is_primary": "0",
+                "image_id": "113678"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113678_9c8d5a6450fb4c2f_n.jpg",
+                "width": 320,
+                "height": 216,
+                "is_primary": "0",
+                "image_id": "113678"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113678_9c8d5a6450fb4c2f_d.gif",
+                "width": 320,
+                "height": 216,
+                "is_primary": "0",
+                "image_id": "113678"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113678_9c8d5a6450fb4c2f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113678"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "51676437",
+            "role_id": "51571131",
+            "person_name": "National Museum of Natural History",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676437\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sickle Blade (Japan), Before 1855. iron. Collected by Commodore Matthew C. Perry in 1853-54, Department of Anthropology, National Museum of Natural History, Smithsonian Institution, E385. 15.2012.39."
+    },
+    "colors": [
+        {
+            "color": "#595651",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#76736d",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#9a9791",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "Japan",
+    "is_loan_object": 1
+}

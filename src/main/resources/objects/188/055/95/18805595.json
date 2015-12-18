@@ -1,0 +1,188 @@
+{
+    "id": "18805595",
+    "tms:id": "183091",
+    "accession_number": "1985-70-1",
+    "title": "Pillow Cover (USA), early 1950s",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18805595\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402849",
+    "type_id": "35284163",
+    "date": "early 1950s",
+    "year_start": 1950,
+    "year_end": 1955,
+    "year_acquired": "1985",
+    "decade": "1950",
+    "woe:country_id": "23424977",
+    "medium": "wool",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1985: acquired by Museum",
+    "dimensions": "H x W: 40 x 38 cm (15 3\/4 x 14 15\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "40.00",
+            "centimeters"
+        ],
+        "width": [
+            "38.00",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Square pillow cover embroidered on the front with a bouquet of flowers tied tightly at the bottom. Some of the blossoms are human faces. Embroidered in subdued colors on a tan ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Pillow cover",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42363_2112d559185fbad3_b.jpg",
+                "width": 989,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "42363"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42363_2112d559185fbad3_z.jpg",
+                "width": 618,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "42363"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42363_2112d559185fbad3_n.jpg",
+                "width": 309,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "42363"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42363_2112d559185fbad3_d.gif",
+                "width": 309,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "42363"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42363_2112d559185fbad3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "42363"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77665_590794e775959b1a_b.jpg",
+                "width": 1024,
+                "height": 795,
+                "is_primary": "0",
+                "image_id": "77665"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77665_590794e775959b1a_z.jpg",
+                "width": 640,
+                "height": 497,
+                "is_primary": "0",
+                "image_id": "77665"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77665_590794e775959b1a_n.jpg",
+                "width": 320,
+                "height": 248,
+                "is_primary": "0",
+                "image_id": "77665"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77665_590794e775959b1a_d.gif",
+                "width": 320,
+                "height": 248,
+                "is_primary": "0",
+                "image_id": "77665"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77665_590794e775959b1a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77665"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18047497",
+            "role_id": "35352245",
+            "person_name": "Milton Sonday",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047497\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18045635",
+            "role_id": "35236655",
+            "person_name": "Mariska Karasz",
+            "person_date": "1898\u20131960",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045635\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18045635",
+            "role_id": "35236583",
+            "person_name": "Mariska Karasz",
+            "person_date": "1898\u20131960",
+            "role_name": "Embroiderer",
+            "role_display_name": "Embroidered by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045635\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236583\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Pillow Cover (USA), early 1950s. wool. 1985-70-1."
+    },
+    "colors": [
+        {
+            "color": "#998658",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#646b43",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#545440",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#815630",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#dbd6c8",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

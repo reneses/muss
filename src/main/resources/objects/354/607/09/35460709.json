@@ -1,0 +1,164 @@
+{
+    "id": "35460709",
+    "tms:id": "274803",
+    "accession_number": "14.2012.75",
+    "title": "Noyes Alligator Forceps (Germany), ca. 1950",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/35460709\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "35431279",
+    "type_id": "68250227",
+    "date": "ca. 1950",
+    "year_start": 1945,
+    "year_end": 1955,
+    "year_acquired": null,
+    "decade": "1940",
+    "woe:country_id": "23424829",
+    "medium": "stainless steel",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 11.4 x 14.3 x 0.3 cm (4 1\/2 x 5 5\/8 x 1\/8 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "0.32",
+            "centimeters"
+        ],
+        "height": [
+            "11.43",
+            "centimeters"
+        ],
+        "width": [
+            "14.29",
+            "centimeters"
+        ]
+    },
+    "creditline": "Smithsonian Institution, National Museum of American History, M-09857",
+    "description": null,
+    "justification": null,
+    "gallery_text": "The Noyes alligator forceps is named for its inventor, Henry D. Noyes, a prominent professor of ophthalmology and otology at Bellevue Hospital in New York. His forceps first appeared in 1879\u2014its alligator-shaped jaw a response to his need for an unobstructed view. And, indeed, because of the forceps\u2019s slender arms, it can be used with a speculum. These forceps are made of stainless steel, a non-corrosive metal developed by researchers in Germany and America in the early twentieth century. Before this, hybrid instruments made with wood, ivory, and stone handles dominated. But as the germ theory put forth by Louis Pasteur in the 1860s was accepted, all-metal instruments, which could be sterilized, slowly replaced earlier tools. The first stainless-steel instruments began to appear in catalogues around 1929. An otologist named Dr. Julius Lempert donated this forceps set to the Division of Medicine and Science at the National Museum of American History in 1961.",
+    "label_text": "Hand tools extend our physical capability to reach, throw, and catch, as well as to perform actions that are difficult if not impossible with bare hands and fingers. Specialized tasks\u2014tonsil removal, halibut fishing\u2014require unique shapes, distinct materials, and the maker\u2019s personal touch to create an appropriate tool for the task.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "Noyes Alligator forceps",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93454_62181c5913dad48e_b.jpg",
+                "width": 1024,
+                "height": 768,
+                "is_primary": "1",
+                "image_id": "93454"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93454_62181c5913dad48e_z.jpg",
+                "width": 640,
+                "height": 480,
+                "is_primary": "1",
+                "image_id": "93454"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93454_62181c5913dad48e_n.jpg",
+                "width": 320,
+                "height": 240,
+                "is_primary": "1",
+                "image_id": "93454"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93454_62181c5913dad48e_d.gif",
+                "width": 320,
+                "height": 240,
+                "is_primary": "1",
+                "image_id": "93454"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93454_62181c5913dad48e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93454"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113659_62181c5913dad48e_b.jpg",
+                "width": 1024,
+                "height": 768,
+                "is_primary": "0",
+                "image_id": "113659"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113659_62181c5913dad48e_z.jpg",
+                "width": 640,
+                "height": 480,
+                "is_primary": "0",
+                "image_id": "113659"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113659_62181c5913dad48e_n.jpg",
+                "width": 320,
+                "height": 240,
+                "is_primary": "0",
+                "image_id": "113659"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113659_62181c5913dad48e_d.gif",
+                "width": 320,
+                "height": 240,
+                "is_primary": "0",
+                "image_id": "113659"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113659_62181c5913dad48e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113659"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68248055",
+            "role_id": "35236657",
+            "person_name": "Misdom-Frank Corporation",
+            "person_date": "USA",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248055\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18041125",
+            "role_id": "51571131",
+            "person_name": "National Museum of American History",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041125\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Noyes Alligator Forceps (Germany), ca. 1950. stainless steel. Smithsonian Institution, National Museum of American History, M-09857. 14.2012.75."
+    },
+    "colors": [
+        {
+            "color": "#66665f",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#3b3d39",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 1
+}

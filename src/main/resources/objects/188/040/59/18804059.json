@@ -1,0 +1,172 @@
+{
+    "id": "18804059",
+    "tms:id": "182308",
+    "accession_number": "1985-103-259",
+    "title": "Folding Spoon (Germany), ca. 1700\u201350",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18804059\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389405",
+    "type_id": "35293717",
+    "date": "ca. 1700\u201350",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424829",
+    "medium": "brass",
+    "markings": "On blade: two brass filled marks: a star and an arrow",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Robert L. Metzenberg",
+    "dimensions": "L x W: 18.7 x 3.9 cm (7 3\/8 x 1 9\/16 in.)",
+    "dimensions_raw": {
+        "length": [
+            "18.70",
+            "centimeters"
+        ],
+        "width": [
+            "3.90",
+            "centimeters"
+        ]
+    },
+    "creditline": "The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg",
+    "description": "Oval-shaped spoon bowl, plain flat neck has small hinge and sliding band. Flat handle with trifid end, cast and chased with a deer, birds, a fox and a dog, stylized trees and acanthus scrolls against a matte background. Bowl bends forward.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "Folding spoon",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119409_23a71b4da3ab501d_b.jpg",
+                "width": 612,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "119409"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119409_23a71b4da3ab501d_z.jpg",
+                "width": 382,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "119409"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119409_23a71b4da3ab501d_n.jpg",
+                "width": 191,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "119409"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119409_23a71b4da3ab501d_d.gif",
+                "width": 191,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "119409"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119409_23a71b4da3ab501d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "119409"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19268_910aa286341c9918_b.jpg",
+                "width": 691,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "19268"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19268_910aa286341c9918_z.jpg",
+                "width": 432,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "19268"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19268_910aa286341c9918_n.jpg",
+                "width": 216,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19268"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19268_910aa286341c9918_d.gif",
+                "width": 216,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "19268"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19268_910aa286341c9918_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "19268"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18535985",
+            "role_id": "35351535",
+            "person_name": "Eleanor L. Metzenberg",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048365",
+            "role_id": "35352245",
+            "person_name": "S. Wilmering",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Folding Spoon (Germany), ca. 1700\u201350. brass. The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg. 1985-103-259."
+    },
+    "colors": [
+        {
+            "color": "#bca66f",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#968053",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#edd493",
+            "closest_crayola": "#edd19c",
+            "closest_css3": "#f0e68c",
+            "closest_css4": "#f0e68c"
+        },
+        {
+            "color": "#786847",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
+}

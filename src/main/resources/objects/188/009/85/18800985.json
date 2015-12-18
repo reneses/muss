@@ -1,0 +1,338 @@
+{
+    "id": "18800985",
+    "tms:id": "180659",
+    "accession_number": "1983-69-16-a\/h",
+    "title": "Bratina (ceremonial Vessel), Stand And Tcharkas (cups) (Russia), 1884",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800985\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "68729873",
+    "type_id": "68729875",
+    "date": "1884",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1983",
+    "decade": null,
+    "woe:country_id": "23424936",
+    "medium": "raised, repouss\u00e9, chased, and engraved parcel-gilt silver",
+    "markings": "marked on base of bowl with POVCHINNIKOV mark in cyrillic in rectangular punch with Imperial eagle above in oval punch, assay master's mark B.C (=V.S.) over 1884 in rectangular punch, and Moscow town mark of St George slaying dragon for 1880-1884.",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Thomas W. Evans Collection from University of Pennsylvania School of Dental Medicine; 1983: acquired by the Museum",
+    "dimensions": "H x diam. (a,b): 23 x 33.9 cm (9 1\/16 x 13 3\/8 in.)\nH x W x D (c\/h): 5 x 10 x 6.7 cm (1 15\/16 x 3 15\/16 x 2 5\/8 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "6.70",
+            "centimeters"
+        ],
+        "diameter": [
+            "33.90",
+            "centimeters"
+        ],
+        "height": [
+            "23.00",
+            "centimeters"
+        ],
+        "width": [
+            "10.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift from the Thomas W. Evans Collection from University of Pennsylvania School of Dental Medicine",
+    "description": "Parcel-gilt silver bratina with stand and six tcharkas, with lobed panels, each with various fantastic creatures .",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424936",
+    "type": "Bratina (ceremonial vessel), stand and tcharkas (cups)",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46109_d7c3216e3ebc817d_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "46109"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46109_d7c3216e3ebc817d_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "46109"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46109_d7c3216e3ebc817d_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "46109"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46109_d7c3216e3ebc817d_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "46109"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46109_d7c3216e3ebc817d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "46109"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46107_a2e7edb2364090bc_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "46107"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46107_a2e7edb2364090bc_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "46107"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46107_a2e7edb2364090bc_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "46107"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46107_a2e7edb2364090bc_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "46107"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46107_a2e7edb2364090bc_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "46107"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46110_96418d6cf2c26df9_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "46110"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46110_96418d6cf2c26df9_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "46110"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46110_96418d6cf2c26df9_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "46110"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46110_96418d6cf2c26df9_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "46110"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46110_96418d6cf2c26df9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "46110"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46108_77a533fc459f5a92_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "46108"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46108_77a533fc459f5a92_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "46108"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46108_77a533fc459f5a92_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "46108"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46108_77a533fc459f5a92_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "46108"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46108_77a533fc459f5a92_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "46108"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46111_eed3430fb7521d3b_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "46111"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46111_eed3430fb7521d3b_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "46111"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46111_eed3430fb7521d3b_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "46111"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46111_eed3430fb7521d3b_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "46111"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46111_eed3430fb7521d3b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "46111"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9782_3420746e9239372f_b.jpg",
+                "width": 1024,
+                "height": 852,
+                "is_primary": "0",
+                "image_id": "9782"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9782_3420746e9239372f_z.jpg",
+                "width": 640,
+                "height": 532,
+                "is_primary": "0",
+                "image_id": "9782"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9782_3420746e9239372f_n.jpg",
+                "width": 320,
+                "height": 266,
+                "is_primary": "0",
+                "image_id": "9782"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9782_3420746e9239372f_d.gif",
+                "width": 320,
+                "height": 266,
+                "is_primary": "0",
+                "image_id": "9782"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9782_3420746e9239372f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "9782"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18065373",
+            "role_id": "35236685",
+            "person_name": "Pavel Ovchinnikov",
+            "person_date": "",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18065373\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18065369",
+            "role_id": "35236655",
+            "person_name": "Pavel Akinov Ovchinnikov",
+            "person_date": "Russian, active 1853 - c.1917",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18065369\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18057517",
+            "role_id": "35351535",
+            "person_name": "University of Pennsylvania School of Dental Medicine",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18057517\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Bratina (ceremonial Vessel), Stand And Tcharkas (cups) (Russia), 1884. raised, repouss\u00e9, chased, and engraved parcel-gilt silver. Gift from the Thomas W. Evans Collection from University of Pennsylvania School of Dental Medicine. 1983-69-16-a\/h."
+    },
+    "colors": [
+        {
+            "color": "#6a6854",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#bdb588",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#373425",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#85816b",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "Russia",
+    "is_loan_object": 0
+}
