@@ -7,70 +7,84 @@
 	
 	<body>
 		<div th:fragment="content">
-		
-		    <p>
-		    	<a th:href="@{/}" class="btn btn-primary" role="button">Back to home</a>
-		    </p>
-		    
 		    <div class="panel panel-default">
 		    	<div class="panel-heading">
 		    		<h3 class="panel-title">Profile</h3>
 		    	</div>
-		        <div class="panel-body">
-		        	<div class="col-xs-3">
-				    	<img th:src="${user.picture} ? @{/user/{id}/picture(id=${user.id})} : 'http://www.hit4hit.org/img/login/user-icon-6.png' " width="100%"/>
-					</div>
-		        	<div class="col-xs-3">
-		        		<div class="form-group">
-				        	<label>Name</label>
-				            <p th:text="${user.name}"></p>
-			        	</div>
-			        	<div class="form-group">
-				        	<label>Username</label>
-				            <p th:text="${user.username}"></p>
-			        	</div>
-			        	<div class="form-group">
-				        	<label>Email</label>
-				            <p th:text="${user.email}"></p>
-			        	</div>
-			        	<div class="form-group">
-				        	<label>Points</label>
-				            <p th:text="${user.points}"></p>
-			        	</div>
-			        	<div class="form-group">
-				        	<label>Badges</label>
-				            <p th:text="${user.badges.size()}"></p>
-			        	</div>
-		        	</div>
-		        	<div class="col-xs-3" th:if="${principal.id==user.id}">
-		        		<p><a class="btn btn-success" th:href="@{/user/editProfile}">Edit profile</a></p>
-		        		<p><a class="btn btn-success" th:href="@{/user/changePicture}">Change picture</a></p>
-		        		<p><a class="btn btn-success" th:href="@{/user/changePassword}">Change password</a></p>
-		        	</div>
-		        	<div class="col-xs-3" th:if="${principal.id!=user.id}">
-					    <div th:if="${user.beingFollowed(principal)} == false">
-							<a th:href="@{/user/follow/{userId}(userId=${user.id})}" class="btn btn-primary" role="button">Follow user</a>
-							
+		        <div class="panel-body" id="profile">
+						<div id="profile-img">
+							<img th:src="${user.picture} ? @{/user/{id}/picture(id=${user.id})} : 'http://www.hit4hit.org/img/login/user-icon-6.png' "/>
 						</div>
-						<div th:if="${user.beingFollowed(principal)}">
-							<a th:href="@{/user/unfollow/{userId}(userId=${user.id})}" class="btn btn-primary" role="button">Unfollow user</a>
+						<div id="profile-info">
+							<div class="form-group">
+								<label>Name</label>
+								<p th:text="${user.name}"></p>
+							</div>
+							<div class="form-group">
+								<label>Username</label>
+								<p th:text="${user.username}"></p>
+							</div>
+							<div class="form-group">
+								<label>Email</label>
+								<p th:text="${user.email}"></p>
+							</div>
+							<div class="form-group">
+								<label>Points</label>
+								<p th:text="${user.points}"></p>
+							</div>
+							<div class="form-group">
+								<label>Badges</label>
+								<p th:text="${user.badges.size()}"></p>
+							</div>
 						</div>
-		        	</div>
+
 		        </div>
+				<div id="profile-buttons" class="panel-footer" th:if="${principal.id==user.id}">
+					<a class="btn btn-success" th:href="@{/user/editProfile}">Edit profile</a>
+					<a class="btn btn-success" th:href="@{/user/changePicture}">Change picture</a>
+					<a class="btn btn-success" th:href="@{/user/changePassword}">Change password</a>
+				</div>
+				<div id="profile-buttons" class="panel-footer" th:unless="${principal.id==user.id}">
+					<a th:unless="${user.beingFollowed(principal)}" th:href="@{/user/follow/{userId}(userId=${user.id})}" class="btn btn-primary" role="button">Follow user</a>
+					<a th:if="${user.beingFollowed(principal)}" th:href="@{/user/unfollow/{userId}(userId=${user.id})}" class="btn btn-primary" role="button">Unfollow user</a>
+				</div>
 		    </div>
 
 
 			<h3>Badges</h3>
 			<p th:if="${#lists.isEmpty(user.badges)}">The user doesn't have objects likes.</p>
 			<div class="row">
-				<div class="col-sm-6 col-md-3" th:each="badge : ${user.badges}">
+				<div class="col-xs-4 col-sm-3 col-md-2" th:each="badge : ${user.badges}">
 					<div class="square-image" th:style="|background-image:url(${badge.image})|"></div>
 
 				</div>
 			</div>
 
+			<div class="row">
+				<div class="col-sm-6">
+					<h3>Followers</h3>
+					<p th:if="${#lists.isEmpty(user.followers)}">The user doesn't have followers.</p>
+					<a class="btn btn-info" th:each="follower : ${user.followers}" th:text="'@'+${follower.username}" th:href="@{/user/profile/{username}(username=${follower.username})}"></a>
+				</div>
+				<div class="col-sm-6">
+					<h3>Following</h3>
+					<p th:if="${#lists.isEmpty(user.followed)}">The user isn't following other users.</p>
+					<a class="btn btn-info" th:each="followed : ${user.followed}" th:text="'@'+${followed.username}" th:href="@{/user/profile/{username}(username=${followed.username})}"></a>
+				</div>
+			</div>
 
-		    <h3>Reviews</h3>
+
+			<h3>Objects liked</h3>
+			<p th:if="${#lists.isEmpty(user.chObjectLikes)}">The user doesn't have objects likes.</p>
+			<div class="row">
+				<div class="col-sm-6 col-md-3" th:each="object : ${user.chObjectLikes}">
+					<a th:href="@{/gallery/{objectID}(objectID=${object.id})}">
+						<div class="square-image" th:style="|background-image:url(${object.images.get(0).sizes.get(0).url})|"></div>
+					</a>
+				</div>
+			</div>
+
+			<h3>Reviews</h3>
 		    <p th:if="${#lists.isEmpty(user.reviews)}">The user doesn't have reviews.</p>
 			<div class="row">
 				<div class="col-sm-6" th:each="review : ${user.reviews}">
@@ -90,16 +104,6 @@
 							Panel content
 						</div>
 					</div>
-				</div>
-			</div>
-
-		    <h3>Object Likes</h3>
-		    <p th:if="${#lists.isEmpty(user.chObjectLikes)}">The user doesn't have objects likes.</p>
-			<div class="row">
-				<div class="col-sm-6 col-md-3" th:each="object : ${user.chObjectLikes}">
-					<a th:href="@{/gallery/{objectID}(objectID=${object.id})}">
-						<div class="square-image" th:style="|background-image:url(${object.images.get(0).sizes.get(0).url})|"></div>
-					</a>
 				</div>
 			</div>
 
@@ -126,14 +130,6 @@
 				</div>
 			</div>
 
-		    <h3>Followers</h3>
-		    <p th:if="${#lists.isEmpty(user.followers)}">The user doesn't have followers.</p>
-		    <a class="btn btn-info" th:each="follower : ${user.followers}" th:text="'@'+${follower.username}" th:href="@{/user/profile/{username}(username=${follower.username})}"></a>
-		    
-		    <h3>Following</h3>
-		    <p th:if="${#lists.isEmpty(user.followed)}">The user isn't following other users.</p>
-		    <a class="btn btn-info" th:each="followed : ${user.followed}" th:text="'@'+${followed.username}" th:href="@{/user/profile/{username}(username=${followed.username})}"></a>
-			
 			<!-- Javascript TODO: extract to its own file -->
 		    <script sec:authorize="isAuthenticated()" th:inline="javascript">
 		    /*<![CDATA[*/

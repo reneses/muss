@@ -136,6 +136,9 @@ public class ApplicationLoader {
         user4.setEmail("adrian@muss.ie");
         user4.setPassword(DEFAULT_PASSWORD);
         user4.setUsername("adri");
+        try {
+            user4.setPicture(IOUtils.toByteArray(ApplicationLoader.class.getResourceAsStream("/sample/adrian.jpg")));
+        } catch (IOException ignored) {}
         userService.save(user4);
 
         User user5 = new User();
