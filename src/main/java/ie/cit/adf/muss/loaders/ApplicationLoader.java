@@ -1,5 +1,16 @@
 package ie.cit.adf.muss.loaders;
 
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.util.Random;
+
+import org.apache.commons.io.IOUtils;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.dao.DuplicateKeyException;
+import org.springframework.stereotype.Component;
+
 import ie.cit.adf.muss.domain.Review;
 import ie.cit.adf.muss.domain.Tag;
 import ie.cit.adf.muss.domain.User;
@@ -7,15 +18,11 @@ import ie.cit.adf.muss.domain.notifications.ObjectLikeNotification;
 import ie.cit.adf.muss.domain.notifications.ReviewLikeNotification;
 import ie.cit.adf.muss.domain.notifications.ReviewNotification;
 import ie.cit.adf.muss.domain.notifications.TagNotification;
-import ie.cit.adf.muss.services.*;
-import org.apache.commons.io.IOUtils;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.dao.DuplicateKeyException;
-import org.springframework.stereotype.Component;
-import org.springframework.transaction.annotation.Transactional;
-
-import java.io.IOException;
-import java.util.*;
+import ie.cit.adf.muss.services.ChObjectService;
+import ie.cit.adf.muss.services.MussNotificationService;
+import ie.cit.adf.muss.services.ReviewService;
+import ie.cit.adf.muss.services.TagService;
+import ie.cit.adf.muss.services.UserService;
 
 @Component
 public class ApplicationLoader {
