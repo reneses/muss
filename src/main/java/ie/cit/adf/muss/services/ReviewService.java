@@ -12,6 +12,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.util.Assert;
 
 import ie.cit.adf.muss.domain.ChObject;
+import ie.cit.adf.muss.domain.Gamification;
 import ie.cit.adf.muss.domain.Review;
 import ie.cit.adf.muss.domain.User;
 import ie.cit.adf.muss.repositories.ReviewRepository;
@@ -29,9 +30,10 @@ public class ReviewService{
 
     @Autowired
 	AuthService authService;
-
     @Autowired
 	ChObjectService chObjectService;
+    @Autowired
+	GamificationService gamificationService;
     
     // ----------------------- Constructor -----------------------
     
@@ -112,13 +114,27 @@ public class ReviewService{
 	}
 
 	public void addLike(Review review, User user) {
-		review.addLike(user);
+		boolean real = review.addLike(user);
 		save(review);
+		
+		if(real){
+			gamificationService.assignPoints(Gamification.LIKEGIVEN, user);
+			User reviewPrincipal = review.getUser();
+			if(reviewPrincipal!=null)
+				gamificationService.assignPoints(Gamification.LIKERECEIVED, reviewPrincipal);
+		}
 	}
 
 	public void removeLike(Review review, User user) {
-		review.removeLike(user);
+		boolean real = review.removeLike(user);
 		save(review);
+		
+		if(real){
+			gamificationService.removePoints(Gamification.LIKEGIVEN, user);
+			User reviewPrincipal = review.getUser();
+			if(reviewPrincipal!=null)
+				gamificationService.removePoints(Gamification.LIKERECEIVED, reviewPrincipal);
+		}
 	}
  
 }
