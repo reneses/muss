@@ -6,7 +6,6 @@ import java.util.List;
 import java.util.Set;
 
 import javax.naming.OperationNotSupportedException;
-import javax.transaction.Transactional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -18,7 +17,7 @@ import ie.cit.adf.muss.domain.User;
 import ie.cit.adf.muss.repositories.BadgeRepository;
 
 @Service
-@Transactional
+//@Transactional
 public class BadgeService{
 
 	// ------------------- Managed repository --------------------
@@ -100,10 +99,11 @@ public class BadgeService{
     	
     	Set<Badge> badges = new HashSet<Badge>(user.getBadges());
     	badges.addAll(assignable);
-    	user.setBadges( new ArrayList<Badge>(badges) );
     	
-    	if(badges.size() != user.getBadges().size())
+    	if(badges.size() > user.getBadges().size()){
+    		user.setBadges( new ArrayList<Badge>(badges) );
     		userService.save(user);
+    	}
     }
     
 }

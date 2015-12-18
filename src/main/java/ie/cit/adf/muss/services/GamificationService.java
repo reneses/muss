@@ -1,7 +1,6 @@
 package ie.cit.adf.muss.services;
 
 import javax.naming.OperationNotSupportedException;
-import javax.transaction.Transactional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Configurable;
@@ -14,7 +13,7 @@ import ie.cit.adf.muss.repositories.GamificationRepository;
 import jersey.repackaged.com.google.common.collect.Iterables;
 
 @Service
-@Transactional
+//@Transactional
 @Configurable
 public class GamificationService{
 
@@ -82,7 +81,7 @@ public class GamificationService{
     // TODO Unir assign con remove
     
     public void assignPoints(String type, User user){
-    	/*
+    	
 		Gamification gamification = create();
 //    	User user = authService.getPrincipal();
     	Assert.notNull(gamification);
@@ -121,11 +120,11 @@ public class GamificationService{
     	if(type == Gamification.FOLLOWING || type == Gamification.FOLLOWERS)
     		badgeService.assignBadgeFriends(user);
     	badgeService.assignBadgePoints(user);
-    	*/
+    	
     }
     
     public void removePoints(String type, User user){
-		/*
+		
     	Gamification gamification = create();
 //    	User user = authService.getPrincipal();
     	Assert.notNull(gamification);
@@ -160,6 +159,6 @@ public class GamificationService{
 
     	user.setPoints(user.getPoints() - points);
     	userService.save(user);
-    	*/
+    	
     }
 }

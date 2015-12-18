@@ -1,12 +1,19 @@
 package ie.cit.adf.muss.domain;
 
+import java.util.Collection;
+
+import javax.persistence.CascadeType;
 import javax.persistence.Entity;
+import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
+import javax.persistence.ManyToMany;
 import javax.validation.constraints.Min;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Pattern;
 
+import org.hibernate.annotations.Fetch;
+import org.hibernate.annotations.FetchMode;
 import org.hibernate.validator.constraints.NotBlank;
 
 @Entity
@@ -36,6 +43,10 @@ public class Badge {
 	@NotNull
 	private String image;
 
+	@ManyToMany(fetch= FetchType.EAGER, mappedBy="badges", cascade=CascadeType.ALL)
+	@Fetch(FetchMode.SELECT)
+	private Collection<User> users;
+	
 	// ---------------------- Getters & Setters ----------------------
 	
 	public int getId() {
@@ -71,6 +82,12 @@ public class Badge {
 	}
 	public void setImage(String image) {
 		this.image = image;
+	}
+	public Collection<User> getUsers() {
+		return users;
+	}
+	public void setUsers(Collection<User> users) {
+		this.users = users;
 	}
 	
 	// -------------------------- Relations --------------------------

@@ -93,7 +93,20 @@ public class User {
     @ManyToMany(fetch = FetchType.EAGER, mappedBy = "followed")
     private Collection<User> followers;
     
-    @OneToMany
+    @ManyToMany(fetch = FetchType.EAGER)
+    @JoinTable(
+            name = "user_badges",
+            uniqueConstraints = {
+            		@UniqueConstraint(name = "user_badge_unique", columnNames = {"user_id", "badge_id"})
+            },
+            joinColumns = {
+                    @JoinColumn(name = "user_id", referencedColumnName = "id")
+            },
+            inverseJoinColumns = {
+                    @JoinColumn(name = "badge_id", referencedColumnName = "id")
+            }
+    )
+    @Fetch(FetchMode.SELECT)
     private List<Badge> badges;
     
     // ------------------------- Constructor -------------------------

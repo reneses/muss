@@ -107,7 +107,7 @@ public class ChObjectService extends CrudService<ChObject> {
         notificationService.notificateFollowers(notification, user);
         try {
             gamificationService.assignPoints(Gamification.TAG, user);
-        } catch (NullPointerException e) {
+        } catch (Exception e) {
             //TODO fix;
         }
     }
@@ -120,7 +120,7 @@ public class ChObjectService extends CrudService<ChObject> {
         try {
             if (real)
                 gamificationService.assignPoints(Gamification.LIKEGIVEN, user);
-        } catch (NullPointerException e) {
+        } catch (Exception e) {
             // TODO fix
 
         }
