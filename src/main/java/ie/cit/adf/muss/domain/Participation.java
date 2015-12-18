@@ -52,9 +52,7 @@ public class Participation {
 
 	public void setChObject(ChObject chObject) {
 		this.chObject = chObject;
-		if (!chObject.getParticipations().contains(this)) {
-			chObject.getParticipations().add(this);
-        }
+		
 	}
 
 	public int getId() {
@@ -71,6 +69,9 @@ public class Participation {
 
 	public void setParticipant(Participant participant) {
 		this.participant = participant;
+		if (!participant.getParticipations().contains(this)) {
+			participant.getParticipations().add(this);
+		}
 	}
 
 	public Role getRole() {
@@ -79,6 +80,19 @@ public class Participation {
 
 	public void setRole(Role role) {
 		this.role = role;
+		if (!role.getParticipations().contains(this)) {
+			role.getParticipations().add(this);
+		}
 	}
+	
+	@Override
+    public boolean equals(Object obj) {
+        return obj instanceof Participation && id > 0 && id == ((Participation) obj).getId();
+    }
+
+    @Override
+    public int hashCode() {
+        return id * String.valueOf(id).hashCode();
+    }
 
 }

@@ -1,5 +1,6 @@
 package ie.cit.adf.muss.domain;
 
+import java.util.ArrayList;
 import java.util.Collection;
 
 import javax.persistence.CascadeType;
@@ -44,7 +45,10 @@ public class Role {
 	@JsonIgnore
 	private Collection<Participation> participations;
 
-
+	public Role() {
+		participations = new ArrayList<>();
+	}
+	
     /* GETTERS AND SETTERS */
 
 	public String getDate() {
@@ -61,6 +65,10 @@ public class Role {
 
 	public void setParticipations(Collection<Participation> participations) {
 		this.participations = participations;
+		participations.forEach(p -> {
+			if (!this.equals(p.getRole()))
+				p.setRole(this);
+		});
 	}
 
 	public int getId() {
@@ -102,5 +110,15 @@ public class Role {
 	public void setUrl(String url) {
 		this.url = url;
 	}
+	
+	@Override
+    public boolean equals(Object obj) {
+        return obj instanceof Role && id > 0 && id == ((Role) obj).getId();
+    }
+
+    @Override
+    public int hashCode() {
+        return id * name.hashCode();
+    }
 
 }

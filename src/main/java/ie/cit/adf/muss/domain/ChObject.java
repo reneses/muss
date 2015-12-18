@@ -42,6 +42,7 @@ public class ChObject {
 
 	@JsonProperty("participants")
 	@OneToMany(fetch= FetchType.EAGER, mappedBy="chObject", cascade=CascadeType.ALL)
+	@Fetch(FetchMode.SELECT)
 	private List<Participation> participations;
 
 	@JsonIgnoreProperties("images")
