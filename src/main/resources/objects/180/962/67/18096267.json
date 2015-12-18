@@ -1,0 +1,93 @@
+{
+    "id": "18096267",
+    "tms:id": "5687",
+    "accession_number": "1896-21-1",
+    "title": "Fragment (France), late 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18096267\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35254623",
+    "date": "late 19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1896",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "silk",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": "Polychrome bouquet of flowers in oval medallion on a yellow and white woven fabric. Fragment probably part of a dress flounce.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Fragment",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/208286_0cbe12ace169bc00_b.jpg",
+                "width": 1024,
+                "height": 549,
+                "is_primary": "1",
+                "image_id": "208286"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/208286_0cbe12ace169bc00_z.jpg",
+                "width": 640,
+                "height": 343,
+                "is_primary": "1",
+                "image_id": "208286"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/208286_0cbe12ace169bc00_n.jpg",
+                "width": 320,
+                "height": 172,
+                "is_primary": "1",
+                "image_id": "208286"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/208286_0cbe12ace169bc00_d.gif",
+                "width": 320,
+                "height": 172,
+                "is_primary": "1",
+                "image_id": "208286"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/208286_0cbe12ace169bc00_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "208286"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18050365",
+            "role_id": "35351535",
+            "person_name": "Mrs. Henry Sloane",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Fragment (France), late 19th century. silk. 1896-21-1."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

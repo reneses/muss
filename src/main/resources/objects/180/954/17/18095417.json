@@ -1,0 +1,89 @@
+{
+    "id": "18095417",
+    "tms:id": "5558",
+    "accession_number": "1896-16-11",
+    "title": "Drawing (Italy)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18095417\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35237093",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1896",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/160586_2904a1f83e49d108_b.jpg",
+                "width": 692,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "160586"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/160586_2904a1f83e49d108_z.jpg",
+                "width": 433,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "160586"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/160586_2904a1f83e49d108_n.jpg",
+                "width": 216,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "160586"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/160586_2904a1f83e49d108_d.gif",
+                "width": 216,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "160586"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/160586_2904a1f83e49d108_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "160586"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Drawing (Italy). 1896-16-11."
+    },
+    "colors": [
+        {
+            "color": "#e8e1cf",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
+}

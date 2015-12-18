@@ -1,0 +1,155 @@
+{
+    "id": "18095501",
+    "tms:id": "5570",
+    "accession_number": "1896-16-2-b",
+    "title": "Drawing, Fragments of an Incomplete Cartoon for Cotton Printing: La Course Anglaise, 1789",
+    "title_raw": "Fragments of an Incomplete Cartoon for Cotton Printing: La Course Anglaise",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18095501\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35417717",
+    "type_id": "35237093",
+    "date": "1789",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1896",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "pen and black ink, brush and gray wash on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Mary A. Peoli",
+    "dimensions": "30 x 24.2 cm (11 13\/16 x 9 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "30.00",
+            "centimeters"
+        ],
+        "width": [
+            "24.20",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Flutist leans against palm tree before which a man rides by on horseback.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46017_5a31ac1ba0b3d6a9_b.jpg",
+                "width": 812,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "46017"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46017_5a31ac1ba0b3d6a9_z.jpg",
+                "width": 508,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "46017"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46017_5a31ac1ba0b3d6a9_n.jpg",
+                "width": 254,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "46017"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46017_5a31ac1ba0b3d6a9_d.gif",
+                "width": 254,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "46017"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46017_5a31ac1ba0b3d6a9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "46017"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "51676457",
+            "role_id": "35352245",
+            "person_name": "Karin Zonis",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18535749",
+            "role_id": "35351535",
+            "person_name": "Mary A. Peoli",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535749\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18055673",
+            "role_id": "35236633",
+            "person_name": "Claude-Louis Desrais",
+            "person_date": "French, 1746\u20131816",
+            "role_name": "Possibly",
+            "role_display_name": "Possibly by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055673\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236633\/"
+        },
+        {
+            "person_id": "18048967",
+            "role_id": "35236657",
+            "person_name": "Petitpierre & Compe. Nantes",
+            "person_date": "French, founded 1770",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048967\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Fragments of an Incomplete Cartoon for Cotton Printing: La Course Anglaise, 1789. pen and black ink, brush and gray wash on paper. 1896-16-2-b."
+    },
+    "colors": [
+        {
+            "color": "#bab19b",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#857d6c",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#645e52",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#3b3936",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

@@ -1,0 +1,147 @@
+{
+    "id": "18096009",
+    "tms:id": "5647",
+    "accession_number": "1896-2-31",
+    "title": "Fragment (Italy), 17th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18096009\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35414465",
+    "type_id": "35254623",
+    "date": "17th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1896",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "linen",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 6.8 x 24.6 cm (2 11\/16 x 9 11\/16 in. )",
+    "dimensions_raw": {
+        "height": [
+            "6.80",
+            "centimeters"
+        ],
+        "width": [
+            "24.60",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Symmetrical ribbon-like carnation design. Hexagonal mesh.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Fragment",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132199_9ab8a292816c1f69_b.jpg",
+                "width": 1024,
+                "height": 355,
+                "is_primary": "1",
+                "image_id": "132199"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132199_9ab8a292816c1f69_z.jpg",
+                "width": 640,
+                "height": 222,
+                "is_primary": "1",
+                "image_id": "132199"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132199_9ab8a292816c1f69_n.jpg",
+                "width": 320,
+                "height": 111,
+                "is_primary": "1",
+                "image_id": "132199"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132199_9ab8a292816c1f69_d.gif",
+                "width": 320,
+                "height": 111,
+                "is_primary": "1",
+                "image_id": "132199"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132199_9ab8a292816c1f69_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "132199"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67757_7fd53d8cf0daf933_b.jpg",
+                "width": 1024,
+                "height": 409,
+                "is_primary": "0",
+                "image_id": "67757"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67757_7fd53d8cf0daf933_z.jpg",
+                "width": 640,
+                "height": 256,
+                "is_primary": "0",
+                "image_id": "67757"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67757_7fd53d8cf0daf933_n.jpg",
+                "width": 320,
+                "height": 128,
+                "is_primary": "0",
+                "image_id": "67757"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67757_7fd53d8cf0daf933_d.gif",
+                "width": 320,
+                "height": 128,
+                "is_primary": "0",
+                "image_id": "67757"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67757_7fd53d8cf0daf933_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "67757"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Fragment (Italy), 17th century. linen. 1896-2-31."
+    },
+    "colors": [
+        {
+            "color": "#d1ccb2",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#89837a",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#72685d",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
+}

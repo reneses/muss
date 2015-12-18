@@ -1,0 +1,142 @@
+{
+    "id": "18099453",
+    "tms:id": "6160",
+    "accession_number": "1896-3-93",
+    "title": "Print, A French horse from the first set of Equile Joannis Austriaci, ca. 1575",
+    "title_raw": "A French horse from the first set of Equile Joannis Austriaci",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18099453\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "85954197",
+    "type_id": "35236873",
+    "date": "ca. 1575",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1896",
+    "decade": null,
+    "woe:country_id": "23424909",
+    "medium": "engaving on paper",
+    "markings": "Gothic p in the scheme of Briquet 8835",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "20.3 \u00d7 26.2 cm (8 in. \u00d7 10 5\/16 in.)",
+    "dimensions_raw": null,
+    "creditline": "Bequest of George Campbell Cooper",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "Print",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/147523_6d032a9fa630fb69_b.jpg",
+                "width": 1024,
+                "height": 795,
+                "is_primary": "1",
+                "image_id": "147523"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/147523_6d032a9fa630fb69_z.jpg",
+                "width": 640,
+                "height": 497,
+                "is_primary": "1",
+                "image_id": "147523"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/147523_6d032a9fa630fb69_n.jpg",
+                "width": 320,
+                "height": 248,
+                "is_primary": "1",
+                "image_id": "147523"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/147523_6d032a9fa630fb69_d.gif",
+                "width": 320,
+                "height": 248,
+                "is_primary": "1",
+                "image_id": "147523"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/147523_6d032a9fa630fb69_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "147523"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18051311",
+            "role_id": "35236677",
+            "person_name": "Jan van der Straet, called Stradanus",
+            "person_date": "Flemish, active in Italy, 1523 \u2013 1605",
+            "role_name": "After",
+            "role_display_name": "After",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051311\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236677\/"
+        },
+        {
+            "person_id": "85954187",
+            "role_id": "35236743",
+            "person_name": "Jerome Wierix",
+            "person_date": "",
+            "role_name": "Engraver",
+            "role_display_name": "Engraved by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/85954187\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236743\/"
+        },
+        {
+            "person_id": "18049767",
+            "role_id": "35351537",
+            "person_name": "George Campbell Cooper",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049767\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Print, A French horse from the first set of Equile Joannis Austriaci, ca. 1575. engaving on paper. Bequest of George Campbell Cooper. 1896-3-93."
+    },
+    "colors": [
+        {
+            "color": "#95876c",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#5d523f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#342c1f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#e4debc",
+            "closest_crayola": "#eceabe",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
+        },
+        {
+            "color": "#746f57",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
+}

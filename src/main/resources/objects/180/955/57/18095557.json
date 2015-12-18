@@ -1,0 +1,122 @@
+{
+    "id": "18095557",
+    "tms:id": "5579",
+    "accession_number": "1896-16-7",
+    "title": "Drawing, Nude, ca. 1740",
+    "title_raw": "Nude",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18095557\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35394367",
+    "type_id": "35237093",
+    "date": "ca. 1740",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1896",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "red crayon on paper",
+    "markings": "Watermark: lily in circle below L M; second watermark: grapes with V below.",
+    "signed": null,
+    "inscribed": "Inscribed, recto: Il Corvi da giovane; verso: Ales Maggiori ivempro nel 1803.",
+    "provenance": null,
+    "dimensions": "53.7 x 42.2 cm (21 1\/8 x 16 5\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "53.70",
+            "centimeters"
+        ],
+        "width": [
+            "42.20",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Young man, sitting, seen from behind.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/192553_5e74134a352eb293_b.jpg",
+                "width": 812,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "192553"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/192553_5e74134a352eb293_z.jpg",
+                "width": 507,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "192553"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/192553_5e74134a352eb293_n.jpg",
+                "width": 254,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "192553"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/192553_5e74134a352eb293_d.gif",
+                "width": 254,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "192553"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/192553_5e74134a352eb293_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "192553"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18065427",
+            "role_id": "35352245",
+            "person_name": "Stephanie Keating",
+            "person_date": "American",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18065427\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18535749",
+            "role_id": "35351535",
+            "person_name": "Mary A. Peoli",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535749\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18065483",
+            "role_id": "35236565",
+            "person_name": "Domenico Corvi",
+            "person_date": "Italian, 1721 - 1803",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18065483\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Nude, ca. 1740. red crayon on paper. 1896-16-7."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
+}

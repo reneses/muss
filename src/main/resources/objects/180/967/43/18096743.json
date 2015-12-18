@@ -1,0 +1,93 @@
+{
+    "id": "18096743",
+    "tms:id": "5759",
+    "accession_number": "1896-3-109",
+    "title": "Print (Italy)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18096743\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35236873",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1896",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Bequest of George Campbell Cooper",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Print",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/223835_6d28790657e21c4c_b.jpg",
+                "width": 1024,
+                "height": 824,
+                "is_primary": "1",
+                "image_id": "223835"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/223835_6d28790657e21c4c_z.jpg",
+                "width": 640,
+                "height": 515,
+                "is_primary": "1",
+                "image_id": "223835"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/223835_6d28790657e21c4c_n.jpg",
+                "width": 320,
+                "height": 258,
+                "is_primary": "1",
+                "image_id": "223835"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/223835_6d28790657e21c4c_d.gif",
+                "width": 320,
+                "height": 258,
+                "is_primary": "1",
+                "image_id": "223835"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/223835_6d28790657e21c4c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "223835"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18049767",
+            "role_id": "35351537",
+            "person_name": "George Campbell Cooper",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049767\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Print (Italy). Bequest of George Campbell Cooper. 1896-3-109."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
+}

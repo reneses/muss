@@ -1,0 +1,84 @@
+{
+    "id": "18095365",
+    "tms:id": "5549",
+    "accession_number": "1896-14-7",
+    "title": "Drawing (Netherlands)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18095365\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35237093",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1896",
+    "decade": null,
+    "woe:country_id": "23424909",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/212390_d6f0de01b5612a48_b.jpg",
+                "width": 1024,
+                "height": 683,
+                "is_primary": "1",
+                "image_id": "212390"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/212390_d6f0de01b5612a48_z.jpg",
+                "width": 640,
+                "height": 427,
+                "is_primary": "1",
+                "image_id": "212390"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/212390_d6f0de01b5612a48_n.jpg",
+                "width": 320,
+                "height": 213,
+                "is_primary": "1",
+                "image_id": "212390"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/212390_d6f0de01b5612a48_d.gif",
+                "width": 320,
+                "height": 213,
+                "is_primary": "1",
+                "image_id": "212390"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/212390_d6f0de01b5612a48_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "212390"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Drawing (Netherlands). 1896-14-7."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
+}

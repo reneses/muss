@@ -1,0 +1,166 @@
+{
+    "id": "18095357",
+    "tms:id": "5545",
+    "accession_number": "1896-14-3",
+    "title": "Drawing, Design for Two Chairs with Alternative Suggestions, 1760\u201365",
+    "title_raw": "Design for Two Chairs with Alternative Suggestions",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18095357\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35518659",
+    "type_id": "35237093",
+    "date": "1760\u201365",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1896",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "pen and black ink, brush and gray wash, graphite on paper",
+    "markings": "Stamp in black ink, lower right: Cooper Union [Lugt 457c]",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Mrs. A. S. Hewitt",
+    "dimensions": "40.6 x 32 cm (16 in. x 12 5\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "40.60",
+            "centimeters"
+        ],
+        "width": [
+            "32.00",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "In the center, a chair with a convex upholstered seat is shown from the front. The left leg of the right design serves simultaneously as the right foreleg of central design. The frame of the back is suggested. Upholstered entirely or with pierced lower corners; left, a right leg of different design; right, an armchair shown in profile. The seat and the arm show upholsterings, the frame marquetry. The scale is below.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47952_303d214d7a03e9fd_b.jpg",
+                "width": 807,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "47952"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47952_303d214d7a03e9fd_z.jpg",
+                "width": 504,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "47952"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47952_303d214d7a03e9fd_n.jpg",
+                "width": 252,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "47952"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47952_303d214d7a03e9fd_d.gif",
+                "width": 252,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "47952"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47952_303d214d7a03e9fd_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "47952"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/222782_eff42aaf30d30431_b.jpg",
+                "width": 809,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "222782"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/222782_eff42aaf30d30431_z.jpg",
+                "width": 505,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "222782"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/222782_eff42aaf30d30431_n.jpg",
+                "width": 253,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "222782"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/222782_eff42aaf30d30431_d.gif",
+                "width": 253,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "222782"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/222782_eff42aaf30d30431_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "222782"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "51676457",
+            "role_id": "35352245",
+            "person_name": "Karin Zonis",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18050411",
+            "role_id": "35351535",
+            "person_name": "Mrs. Abram S. Hewitt",
+            "person_date": "American, 1830\u20131912",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050411\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Design for Two Chairs with Alternative Suggestions, 1760\u201365. pen and black ink, brush and gray wash, graphite on paper. 1896-14-3."
+    },
+    "colors": [
+        {
+            "color": "#e8e2cf",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
+        },
+        {
+            "color": "#b8ad98",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#968a79",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

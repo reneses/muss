@@ -1,0 +1,122 @@
+{
+    "id": "18096189",
+    "tms:id": "5675",
+    "accession_number": "1896-2-61",
+    "title": "Fragment (France), 17th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18096189\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35394285",
+    "type_id": "35254623",
+    "date": "17th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1896",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "silk, metallic",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 16.5 x 12.2 cm (6 1\/2 x 4 13\/16 in. )",
+    "dimensions_raw": {
+        "height": [
+            "16.50",
+            "centimeters"
+        ],
+        "width": [
+            "12.20",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Red ground with design on gold of an open flower and leaf.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Fragment",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67771_9ef75f1bd2b6924b_b.jpg",
+                "width": 1024,
+                "height": 723,
+                "is_primary": "1",
+                "image_id": "67771"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67771_9ef75f1bd2b6924b_z.jpg",
+                "width": 640,
+                "height": 452,
+                "is_primary": "1",
+                "image_id": "67771"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67771_9ef75f1bd2b6924b_n.jpg",
+                "width": 320,
+                "height": 226,
+                "is_primary": "1",
+                "image_id": "67771"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67771_9ef75f1bd2b6924b_d.gif",
+                "width": 320,
+                "height": 226,
+                "is_primary": "1",
+                "image_id": "67771"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67771_9ef75f1bd2b6924b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "67771"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Fragment (France), 17th century. silk, metallic. 1896-2-61."
+    },
+    "colors": [
+        {
+            "color": "#809bac",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        },
+        {
+            "color": "#9e3235",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#a52a2a",
+            "closest_css4": "#a52a2a"
+        },
+        {
+            "color": "#60090d",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#800000",
+            "closest_css4": "#800000"
+        },
+        {
+            "color": "#603735",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#5e7b89",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

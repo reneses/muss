@@ -1,0 +1,178 @@
+{
+    "id": "18097489",
+    "tms:id": "5869",
+    "accession_number": "1896-3-208",
+    "title": "Print, S. Ioannes [St. John the Evangelist], 1650",
+    "title_raw": "S. Ioannes [St. John the Evangelist]",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18097489\/",
+    "department_id": "35347493",
+    "period_id": "35417081",
+    "media_id": "35394409",
+    "type_id": "35236873",
+    "date": "1650",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1896",
+    "decade": null,
+    "woe:country_id": "23424909",
+    "medium": "engraving on off-white laid paper",
+    "markings": "Collector's mark: verso, 'P. Mariette 1670\" [Lugt 1790]\nVerso: The Cooper Union Museum stamp [Lugt 457e]",
+    "signed": "Signed in margin in plate, lower left:  Corn. Vischer inveniebat;  lower right:  Corn. Vischer Sculpebat\/ et Excudebat Harlemi 1650",
+    "inscribed": "Inscribed in margin in plate, lower left:  Corn. Vischer inveniebat; lower right: Corn. Vischer Sculpebat\/ et Excudebat Harlemi 1650; on verso across bottom of sheet in graphite, various numerical notations.",
+    "provenance": "George Campbell Cooper\nP. Mariette",
+    "dimensions": "25.5 x 19.5 cm (10 1\/16 x 7 11\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "45.72",
+            "centimeters"
+        ],
+        "width": [
+            "35.56",
+            "centimeters"
+        ]
+    },
+    "creditline": "Bequest of George Campbell Cooper",
+    "description": "St. John stands, head turned to the left, looking upward. Behind him to the left a landscape suggests that the Saint is on the Island of Patmos.  In his right hand he holds his pen poised to write the apocryphal Book of Revelations, which he holds in his left hand. Behind him, at right, flies his attribute, the eagle that carries the ink pot in his beak and protects the Saint with his outstretched wing.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "Print",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21826_f94fc05e75a9e2a1_b.jpg",
+                "width": 793,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "21826"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21826_f94fc05e75a9e2a1_z.jpg",
+                "width": 495,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "21826"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21826_f94fc05e75a9e2a1_n.jpg",
+                "width": 248,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "21826"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21826_f94fc05e75a9e2a1_d.gif",
+                "width": 248,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "21826"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21826_f94fc05e75a9e2a1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "21826"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/212276_1da34c82ff8bb0be_b.jpg",
+                "width": 790,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "212276"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/212276_1da34c82ff8bb0be_z.jpg",
+                "width": 493,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "212276"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/212276_1da34c82ff8bb0be_n.jpg",
+                "width": 247,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "212276"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/212276_1da34c82ff8bb0be_d.gif",
+                "width": 247,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "212276"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/212276_1da34c82ff8bb0be_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "212276"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18042813",
+            "role_id": "35236565",
+            "person_name": "Cornelis Visscher",
+            "person_date": "Netherlandish, 1619 or 1629 \u2013 1662",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042813\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        },
+        {
+            "person_id": "18049767",
+            "role_id": "35351537",
+            "person_name": "George Campbell Cooper",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049767\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Print, S. Ioannes [St. John the Evangelist], 1650. engraving on off-white laid paper. Bequest of George Campbell Cooper. 1896-3-208."
+    },
+    "colors": [
+        {
+            "color": "#47433d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#d4c3aa",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#6e685d",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#888172",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#aba08d",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
+}

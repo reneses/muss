@@ -1,0 +1,129 @@
+{
+    "id": "18095657",
+    "tms:id": "5595",
+    "accession_number": "1896-17-3",
+    "title": "Fragment, 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18095657\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35392513",
+    "type_id": "35254623",
+    "date": "18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1896",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "silk on silk",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": "irregular shape with polychrome floral spray; white ground with yellow blossoms and shoots.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Fragment",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/218744_10498bb1ce91450f_b.jpg",
+                "width": 1024,
+                "height": 741,
+                "is_primary": "1",
+                "image_id": "218744"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/218744_10498bb1ce91450f_z.jpg",
+                "width": 640,
+                "height": 463,
+                "is_primary": "1",
+                "image_id": "218744"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/218744_10498bb1ce91450f_n.jpg",
+                "width": 320,
+                "height": 232,
+                "is_primary": "1",
+                "image_id": "218744"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/218744_10498bb1ce91450f_d.gif",
+                "width": 320,
+                "height": 232,
+                "is_primary": "1",
+                "image_id": "218744"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/218744_10498bb1ce91450f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "218744"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67739_4ae008fbe7636ef3_b.jpg",
+                "width": 1024,
+                "height": 726,
+                "is_primary": "0",
+                "image_id": "67739"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67739_4ae008fbe7636ef3_z.jpg",
+                "width": 640,
+                "height": 454,
+                "is_primary": "0",
+                "image_id": "67739"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67739_4ae008fbe7636ef3_n.jpg",
+                "width": 320,
+                "height": 227,
+                "is_primary": "0",
+                "image_id": "67739"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67739_4ae008fbe7636ef3_d.gif",
+                "width": 320,
+                "height": 227,
+                "is_primary": "0",
+                "image_id": "67739"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67739_4ae008fbe7636ef3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "67739"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18050355",
+            "role_id": "35351535",
+            "person_name": "Mrs. James W. Pinchot",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050355\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Fragment, 18th century. silk on silk. 1896-17-3."
+    },
+    "colors": [
+
+    ],
+    "is_loan_object": 0
+}

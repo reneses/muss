@@ -1,0 +1,93 @@
+{
+    "id": "18096983",
+    "tms:id": "5796",
+    "accession_number": "1896-3-142",
+    "title": "Print (Netherlands)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18096983\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35236873",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1896",
+    "decade": null,
+    "woe:country_id": "23424909",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Bequest of George Campbell Cooper",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "Print",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/212478_91287c9deac001ee_b.jpg",
+                "width": 880,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "212478"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/212478_91287c9deac001ee_z.jpg",
+                "width": 550,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "212478"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/212478_91287c9deac001ee_n.jpg",
+                "width": 275,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "212478"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/212478_91287c9deac001ee_d.gif",
+                "width": 275,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "212478"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/212478_91287c9deac001ee_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "212478"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18049767",
+            "role_id": "35351537",
+            "person_name": "George Campbell Cooper",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049767\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Print (Netherlands). Bequest of George Campbell Cooper. 1896-3-142."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
+}

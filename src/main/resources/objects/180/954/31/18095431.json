@@ -1,0 +1,149 @@
+{
+    "id": "18095431",
+    "tms:id": "5560",
+    "accession_number": "1896-16-13",
+    "title": "Drawing, A nude man, ca. 1800",
+    "title_raw": "A nude man",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18095431\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35394343",
+    "type_id": "35237093",
+    "date": "ca. 1800",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1896",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "red crayon on brown-grey paper",
+    "markings": "Watermark: Lily in circle below T(?) superimposed over C. See accession card for drawing.",
+    "signed": null,
+    "inscribed": "Inscribed, on verso: Aless. Maggiori iumpro in Roma l'anno 1816.",
+    "provenance": null,
+    "dimensions": "51.8 x 39.7 cm (20 3\/8 x 15 5\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "51.80",
+            "centimeters"
+        ],
+        "width": [
+            "39.70",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Male figure sitting upon ston, right leg crossed over left with foot standing upon support. Chin is supported by left hand.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/192117_f16cf61f158f6a7d_b.jpg",
+                "width": 792,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "192117"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/192117_f16cf61f158f6a7d_z.jpg",
+                "width": 495,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "192117"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/192117_f16cf61f158f6a7d_n.jpg",
+                "width": 248,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "192117"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/192117_f16cf61f158f6a7d_d.gif",
+                "width": 248,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "192117"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/192117_f16cf61f158f6a7d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "192117"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16881_50c2d7bb041762a1_b.jpg",
+                "width": 786,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "16881"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16881_50c2d7bb041762a1_z.jpg",
+                "width": 492,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "16881"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16881_50c2d7bb041762a1_n.jpg",
+                "width": 246,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "16881"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16881_50c2d7bb041762a1_d.gif",
+                "width": 246,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "16881"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16881_50c2d7bb041762a1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "16881"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18065427",
+            "role_id": "35352245",
+            "person_name": "Stephanie Keating",
+            "person_date": "American",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18065427\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18535749",
+            "role_id": "35351535",
+            "person_name": "Mary A. Peoli",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535749\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, A nude man, ca. 1800. red crayon on brown-grey paper. 1896-16-13."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
+}

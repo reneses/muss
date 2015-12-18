@@ -1,0 +1,116 @@
+{
+    "id": "18096181",
+    "tms:id": "5674",
+    "accession_number": "1896-2-60",
+    "title": "Fragment (France), 16th\u201317th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18096181\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35254623",
+    "date": "16th\u201317th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1896",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "silk",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 22 x 14.5 cm (8 11\/16 x 5 11\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "22.00",
+            "centimeters"
+        ],
+        "width": [
+            "14.50",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Green and light brown velvet in a design of small sprigs of different floral types alternating in rows formed by the voided velvet satin area. The background is formed of cut velvet with dots of uncut velvet areas.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Fragment",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180586_9a9802e2e9e0491d_b.jpg",
+                "width": 563,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "180586"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180586_9a9802e2e9e0491d_z.jpg",
+                "width": 352,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "180586"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180586_9a9802e2e9e0491d_n.jpg",
+                "width": 176,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "180586"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180586_9a9802e2e9e0491d_d.gif",
+                "width": 176,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "180586"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180586_9a9802e2e9e0491d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "180586"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Fragment (France), 16th\u201317th century. silk. 1896-2-60."
+    },
+    "colors": [
+        {
+            "color": "#6f7560",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#474934",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#6d5d3e",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#90815c",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}
