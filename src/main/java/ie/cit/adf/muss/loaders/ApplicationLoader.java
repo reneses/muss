@@ -84,7 +84,7 @@ public class ApplicationLoader {
     public void load() {
         try {
         	// Badges
-            addTestBadges();
+            //addTestBadges();
 
             // Users
             addTestUsers();

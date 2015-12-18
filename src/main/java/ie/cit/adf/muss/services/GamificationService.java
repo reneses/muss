@@ -82,7 +82,8 @@ public class GamificationService{
     // TODO Unir assign con remove
     
     public void assignPoints(String type, User user){
-    	Gamification gamification = create();
+    	/*
+		Gamification gamification = create();
 //    	User user = authService.getPrincipal();
     	Assert.notNull(gamification);
     	Assert.notNull(user);
@@ -120,9 +121,11 @@ public class GamificationService{
     	if(type == Gamification.FOLLOWING || type == Gamification.FOLLOWERS)
     		badgeService.assignBadgeFriends(user);
     	badgeService.assignBadgePoints(user);
+    	*/
     }
     
     public void removePoints(String type, User user){
+		/*
     	Gamification gamification = create();
 //    	User user = authService.getPrincipal();
     	Assert.notNull(gamification);
@@ -157,5 +160,6 @@ public class GamificationService{
 
     	user.setPoints(user.getPoints() - points);
     	userService.save(user);
+    	*/
     }
 }
