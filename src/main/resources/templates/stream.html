@@ -90,7 +90,7 @@
 
                     <!-- Tag object -->
                     <span th:if="${notification instanceof T(ie.cit.adf.muss.domain.notifications.TagNotification)}">
-                        has added the tag <a th:href="@{/gallery/tag/{tagName}(tagName=${notification.getTag().name})}"
+                        has added the tag <a th:href="@{/gallery/p/1/tag/{tagName}(tagName=${notification.getTag().name})}"
                                              th:text="${notification.getTag().name}"></a>
                         to the object <a th:href="@{/gallery/{objectID}(objectID=${notification.getTag().chObject.id})}"
                                          th:text="${notification.getTag().chObject.title}"></a>

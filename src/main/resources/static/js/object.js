@@ -22,7 +22,7 @@ function loadTags() {
     $.get(url, function (tags) {
         var html = '';
         tags.forEach(function (tag) {
-            html += '<a class="btn btn-md btn-default tag" href="/gallery/tag/' + tag + '"><i class="fa fa-tag"></i>' + tag + '</a>';
+            html += '<a class="btn btn-md btn-default tag" href="/gallery/p/1/tag/' + tag + '"><i class="fa fa-tag"></i>' + tag + '</a>';
         });
         $('#tags').html(html);
     });

@@ -62,7 +62,7 @@
         <div class="panel-body">
             <a th:each="tag : ${tags}" class="btn btn-sm"
                th:classappend="${selectedTag} == ${tag} ? btn-primary : btn-default"
-               th:href="(${selectedTag} == ${tag} ? @{/gallery} : @{/gallery/tag/{tagName}(tagName=${tag})}) + (${search} ? '?s='+${search} : '')" th:text="${tag}"></a>
+               th:href="(${selectedTag} == ${tag} ? @{/gallery} : @{/gallery/p/1/tag/{tagName}(tagName=${tag})}) + (${search} ? '?s='+${search} : '')" th:text="${tag}"></a>
         </div>
     </div>
 
