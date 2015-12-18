@@ -1,20 +1,36 @@
 <!DOCTYPE html>
 <html xmlns:th="http://www.thymeleaf.org"
-	xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity3"
-	th:include="layout :: page">
+      xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity3"
+      th:include="layout :: page">
 <head>
-<meta charset="utf-8" />
-<title>Muss - Home</title>
+    <meta charset="utf-8"/>
+    <title>Muss - Home</title>
 </head>
 <body>
-	<div th:fragment="content">
-		<div class="jumbotron" style="margin-top:40px">
-		  <h1>Muss</h1>
-		  <p>Muss is the new and modern web of Cooper Hewitt Museum.</p>
-		  <p>Muss offers new social and gamification features to our collaborators.</p>
-		  <p>Lorem ipsum blablabla foo bar ...</p>
-		  <p><a class="btn btn-primary btn-lg" th:href="@{/gallery}" role="button">View Gallery</a></p>
-		</div>
-	</div>
+<div th:fragment="content">
+    <style>
+        #background {
+            position: fixed;
+            top:0;
+            height: 100%;
+            width: 100%;
+            left: 0;
+            background-size: cover;
+            background: url('back.jpg') center;
+        }
+        .jumbotron {
+            z-index: 10;
+            position: relative;
+            background-color: rgba(255,255,255,.9);
+        }
+    </style>
+    <div id="background"></div>
+    <div class="jumbotron" style="margin-top:40px">
+        <h1>Muss</h1>
+        <p>Muss is the new and modern web of Cooper Hewitt Museum.</p>
+        <p>Muss offers new social and gamification features to our collaborators.</p>
+        <p><a class="btn btn-primary btn-lg" th:href="@{/gallery}" role="button">View Gallery</a></p>
+    </div>
+</div>
 </body>
 </html>
