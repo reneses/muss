@@ -34,7 +34,10 @@ public class ChObjectJsonLoader extends AbstractChObjectLoader {
      * @return
      */
     protected ChObject mapFile(Path path) {
-        return JsonMapper.mapToClass(path.toFile(), ChObject.class);
+        ChObject object = JsonMapper.mapToClass(path.toFile(), ChObject.class);
+        if (object.getImages().isEmpty())
+            return null;
+        return object;
     }
 
 }

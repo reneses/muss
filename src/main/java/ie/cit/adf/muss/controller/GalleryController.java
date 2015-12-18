@@ -1,9 +1,6 @@
 package ie.cit.adf.muss.controller;
 
-import java.util.ArrayList;
-import java.util.Date;
-import java.util.List;
-import java.util.Optional;
+import java.util.*;
 import javax.validation.Valid;
 
 import ie.cit.adf.muss.domain.User;
@@ -73,11 +70,16 @@ public class GalleryController {
         }
 
         // Pages
+        int lastPage = objectService.numberOfPages(objects);
         List<Integer> pages = new ArrayList<>();
-        for (int i = 1; i <= objectService.numberOfPages(objects); i++)
+        for (int i = pageNumber; i > 0  &&  i > pageNumber - 5; i--)
             pages.add(i);
+        for (int i = pageNumber + 1; i <= lastPage  &&  i < pageNumber + 5; i++)
+            pages.add(i);
+        Collections.sort(pages);
         model.addAttribute("pages", pages);
         model.addAttribute("currentPage", pageNumber);
+        model.addAttribute("lastPage", lastPage);
         model.addAttribute("previousPage", pageNumber == 1 ? 1 : pageNumber - 1);
         model.addAttribute("nextPage", pageNumber == pages.size() ? pages.size() : pageNumber + 1);
 

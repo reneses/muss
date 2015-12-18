@@ -20,7 +20,7 @@ import ie.cit.adf.muss.repositories.ChObjectRepository;
 @Service
 public class ChObjectService extends CrudService<ChObject> {
 
-    private static final int DEFAULT_ITEMS_PER_PAGE = 9;
+    private static final int DEFAULT_ITEMS_PER_PAGE = 18;
 
     // ------------------- Managed repository --------------------
 
@@ -156,8 +156,6 @@ public class ChObjectService extends CrudService<ChObject> {
 
     public int numberOfPages(List<ChObject> objects, int itemsPerPage) {
         float result = (float) objects.size() / (float) itemsPerPage;
-        if (result % 1 > 0)
-            return Math.round(result);
         return Math.round(result) - 1;
     }
 

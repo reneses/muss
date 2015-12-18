@@ -70,8 +70,7 @@ public abstract class AbstractChObjectLoader {
      * @throws URISyntaxException 
      */
     public List<ChObject> loadChObjects() throws IOException, URISyntaxException {
-        List<ChObject> objects = loadFiles().stream().map(this::mapFile).collect(Collectors.toList());
-        return objects;
+        return loadFiles().stream().map(this::mapFile).filter(o -> o != null).collect(Collectors.toList());
     }
 
 }
