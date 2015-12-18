@@ -226,7 +226,6 @@ public class ApplicationLoader {
     }
 
     private void addReviewLikes() {
-        /*
         // Add likes to reviews
         Random random = new Random();
         for (Review review : reviewService.findAll()) {
@@ -238,7 +237,7 @@ public class ApplicationLoader {
                 Review toSave = reviewService.find(review.getId());
                 reviewService.addLike(toSave, toLike);
             }
-        }*/
+        }
     }
 
     private void addTestBadges() {

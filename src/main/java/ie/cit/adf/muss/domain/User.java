@@ -40,10 +40,10 @@ public class User {
 	// -------------------------- Relations --------------------------
 	
 
-	@OneToMany(fetch = FetchType.LAZY, mappedBy = "user")
+	@OneToMany(fetch = FetchType.EAGER, mappedBy = "user")
     private Collection<Tag> tags;
 
-    @OneToMany(fetch = FetchType.LAZY, mappedBy = "user")
+    @OneToMany(fetch = FetchType.EAGER, mappedBy = "user")
     private Collection<Review> reviews;
 
     @ManyToMany(fetch = FetchType.EAGER)
@@ -78,7 +78,7 @@ public class User {
     @Fetch(FetchMode.SELECT)
     private Collection<ChObject> chObjectLikes;
 
-    @ManyToMany(fetch = FetchType.LAZY)
+    @ManyToMany(fetch = FetchType.EAGER)
     @JoinTable(
             name = "user_following",
             joinColumns = {

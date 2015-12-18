@@ -20,7 +20,6 @@ import ie.cit.adf.muss.domain.notifications.ReviewLikeNotification;
 import ie.cit.adf.muss.repositories.ReviewRepository;
 
 @Service
-@Transactional
 public class ReviewService{
 
 	// ------------------- Managed repository --------------------
