@@ -60,6 +60,10 @@ public class UserService extends CrudService<User> {
 		
 		return repository.save(user);
 	}
+	
+	public List<User> findSorted() {
+		return repository.findSortedByPoints();
+	}
 
     // ----------------- Other business methods ------------------
 		

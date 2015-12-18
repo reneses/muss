@@ -236,7 +236,7 @@ public class UserController {
 		
 		List<User> users;
 
-		users = userService.findAll();
+		users = userService.findSorted();
 		User principal = authService.getPrincipal();
 
 		model.addAttribute("users", users);
