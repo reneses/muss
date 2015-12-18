@@ -1,0 +1,110 @@
+{
+    "id": "18098637",
+    "tms:id": "6039",
+    "accession_number": "1896-3-361",
+    "title": "Print (England)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18098637\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35236873",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1896",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Bequest of George Campbell Cooper",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Print",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/159404_031d9251782c3562_b.jpg",
+                "width": 780,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "159404"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/159404_031d9251782c3562_z.jpg",
+                "width": 487,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "159404"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/159404_031d9251782c3562_n.jpg",
+                "width": 244,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "159404"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/159404_031d9251782c3562_d.gif",
+                "width": 244,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "159404"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/159404_031d9251782c3562_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "159404"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18049767",
+            "role_id": "35351537",
+            "person_name": "George Campbell Cooper",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049767\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Print (England). Bequest of George Campbell Cooper. 1896-3-361."
+    },
+    "colors": [
+        {
+            "color": "#bb8f75",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#cfb39d",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#a06c55",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
+}

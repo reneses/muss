@@ -1,0 +1,188 @@
+{
+    "id": "18096763",
+    "tms:id": "5762",
+    "accession_number": "1896-3-111",
+    "title": "Print, Judith, from the series \"Heroes of the Old Testament\", ca. 1590",
+    "title_raw": "Judith, from the series \"Heroes of the Old Testament\"",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18096763\/",
+    "department_id": "35347493",
+    "period_id": "35417075",
+    "media_id": "35394409",
+    "type_id": "35236873",
+    "date": "ca. 1590",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1896",
+    "decade": null,
+    "woe:country_id": "23424909",
+    "medium": "engraving on off-white laid paper",
+    "markings": "The watermark consists of a double-headed eagle, unrecorded.\nVerso: Inscribed in pen and brown ink \"J&G Bouchier 1780 [Lugt 284]",
+    "signed": null,
+    "inscribed": "Inscribed, lower right: \"H.G. excud.\" \nInscribed in the margin below the image: \"Aspice, quid potuit Judith preclara virago?\/ Quae capnt in palmis en Holofernis habet.\" followed by an engraved flourish.\nVerso: Inscribed in pen and brown ink \"J&G Bouchier 1780 [Lugt 284].",
+    "provenance": "George Campbell Cooper\nJ&G Bouchier",
+    "dimensions": "26.2 x 16.1 cm (10 5\/16 x 6 5\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "45.72",
+            "centimeters"
+        ],
+        "width": [
+            "35.56",
+            "centimeters"
+        ]
+    },
+    "creditline": "Bequest of George Campbell Cooper",
+    "description": "Judith stands in the foreground holding aloft the severed head of Holofernes. In her right hand she holds a sword. She is dramatically lit from the left which allows shadows to define her voluminous drapery. In the landscape behind her, there are hills to the left and at right, the tent where Judith is shown killing Holofernes.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "Print",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21823_80329fd549fdf66e_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "21823"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21823_80329fd549fdf66e_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "21823"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21823_80329fd549fdf66e_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "21823"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21823_80329fd549fdf66e_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "21823"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21823_80329fd549fdf66e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "21823"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/213520_f97d154bb5155e63_b.jpg",
+                "width": 655,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "213520"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/213520_f97d154bb5155e63_z.jpg",
+                "width": 409,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "213520"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/213520_f97d154bb5155e63_n.jpg",
+                "width": 205,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "213520"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/213520_f97d154bb5155e63_d.gif",
+                "width": 205,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "213520"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/213520_f97d154bb5155e63_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "213520"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18060189",
+            "role_id": "35236677",
+            "person_name": "Hendrik Goltzius",
+            "person_date": "Netherlandish, 1558 \u2013 1617",
+            "role_name": "After",
+            "role_display_name": "After",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18060189\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236677\/"
+        },
+        {
+            "person_id": "68737263",
+            "role_id": "35236743",
+            "person_name": "Jacob Matham",
+            "person_date": "Netherlandish, 1571 \u2013 1631",
+            "role_name": "Engraver",
+            "role_display_name": "Engraved by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68737263\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236743\/"
+        },
+        {
+            "person_id": "18049767",
+            "role_id": "35351537",
+            "person_name": "George Campbell Cooper",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049767\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Print, Judith, from the series \"Heroes of the Old Testament\", ca. 1590. engraving on off-white laid paper. Bequest of George Campbell Cooper. 1896-3-111."
+    },
+    "colors": [
+        {
+            "color": "#cdbda5",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#a0927c",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#807562",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#5e5549",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#3c3832",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
+}

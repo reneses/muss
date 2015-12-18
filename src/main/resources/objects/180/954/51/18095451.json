@@ -1,0 +1,122 @@
+{
+    "id": "18095451",
+    "tms:id": "5563",
+    "accession_number": "1896-16-16",
+    "title": "Drawing, A farm wagon, ca. 1850",
+    "title_raw": "A farm wagon",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18095451\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35394351",
+    "type_id": "35237093",
+    "date": "ca. 1850",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1896",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "black crayon on paper",
+    "markings": "Lower right corner: Daubigny's mark (in red, Lugt 518).",
+    "signed": "Signed in graphite, lower left: Ch. Daubigny.",
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "17.7 x 29.1 cm (6 15\/16 x 11 7\/16 in.)\nMat: 23.2 x 29.1 cm (9 1\/8 x 11 7\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "17.70",
+            "centimeters"
+        ],
+        "width": [
+            "29.10",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Shown with obliquely directed front axle and without tongue. Indistinct setting. Verso: small part of beginning of a sketch.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/214809_57eca60d4191914b_b.jpg",
+                "width": 1024,
+                "height": 638,
+                "is_primary": "0",
+                "image_id": "214809"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/214809_57eca60d4191914b_z.jpg",
+                "width": 640,
+                "height": 398,
+                "is_primary": "0",
+                "image_id": "214809"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/214809_57eca60d4191914b_n.jpg",
+                "width": 320,
+                "height": 199,
+                "is_primary": "0",
+                "image_id": "214809"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/214809_57eca60d4191914b_d.gif",
+                "width": 320,
+                "height": 199,
+                "is_primary": "0",
+                "image_id": "214809"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/214809_57eca60d4191914b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "214809"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18065427",
+            "role_id": "35352245",
+            "person_name": "Stephanie Keating",
+            "person_date": "American",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18065427\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18535749",
+            "role_id": "35351535",
+            "person_name": "Mary A. Peoli",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535749\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18535957",
+            "role_id": "35236565",
+            "person_name": "Charles Francois Daubigny",
+            "person_date": "1817-1878",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535957\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, A farm wagon, ca. 1850. black crayon on paper. 1896-16-16."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

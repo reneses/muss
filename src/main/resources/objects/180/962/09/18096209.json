@@ -1,0 +1,122 @@
+{
+    "id": "18096209",
+    "tms:id": "5678",
+    "accession_number": "1896-2-64",
+    "title": "Fragment (France), 17th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18096209\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35394285",
+    "type_id": "35254623",
+    "date": "17th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1896",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "silk, metallic",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 40.4 x 6.2 cm (15 7\/8 x 2 7\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "40.40",
+            "centimeters"
+        ],
+        "weft": [
+            "6.20",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Design of triangular shapes in a diamond grid in gold on green.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Fragment",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67774_6fe02613ac159b84_b.jpg",
+                "width": 667,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "67774"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67774_6fe02613ac159b84_z.jpg",
+                "width": 417,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "67774"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67774_6fe02613ac159b84_n.jpg",
+                "width": 208,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "67774"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67774_6fe02613ac159b84_d.gif",
+                "width": 208,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "67774"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67774_6fe02613ac159b84_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "67774"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Fragment (France), 17th century. silk, metallic. 1896-2-64."
+    },
+    "colors": [
+        {
+            "color": "#b9c4d6",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#b0c4de",
+            "closest_css4": "#b0c4de"
+        },
+        {
+            "color": "#263b3f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#9198a8",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#395c5b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#637273",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

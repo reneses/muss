@@ -1,0 +1,196 @@
+{
+    "id": "18096403",
+    "tms:id": "5708",
+    "accession_number": "1896-27-22",
+    "title": "Fragment (China), 15th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18096403\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35394285",
+    "type_id": "35254623",
+    "date": "15th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1896",
+    "decade": null,
+    "woe:country_id": "23424781",
+    "medium": "silk, metallic",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 73 \u00d7 54.6 cm (28 3\/4 \u00d7 21 1\/2 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "53.20",
+            "centimeters"
+        ],
+        "weft": [
+            "69.30",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Large scale floral and leaf design.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424781",
+    "type": "Fragment",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94827_8107a03e20c59469_b.jpg",
+                "width": 794,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "94827"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94827_8107a03e20c59469_z.jpg",
+                "width": 496,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "94827"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94827_8107a03e20c59469_n.jpg",
+                "width": 248,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "94827"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94827_8107a03e20c59469_d.gif",
+                "width": 248,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "94827"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94827_8107a03e20c59469_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "94827"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98980_20fc50925b30d84f_b.jpg",
+                "width": 794,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "98980"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98980_20fc50925b30d84f_z.jpg",
+                "width": 496,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "98980"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98980_20fc50925b30d84f_n.jpg",
+                "width": 248,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "98980"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98980_20fc50925b30d84f_d.gif",
+                "width": 248,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "98980"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98980_20fc50925b30d84f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "98980"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67784_4d8146b2f9cc4882_b.jpg",
+                "width": 1024,
+                "height": 777,
+                "is_primary": "0",
+                "image_id": "67784"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67784_4d8146b2f9cc4882_z.jpg",
+                "width": 640,
+                "height": 486,
+                "is_primary": "0",
+                "image_id": "67784"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67784_4d8146b2f9cc4882_n.jpg",
+                "width": 320,
+                "height": 243,
+                "is_primary": "0",
+                "image_id": "67784"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67784_4d8146b2f9cc4882_d.gif",
+                "width": 320,
+                "height": 243,
+                "is_primary": "0",
+                "image_id": "67784"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67784_4d8146b2f9cc4882_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "67784"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Fragment (China), 15th century. silk, metallic. 1896-27-22."
+    },
+    "colors": [
+        {
+            "color": "#6f593c",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#8e744b",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#4c4b3b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#333637",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#dcd8cc",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        }
+    ],
+    "woe:country_name": "China",
+    "is_loan_object": 0
+}

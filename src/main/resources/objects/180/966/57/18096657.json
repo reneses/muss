@@ -1,0 +1,122 @@
+{
+    "id": "18096657",
+    "tms:id": "5746",
+    "accession_number": "1896-29-8",
+    "title": "Drawing, Section of wall, Guard Room, Palace of Fontainebleau, ca. 1885",
+    "title_raw": "Section of wall, Guard Room, Palace of Fontainebleau",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18096657\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35435217",
+    "type_id": "35237093",
+    "date": "ca. 1885",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1896",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "brush and watercolor, tempera on heavy paper",
+    "markings": null,
+    "signed": "Signed lower right.",
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "53.9 x 24 cm (21 1\/4 x 9 7\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "53.90",
+            "centimeters"
+        ],
+        "width": [
+            "24.00",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Elevation of section of wall. Lower portion, containing groups of painted panels, chiefly including royal monograms and escutcheons as motifs of decoration. Upper portion, framed fabric, showing royal monogram against all-over pattern.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/216805_0d3dc2e846ade94e_b.jpg",
+                "width": 485,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "216805"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/216805_0d3dc2e846ade94e_z.jpg",
+                "width": 303,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "216805"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/216805_0d3dc2e846ade94e_n.jpg",
+                "width": 152,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "216805"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/216805_0d3dc2e846ade94e_d.gif",
+                "width": 152,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "216805"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/216805_0d3dc2e846ade94e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "216805"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18065427",
+            "role_id": "35352245",
+            "person_name": "Stephanie Keating",
+            "person_date": "American",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18065427\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18538471",
+            "role_id": "35236565",
+            "person_name": "Frederick Marschall",
+            "person_date": "",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538471\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        },
+        {
+            "person_id": "18053219",
+            "role_id": "35351535",
+            "person_name": "Mrs. Lloyd S. Bryce",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053219\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Section of wall, Guard Room, Palace of Fontainebleau, ca. 1885. brush and watercolor, tempera on heavy paper. 1896-29-8."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

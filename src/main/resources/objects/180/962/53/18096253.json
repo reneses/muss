@@ -1,0 +1,168 @@
+{
+    "id": "18096253",
+    "tms:id": "5685",
+    "accession_number": "1896-20-4",
+    "title": "Band (China), 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18096253\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35254631",
+    "date": "19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1896",
+    "decade": null,
+    "woe:country_id": "23424781",
+    "medium": "silk",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 26.4 x 15.9 cm (10 3\/8 x 6 1\/4 in. )",
+    "dimensions_raw": {
+        "height": [
+            "26.40",
+            "centimeters"
+        ],
+        "width": [
+            "15.90",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Band of foliate flowers in reddish-orange pile on a yellow satin background.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424781",
+    "type": "Band",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67778_3a52068f49d68c0c_b.jpg",
+                "width": 1024,
+                "height": 637,
+                "is_primary": "1",
+                "image_id": "67778"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67778_3a52068f49d68c0c_z.jpg",
+                "width": 640,
+                "height": 398,
+                "is_primary": "1",
+                "image_id": "67778"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67778_3a52068f49d68c0c_n.jpg",
+                "width": 320,
+                "height": 199,
+                "is_primary": "1",
+                "image_id": "67778"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67778_3a52068f49d68c0c_d.gif",
+                "width": 320,
+                "height": 199,
+                "is_primary": "1",
+                "image_id": "67778"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67778_3a52068f49d68c0c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "67778"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180625_50cff1cbc24df8d0_b.jpg",
+                "width": 1024,
+                "height": 636,
+                "is_primary": "0",
+                "image_id": "180625"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180625_50cff1cbc24df8d0_z.jpg",
+                "width": 640,
+                "height": 398,
+                "is_primary": "0",
+                "image_id": "180625"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180625_50cff1cbc24df8d0_n.jpg",
+                "width": 320,
+                "height": 199,
+                "is_primary": "0",
+                "image_id": "180625"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180625_50cff1cbc24df8d0_d.gif",
+                "width": 320,
+                "height": 199,
+                "is_primary": "0",
+                "image_id": "180625"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180625_50cff1cbc24df8d0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "180625"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18050363",
+            "role_id": "35351535",
+            "person_name": "Mrs. Charles H. Russell",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050363\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Band (China), 19th century. silk. 1896-20-4."
+    },
+    "colors": [
+        {
+            "color": "#beb6a0",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#762e29",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#dad4a7",
+            "closest_crayola": "#edd19c",
+            "closest_css3": "#eee8aa",
+            "closest_css4": "#eee8aa"
+        },
+        {
+            "color": "#7d7c6f",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#48181b",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#800000",
+            "closest_css4": "#800000"
+        }
+    ],
+    "woe:country_name": "China",
+    "is_loan_object": 0
+}

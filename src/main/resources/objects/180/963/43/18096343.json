@@ -1,0 +1,106 @@
+{
+    "id": "18096343",
+    "tms:id": "5699",
+    "accession_number": "1896-27-1",
+    "title": "Ornament, 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18096343\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35414465",
+    "type_id": "35255209",
+    "date": "19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1896",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "linen",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Given by Masion Worth",
+    "dimensions": "H x W: 27.4 x 18.8 cm (10 13\/16 x 7 3\/8 in. )",
+    "dimensions_raw": {
+        "height": [
+            "27.40",
+            "centimeters"
+        ],
+        "width": [
+            "18.80",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Large basket with tall handle has a ribbon bow and is filled with flowers.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Ornament",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89440_eaa483b3ab0e5fff_b.jpg",
+                "width": 778,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "89440"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89440_eaa483b3ab0e5fff_z.jpg",
+                "width": 486,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "89440"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89440_eaa483b3ab0e5fff_n.jpg",
+                "width": 243,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "89440"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89440_eaa483b3ab0e5fff_d.gif",
+                "width": 243,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "89440"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89440_eaa483b3ab0e5fff_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "89440"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18050383",
+            "role_id": "35351535",
+            "person_name": "Maison Worth",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050383\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Ornament, 19th century. linen. 1896-27-1."
+    },
+    "colors": [
+        {
+            "color": "#e1d5af",
+            "closest_crayola": "#efcdb8",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
+        }
+    ],
+    "is_loan_object": 0
+}

@@ -1,0 +1,141 @@
+{
+    "id": "18098021",
+    "tms:id": "5948",
+    "accession_number": "1896-3-28",
+    "title": "Print, Melancolia, 1514",
+    "title_raw": "Melancolia",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18098021\/",
+    "department_id": "35347493",
+    "period_id": "35417083",
+    "media_id": "35394409",
+    "type_id": "35236873",
+    "date": "1514",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1896",
+    "decade": null,
+    "woe:country_id": "23424829",
+    "medium": "engraving on off-white laid paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "George Campbell Cooper; 1896: bequested to Museum",
+    "dimensions": "23.8 x 18.5 cm (9 3\/8 x 7 5\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "23.80",
+            "centimeters"
+        ],
+        "width": [
+            "18.50",
+            "centimeters"
+        ]
+    },
+    "creditline": "Bequest of George Campbell Cooper",
+    "description": "The winged figure of a woman, dressed in a long robe, is seated at right; she rests her head on her left hand and holds a compass in her right. A winged genius is seated beside her, writing on a tablet. Behind them is a square tower that displays a scale, an hourglass, a bell and a magic square. The foreground is littered with various instruments related to carpentry and construction: a saw, a plane, a hammer and nails and lengths of wood. At left, a dog sleeps curled between a sphere and a polyhedron. In the distance, in front of a sunset and rainbow over the sea, a bat flies, the word 'Melancolia' engraved across its outstreched wings.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "Print",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47508_dfb0d48ea94d9963_b.jpg",
+                "width": 796,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "47508"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47508_dfb0d48ea94d9963_z.jpg",
+                "width": 498,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "47508"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47508_dfb0d48ea94d9963_n.jpg",
+                "width": 249,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "47508"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47508_dfb0d48ea94d9963_d.gif",
+                "width": 249,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "47508"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47508_dfb0d48ea94d9963_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "47508"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18049765",
+            "role_id": "35236565",
+            "person_name": "Albrecht D\u00fcrer",
+            "person_date": "German, 1471\u20131528",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049765\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        },
+        {
+            "person_id": "18049767",
+            "role_id": "35351537",
+            "person_name": "George Campbell Cooper",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049767\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Print, Melancolia, 1514. engraving on off-white laid paper. Bequest of George Campbell Cooper. 1896-3-28."
+    },
+    "colors": [
+        {
+            "color": "#b5a891",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#726a5c",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#918572",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#eae3cf",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#faebd7",
+            "closest_css4": "#faebd7"
+        },
+        {
+            "color": "#3e3b37",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
+}

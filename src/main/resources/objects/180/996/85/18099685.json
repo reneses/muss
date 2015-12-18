@@ -1,0 +1,84 @@
+{
+    "id": "18099685",
+    "tms:id": "6192",
+    "accession_number": "1896-31-120",
+    "title": "Print (France)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18099685\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35236873",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1896",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Print",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/222441_66fb2dc6f3961dbd_b.jpg",
+                "width": 739,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "222441"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/222441_66fb2dc6f3961dbd_z.jpg",
+                "width": 462,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "222441"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/222441_66fb2dc6f3961dbd_n.jpg",
+                "width": 231,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "222441"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/222441_66fb2dc6f3961dbd_d.gif",
+                "width": 231,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "222441"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/222441_66fb2dc6f3961dbd_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "222441"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Print (France). 1896-31-120."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

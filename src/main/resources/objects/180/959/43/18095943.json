@@ -1,0 +1,130 @@
+{
+    "id": "18095943",
+    "tms:id": "5637",
+    "accession_number": "1896-2-18",
+    "title": "Fragment (Belgium), 17th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18095943\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35414465",
+    "type_id": "35254623",
+    "date": "17th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1896",
+    "decade": null,
+    "woe:country_id": "23424757",
+    "medium": "linen",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 7.8 x 21.1 cm (3 1\/16 x 8 5\/16 in. )",
+    "dimensions_raw": {
+        "height": [
+            "7.80",
+            "centimeters"
+        ],
+        "width": [
+            "21.10",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Binche-style fragment with a delicate design of palmettes and foliage. Five hole mesh (cinq trous ground) and straight edges.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424757",
+    "type": "Fragment",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/203980_f68f37ee2167f016_b.jpg",
+                "width": 1024,
+                "height": 501,
+                "is_primary": "1",
+                "image_id": "203980"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/203980_f68f37ee2167f016_z.jpg",
+                "width": 640,
+                "height": 313,
+                "is_primary": "1",
+                "image_id": "203980"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/203980_f68f37ee2167f016_n.jpg",
+                "width": 320,
+                "height": 157,
+                "is_primary": "1",
+                "image_id": "203980"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/203980_f68f37ee2167f016_d.gif",
+                "width": 320,
+                "height": 157,
+                "is_primary": "1",
+                "image_id": "203980"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/203980_f68f37ee2167f016_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "203980"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/128571_3205a4daef9e70f7_b.jpg",
+                "width": 1024,
+                "height": 432,
+                "is_primary": "0",
+                "image_id": "128571"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/128571_3205a4daef9e70f7_z.jpg",
+                "width": 640,
+                "height": 270,
+                "is_primary": "0",
+                "image_id": "128571"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/128571_3205a4daef9e70f7_n.jpg",
+                "width": 320,
+                "height": 135,
+                "is_primary": "0",
+                "image_id": "128571"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/128571_3205a4daef9e70f7_d.gif",
+                "width": 320,
+                "height": 135,
+                "is_primary": "0",
+                "image_id": "128571"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/128571_3205a4daef9e70f7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "128571"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Fragment (Belgium), 17th century. linen. 1896-2-18."
+    },
+    "colors": [
+
+    ],
+    "woe:country_name": "Belgium",
+    "is_loan_object": 0
+}
