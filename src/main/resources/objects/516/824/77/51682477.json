@@ -1,0 +1,162 @@
+{
+    "id": "51682477",
+    "tms:id": "275926",
+    "accession_number": "14.2012.137",
+    "title": "Sketch For Handle-less Toothbrush (USA), September 7, 1942",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/51682477\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "35390063",
+    "type_id": "68250365",
+    "date": "September 7, 1942",
+    "year_start": 1942,
+    "year_end": 1942,
+    "year_acquired": null,
+    "decade": "1940",
+    "woe:country_id": "23424977",
+    "medium": "pencil on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W (drawing): 19.7 x 12.5 cm (7 3\/4 x 4 15\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "19.69",
+            "centimeters"
+        ],
+        "width": [
+            "12.54",
+            "centimeters"
+        ]
+    },
+    "creditline": "Joseph B. Friedman Papers, Archives Center, National Museum of American History, 2001.3031",
+    "description": null,
+    "justification": null,
+    "gallery_text": "Joseph Friedman\u2019s best-known invention is the flexible straw, but the range of his inventive activities encompassed writing implements, improvements to engines, and objects for personal care, including this sketch for a handle-less tooth brush. Friedman frequently sketched on loose scraps of paper\u2014he was especially fond of envelopes\u2014working out ideas and solving problems, as here.",
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sketch for handle-less toothbrush",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92867_1616e702cafcde98_b.jpg",
+                "width": 645,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "92867"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92867_1616e702cafcde98_z.jpg",
+                "width": 403,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "92867"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92867_1616e702cafcde98_n.jpg",
+                "width": 202,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92867"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92867_1616e702cafcde98_d.gif",
+                "width": 202,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92867"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92867_1616e702cafcde98_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92867"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113595_1616e702cafcde98_b.jpg",
+                "width": 645,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113595"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113595_1616e702cafcde98_z.jpg",
+                "width": 403,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113595"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113595_1616e702cafcde98_n.jpg",
+                "width": 202,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113595"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113595_1616e702cafcde98_d.gif",
+                "width": 202,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113595"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113595_1616e702cafcde98_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113595"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "35518595",
+            "role_id": "35236685",
+            "person_name": "Joseph B. Friedman",
+            "person_date": "(American, 1900-1982)",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/35518595\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sketch For Handle-less Toothbrush (USA), September 7, 1942. pencil on paper. Joseph B. Friedman Papers, Archives Center, National Museum of American History, 2001.3031. 14.2012.137."
+    },
+    "colors": [
+        {
+            "color": "#bca18c",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#797393",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        },
+        {
+            "color": "#474887",
+            "closest_crayola": "#58427c",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        },
+        {
+            "color": "#a1939b",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

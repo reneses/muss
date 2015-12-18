@@ -1,0 +1,121 @@
+{
+    "id": "51685199",
+    "tms:id": "276093",
+    "accession_number": "2013-21-34",
+    "title": "Landi Chair, designed 1938, manufactured 1938\u201361",
+    "title_raw": "Landi",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/51685199\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "68245981",
+    "type_id": "35237307",
+    "date": "designed 1938, manufactured 1938\u201361",
+    "year_start": 1938,
+    "year_end": 1961,
+    "year_acquired": "2013",
+    "decade": "1930",
+    "woe:country_id": "23424957",
+    "medium": "molded and punched aluminum, silver anodizing, rubber",
+    "markings": "Maker's insignia \"MEWA\" on face of chair back at center top. \"Switzerland\" stamped on rear crossbar beneath seat.",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "2013, Given to Cooper-Hewitt by owner Harry C. Sigman, Purchased directly from the manufacturer in original condition in December 1992.",
+    "dimensions": "H x W x D: 75.9 x 51.1 x 55.1 cm (29 7\/8 x 20 1\/8 x 21 11\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "55.12",
+            "centimeters"
+        ],
+        "height": [
+            "75.95",
+            "centimeters"
+        ],
+        "width": [
+            "51.05",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Harry C. Sigman",
+    "description": "Stamped seat shell supported on a frame that functions as legs and armrests, the back is punched with 49 hand-cut holes, and the seat with 42; gray rubber feet.",
+    "justification": null,
+    "gallery_text": "This chair was among the first successful seating designs using sheet aluminum\u2014a relatively new lightweight, weather-resistant material\u2014anodized to harden the surface and protect against corrosion. The seat and back are made of a single molded sheet perforated with circular holes that lightened the form and when used outdoors provided drainage from the rain.",
+    "label_text": "This chair was among the first successful seating designs using sheet aluminum\u2014a relatively new lightweight, weather-resistant material\u2014anodized to harden the surface and protect against corrosion. The seat and back are made of a single molded sheet perforated with circular holes that lightened the form and when used outdoors provided drainage from the rain.",
+    "videos": null,
+    "on_display": "1",
+    "woe:country": "23424957",
+    "type": "chair",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80141_bbd241b9b667f794_b.jpg",
+                "width": 721,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "80141"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80141_bbd241b9b667f794_z.jpg",
+                "width": 450,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "80141"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80141_bbd241b9b667f794_n.jpg",
+                "width": 225,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "80141"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80141_bbd241b9b667f794_d.gif",
+                "width": 225,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "80141"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80141_bbd241b9b667f794_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "80141"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18538419",
+            "role_id": "35236657",
+            "person_name": "P. and W. Blattmann Metallwarenfabrik",
+            "person_date": "W\u00e4denswil, Switzerland",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538419\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18538415",
+            "role_id": "35236655",
+            "person_name": "Hans Coray",
+            "person_date": "Swiss, 1906 \u2013 1991",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538415\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Landi Chair, designed 1938, manufactured 1938\u201361. molded and punched aluminum, silver anodizing, rubber. Gift of Harry C. Sigman. 2013-21-34."
+    },
+    "colors": [
+        {
+            "color": "#5f5d62",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "Switzerland",
+    "is_loan_object": 0
+}

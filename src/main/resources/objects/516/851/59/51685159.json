@@ -1,0 +1,156 @@
+{
+    "id": "51685159",
+    "tms:id": "276084",
+    "accession_number": "2013-21-24",
+    "title": "Cymric Brooch, ca. 1905",
+    "title_raw": "Cymric",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/51685159\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35414443",
+    "type_id": "35251201",
+    "date": "ca. 1905",
+    "year_start": 1905,
+    "year_end": 1905,
+    "year_acquired": "2013",
+    "decade": "1900",
+    "woe:country_id": "23424975",
+    "medium": "silver and enamel",
+    "markings": "On underside; \"CYMRIC\" and \"SILVER\" separated by a quatrefoil maker's mark L L & LD Co.",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "2013, Given to Cooper-Hewitt by owner Harry C. Sigman",
+    "dimensions": "H x L: 1 x 4.8 cm (3\/8 x 1 7\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "0.95",
+            "centimeters"
+        ],
+        "length": [
+            "4.76",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Harry C. Sigman",
+    "description": "Horizontal, symmetrical with two segments enameled in dark blue surrounding a polychromed segment in orange, yellow and green.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "brooch",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83543_faf46cd24c15f34e_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "83543"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83543_faf46cd24c15f34e_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "83543"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83543_faf46cd24c15f34e_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "83543"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83543_faf46cd24c15f34e_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "83543"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83543_faf46cd24c15f34e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "83543"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132625_13c52c48523912cf_b.jpg",
+                "width": 1024,
+                "height": 443,
+                "is_primary": "0",
+                "image_id": "132625"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132625_13c52c48523912cf_z.jpg",
+                "width": 640,
+                "height": 277,
+                "is_primary": "0",
+                "image_id": "132625"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132625_13c52c48523912cf_n.jpg",
+                "width": 320,
+                "height": 138,
+                "is_primary": "0",
+                "image_id": "132625"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132625_13c52c48523912cf_d.gif",
+                "width": 320,
+                "height": 138,
+                "is_primary": "0",
+                "image_id": "132625"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132625_13c52c48523912cf_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "132625"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18044251",
+            "role_id": "35236749",
+            "person_name": "Liberty & Company",
+            "person_date": "London, England, founded 1874",
+            "role_name": "Retailer",
+            "role_display_name": "Retailed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044251\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236749\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Cymric Brooch, ca. 1905. silver and enamel. Gift of Harry C. Sigman. 2013-21-24."
+    },
+    "colors": [
+        {
+            "color": "#63635e",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#23273b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#352f28",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
+}

@@ -1,0 +1,193 @@
+{
+    "id": "51682467",
+    "tms:id": "275924",
+    "accession_number": "14.2012.135",
+    "title": "Sketch For Pencilite (USA), ca. 1915",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/51682467\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "35390063",
+    "type_id": "68250361",
+    "date": "ca. 1915",
+    "year_start": 1910,
+    "year_end": 1920,
+    "year_acquired": null,
+    "decade": "1910",
+    "woe:country_id": "23424977",
+    "medium": "pencil on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W (drawing): 20 x 12.7 cm (7 7\/8 in. x 5 in.)",
+    "dimensions_raw": {
+        "height": [
+            "28.89",
+            "centimeters"
+        ],
+        "width": [
+            "21.59",
+            "centimeters"
+        ]
+    },
+    "creditline": "Joseph B. Friedman Papers, Archives Center, National Museum of American History, 2001.3031",
+    "description": null,
+    "justification": null,
+    "gallery_text": "Joseph Friedman\u2019s best-known invention is the flexible straw, but the range of his inventive activities encompassed improvements to engines, household products, and writing implements, including this sketch for one of his earliest inventions for a light-up pencil, the so-called \"Pencilite.\" Friedman frequently sketched on loose scraps of paper\u2014he was especially fond of envelopes\u2014working out ideas and solving problems, as here.",
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sketch for Pencilite",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92865_5eca8bd162e55e24_b.jpg",
+                "width": 653,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "92865"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92865_5eca8bd162e55e24_z.jpg",
+                "width": 408,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "92865"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92865_5eca8bd162e55e24_n.jpg",
+                "width": 204,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92865"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92865_5eca8bd162e55e24_d.gif",
+                "width": 204,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92865"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92865_5eca8bd162e55e24_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92865"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113591_fd5a01b079c51f52_b.jpg",
+                "width": 642,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113591"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113591_fd5a01b079c51f52_z.jpg",
+                "width": 401,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113591"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113591_fd5a01b079c51f52_n.jpg",
+                "width": 201,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113591"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113591_fd5a01b079c51f52_d.gif",
+                "width": 201,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113591"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113591_fd5a01b079c51f52_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113591"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113592_46b6c655d5602565_b.jpg",
+                "width": 641,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113592"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113592_46b6c655d5602565_z.jpg",
+                "width": 400,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113592"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113592_46b6c655d5602565_n.jpg",
+                "width": 200,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113592"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113592_46b6c655d5602565_d.gif",
+                "width": 200,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113592"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113592_46b6c655d5602565_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113592"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "35518595",
+            "role_id": "35236685",
+            "person_name": "Joseph B. Friedman",
+            "person_date": "(American, 1900-1982)",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/35518595\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sketch For Pencilite (USA), ca. 1915. pencil on paper. Joseph B. Friedman Papers, Archives Center, National Museum of American History, 2001.3031. 14.2012.135."
+    },
+    "colors": [
+        {
+            "color": "#a19a90",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#cfc3b3",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#75716d",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

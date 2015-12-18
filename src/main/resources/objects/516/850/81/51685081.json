@@ -1,0 +1,172 @@
+{
+    "id": "51685081",
+    "tms:id": "276068",
+    "accession_number": "2013-21-2",
+    "title": "Vase (France), ca. 1895",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/51685081\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "51866651",
+    "type_id": "35237225",
+    "date": "ca. 1895",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "2013",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "mold-blown, etched and carved glass, enamel fusions",
+    "markings": "On underside; incised in glass \"Daum Nancy.\"",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "2013, Given to Cooper-Hewitt by owner Harry C. Sigman",
+    "dimensions": "H x W x D: 28.9 x 11.4 x 8.9 cm (11 3\/8 x 4 1\/2 x 3 1\/2 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "8.89",
+            "centimeters"
+        ],
+        "height": [
+            "28.89",
+            "centimeters"
+        ],
+        "width": [
+            "11.43",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Harry C. Sigman",
+    "description": "Dark green and orange on an opaque ground, decorated with a high relief forest scene of thick trees with a spire and town roofs in the distance, beneath a bright orange sky; the vase widens as it rises until reaching a narrow neck just below the mouth.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": "1",
+    "woe:country": "23424819",
+    "type": "Vase",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83558_bdb574cf8b86eb69_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "83558"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83558_bdb574cf8b86eb69_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "83558"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83558_bdb574cf8b86eb69_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "83558"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83558_bdb574cf8b86eb69_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "83558"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83558_bdb574cf8b86eb69_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "83558"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83557_eea99427425f4ed5_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "83557"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83557_eea99427425f4ed5_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "83557"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83557_eea99427425f4ed5_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "83557"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83557_eea99427425f4ed5_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "83557"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83557_eea99427425f4ed5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "83557"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18049179",
+            "role_id": "35236685",
+            "person_name": "Daum",
+            "person_date": "founded 1878, Nancy, France",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049179\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Vase (France), ca. 1895. mold-blown, etched and carved glass, enamel fusions. Gift of Harry C. Sigman. 2013-21-2."
+    },
+    "colors": [
+        {
+            "color": "#435339",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#273225",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#6f8062",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#806229",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#757049",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

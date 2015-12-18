@@ -1,0 +1,137 @@
+{
+    "id": "51685163",
+    "tms:id": "276085",
+    "accession_number": "2013-21-25",
+    "title": "Brooch (England), ca. 1909",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/51685163\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "51686495",
+    "type_id": "35251201",
+    "date": "ca. 1909",
+    "year_start": 1909,
+    "year_end": 1909,
+    "year_acquired": "2013",
+    "decade": "1900",
+    "woe:country_id": "23424975",
+    "medium": "silver, cut purple stone",
+    "markings": "On underside; Marks : C.H in rectangular punch, Chester, script J for 1909 or S? for 1918",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "2013, Given to Cooper-Hewitt by owner Harry C. Sigman.",
+    "dimensions": "Diameter: 2.2 cm (7\/8 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "2.22",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Harry C. Sigman",
+    "description": "Round brooch with three protruding knobs surrounding a triangular silver band surrounding a cut purple stone in the center.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "brooch",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83544_cc479b7f563b91c4_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "83544"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83544_cc479b7f563b91c4_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "83544"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83544_cc479b7f563b91c4_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "83544"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83544_cc479b7f563b91c4_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "83544"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83544_cc479b7f563b91c4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "83544"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132545_c03248d0a1225d09_b.jpg",
+                "width": 1024,
+                "height": 925,
+                "is_primary": "0",
+                "image_id": "132545"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132545_c03248d0a1225d09_z.jpg",
+                "width": 640,
+                "height": 578,
+                "is_primary": "0",
+                "image_id": "132545"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132545_c03248d0a1225d09_n.jpg",
+                "width": 320,
+                "height": 289,
+                "is_primary": "0",
+                "image_id": "132545"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132545_c03248d0a1225d09_d.gif",
+                "width": 320,
+                "height": 289,
+                "is_primary": "0",
+                "image_id": "132545"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/132545_c03248d0a1225d09_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "132545"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Brooch (England), ca. 1909. silver, cut purple stone. Gift of Harry C. Sigman. 2013-21-25."
+    },
+    "colors": [
+        {
+            "color": "#565651",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#acaca3",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
+}

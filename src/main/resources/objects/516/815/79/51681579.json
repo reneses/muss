@@ -1,0 +1,115 @@
+{
+    "id": "51681579",
+    "tms:id": "275653",
+    "accession_number": "1947-49-11",
+    "title": "Textile, ca. 900",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/51681579\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35410677",
+    "type_id": "35251739",
+    "date": "ca. 900",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1947",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "cotton, wool",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": "Geometrical designs in tan and red. Motifs are outlined in contrasting shades.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65831_9fe9a116ff461f77_b.jpg",
+                "width": 610,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "65831"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65831_9fe9a116ff461f77_z.jpg",
+                "width": 381,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "65831"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65831_9fe9a116ff461f77_n.jpg",
+                "width": 191,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "65831"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65831_9fe9a116ff461f77_d.gif",
+                "width": 191,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "65831"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65831_9fe9a116ff461f77_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "65831"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18536889",
+            "role_id": "35351535",
+            "person_name": "Museum of the Cranbrook Academy of Art",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18536889\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile, ca. 900. cotton, wool. 1947-49-11."
+    },
+    "colors": [
+        {
+            "color": "#ab8b66",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#724f33",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#2f261f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#9c6642",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        }
+    ],
+    "is_loan_object": 0
+}

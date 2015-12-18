@@ -1,0 +1,179 @@
+{
+    "id": "51685069",
+    "tms:id": "276064",
+    "accession_number": "14.2013.1",
+    "title": "Fireback, Model C, 1884\u20131900",
+    "title_raw": "Model C",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/51685069\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "35418865",
+    "type_id": "35250721",
+    "date": "1884\u20131900",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": null,
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "cast iron",
+    "markings": "stamped \"Copyright 1884\" Lockwood de Forest \" on reverse",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D 47 x 81.3 x .6 cm (18 1\/2 in x 32 in x 1\/4 in)",
+    "dimensions_raw": {
+        "depth": [
+            "0.64",
+            "centimeters"
+        ],
+        "height": [
+            "46.99",
+            "centimeters"
+        ],
+        "width": [
+            "81.28",
+            "centimeters"
+        ]
+    },
+    "creditline": "Collection of Joe and Molly Seiler",
+    "description": "rectangular, the front surface of scroll decoration in relief",
+    "justification": null,
+    "gallery_text": "Like other designers during the Aesthetic and Arts and Crafts period, de Forest thought about designs for the complete interior\u2014including firebacks. These cast-iron panels could be arranged in a fireplace to add design continuity and radiate heat.",
+    "label_text": "Like other designers during the Aesthetic and Arts and Crafts period, de Forest thought about designs for the complete interior\u2014including firebacks. These cast-iron panels could be arranged in a fireplace to add design continuity and radiate heat.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "fireback",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/96954_4afc1047a361ed73_b.jpg",
+                "width": 628,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "96954"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/96954_4afc1047a361ed73_z.jpg",
+                "width": 393,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "96954"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/96954_4afc1047a361ed73_n.jpg",
+                "width": 196,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "96954"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/96954_4afc1047a361ed73_d.gif",
+                "width": 196,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "96954"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/96954_4afc1047a361ed73_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "96954"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95384_43ffcc3369c57bfc_b.jpg",
+                "width": 628,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "95384"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95384_43ffcc3369c57bfc_z.jpg",
+                "width": 393,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "95384"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95384_43ffcc3369c57bfc_n.jpg",
+                "width": 196,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "95384"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95384_43ffcc3369c57bfc_d.gif",
+                "width": 196,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "95384"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95384_43ffcc3369c57bfc_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "95384"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68813727",
+            "role_id": "35236657",
+            "person_name": "Smith & Anthony Stove Company",
+            "person_date": "Boston, Massachusetts, USA",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68813727\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18065337",
+            "role_id": "35236655",
+            "person_name": "Lockwood de Forest",
+            "person_date": "American, 1850\u20131932",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18065337\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18048471",
+            "role_id": "51571131",
+            "person_name": "Molly Seiler",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048471\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Fireback, Model C, 1884\u20131900. cast iron. Collection of Joe and Molly Seiler. 14.2013.1."
+    },
+    "colors": [
+        {
+            "color": "#867f80",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#3d3734",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#d2cac1",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        }
+    ],
+    "is_loan_object": 1
+}

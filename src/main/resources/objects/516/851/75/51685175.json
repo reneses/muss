@@ -1,0 +1,117 @@
+{
+    "id": "51685175",
+    "tms:id": "276088",
+    "accession_number": "2013-21-28",
+    "title": "Clock (England), ca. 1905",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/51685175\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "51689249",
+    "type_id": "35249083",
+    "date": "ca. 1905",
+    "year_start": 1905,
+    "year_end": 1905,
+    "year_acquired": "2013",
+    "decade": "1900",
+    "woe:country_id": "23424975",
+    "medium": "pewter, enamel",
+    "markings": "On bottom; marked \"Tudric\" and \"0629.",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "2013, Given to Cooper-Hewitt by owner Harry C. Sigman",
+    "dimensions": "H x W x D: 18.1 x 10.5 x 10.5 cm (7 1\/8 x 4 1\/8 x 4 1\/8 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "10.48",
+            "centimeters"
+        ],
+        "height": [
+            "18.10",
+            "centimeters"
+        ],
+        "width": [
+            "10.48",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Harry C. Sigman",
+    "description": "Architectural four-sided shape tapering up to a pyramidal top. In the upper half of the center, a circular copper face enameled in blue and green. In the lower half, an applied copper plaque with a motif enameled in dark blue-green and red.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": "1",
+    "woe:country": "23424975",
+    "type": "clock",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83566_1f29a83e43926c01_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "83566"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83566_1f29a83e43926c01_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "83566"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83566_1f29a83e43926c01_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "83566"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83566_1f29a83e43926c01_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "83566"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83566_1f29a83e43926c01_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "83566"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18044251",
+            "role_id": "35236749",
+            "person_name": "Liberty & Company",
+            "person_date": "London, England, founded 1874",
+            "role_name": "Retailer",
+            "role_display_name": "Retailed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044251\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236749\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Clock (England), ca. 1905. pewter, enamel. Gift of Harry C. Sigman. 2013-21-28."
+    },
+    "colors": [
+        {
+            "color": "#303439",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#372827",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
+}

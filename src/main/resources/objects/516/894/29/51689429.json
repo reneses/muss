@@ -1,0 +1,171 @@
+{
+    "id": "51689429",
+    "tms:id": "276290",
+    "accession_number": "2013-42-13",
+    "title": "Poster, Sandmarg, General Dynamics, 1957",
+    "title_raw": "Sandmarg, General Dynamics",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/51689429\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35399021",
+    "type_id": "35238163",
+    "date": "1957",
+    "year_start": 1957,
+    "year_end": 1957,
+    "year_acquired": "2013",
+    "decade": "1950",
+    "woe:country_id": "23424957",
+    "medium": "offset lithograph on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Gift to Cooper-Hewitt from  Arthur M. Cohen and Daryl R. Otte in Memory of Bill Moggridge, 2013; purchased at auction from Posters International May 2, 1999.",
+    "dimensions": "132.5 x 96 cm (52 3\/16 x 37 13\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "132.50",
+            "centimeters"
+        ],
+        "width": [
+            "96.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Arthur Cohen and Daryl Otte in memory of Bill Moggridge",
+    "description": "Poster depicts white abstract jellyfish form on a ground of blocks of greens, blues, and grays; a white line crosses the jellyfish from the top to the bottom. Below, in a black margin: GENERAL DYNAMICS.; in white, lower right: sandmarg.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424957",
+    "type": "poster",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89007_b3a1170da519e5d1_b.jpg",
+                "width": 750,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "89007"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89007_b3a1170da519e5d1_z.jpg",
+                "width": 469,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "89007"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89007_b3a1170da519e5d1_n.jpg",
+                "width": 234,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "89007"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89007_b3a1170da519e5d1_d.gif",
+                "width": 234,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "89007"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89007_b3a1170da519e5d1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "89007"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68248137",
+            "role_id": "35351535",
+            "person_name": "Daryl Otte",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248137\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "51688429",
+            "role_id": "35236673",
+            "person_name": "Lithos R. Marsens",
+            "person_date": "Lausanne, Switzerland",
+            "role_name": "Printer",
+            "role_display_name": "Printed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51688429\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236673\/"
+        },
+        {
+            "person_id": "18049511",
+            "role_id": "35236667",
+            "person_name": "General Dynamics Corporation",
+            "person_date": "USA",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049511\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        },
+        {
+            "person_id": "51688357",
+            "role_id": "35351535",
+            "person_name": "Arthur Cohen",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51688357\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18538331",
+            "role_id": "35236655",
+            "person_name": "Erik Nitsche",
+            "person_date": "Swiss, 1908 - 1998",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538331\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, Sandmarg, General Dynamics, 1957. offset lithograph on paper. Gift of Arthur Cohen and Daryl Otte in memory of Bill Moggridge. 2013-42-13."
+    },
+    "colors": [
+        {
+            "color": "#42424a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#4d5951",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#5b7260",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#75907c",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#463d35",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "Switzerland",
+    "is_loan_object": 0
+}

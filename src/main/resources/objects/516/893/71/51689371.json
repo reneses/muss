@@ -1,0 +1,149 @@
+{
+    "id": "51689371",
+    "tms:id": "276268",
+    "accession_number": "2013-52-2",
+    "title": "Print, New Urban Ground, Proposal for Rising Currents Exhibition, Museum of Modern Art, New York, NY, 2009",
+    "title_raw": "New Urban Ground, Proposal for Rising Currents Exhibition, Museum of Modern Art, New York, NY",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/51689371\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35434843",
+    "type_id": "35236873",
+    "date": "2009",
+    "year_start": 2009,
+    "year_end": 2009,
+    "year_acquired": "2013",
+    "decade": "2000",
+    "woe:country_id": "23424977",
+    "medium": "digital print on archival paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "2013: acquired by Museum directly from ARO",
+    "dimensions": "61 x 91.4 cm (24 x 36 in.)",
+    "dimensions_raw": {
+        "height": [
+            "60.96",
+            "centimeters"
+        ],
+        "width": [
+            "91.44",
+            "centimeters"
+        ]
+    },
+    "creditline": "Museum purchase from Architecture Research Office and from General Acquisitions Endowment Fund",
+    "description": "A perspective view of lower Manhattan featuring green areas of marshes and marina.",
+    "justification": "From 2009 to 2010, five interdisciplinary teams of architects, landscape architects, and other professionals were invited to take part in a program at MoMA PS1, directed by Barry Bergdoll (then Philip Johnson Chief Curator of Architecture and Design at MoMA), to address the problem of global warming and its impact on lower Manhattan. This was three years before Hurricane Sandy battered Manhattan in October 2012.\nClimate scientists and city officials from various agencies\u2014including the Office of Emergency Management, the Department of City Planning, and various New York State agencies\u2014were encouraged to visit PS1 and provide input. Feedback was also solicited from the public at open house events. The program resulted in five different proposed interventions for the treatment of lower Manhattan, one created by each team. The proposals were shown at MoMA in a 2011 exhibition, Rising Current: Projects for New York\u2019s Waterfront. \nOne of the five proposals was produced by 2011 National Design Award winner Architectural Research Office (ARO) in collaboration with Susannah C. Drake of dlandstudio. In 2008, Drake had designed a solution for cleaning up the Gowanus Canal that she called \u201cSponge Park,\u201d which was a space covered in an open-mesh concrete that absorbs and redistributes liquid. The ARO proposal, called \u201cNew Urban Ground,\u201d transforms the coastline of lower Manhattan\u2014through a series of man-made wetlands and absorbent concrete tiles\u2014into a green and ecofriendly transitional field that will enable Manhattan to survive the rising sea levels predicted as a result of climate change. These systems will act as an interactive buffer to restore the natural dynamic between water and land.\nThe proposal\u2019s package of presentation materials includes five digital renderings. The first is a schematic view of lower Manhattan showing the extent of ARO\u2019s intervention with parks and wetlands to create new ecosystems. The proposal adds two miles of shoreline to Manhattan and differentiates the types of interventions with different colors of green: the light green areas are salt water marshes, the medium green areas are freshwater wetlands, and the dark green areas are parks. An outer dotted line shows high tide based on a projected sea level rise of six feet. The inner dotted line shows the area that would be flooded by a 24-foot storm surge from a Category 2 hurricane. The second rendering imagines a perspective view of lower Manhattan to illustrate the new ecological interconnectedness of the park areas, the salt and freshwater marshes, and a marina. Two additional views illustrate lower Broadway and Hanover Square. These images show the porous concrete street tiles that will absorb and distribute the flood waters at different levels. They also depict two kinds of underground vaults: one is for dry utilities, such as electricity and telecommunications wiring; the other is for wet utilities, such as water, gas, and sewers. The fifth rendering is a view of the eastern shore of lower Manhattan that highlights the public use and enjoyment of the new landscape. The image features a series of raised walkways connecting the man-made estuaries as well as people kayaking in the river.\nThis set of renderings would be the first work by ARO to enter the museum\u2019s collection.",
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Print",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90098_3ea802f93bd2e1a0_b.jpg",
+                "width": 1024,
+                "height": 717,
+                "is_primary": "1",
+                "image_id": "90098"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90098_3ea802f93bd2e1a0_z.jpg",
+                "width": 640,
+                "height": 448,
+                "is_primary": "1",
+                "image_id": "90098"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90098_3ea802f93bd2e1a0_n.jpg",
+                "width": 320,
+                "height": 224,
+                "is_primary": "1",
+                "image_id": "90098"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90098_3ea802f93bd2e1a0_d.gif",
+                "width": 320,
+                "height": 224,
+                "is_primary": "1",
+                "image_id": "90098"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90098_3ea802f93bd2e1a0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "90098"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18048535",
+            "role_id": "35352247",
+            "person_name": "General Acquisitions Endowment",
+            "person_date": "",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048535\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        },
+        {
+            "person_id": "51688353",
+            "role_id": "35236655",
+            "person_name": "Susannah Churchill Drake",
+            "person_date": "American, b. 1965",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51688353\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18538851",
+            "role_id": "35236655",
+            "person_name": "ARO",
+            "person_date": "New York, New York, USA, founded 1993",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538851\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18538851",
+            "role_id": "35351535",
+            "person_name": "ARO",
+            "person_date": "New York, New York, USA, founded 1993",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538851\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Print, New Urban Ground, Proposal for Rising Currents Exhibition, Museum of Modern Art, New York, NY, 2009. digital print on archival paper. Museum purchase from Architecture Research Office and from General Acquisitions Endowment Fund. 2013-52-2."
+    },
+    "colors": [
+        {
+            "color": "#2c2b30",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#848b60",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#616350",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

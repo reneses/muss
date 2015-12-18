@@ -1,0 +1,160 @@
+{
+    "id": "51685087",
+    "tms:id": "276069",
+    "accession_number": "2013-21-3",
+    "title": "Vase (France), ca. 1900",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/51685087\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "51866653",
+    "type_id": "35237225",
+    "date": "ca. 1900",
+    "year_start": null,
+    "year_end": 1905,
+    "year_acquired": "2013",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "moulded glass, wrought iron",
+    "markings": "On underside; incised around rim of glass base in script \"L Majorelle.\" and \"Daum Nancy,\" separated by a Cross of Lorraine.",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "2013, Given to Cooper-Hewitt by owner Harry C. Sigman",
+    "dimensions": "H x diam.: 21 x 20.3 cm (8 1\/4 in. x 8 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "20.32",
+            "centimeters"
+        ],
+        "height": [
+            "20.96",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Harry C. Sigman",
+    "description": "Large, wide-mouthed green vase with metallic inclusions, within a heavy wrought iron framework.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Vase",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83559_4f819749edc3034e_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "83559"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83559_4f819749edc3034e_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "83559"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83559_4f819749edc3034e_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "83559"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83559_4f819749edc3034e_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "83559"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83559_4f819749edc3034e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "83559"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116932_2125f0a86eb6d6e0_b.jpg",
+                "width": 790,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "116932"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116932_2125f0a86eb6d6e0_z.jpg",
+                "width": 494,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "116932"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116932_2125f0a86eb6d6e0_n.jpg",
+                "width": 247,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "116932"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116932_2125f0a86eb6d6e0_d.gif",
+                "width": 247,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "116932"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116932_2125f0a86eb6d6e0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "116932"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18044473",
+            "role_id": "35236685",
+            "person_name": "Louis Majorelle",
+            "person_date": "French, 1859 \u2013 1926",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044473\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18049179",
+            "role_id": "35236685",
+            "person_name": "Daum",
+            "person_date": "founded 1878, Nancy, France",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049179\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Vase (France), ca. 1900. moulded glass, wrought iron. Gift of Harry C. Sigman. 2013-21-3."
+    },
+    "colors": [
+        {
+            "color": "#495b4e",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#68726c",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

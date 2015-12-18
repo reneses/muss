@@ -1,0 +1,162 @@
+{
+    "id": "51682307",
+    "tms:id": "275888",
+    "accession_number": "14.2012.99",
+    "title": "Sketch For Stool For Use With Brannock Device (USA), ca. 1947",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/51682307\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "35390063",
+    "type_id": "68743181",
+    "date": "ca. 1947",
+    "year_start": 1942,
+    "year_end": 1952,
+    "year_acquired": null,
+    "decade": "1940",
+    "woe:country_id": "23424977",
+    "medium": "pencil on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W (drawing): 31.8 x 20.3 cm (12 1\/2 in. x 8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "31.75",
+            "centimeters"
+        ],
+        "width": [
+            "20.32",
+            "centimeters"
+        ]
+    },
+    "creditline": "Brannock Device Company Records, Archives Center, National Museum of American History, 1998.3007",
+    "description": null,
+    "justification": null,
+    "gallery_text": "American inventor Charles Brannock often woke in the middle of the night to jot down written and sketched notes to capture a concept and used any available paper, rather than a formal invention notebook. His Brannock Device, a foot-measuring instrument he patented in 1928 (US Patent 1,682,366, granted August 28, 1928), was adopted by shoe stores across the United States and by the United States military to outfit its troops. This sketch represents one of the many ideas related to his device, including a specially designed stool for shoe-store salespeople.",
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sketch for Stool for Use with Brannock Device",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92857_f194364bc31bde02_b.jpg",
+                "width": 652,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "92857"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92857_f194364bc31bde02_z.jpg",
+                "width": 408,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "92857"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92857_f194364bc31bde02_n.jpg",
+                "width": 204,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92857"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92857_f194364bc31bde02_d.gif",
+                "width": 204,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92857"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92857_f194364bc31bde02_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92857"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113621_f194364bc31bde02_b.jpg",
+                "width": 652,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113621"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113621_f194364bc31bde02_z.jpg",
+                "width": 408,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113621"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113621_f194364bc31bde02_n.jpg",
+                "width": 204,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113621"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113621_f194364bc31bde02_d.gif",
+                "width": 204,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113621"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113621_f194364bc31bde02_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113621"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68248005",
+            "role_id": "35236685",
+            "person_name": "Charles F. Brannock",
+            "person_date": "(American, 1903-1992)",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248005\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sketch For Stool For Use With Brannock Device (USA), ca. 1947. pencil on paper. Brannock Device Company Records, Archives Center, National Museum of American History, 1998.3007. 14.2012.99."
+    },
+    "colors": [
+        {
+            "color": "#b28f63",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#c3bea2",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#86755f",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#544d47",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

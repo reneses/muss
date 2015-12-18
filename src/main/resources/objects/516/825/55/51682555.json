@@ -1,0 +1,156 @@
+{
+    "id": "51682555",
+    "tms:id": "275958",
+    "accession_number": "14.2012.169",
+    "title": "Sketch Of Dental Floss Cleaning Fork (USA), April 7, 1939",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/51682555\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "35390003",
+    "type_id": "68250387",
+    "date": "April 7, 1939",
+    "year_start": 1939,
+    "year_end": 1939,
+    "year_acquired": null,
+    "decade": "1930",
+    "woe:country_id": "23424977",
+    "medium": "ink on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W (drawing): 27.8 x 21.1 cm (10 15\/16 x 8 5\/16 in.)\nH x W (mounted): 36.7 x 30 cm (14 7\/16 x 11 13\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "36.67",
+            "centimeters"
+        ],
+        "width": [
+            "30.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Earl S. Tupper Papers, Archives Center, National Museum of American History, 1992.3213",
+    "description": null,
+    "justification": null,
+    "gallery_text": "The earliest designs of Tupperware inventor Earl S. Tupper reflect the flexibility of his ingenuity. Tupper\u2019s ideas, including this dental floss cleaning fork, are clearly laid out in an invention notebook, capturing not only the idea, but his entire process. \"Yesterday I made drawings, and the rough frame of my dental floss cleaning fork,\" he wrote in this sketch. \"Today I completed the sample and cleaned my teeth with it. Such things are quickly made and I should have made it when I first conceived the idea.\"",
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sketch of dental floss cleaning fork",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92893_a0b0e1d0953d3983_b.jpg",
+                "width": 781,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "92893"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92893_a0b0e1d0953d3983_z.jpg",
+                "width": 488,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "92893"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92893_a0b0e1d0953d3983_n.jpg",
+                "width": 244,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92893"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92893_a0b0e1d0953d3983_d.gif",
+                "width": 244,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92893"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92893_a0b0e1d0953d3983_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92893"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113602_daa5b7387017a1fe_b.jpg",
+                "width": 769,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113602"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113602_daa5b7387017a1fe_z.jpg",
+                "width": 480,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113602"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113602_daa5b7387017a1fe_n.jpg",
+                "width": 240,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113602"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113602_daa5b7387017a1fe_d.gif",
+                "width": 240,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113602"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113602_daa5b7387017a1fe_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113602"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68248007",
+            "role_id": "35236685",
+            "person_name": "Earl Silas Tupper",
+            "person_date": "(American, 1907-1983)",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248007\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sketch Of Dental Floss Cleaning Fork (USA), April 7, 1939. ink on paper. Earl S. Tupper Papers, Archives Center, National Museum of American History, 1992.3213. 14.2012.169."
+    },
+    "colors": [
+        {
+            "color": "#bdd3ce",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#b8aea3",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#544e4e",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

@@ -1,0 +1,168 @@
+{
+    "id": "51682485",
+    "tms:id": "275928",
+    "accession_number": "14.2012.139",
+    "title": "Sketch For Memo Pad With Adhesive Strip (USA), March 18, 1954",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/51682485\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "35390003",
+    "type_id": "68250369",
+    "date": "March 18, 1954",
+    "year_start": 1954,
+    "year_end": 1954,
+    "year_acquired": null,
+    "decade": "1950",
+    "woe:country_id": "23424977",
+    "medium": "ink on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W (drawing): 15.5 x 10.5 cm (6 1\/8 x 4 1\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "15.50",
+            "centimeters"
+        ],
+        "width": [
+            "10.48",
+            "centimeters"
+        ]
+    },
+    "creditline": "Joseph B. Friedman Papers, Archives Center, National Museum of American History, 2001.3031",
+    "description": null,
+    "justification": null,
+    "gallery_text": "Joseph Friedman\u2019s best-known invention is the flexible straw, but the range of his inventive activities encompassed writing implements, improvements to engines, and household objects. Friedman frequently sketched on loose scraps of paper\u2014he was especially fond of envelopes\u2014working out ideas and solving problems, as here, where he sketches out an idea for a memo pad with an adhesive strip\u2014and idea that predates the Post-It \u2122.",
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sketch for memo pad with adhesive strip",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92869_3acc4d3dea8b68ab_b.jpg",
+                "width": 705,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "92869"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92869_3acc4d3dea8b68ab_z.jpg",
+                "width": 440,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "92869"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92869_3acc4d3dea8b68ab_n.jpg",
+                "width": 220,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92869"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92869_3acc4d3dea8b68ab_d.gif",
+                "width": 220,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92869"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92869_3acc4d3dea8b68ab_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92869"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113597_3acc4d3dea8b68ab_b.jpg",
+                "width": 705,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113597"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113597_3acc4d3dea8b68ab_z.jpg",
+                "width": 441,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113597"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113597_3acc4d3dea8b68ab_n.jpg",
+                "width": 220,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113597"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113597_3acc4d3dea8b68ab_d.gif",
+                "width": 220,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113597"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113597_3acc4d3dea8b68ab_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113597"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "35518595",
+            "role_id": "35236685",
+            "person_name": "Joseph B. Friedman",
+            "person_date": "(American, 1900-1982)",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/35518595\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sketch For Memo Pad With Adhesive Strip (USA), March 18, 1954. ink on paper. Joseph B. Friedman Papers, Archives Center, National Museum of American History, 2001.3031. 14.2012.139."
+    },
+    "colors": [
+        {
+            "color": "#d1bca1",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#f8c4a7",
+            "closest_crayola": "#ffcfab",
+            "closest_css3": "#ffdead",
+            "closest_css4": "#ffdead"
+        },
+        {
+            "color": "#93847a",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#755b4d",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#030530",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

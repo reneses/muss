@@ -1,0 +1,162 @@
+{
+    "id": "51682565",
+    "tms:id": "275962",
+    "accession_number": "14.2012.173",
+    "title": "Sketch For \"Water Motor Cycle\" (USA), Undated",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/51682565\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "35389887",
+    "type_id": "68743205",
+    "date": "Undated",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": null,
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "ink and pencil on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W (drawing): 28 x 21.6 cm (11 in. x 8 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "36.83",
+            "centimeters"
+        ],
+        "width": [
+            "30.48",
+            "centimeters"
+        ]
+    },
+    "creditline": "Earl S. Tupper Papers, Archives Center, National Museum of American History, 1992.3213",
+    "description": null,
+    "justification": null,
+    "gallery_text": "Earl S. Tupper is best known for his \u201cTupperware,\u201d its airtight \u201cTupper Seal\u201d (US Patent 2,816,589, granted December 17, 1957) for food containers giving rise to an entire industry. But many of his earliest designs\u2014including for this \u201cwater motor cycle\u201d\u2014reflect the flexibility of his ingenuity, demonstrating Tupper\u2019s attention to detail. Such sketches capture not only his process but also the specific parameters for the use and manufacture of his idea: \u201cThe keel weight may be adjustable (up and down) and the body of the boat may be built high so as to give thrills on waves and curves, or afford absolute seaworthiness under worst sea conditions.\u201d",
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sketch for \"Water Motor Cycle\"",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92896_56931b8249b0ac24_b.jpg",
+                "width": 779,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "92896"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92896_56931b8249b0ac24_z.jpg",
+                "width": 487,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "92896"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92896_56931b8249b0ac24_n.jpg",
+                "width": 243,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92896"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92896_56931b8249b0ac24_d.gif",
+                "width": 243,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92896"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92896_56931b8249b0ac24_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92896"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113605_56931b8249b0ac24_b.jpg",
+                "width": 779,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113605"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113605_56931b8249b0ac24_z.jpg",
+                "width": 487,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113605"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113605_56931b8249b0ac24_n.jpg",
+                "width": 243,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113605"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113605_56931b8249b0ac24_d.gif",
+                "width": 243,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113605"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113605_56931b8249b0ac24_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113605"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68248007",
+            "role_id": "35236685",
+            "person_name": "Earl Silas Tupper",
+            "person_date": "(American, 1907-1983)",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248007\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sketch For \"Water Motor Cycle\" (USA), Undated. ink and pencil on paper. Earl S. Tupper Papers, Archives Center, National Museum of American History, 1992.3213. 14.2012.173."
+    },
+    "colors": [
+        {
+            "color": "#a2b9b1",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#847f75",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#665d56",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#30211f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

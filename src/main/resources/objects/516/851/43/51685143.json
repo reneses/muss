@@ -1,0 +1,148 @@
+{
+    "id": "51685143",
+    "tms:id": "276081",
+    "accession_number": "2013-21-21",
+    "title": "Menu Holder (England), 1905\u201306",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/51685143\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35371407",
+    "type_id": "51685141",
+    "date": "1905\u201306",
+    "year_start": 1905,
+    "year_end": 1906,
+    "year_acquired": "2013",
+    "decade": "1900",
+    "woe:country_id": "23424975",
+    "medium": "silver, enamel",
+    "markings": "On top surface of U-shaped horizontal element; \"Rd. 45330,\" then \"L\" \"&\" \"Co.\" each in a diamond-shaped box, then three silver marks for Birminham, sterling, and date letter \"f\" for 1905",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "2013, Given to Cooper-Hewitt by owner Harry C. Sigman",
+    "dimensions": "H x W x D: 2.2 x 3.8 x 3.5 cm (7\/8 x 1 1\/2 x 1 3\/8 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "3.49",
+            "centimeters"
+        ],
+        "height": [
+            "2.22",
+            "centimeters"
+        ],
+        "width": [
+            "3.81",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Harry C. Sigman",
+    "description": "Round enameled in blue, green and red ornament on the face with pierced Celtic motifs on each side; back-rest supported by a U-shaped horizontal element.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Menu holder",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83541_0fcaf3df32ae2d11_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "83541"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83541_0fcaf3df32ae2d11_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "83541"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83541_0fcaf3df32ae2d11_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "83541"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83541_0fcaf3df32ae2d11_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "83541"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83541_0fcaf3df32ae2d11_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "83541"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/131982_867d7ab453344621_b.jpg",
+                "width": 1024,
+                "height": 577,
+                "is_primary": "0",
+                "image_id": "131982"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/131982_867d7ab453344621_z.jpg",
+                "width": 640,
+                "height": 360,
+                "is_primary": "0",
+                "image_id": "131982"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/131982_867d7ab453344621_n.jpg",
+                "width": 320,
+                "height": 180,
+                "is_primary": "0",
+                "image_id": "131982"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/131982_867d7ab453344621_d.gif",
+                "width": 320,
+                "height": 180,
+                "is_primary": "0",
+                "image_id": "131982"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/131982_867d7ab453344621_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "131982"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18044251",
+            "role_id": "35236749",
+            "person_name": "Liberty & Company",
+            "person_date": "London, England, founded 1874",
+            "role_name": "Retailer",
+            "role_display_name": "Retailed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044251\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236749\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Menu Holder (England), 1905\u201306. silver, enamel. Gift of Harry C. Sigman. 2013-21-21."
+    },
+    "colors": [
+        {
+            "color": "#606664",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
+}

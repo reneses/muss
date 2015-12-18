@@ -1,0 +1,187 @@
+{
+    "id": "51685187",
+    "tms:id": "276090",
+    "accession_number": "2013-21-31",
+    "title": "Butter Spoon (Scotland), ca. 1900",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/51685187\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "51686501",
+    "type_id": "51685185",
+    "date": "ca. 1900",
+    "year_start": null,
+    "year_end": 1905,
+    "year_acquired": "2013",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "silver-plated nickel",
+    "markings": "Stamped on underside of the handle: \"Miss Cranston's  in a rectangular shield conforming to upper case M and C\"",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "2013, Given to Cooper-Hewitt by owner Harry C. Sigman",
+    "dimensions": "Length: 21 cm (8 1\/4 in.)",
+    "dimensions_raw": {
+        "length": [
+            "20.96",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Harry C. Sigman",
+    "description": "Elongated spoon with a club-shaped trefoil finial at the end of a flat widening stem.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Butter spoon",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83569_5d100700466f6a5c_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "83569"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83569_5d100700466f6a5c_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "83569"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83569_5d100700466f6a5c_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "83569"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83569_5d100700466f6a5c_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "83569"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83569_5d100700466f6a5c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "83569"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119150_1735493554aa2713_b.jpg",
+                "width": 541,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "119150"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119150_1735493554aa2713_z.jpg",
+                "width": 338,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "119150"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119150_1735493554aa2713_n.jpg",
+                "width": 169,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "119150"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119150_1735493554aa2713_d.gif",
+                "width": 169,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "119150"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119150_1735493554aa2713_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "119150"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83568_75628b860a7d56ad_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "83568"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83568_75628b860a7d56ad_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "83568"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83568_75628b860a7d56ad_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "83568"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83568_75628b860a7d56ad_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "83568"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83568_75628b860a7d56ad_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "83568"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "51685437",
+            "role_id": "35236667",
+            "person_name": "Miss Catherine Cranston",
+            "person_date": "Scottish, 1849\u20131934",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51685437\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        },
+        {
+            "person_id": "18044987",
+            "role_id": "35236655",
+            "person_name": "Charles Rennie Mackintosh",
+            "person_date": "Scottish, 1868\u20131928",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044987\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Butter Spoon (Scotland), ca. 1900. silver-plated nickel. Gift of Harry C. Sigman. 2013-21-31."
+    },
+    "colors": [
+        {
+            "color": "#2e2e2d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
+}

@@ -1,0 +1,199 @@
+{
+    "id": "51682299",
+    "tms:id": "275885",
+    "accession_number": "14.2012.96",
+    "title": "Sketch For Mechanism For Measuring Width Of Foot (USA), 1940s",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/51682299\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "35390063",
+    "type_id": "68743177",
+    "date": "1940s",
+    "year_start": 1940,
+    "year_end": 1949,
+    "year_acquired": null,
+    "decade": "1940",
+    "woe:country_id": "23424977",
+    "medium": "pencil on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W (drawing): 25.2 x 20.2 cm (9 15\/16 x 7 15\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "25.24",
+            "centimeters"
+        ],
+        "width": [
+            "20.16",
+            "centimeters"
+        ]
+    },
+    "creditline": "Brannock Device Company Records, Archives Center, National Museum of American History, 1998.3007",
+    "description": null,
+    "justification": null,
+    "gallery_text": "American inventor Charles Brannock often woke in the middle of the night to jot down written and sketched notes to capture a concept and used any available paper, rather than a formal invention notebook. This sketch offers insights into the process that resulted in his Brannock Device, a foot-measuring instrument he patented in 1928 (US Patent 1,682,366, granted August 28, 1928). The now-ubiquitous tool was adopted by shoe stores across the United States and by the United States military to outfit its troops. Brannock refined his device over two years, with a sequence of models, from one made with his childhood Erector\u00ae set, to a cardboard example displaying calibrations, to a pattern in wood. The final production model was of cast aluminum and assembled by hand. Brannock began manufacturing it in 1925, and in 1926 he offered his invention to shoe retailers.",
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sketch for Mechanism for Measuring Width of Foot",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92856_06ef5011f364564a_b.jpg",
+                "width": 815,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "92856"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92856_06ef5011f364564a_z.jpg",
+                "width": 509,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "92856"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92856_06ef5011f364564a_n.jpg",
+                "width": 255,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92856"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92856_06ef5011f364564a_d.gif",
+                "width": 255,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92856"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92856_06ef5011f364564a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92856"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113624_06ef5011f364564a_b.jpg",
+                "width": 815,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113624"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113624_06ef5011f364564a_z.jpg",
+                "width": 509,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113624"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113624_06ef5011f364564a_n.jpg",
+                "width": 255,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113624"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113624_06ef5011f364564a_d.gif",
+                "width": 255,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113624"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113624_06ef5011f364564a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113624"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113661_d815070a951f48b5_b.jpg",
+                "width": 822,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113661"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113661_d815070a951f48b5_z.jpg",
+                "width": 513,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113661"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113661_d815070a951f48b5_n.jpg",
+                "width": 257,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113661"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113661_d815070a951f48b5_d.gif",
+                "width": 257,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113661"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113661_d815070a951f48b5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113661"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68248005",
+            "role_id": "35236685",
+            "person_name": "Charles F. Brannock",
+            "person_date": "(American, 1903-1992)",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248005\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sketch For Mechanism For Measuring Width Of Foot (USA), 1940s. pencil on paper. Brannock Device Company Records, Archives Center, National Museum of American History, 1998.3007. 14.2012.96."
+    },
+    "colors": [
+        {
+            "color": "#aeb3b8",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#706868",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#9a8f8a",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#47434a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

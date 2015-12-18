@@ -1,0 +1,94 @@
+{
+    "id": "51681689",
+    "tms:id": "275682",
+    "accession_number": "1941-98-73-a",
+    "title": "Whale Oil Lamp, early 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/51681689\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35427343",
+    "type_id": "35289107",
+    "date": "early 19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1941",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "tin, brass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": "One of a pair of whale oil lamps. Flat semicircular container with brass cup over the filling hole; attached to a triangular piece of tin, arched below and with hole at top; at the front of the container a pipe connecting with upright cylinder which is fitted with two brass tubes and a brass plate. -a and -b are the same.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "whale oil lamp",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/187532_47b79cd9336738bf_b.jpg",
+                "width": 1024,
+                "height": 1021,
+                "is_primary": "1",
+                "image_id": "187532"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/187532_47b79cd9336738bf_z.jpg",
+                "width": 640,
+                "height": 638,
+                "is_primary": "1",
+                "image_id": "187532"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/187532_47b79cd9336738bf_n.jpg",
+                "width": 320,
+                "height": 319,
+                "is_primary": "1",
+                "image_id": "187532"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/187532_47b79cd9336738bf_d.gif",
+                "width": 320,
+                "height": 319,
+                "is_primary": "1",
+                "image_id": "187532"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/187532_47b79cd9336738bf_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "187532"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Whale Oil Lamp, early 19th century. tin, brass. 1941-98-73-a."
+    },
+    "colors": [
+        {
+            "color": "#574c40",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#2a2018",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        }
+    ],
+    "is_loan_object": 0
+}

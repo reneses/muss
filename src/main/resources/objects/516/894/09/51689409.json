@@ -1,0 +1,171 @@
+{
+    "id": "51689409",
+    "tms:id": "276281",
+    "accession_number": "2013-42-4",
+    "title": "Poster, Electronic Intelligence, General Dynamics, ca. 1954",
+    "title_raw": "Electronic Intelligence, General Dynamics",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/51689409\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35399021",
+    "type_id": "35238163",
+    "date": "ca. 1954",
+    "year_start": 1949,
+    "year_end": 1959,
+    "year_acquired": "2013",
+    "decade": "1940",
+    "woe:country_id": "23424957",
+    "medium": "offset lithograph on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "May 2, 1999: Arthur M. Cohen and Daryl R. Otte (from Posters International); 2013: acquired by Museum",
+    "dimensions": "132.5 x 95.9 cm (52 3\/16 x 37 3\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "132.50",
+            "centimeters"
+        ],
+        "width": [
+            "95.90",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Arthur Cohen and Daryl Otte in memory of Bill Moggridge",
+    "description": "Poster depicts abstract topographical map with arcs in black and brown. Upper left: electronic intellegence; lower margin: GENERAL DYNAMICS.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424957",
+    "type": "poster",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85153_ca7a23880408f2a9_b.jpg",
+                "width": 747,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "85153"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85153_ca7a23880408f2a9_z.jpg",
+                "width": 467,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "85153"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85153_ca7a23880408f2a9_n.jpg",
+                "width": 233,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "85153"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85153_ca7a23880408f2a9_d.gif",
+                "width": 233,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "85153"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85153_ca7a23880408f2a9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "85153"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68248137",
+            "role_id": "35351535",
+            "person_name": "Daryl Otte",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248137\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18049511",
+            "role_id": "35236667",
+            "person_name": "General Dynamics Corporation",
+            "person_date": "USA",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049511\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        },
+        {
+            "person_id": "51688429",
+            "role_id": "35236673",
+            "person_name": "Lithos R. Marsens",
+            "person_date": "Lausanne, Switzerland",
+            "role_name": "Printer",
+            "role_display_name": "Printed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51688429\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236673\/"
+        },
+        {
+            "person_id": "51688357",
+            "role_id": "35351535",
+            "person_name": "Arthur Cohen",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51688357\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18538331",
+            "role_id": "35236655",
+            "person_name": "Erik Nitsche",
+            "person_date": "Swiss, 1908 - 1998",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538331\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, Electronic Intelligence, General Dynamics, ca. 1954. offset lithograph on paper. Gift of Arthur Cohen and Daryl Otte in memory of Bill Moggridge. 2013-42-4."
+    },
+    "colors": [
+        {
+            "color": "#bcbc9e",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#e9e9d2",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#faebd7",
+            "closest_css4": "#faebd7"
+        },
+        {
+            "color": "#889a5d",
+            "closest_crayola": "#87a96b",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#575d45",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#b8ab65",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        }
+    ],
+    "woe:country_name": "Switzerland",
+    "is_loan_object": 0
+}

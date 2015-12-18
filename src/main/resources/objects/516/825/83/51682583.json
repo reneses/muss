@@ -1,0 +1,256 @@
+{
+    "id": "51682583",
+    "tms:id": "275970",
+    "accession_number": "14.2012.181",
+    "title": "Patent Model For Wire Rope-making Machine, Patent No. 2,720 (USA), July 16, 1842",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/51682583\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "35393845",
+    "type_id": "68894395",
+    "date": "July 16, 1842",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": null,
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "brass, steel",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 27.9 x 26.7 x 24.1 cm (11 x 10 1\/2 x 9 1\/2 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "24.13",
+            "centimeters"
+        ],
+        "height": [
+            "27.94",
+            "centimeters"
+        ],
+        "width": [
+            "26.67",
+            "centimeters"
+        ]
+    },
+    "creditline": "Smithsonian Institution, National Museum of American History, Cat. 308790",
+    "description": null,
+    "justification": null,
+    "gallery_text": "This patent model was included with John A. Roebling\u2019s, \"Method of and Machine for Manufacturing Wire Ropes\" (US Patent 2,720, granted July 16, 1842). Roebling\u2019s patent detailed how to manufacture wire rope using greased insulating wire \"for the formation of a perfect and continuous wrapping.\" The strength and durability of Roebling\u2019s invention made it superior to hemp rope in many industrial applications. John A. Roebling & Sons Company was the preeminent manufacturer of wire rope during the late nineteenth and early twentieth century. Roebling, an engineer and inventor, engineered the Niagara Falls Suspension Bridge; Ohio\u2019s Roebling Suspension Bridge; and, most famously, the Brooklyn Bridge. His company also supplied the wire rope for the George Washington and Golden Gate bridges. Wire rope had a starring role in the mechanization and electrification of modern America, due to its use in cable cars, elevators, telephones, telegraphs, and electrical systems.",
+    "label_text": "Nineteenth-century patent models served a variety of purposes, from demonstrating design and function, to inspiring inventors, to understanding what was possible. Similarly with these examples of twenty-first-century technology that make portraits, print tools, or translate hand gestures into form and mass\u2014they are statements about and visual wonders of our digital age.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Patent Model for Wire Rope-making Machine, Patent No. 2,720",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93467_6ff0ec9b262a8d66_b.jpg",
+                "width": 803,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "93467"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93467_6ff0ec9b262a8d66_z.jpg",
+                "width": 502,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "93467"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93467_6ff0ec9b262a8d66_n.jpg",
+                "width": 251,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93467"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93467_6ff0ec9b262a8d66_d.gif",
+                "width": 251,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93467"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93467_6ff0ec9b262a8d66_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93467"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180831_bd7cc7354b292ec7_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "180831"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180831_bd7cc7354b292ec7_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "180831"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180831_bd7cc7354b292ec7_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "180831"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180831_bd7cc7354b292ec7_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "180831"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180831_bd7cc7354b292ec7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "180831"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113610_bd7cc7354b292ec7_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113610"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113610_bd7cc7354b292ec7_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113610"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113610_bd7cc7354b292ec7_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113610"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113610_bd7cc7354b292ec7_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113610"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113610_bd7cc7354b292ec7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113610"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113611_18729031b878ca99_b.jpg",
+                "width": 950,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113611"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113611_18729031b878ca99_z.jpg",
+                "width": 594,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113611"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113611_18729031b878ca99_n.jpg",
+                "width": 297,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113611"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113611_18729031b878ca99_d.gif",
+                "width": 297,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113611"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113611_18729031b878ca99_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113611"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68248077",
+            "role_id": "35236685",
+            "person_name": "John A. Roebling",
+            "person_date": "(American, 1806-1869)",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248077\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18041125",
+            "role_id": "51571131",
+            "person_name": "National Museum of American History",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041125\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Patent Model For Wire Rope-making Machine, Patent No. 2,720 (USA), July 16, 1842. brass, steel. Smithsonian Institution, National Museum of American History, Cat. 308790. 14.2012.181."
+    },
+    "colors": [
+        {
+            "color": "#beafa5",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#98897a",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#73695f",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#755f34",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#483d29",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

@@ -1,0 +1,188 @@
+{
+    "id": "51682079",
+    "tms:id": "275814",
+    "accession_number": "1981-60-12",
+    "title": "Poster, Ten Years After, 1969",
+    "title_raw": "Ten Years After",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/51682079\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35419317",
+    "type_id": "35238163",
+    "date": "1969",
+    "year_start": 1969,
+    "year_end": 1969,
+    "year_acquired": "1981",
+    "decade": "1960",
+    "woe:country_id": "23424977",
+    "medium": "lithograph on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1981: acquired by Museum",
+    "dimensions": "53.4 x 35.6 cm (21 x 14 in.)",
+    "dimensions_raw": {
+        "height": [
+            "53.40",
+            "centimeters"
+        ],
+        "width": [
+            "35.60",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "For Fillmore Auditorium, San Francisco, CA",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89628_55fc1ae3c13532b7_b.jpg",
+                "width": 694,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "89628"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89628_55fc1ae3c13532b7_z.jpg",
+                "width": 434,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "89628"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89628_55fc1ae3c13532b7_n.jpg",
+                "width": 217,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "89628"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89628_55fc1ae3c13532b7_d.gif",
+                "width": 217,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "89628"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89628_55fc1ae3c13532b7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "89628"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/205947_0f347317553109b4_b.jpg",
+                "width": 692,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "205947"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/205947_0f347317553109b4_z.jpg",
+                "width": 432,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "205947"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/205947_0f347317553109b4_n.jpg",
+                "width": 216,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "205947"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/205947_0f347317553109b4_d.gif",
+                "width": 216,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "205947"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/205947_0f347317553109b4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "205947"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18058429",
+            "role_id": "35351535",
+            "person_name": "Mr. Leslie Schreyer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058429\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18056699",
+            "role_id": "35236655",
+            "person_name": "Lee Conklin",
+            "person_date": "b. 1941",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056699\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18060947",
+            "role_id": "35236661",
+            "person_name": "Bill Graham",
+            "person_date": "American, 1931\u20131991",
+            "role_name": "Publisher",
+            "role_display_name": "Published by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18060947\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236661\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, Ten Years After, 1969. lithograph on paper. 1981-60-12."
+    },
+    "colors": [
+        {
+            "color": "#eec9a3",
+            "closest_crayola": "#edd19c",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
+        },
+        {
+            "color": "#e23201",
+            "closest_crayola": "#ff2b2b",
+            "closest_css3": "#ff4500",
+            "closest_css4": "#ff4500"
+        },
+        {
+            "color": "#8906b5",
+            "closest_crayola": "#7442c8",
+            "closest_css3": "#9400d3",
+            "closest_css4": "#9400d3"
+        },
+        {
+            "color": "#ec7c09",
+            "closest_crayola": "#c46210",
+            "closest_css3": "#ff8c00",
+            "closest_css4": "#ff8c00"
+        },
+        {
+            "color": "#cd8d97",
+            "closest_crayola": "#d98695",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

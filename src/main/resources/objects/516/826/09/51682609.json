@@ -1,0 +1,186 @@
+{
+    "id": "51682609",
+    "tms:id": "275982",
+    "accession_number": "14.2012.193",
+    "title": "Patent Model For A Clothespin, Patent No. 141,740 (USA), August 12, 1873",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/51682609\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "35394033",
+    "type_id": "68894417",
+    "date": "August 12, 1873",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": null,
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "wood, metal",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 7.9 x 1.9 x 1.3 cm (3 1\/8 x 3\/4 x 1\/2 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "1.27",
+            "centimeters"
+        ],
+        "height": [
+            "7.94",
+            "centimeters"
+        ],
+        "width": [
+            "1.91",
+            "centimeters"
+        ]
+    },
+    "creditline": "Smithsonian Institution, National Museum of American History, Cat. T11393.025",
+    "description": null,
+    "justification": null,
+    "gallery_text": "\u201cWith the clothes-pin thus constructed, the clothes may be placed on the line and held by the pin, or held by the rubber tooth, it below the line. The goods in either case will not come in contact with the metal, and hence cannot become tarnished or soiled, and the rubber fitting being flexible it will not rend or tear.\u201d\nThe earliest American patent for a clothespin was granted in 1832, though designs for hanging one\u2019s laundry were likely known in England before then. In 1853, Vermont inventor David M. Smith patented a groundbreaking version of the device that employed two hinged arms, a design that more closely resembles today\u2019s clothespin. These patent models represent some of the 146 patents issued for clothespins between the years 1852 and 1887. Most have been largely forgotten as a product of shortsighted ingenuity, but this collection nonetheless sheds light on the patent frenzy of the late 19th-century.  Most patented clothespins in this period were for minor improvements, and almost all share a common goal: to keep clothes on the drying line without falling off. Some, including a later version patented by Smith in 1867, propose alternative materials for existing designs (in this case, substituting the wire for a cheaper wooden joint). Others dispense with a joint altogether in favor of a cut wood model, like the easily portable version patented by Henry Mellish in 1871. Today, an estimated 60 percent of all American homes have an automatic clothes dryer, rendering the clothespin more or less obsolete\u2014except in the case of children\u2019s craft projects. Indeed, Vermont\u2019s National Clothespin Factory, the last factory producing wooden clothespins in the United States, closed its doors in 2002.",
+    "label_text": "Nineteenth-century patent models served a variety of purposes, from demonstrating design and function, to inspiring inventors, to understanding what was possible. Similarly with these examples of twenty-first-century technology that make portraits, print tools, or translate hand gestures into form and mass\u2014they are statements about and visual wonders of our digital age.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Patent Model for a Clothespin, Patent No. 141,740",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80762_ba4edfea49b8355e_b.jpg",
+                "width": 768,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "80762"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80762_ba4edfea49b8355e_z.jpg",
+                "width": 480,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "80762"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80762_ba4edfea49b8355e_n.jpg",
+                "width": 240,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "80762"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80762_ba4edfea49b8355e_d.gif",
+                "width": 240,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "80762"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80762_ba4edfea49b8355e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "80762"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113626_ba4edfea49b8355e_b.jpg",
+                "width": 768,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113626"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113626_ba4edfea49b8355e_z.jpg",
+                "width": 480,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113626"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113626_ba4edfea49b8355e_n.jpg",
+                "width": 240,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113626"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113626_ba4edfea49b8355e_d.gif",
+                "width": 240,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113626"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113626_ba4edfea49b8355e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113626"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68742839",
+            "role_id": "35236685",
+            "person_name": "Benjamin Charles",
+            "person_date": "(American, n.d.)",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68742839\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "68248047",
+            "role_id": "35236685",
+            "person_name": "Vincent D. Urso",
+            "person_date": "(American, b. Italy, 1850)",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248047\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18041125",
+            "role_id": "51571131",
+            "person_name": "National Museum of American History",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041125\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Patent Model For A Clothespin, Patent No. 141,740 (USA), August 12, 1873. wood, metal. Smithsonian Institution, National Museum of American History, Cat. T11393.025. 14.2012.193."
+    },
+    "colors": [
+        {
+            "color": "#b69372",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#dab98e",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#deb887",
+            "closest_css4": "#deb887"
+        },
+        {
+            "color": "#c9c0b1",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#7d6f61",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

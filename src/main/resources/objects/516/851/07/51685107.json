@@ -1,0 +1,172 @@
+{
+    "id": "51685107",
+    "tms:id": "276074",
+    "accession_number": "2013-21-8-a\/d",
+    "title": "Buffet (France), ca. 1905",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/51685107\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "68765557",
+    "type_id": "35298127",
+    "date": "ca. 1905",
+    "year_start": null,
+    "year_end": 1910,
+    "year_acquired": "2013",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "carved and veneered walnut , marble, wrought iron, stained glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "2013, Given to Cooper-Hewitt by owner Harry  C. Sigman",
+    "dimensions": "H x W x D: 157.5 x 124.5 x 47 cm (5 ft. 2 in. x 49 in. x 18 1\/2 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "46.99",
+            "centimeters"
+        ],
+        "height": [
+            "157.48",
+            "centimeters"
+        ],
+        "width": [
+            "124.46",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Harry C. Sigman",
+    "description": "Walnut body, carved at several places to represent algae, consisting of two cabinets in the base, an open space under two drawers under a horizontal surface covered with a marble slab, all below an upper small wooden shelf backed by a vertical surface consisting of mottled colored glass representing the sea behind wrought iron in the form of seawood; gilded metal drawer pulls.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Buffet",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80130_76bf5296ba70d3f6_b.jpg",
+                "width": 721,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "80130"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80130_76bf5296ba70d3f6_z.jpg",
+                "width": 450,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "80130"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80130_76bf5296ba70d3f6_n.jpg",
+                "width": 225,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "80130"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80130_76bf5296ba70d3f6_d.gif",
+                "width": 225,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "80130"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80130_76bf5296ba70d3f6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "80130"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80128_d4a0895e145a8a9e_b.jpg",
+                "width": 1024,
+                "height": 721,
+                "is_primary": "0",
+                "image_id": "80128"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80128_d4a0895e145a8a9e_z.jpg",
+                "width": 640,
+                "height": 450,
+                "is_primary": "0",
+                "image_id": "80128"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80128_d4a0895e145a8a9e_n.jpg",
+                "width": 320,
+                "height": 225,
+                "is_primary": "0",
+                "image_id": "80128"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80128_d4a0895e145a8a9e_d.gif",
+                "width": 320,
+                "height": 225,
+                "is_primary": "0",
+                "image_id": "80128"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80128_d4a0895e145a8a9e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "80128"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18044473",
+            "role_id": "35236655",
+            "person_name": "Louis Majorelle",
+            "person_date": "French, 1859 \u2013 1926",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044473\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Buffet (France), ca. 1905. carved and veneered walnut , marble, wrought iron, stained glass. Gift of Harry C. Sigman. 2013-21-8-a\/d."
+    },
+    "colors": [
+        {
+            "color": "#392716",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#6e502b",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#cfcaba",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#999482",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#514535",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

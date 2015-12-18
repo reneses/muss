@@ -1,0 +1,162 @@
+{
+    "id": "51682557",
+    "tms:id": "275959",
+    "accession_number": "14.2012.170",
+    "title": "Sketch For \"Cork Or Stopper To Measure Pills From Bottle\" (USA), September 10, 1937",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/51682557\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "35390003",
+    "type_id": "68743191",
+    "date": "September 10, 1937",
+    "year_start": 1937,
+    "year_end": 1937,
+    "year_acquired": null,
+    "decade": "1930",
+    "woe:country_id": "23424977",
+    "medium": "ink on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W (drawing): 27.8 x 21.5 cm (10 15\/16 x 8 7\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "27.78",
+            "centimeters"
+        ],
+        "width": [
+            "21.50",
+            "centimeters"
+        ]
+    },
+    "creditline": "Earl S. Tupper Papers, Archives Center, National Museum of American History, 1992.3213",
+    "description": null,
+    "justification": null,
+    "gallery_text": "Earl Tupper is best known for his \u201cTupperware,\u201d its airtight \u201cTupper Seal\u201d (US Patent 2,816,589, granted December 17, 1957) for food containers giving rise to an entire industry. But many of his earliest designs\u2014like this \u201cCork or Stopper to Measure Pills from Bottle\u201d\u2014reflect the flexibility of his ingenuity. Tupper\u2019s ideas, visualized in an invention notebook, are clearly laid out, demonstrating Tupper\u2019s attention to detail: \u201cBottle of pills with stopper in place ready for pills to roll into hole,\u201d he wrote. \u201cWhen pill is in hole, withdraw stopper far enough to hold it, then tip bottle right side up and pull stopper clean out and deposit pill in hand. Stopper with hole to receive pill.\u201d",
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sketch for \"Cork or Stopper to Measure Pills from Bottle\"",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92894_9ed9d723bffe22c1_b.jpg",
+                "width": 790,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "92894"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92894_9ed9d723bffe22c1_z.jpg",
+                "width": 494,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "92894"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92894_9ed9d723bffe22c1_n.jpg",
+                "width": 247,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92894"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92894_9ed9d723bffe22c1_d.gif",
+                "width": 247,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92894"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92894_9ed9d723bffe22c1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92894"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113603_9ed9d723bffe22c1_b.jpg",
+                "width": 790,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113603"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113603_9ed9d723bffe22c1_z.jpg",
+                "width": 494,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113603"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113603_9ed9d723bffe22c1_n.jpg",
+                "width": 247,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113603"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113603_9ed9d723bffe22c1_d.gif",
+                "width": 247,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113603"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113603_9ed9d723bffe22c1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113603"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68248007",
+            "role_id": "35236685",
+            "person_name": "Earl Silas Tupper",
+            "person_date": "(American, 1907-1983)",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248007\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sketch For \"Cork Or Stopper To Measure Pills From Bottle\" (USA), September 10, 1937. ink on paper. Earl S. Tupper Papers, Archives Center, National Museum of American History, 1992.3213. 14.2012.170."
+    },
+    "colors": [
+        {
+            "color": "#acccc8",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#b0c4de",
+            "closest_css4": "#b0c4de"
+        },
+        {
+            "color": "#9ca7a2",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#716c69",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#3c373a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

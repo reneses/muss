@@ -1,0 +1,188 @@
+{
+    "id": "51686683",
+    "tms:id": "276184",
+    "accession_number": "2013-32-4-2",
+    "title": "Sample, Fluffy Furnishing, 1965",
+    "title_raw": "Fluffy Furnishing",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/51686683\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35268079",
+    "date": "1965",
+    "year_start": 1965,
+    "year_end": 1965,
+    "year_acquired": "2013",
+    "decade": "1960",
+    "woe:country_id": "23424848",
+    "medium": "cotton",
+    "markings": null,
+    "signed": null,
+    "inscribed": "B No. 3 (on adhesive label)",
+    "provenance": "2013: acquired by Museum",
+    "dimensions": "H x W: 22.2 x 24.1 cm (8 3\/4 x 9 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "22.23",
+            "centimeters"
+        ],
+        "width": [
+            "24.13",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of the Cristobal Zanartu Family, Paris",
+    "description": "Sample of hand-woven cotton in which the warps are much thinner and more tightly twisted than the loosely-twisted, irregularly spun wefts, which vary in thickness across their length. Ochre and hot pink warps; ochre wefts.",
+    "justification": "Since the beginning of her career, Sheila Hicks has worked as both an artist and a designer, collaborating with architects and with industry. After graduating from Yale and studying weaving for several years in South and Central America, she established her own experimental weaving workshop in Taxco, Mexico. The weavings she created there were exhibited at the Knoll showroom in Mexico City in 1962, and at the Chicago Merchandise Mart the next year. In 1964 she met Florence Knoll Basset, who engaged her to produce textile designs and to serve as materials and color consultant to Knoll Textiles. She also designed hand-embroidered upholstery for Knoll International in France, for use on Saarinen pedestal chairs. \nThe collaboration with Knoll was short-lived, but in 1965, Hicks was approached by a representative of Commonwealth Trust of Calicut, Kerala, India. CommTrust was (and is) the longest continually operating hand-weaving mill in India. The mill had thousands of highly skilled weav",
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424848",
+    "type": "Sample",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/181360_0b6c40e209d74174_b.jpg",
+                "width": 1024,
+                "height": 985,
+                "is_primary": "1",
+                "image_id": "181360"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/181360_0b6c40e209d74174_z.jpg",
+                "width": 640,
+                "height": 616,
+                "is_primary": "1",
+                "image_id": "181360"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/181360_0b6c40e209d74174_n.jpg",
+                "width": 320,
+                "height": 308,
+                "is_primary": "1",
+                "image_id": "181360"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/181360_0b6c40e209d74174_d.gif",
+                "width": 320,
+                "height": 308,
+                "is_primary": "1",
+                "image_id": "181360"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/181360_0b6c40e209d74174_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "181360"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66407_1014edd10a136520_b.jpg",
+                "width": 1024,
+                "height": 987,
+                "is_primary": "0",
+                "image_id": "66407"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66407_1014edd10a136520_z.jpg",
+                "width": 640,
+                "height": 617,
+                "is_primary": "0",
+                "image_id": "66407"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66407_1014edd10a136520_n.jpg",
+                "width": 320,
+                "height": 308,
+                "is_primary": "0",
+                "image_id": "66407"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66407_1014edd10a136520_d.gif",
+                "width": 320,
+                "height": 308,
+                "is_primary": "0",
+                "image_id": "66407"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66407_1014edd10a136520_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "66407"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "51686861",
+            "role_id": "35236657",
+            "person_name": "Commonwealth Trust",
+            "person_date": "Calicut, Kerala, India",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51686861\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "51685751",
+            "role_id": "35351535",
+            "person_name": "Cristobal Zanartu",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51685751\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18058887",
+            "role_id": "35236655",
+            "person_name": "Sheila Hicks",
+            "person_date": "American, b. 1934",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058887\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sample, Fluffy Furnishing, 1965. cotton. Gift of the Cristobal Zanartu Family, Paris. 2013-32-4-2."
+    },
+    "colors": [
+        {
+            "color": "#896f24",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#84817b",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#ac6f6e",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#cd5c5c",
+            "closest_css4": "#cd5c5c"
+        },
+        {
+            "color": "#9d5369",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#cd5c5c",
+            "closest_css4": "#cd5c5c"
+        },
+        {
+            "color": "#744a34",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        }
+    ],
+    "woe:country_name": "India",
+    "is_loan_object": 0
+}

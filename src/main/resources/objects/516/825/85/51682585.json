@@ -1,0 +1,182 @@
+{
+    "id": "51682585",
+    "tms:id": "275971",
+    "accession_number": "14.2012.182",
+    "title": "Patent Model For A Lock, Patent No. 32,330 (USA), May 14, 1861",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/51682585\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "35365429",
+    "type_id": "68894399",
+    "date": "May 14, 1861",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": null,
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "brass, iron",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 19.1 x 15.2 x 9.5 cm (7 1\/2 in. x 6 in. x 3 3\/4 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "9.53",
+            "centimeters"
+        ],
+        "height": [
+            "19.05",
+            "centimeters"
+        ],
+        "width": [
+            "15.24",
+            "centimeters"
+        ]
+    },
+    "creditline": "Smithsonian Institution, National Museum of American History, Cat. 309165",
+    "description": null,
+    "justification": null,
+    "gallery_text": "Today, we still use Linus Yale Jr.\u2019s nineteenth-century designs for locks. He was thirty years old when he gave up painting portraits to follow his father into lock making in 1850; his earliest efforts were directed mainly to improving locks for bank safes. Yale\u2019s handmade, expensive mechanical devices established his reputation as a gifted designer, while his ideas evolved continuously to stay one step ahead of clever lock pickers and safe crackers. In the 1860s Yale designed and patented the locks and key so familiar to us today\u2014the cylinder lock, the narrow serrated key that opens it, and the modern combination lock. In 1868, he established the Yale Lock Manufacturing Company with Henry R. Towne in Stamford, Connecticut, where the manufacture of locks was transformed from craft to mass production.",
+    "label_text": "Nineteenth-century patent models served a variety of purposes, from demonstrating design and function, to inspiring inventors, to understanding what was possible. Similarly with these examples of twenty-first-century technology that make portraits, print tools, or translate hand gestures into form and mass\u2014they are statements about and visual wonders of our digital age.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Patent Model for a Lock, Patent No. 32,330",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93469_b00c170674f2741e_b.jpg",
+                "width": 827,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "93469"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93469_b00c170674f2741e_z.jpg",
+                "width": 517,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "93469"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93469_b00c170674f2741e_n.jpg",
+                "width": 258,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93469"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93469_b00c170674f2741e_d.gif",
+                "width": 258,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93469"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93469_b00c170674f2741e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93469"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113612_b00c170674f2741e_b.jpg",
+                "width": 827,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113612"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113612_b00c170674f2741e_z.jpg",
+                "width": 517,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113612"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113612_b00c170674f2741e_n.jpg",
+                "width": 258,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113612"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113612_b00c170674f2741e_d.gif",
+                "width": 258,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113612"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113612_b00c170674f2741e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113612"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68248031",
+            "role_id": "35236685",
+            "person_name": "Linus Yale Jr.",
+            "person_date": "(American, 1821-1868)",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248031\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18041125",
+            "role_id": "51571131",
+            "person_name": "National Museum of American History",
+            "person_date": "",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041125\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Patent Model For A Lock, Patent No. 32,330 (USA), May 14, 1861. brass, iron. Smithsonian Institution, National Museum of American History, Cat. 309165. 14.2012.182."
+    },
+    "colors": [
+        {
+            "color": "#706d66",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#99937d",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#c6b287",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#554e42",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#b4b1a8",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}

@@ -1,0 +1,162 @@
+{
+    "id": "51682547",
+    "tms:id": "275954",
+    "accession_number": "14.2012.165",
+    "title": "Telescope Shopping Cart Drawing On Letterhead (USA), November 1948",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/51682547\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "35390003",
+    "type_id": "68743187",
+    "date": "November 1948",
+    "year_start": 1948,
+    "year_end": 1948,
+    "year_acquired": null,
+    "decade": "1940",
+    "woe:country_id": "23424977",
+    "medium": "ink on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W (drawing): 27.9 x 21.6 cm (11 in. x 8 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "36.83",
+            "centimeters"
+        ],
+        "width": [
+            "30.48",
+            "centimeters"
+        ]
+    },
+    "creditline": "Telescoping Shopping Cart Collection, Archives Center, National Museum of American History, 2000.3030",
+    "description": null,
+    "justification": null,
+    "gallery_text": "The shopping cart is used worldwide. Although Orla Watson did not invent it, his improvements to this versatile tool are significant and a standard in the industry today. He introduced permanently attached hinged baskets, which allow the carts to nest for compact storage (US Patent 2,479,530) thus conserving valuable floor space. His invention debuted at Floyd Day\u2019s Super Market, in Kansas City, Missouri, in 1947. Watson\u2019s pencil sketches represent his process of solving such details as the dimensions of the basket. Here, the inventor was thinking visually and spatially. Today\u2019s cart is bigger, made of different materials, such as plastic, and has a cup holder and a child\u2019s seat, but the concept has changed little since 1947.",
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Telescope Shopping Cart Drawing on Letterhead",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92888_77feb2cfe5338158_b.jpg",
+                "width": 771,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "92888"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92888_77feb2cfe5338158_z.jpg",
+                "width": 482,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "92888"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92888_77feb2cfe5338158_n.jpg",
+                "width": 241,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92888"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92888_77feb2cfe5338158_d.gif",
+                "width": 241,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92888"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92888_77feb2cfe5338158_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92888"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113600_4943829cea635277_b.jpg",
+                "width": 790,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113600"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113600_4943829cea635277_z.jpg",
+                "width": 493,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113600"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113600_4943829cea635277_n.jpg",
+                "width": 247,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113600"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113600_4943829cea635277_d.gif",
+                "width": 247,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113600"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113600_4943829cea635277_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113600"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68248009",
+            "role_id": "35236685",
+            "person_name": "Orla E. Watson",
+            "person_date": "(American, 1896-1983)",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248009\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Telescope Shopping Cart Drawing On Letterhead (USA), November 1948. ink on paper. Telescoping Shopping Cart Collection, Archives Center, National Museum of American History, 2000.3030. 14.2012.165."
+    },
+    "colors": [
+        {
+            "color": "#c7bfb8",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#94898c",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#756a72",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#3b323c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 1
+}
