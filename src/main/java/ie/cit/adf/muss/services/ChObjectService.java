@@ -3,18 +3,18 @@ package ie.cit.adf.muss.services;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import ie.cit.adf.muss.domain.Review;
-import ie.cit.adf.muss.domain.Tag;
-import ie.cit.adf.muss.domain.notifications.ObjectLikeNotification;
-import ie.cit.adf.muss.domain.notifications.ReviewNotification;
-import ie.cit.adf.muss.domain.notifications.TagNotification;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.springframework.util.Assert;
 
 import ie.cit.adf.muss.domain.ChObject;
 import ie.cit.adf.muss.domain.Gamification;
+import ie.cit.adf.muss.domain.Review;
+import ie.cit.adf.muss.domain.Tag;
 import ie.cit.adf.muss.domain.User;
+import ie.cit.adf.muss.domain.notifications.NotificationFactory;
+import ie.cit.adf.muss.domain.notifications.ObjectLikeNotification;
+import ie.cit.adf.muss.domain.notifications.ReviewNotification;
+import ie.cit.adf.muss.domain.notifications.TagNotification;
 import ie.cit.adf.muss.repositories.ChObjectRepository;
 
 @Service
@@ -37,6 +37,9 @@ public class ChObjectService extends CrudService<ChObject> {
 
     @Autowired
     MussNotificationService notificationService;
+    
+    @Autowired
+    NotificationFactory notificationFactory;
 
     @Autowired
     GamificationService gamificationService;
@@ -61,7 +64,6 @@ public class ChObjectService extends CrudService<ChObject> {
     public ChObject save(ChObject model) {
         if (model == null)
             throw new IllegalArgumentException("The object cannot be null");
-        participationService.save(model.getParticipations()); // TODO: remove this line?
         return super.save(model);
     }
 
@@ -101,7 +103,7 @@ public class ChObjectService extends CrudService<ChObject> {
         object.addTag(tag);
         save(object);
         tag = find(object.getId()).getTagByName(tagName); // Obtain the new ID
-        TagNotification notification = new TagNotification(tag);
+        TagNotification notification = notificationFactory.getTagNotification(tag);
         notificationService.notificateFollowers(notification, user);
         try {
             gamificationService.assignPoints(Gamification.TAG, user);
@@ -113,7 +115,7 @@ public class ChObjectService extends CrudService<ChObject> {
     public void addLike(ChObject object, User user) {
         boolean real = object.addLike(user);
         save(object);
-        ObjectLikeNotification notification = new ObjectLikeNotification(object, user);
+        ObjectLikeNotification notification = notificationFactory.getObjectLikeNotification(object, user);
         notificationService.notificateFollowers(notification, user);
         try {
             if (real)

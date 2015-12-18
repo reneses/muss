@@ -48,12 +48,6 @@ public class StreamController {
         // Load the notifications
         if (user != null) {
 
-            // Manually fix the autowired bug
-            MussNotification.setObjectService(objectService);
-            MussNotification.setReviewService(reviewService);
-            MussNotification.setTagService(tagService);
-            MussNotification.setUserService(userService);
-
             // Load the notifications
             notifications = mussNotificationService.getNotifications(user);
 

@@ -1,22 +1,29 @@
 package ie.cit.adf.muss.loaders;
 
-import ie.cit.adf.muss.domain.*;
-import ie.cit.adf.muss.domain.notifications.ObjectLikeNotification;
-import ie.cit.adf.muss.domain.notifications.ReviewLikeNotification;
-import ie.cit.adf.muss.domain.notifications.ReviewNotification;
-import ie.cit.adf.muss.domain.notifications.TagNotification;
-import ie.cit.adf.muss.services.*;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.util.Random;
+
 import org.apache.commons.io.IOUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.EnableAspectJAutoProxy;
 import org.springframework.dao.DuplicateKeyException;
 import org.springframework.stereotype.Component;
 
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Random;
+import ie.cit.adf.muss.domain.Badge;
+import ie.cit.adf.muss.domain.ChObject;
+import ie.cit.adf.muss.domain.Review;
+import ie.cit.adf.muss.domain.User;
+import ie.cit.adf.muss.services.BadgeService;
+import ie.cit.adf.muss.services.ChObjectService;
+import ie.cit.adf.muss.services.MussNotificationService;
+import ie.cit.adf.muss.services.ParticipantService;
+import ie.cit.adf.muss.services.ReviewService;
+import ie.cit.adf.muss.services.RoleService;
+import ie.cit.adf.muss.services.TagService;
+import ie.cit.adf.muss.services.UserService;
 
 
 @EnableAspectJAutoProxy
@@ -25,6 +32,12 @@ public class ApplicationLoader {
 
     @Autowired
     ChObjectService objectService;
+    
+    @Autowired
+    ParticipantService participantService;
+    
+    @Autowired
+    RoleService roleService;
 
     @Autowired
     AbstractChObjectLoader objectLoader;
@@ -70,6 +83,8 @@ public class ApplicationLoader {
      */
     public void load() {
         try {
+        	// Badges
+            addTestBadges();
 
             // Users
             addTestUsers();
@@ -82,9 +97,6 @@ public class ApplicationLoader {
             addRandomReviews();
             addReviewLikes();
             objectService.findAll().forEach(System.out::println);
-
-            // Badges
-            addTestBadges();
 
         } catch (DuplicateKeyException e) {
             System.err.println("The files were already imported!");
@@ -101,7 +113,83 @@ public class ApplicationLoader {
             load();
         }
     }
+    
+    /**
+     * Create badges
+     */
+    private void addTestBadges() {
 
+        Badge badge1 = new Badge();
+        badge1.setName("Illuminaty");
+        badge1.setQuantity(10);
+        badge1.setType(Badge.FOLLOWERS);
+        badge1.setImage("http://imageshack.com/a/img907/6/UcnCHw.png");
+        badgeService.save(badge1);
+
+        Badge badge2 = new Badge();
+        badge2.setName("Professor");
+        badge2.setQuantity(5);
+        badge2.setType(Badge.FOLLOWERS);
+        badge2.setImage("http://imageshack.com/a/img911/9399/mFGoyW.png");
+        badgeService.save(badge2);
+
+        Badge badge3 = new Badge();
+        badge3.setName("Giver");
+        badge3.setQuantity(1);
+        badge3.setType(Badge.FOLLOWERS);
+        badge3.setImage("http://imageshack.com/a/img903/4733/yQy9mr.png");
+        badgeService.save(badge3);
+
+        Badge badge4 = new Badge();
+        badge4.setName("Lunatic");
+        badge4.setQuantity(10);
+        badge4.setType(Badge.FOLLOWING);
+        badge4.setImage("http://imageshack.com/a/img905/1288/vW6UxR.png");
+        badgeService.save(badge4);
+
+        Badge badge5 = new Badge();
+        badge5.setName("Student");
+        badge5.setQuantity(5);
+        badge5.setType(Badge.FOLLOWING);
+        badge5.setImage("http://imageshack.com/a/img910/7429/OIDHpk.png");
+        badgeService.save(badge5);
+
+        Badge badge6 = new Badge();
+        badge6.setName("Baby");
+        badge6.setQuantity(1);
+        badge6.setType(Badge.FOLLOWING);
+        badge6.setImage("http://imageshack.com/a/img903/6681/0k2gTB.png");
+        badgeService.save(badge6);
+
+        Badge badge7 = new Badge();
+        badge7.setName("Winning");
+        badge7.setQuantity(100);
+        badge7.setType(Badge.POINTS);
+        badge7.setImage("http://imageshack.com/a/img903/4746/lRWN9y.png");
+        badgeService.save(badge7);
+
+        Badge badge8 = new Badge();
+        badge8.setName("Earner");
+        badge8.setQuantity(50);
+        badge8.setType(Badge.POINTS);
+        badge8.setImage("http://imageshack.com/a/img911/385/n5DeKB.png");
+        badgeService.save(badge8);
+
+        Badge badge9 = new Badge();
+        badge9.setName("Collector");
+        badge9.setQuantity(10);
+        badge9.setType(Badge.POINTS);
+        badge9.setImage("http://imageshack.com/a/img903/2699/cKbODb.png");
+        badgeService.save(badge9);
+
+        Badge badge10 = new Badge();
+        badge10.setName("Profiler");
+        badge10.setQuantity(1);
+        badge10.setType(Badge.COMPLETED);
+        badge10.setImage("http://imageshack.com/a/img903/3626/QNgj4O.png");
+        badgeService.save(badge10);
+    }
+    
     /**
      * Create users
      */
@@ -118,10 +206,13 @@ public class ApplicationLoader {
         userService.save(user);
 
         User user2 = new User();
-        user2.setName("Raúl León");
+        user2.setName("Raúl Díaz");
         user2.setEmail("raul@muss.ie");
         user2.setPassword(DEFAULT_PASSWORD);
         user2.setUsername("raul");
+        try {
+            user.setPicture(IOUtils.toByteArray(ApplicationLoader.class.getResourceAsStream("/sample/raul.jpg")));
+        } catch (IOException ignored) {}
         userService.save(user2);
 
         User user3 = new User();
@@ -243,76 +334,5 @@ public class ApplicationLoader {
         }
     }
 
-    private void addTestBadges() {
 
-        Badge badge1 = new Badge();
-        badge1.setName("Illuminaty");
-        badge1.setQuantity(10);
-        badge1.setType(Badge.FOLLOWERS);
-        badge1.setImage("http://imageshack.com/a/img907/6/UcnCHw.png");
-        badgeService.save(badge1);
-
-        Badge badge2 = new Badge();
-        badge2.setName("Professor");
-        badge2.setQuantity(5);
-        badge2.setType(Badge.FOLLOWERS);
-        badge2.setImage("http://imageshack.com/a/img911/9399/mFGoyW.png");
-        badgeService.save(badge2);
-
-        Badge badge3 = new Badge();
-        badge3.setName("Giver");
-        badge3.setQuantity(1);
-        badge3.setType(Badge.FOLLOWERS);
-        badge3.setImage("http://imageshack.com/a/img903/4733/yQy9mr.png");
-        badgeService.save(badge3);
-
-        Badge badge4 = new Badge();
-        badge4.setName("Lunatic");
-        badge4.setQuantity(10);
-        badge4.setType(Badge.FOLLOWING);
-        badge4.setImage("http://imageshack.com/a/img905/1288/vW6UxR.png");
-        badgeService.save(badge4);
-
-        Badge badge5 = new Badge();
-        badge5.setName("Student");
-        badge5.setQuantity(5);
-        badge5.setType(Badge.FOLLOWING);
-        badge5.setImage("http://imageshack.com/a/img910/7429/OIDHpk.png");
-        badgeService.save(badge5);
-
-        Badge badge6 = new Badge();
-        badge6.setName("Baby");
-        badge6.setQuantity(1);
-        badge6.setType(Badge.FOLLOWING);
-        badge6.setImage("http://imageshack.com/a/img903/6681/0k2gTB.png");
-        badgeService.save(badge6);
-
-        Badge badge7 = new Badge();
-        badge7.setName("Winning");
-        badge7.setQuantity(100);
-        badge7.setType(Badge.POINTS);
-        badge7.setImage("http://imageshack.com/a/img903/4746/lRWN9y.png");
-        badgeService.save(badge7);
-
-        Badge badge8 = new Badge();
-        badge8.setName("Earner");
-        badge8.setQuantity(50);
-        badge8.setType(Badge.POINTS);
-        badge8.setImage("http://imageshack.com/a/img911/385/n5DeKB.png");
-        badgeService.save(badge8);
-
-        Badge badge9 = new Badge();
-        badge9.setName("Collector");
-        badge9.setQuantity(10);
-        badge9.setType(Badge.POINTS);
-        badge9.setImage("http://imageshack.com/a/img903/2699/cKbODb.png");
-        badgeService.save(badge9);
-
-        Badge badge10 = new Badge();
-        badge10.setName("Profiler");
-        badge10.setQuantity(1);
-        badge10.setType(Badge.COMPLETED);
-        badge10.setImage("http://imageshack.com/a/img903/3626/QNgj4O.png");
-        badgeService.save(badge10);
-    }
 }

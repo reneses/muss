@@ -1,5 +1,6 @@
 package ie.cit.adf.muss.domain;
 
+import javax.persistence.CascadeType;
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
@@ -27,17 +28,17 @@ public class Participation {
 	private int id;
 
 	@JsonIgnore
-	@ManyToOne(fetch=FetchType.EAGER)
+	@ManyToOne(fetch=FetchType.EAGER, cascade=CascadeType.ALL)
 	@JoinColumn(name="chobject_id")
 	private ChObject chObject;
 
 	@JsonUnwrapped
-	@ManyToOne(fetch=FetchType.EAGER)
+	@ManyToOne(fetch=FetchType.EAGER, cascade=CascadeType.ALL)
 	@JoinColumn(name="participant_id")
 	private Participant participant;
 
 	@JsonUnwrapped
-	@ManyToOne(fetch=FetchType.EAGER)
+	@ManyToOne(fetch=FetchType.EAGER, cascade=CascadeType.ALL)
 	@JoinColumn(name="role_id")
 	private Role role;
 
@@ -51,9 +52,7 @@ public class Participation {
 
 	public void setChObject(ChObject chObject) {
 		this.chObject = chObject;
-		if (!chObject.getParticipations().contains(this)) {
-			chObject.getParticipations().add(this);
-        }
+		
 	}
 
 	public int getId() {
@@ -70,6 +69,9 @@ public class Participation {
 
 	public void setParticipant(Participant participant) {
 		this.participant = participant;
+		if (!participant.getParticipations().contains(this)) {
+			participant.getParticipations().add(this);
+		}
 	}
 
 	public Role getRole() {
@@ -78,6 +80,19 @@ public class Participation {
 
 	public void setRole(Role role) {
 		this.role = role;
+		if (!role.getParticipations().contains(this)) {
+			role.getParticipations().add(this);
+		}
 	}
+	
+	@Override
+    public boolean equals(Object obj) {
+        return obj instanceof Participation && id > 0 && id == ((Participation) obj).getId();
+    }
+
+    @Override
+    public int hashCode() {
+        return id * String.valueOf(id).hashCode();
+    }
 
 }

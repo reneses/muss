@@ -41,7 +41,8 @@ public class ChObject {
 	private String galleryText;
 
 	@JsonProperty("participants")
-	@OneToMany(fetch= FetchType.EAGER, mappedBy="chObject")
+	@OneToMany(fetch= FetchType.EAGER, mappedBy="chObject", cascade=CascadeType.ALL)
+	@Fetch(FetchMode.SELECT)
 	private List<Participation> participations;
 
 	@JsonIgnoreProperties("images")

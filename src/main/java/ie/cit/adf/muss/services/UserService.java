@@ -1,10 +1,6 @@
 package ie.cit.adf.muss.services;
 
 
-import ie.cit.adf.muss.domain.Gamification;
-import ie.cit.adf.muss.domain.User;
-import ie.cit.adf.muss.repositories.UserRepository;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -12,8 +8,10 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.util.Assert;
 
+import ie.cit.adf.muss.domain.Gamification;
 import ie.cit.adf.muss.domain.User;
 import ie.cit.adf.muss.domain.notifications.FollowNotification;
+import ie.cit.adf.muss.domain.notifications.NotificationFactory;
 import ie.cit.adf.muss.repositories.UserRepository;
 
 @org.springframework.stereotype.Service
@@ -33,6 +31,9 @@ public class UserService extends CrudService<User> {
 
 	@Autowired
 	MussNotificationService notificationService;
+	
+	@Autowired
+	NotificationFactory notificationFactory;
 
 	@Autowired
 	GamificationService gamificationService;
@@ -58,6 +59,10 @@ public class UserService extends CrudService<User> {
 		user.setPassword(encodedPassword);
 		
 		return repository.save(user);
+	}
+	
+	public List<User> findSorted() {
+		return repository.findSortedByPoints();
 	}
 
     // ----------------- Other business methods ------------------
@@ -93,7 +98,7 @@ public class UserService extends CrudService<User> {
 			principal.setFollowed(followed);
 			save(principal);
 
-			FollowNotification notification = new FollowNotification(principal, user);
+			FollowNotification notification = notificationFactory.getFollowNotification(principal, user);
 			notificationService.notificateFollowers(notification, user);
 
 			gamificationService.assignPoints(Gamification.FOLLOWING, principal);

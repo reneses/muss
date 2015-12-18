@@ -1,5 +1,6 @@
 package ie.cit.adf.muss.domain;
 
+import java.util.ArrayList;
 import java.util.Collection;
 
 import javax.persistence.CascadeType;
@@ -40,6 +41,10 @@ public class Participant {
 	@OneToMany(fetch=FetchType.LAZY, mappedBy="participant", cascade=CascadeType.ALL)
 	@JsonIgnore
 	private Collection<Participation> participations;
+	
+	public Participant() {
+		participations = new ArrayList<>();
+	}
 
 
     /* GETTERS AND SETTERS */
@@ -50,6 +55,10 @@ public class Participant {
 
 	public void setParticipations(Collection<Participation> participations) {
 		this.participations = participations;
+		participations.forEach(p -> {
+			if (!this.equals(p.getParticipant()))
+				p.setParticipant(this);
+		});
 	}
 
 	public int getId() {
@@ -91,5 +100,15 @@ public class Participant {
 	public void setUrl(String url) {
 		this.url = url;
 	}
+	
+	@Override
+    public boolean equals(Object obj) {
+        return obj instanceof Participant && id > 0 && id == ((Participant) obj).getId();
+    }
+
+    @Override
+    public int hashCode() {
+        return id * name.hashCode();
+    }
 
 }

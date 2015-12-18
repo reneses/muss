@@ -64,8 +64,8 @@ public class BadgeService{
 
     // USE CASES:
     
-    public void assignBadgePoints(){
-    	User user = authService.getPrincipal();
+    public void assignBadgePoints(User user){
+//    	User user = authService.getPrincipal();
     	Assert.notNull(user);
     	
     	List<Badge> assignable = badgeRepository.findAssignableBadges(Badge.POINTS, user.getPoints());
@@ -73,8 +73,8 @@ public class BadgeService{
     	assignBadge(assignable, user);
 	}
     
-    public void assignBadgeFriends(){
-    	User user = authService.getPrincipal();
+    public void assignBadgeFriends(User user){
+//    	User user = authService.getPrincipal();
     	Assert.notNull(user);
     	
     	List<Badge> assignableWED = badgeRepository.findAssignableBadges(Badge.FOLLOWING,

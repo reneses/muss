@@ -5,9 +5,6 @@ import java.util.Collection;
 import java.util.Date;
 import java.util.List;
 
-import javax.transaction.Transactional;
-import javax.validation.constraints.Null;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.util.Assert;
@@ -16,6 +13,7 @@ import ie.cit.adf.muss.domain.ChObject;
 import ie.cit.adf.muss.domain.Gamification;
 import ie.cit.adf.muss.domain.Review;
 import ie.cit.adf.muss.domain.User;
+import ie.cit.adf.muss.domain.notifications.NotificationFactory;
 import ie.cit.adf.muss.domain.notifications.ReviewLikeNotification;
 import ie.cit.adf.muss.repositories.ReviewRepository;
 
@@ -37,6 +35,9 @@ public class ReviewService{
 
 	@Autowired
 	MussNotificationService notificationService;
+	
+	@Autowired
+	NotificationFactory notificationFactory;
 
 	@Autowired
 	GamificationService gamificationService;
@@ -126,7 +127,7 @@ public class ReviewService{
 		boolean real = review.addLike(user);
 		save(review);
 		review = find(review.getId());
-		ReviewLikeNotification notification = new ReviewLikeNotification(review, user);
+		ReviewLikeNotification notification = notificationFactory.getReviewLikeNotification(review, user);
 		notificationService.notificateFollowers(notification, user);
 		try {
 			if (real) {
