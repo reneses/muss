@@ -54,6 +54,14 @@
         </tr>
     </table>
 
+	<h2>Participations</h2>
+	<ul>
+		<li th:each="participation : ${object.participations}">
+			<a th:href="${participation.participant.url}" th:text="${participation.participant.name}"></a>
+			<span> as </span>
+			<a th:href="${participation.role.url}" th:text="${participation.role.name}"></a>
+		</li>
+	</ul>
 
     <!-- TAGS -->
     <h2>Tags</h2>
