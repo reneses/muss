@@ -79,6 +79,8 @@ public class GamificationService{
 
     // USE CASES:
     
+    // TODO Unir assign con remove
+    
     public void assignPoints(String type, User user){
     	Gamification gamification = create();
 //    	User user = authService.getPrincipal();

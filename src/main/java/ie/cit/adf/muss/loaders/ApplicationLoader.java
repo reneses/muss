@@ -1,8 +1,10 @@
 package ie.cit.adf.muss.loaders;
 
+import ie.cit.adf.muss.domain.Badge;
 import ie.cit.adf.muss.domain.Review;
 import ie.cit.adf.muss.domain.Tag;
 import ie.cit.adf.muss.domain.User;
+import ie.cit.adf.muss.services.BadgeService;
 import ie.cit.adf.muss.services.ChObjectService;
 import ie.cit.adf.muss.services.ReviewService;
 import ie.cit.adf.muss.services.UserService;
@@ -21,15 +23,14 @@ public class ApplicationLoader {
 
     @Autowired
     ChObjectService objectService;
-
     @Autowired
     AbstractChObjectLoader objectLoader;
-
     @Autowired
     UserService userService;
-
     @Autowired
     ReviewService reviewService;
+    @Autowired
+    BadgeService badgeService;
 
     // List of random tags that can be generated
     private static final String[] RANDOM_TAGS = {
@@ -67,6 +68,9 @@ public class ApplicationLoader {
             addRandomLikes();
             addRandomReviews();
             objectService.findAll().forEach(System.out::println);
+            
+            // Badges
+            addTestBadges();
 
         } catch (DuplicateKeyException e) {
             System.err.println("The files were already imported!");
@@ -208,4 +212,66 @@ public class ApplicationLoader {
         });
     }
 
+    private void addTestBadges() {
+
+        Badge badge1 = new Badge();
+        badge1.setName("Illuminaty");
+        badge1.setQuantity(10);
+        badge1.setType(Badge.FOLLOWERS);
+        badgeService.save(badge1);
+
+        Badge badge2 = new Badge();
+        badge2.setName("Professor");
+        badge2.setQuantity(5);
+        badge2.setType(Badge.FOLLOWERS);
+        badgeService.save(badge2);
+        
+        Badge badge3 = new Badge();
+        badge3.setName("Giver");
+        badge3.setQuantity(1);
+        badge3.setType(Badge.FOLLOWERS);
+        badgeService.save(badge3);
+        
+        Badge badge4 = new Badge();
+        badge4.setName("Lunatic");
+        badge4.setQuantity(10);
+        badge4.setType(Badge.FOLLOWING);
+        badgeService.save(badge4);
+
+        Badge badge5 = new Badge();
+        badge5.setName("Student");
+        badge5.setQuantity(5);
+        badge5.setType(Badge.FOLLOWING);
+        badgeService.save(badge5);
+        
+        Badge badge6 = new Badge();
+        badge6.setName("Baby");
+        badge6.setQuantity(1);
+        badge6.setType(Badge.FOLLOWING);
+        badgeService.save(badge6);
+        
+        Badge badge7 = new Badge();
+        badge7.setName("Collector");
+        badge7.setQuantity(100);
+        badge7.setType(Badge.POINTS);
+        badgeService.save(badge7);
+
+        Badge badge8 = new Badge();
+        badge8.setName("Earner");
+        badge8.setQuantity(50);
+        badge8.setType(Badge.POINTS);
+        badgeService.save(badge8);
+        
+        Badge badge9 = new Badge();
+        badge9.setName("Winning");
+        badge9.setQuantity(10);
+        badge9.setType(Badge.POINTS);
+        badgeService.save(badge9);
+
+        Badge badge10 = new Badge();
+        badge10.setName("Profiler");
+        badge10.setQuantity(1);
+        badge10.setType(Badge.COMPLETED);
+        badgeService.save(badge10);
+    }
 }

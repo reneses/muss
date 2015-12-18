@@ -37,6 +37,10 @@
 				        	<label>Points</label>
 				            <p th:text="${user.points}"></p>
 			        	</div>
+			        	<div class="form-group">
+				        	<label>Badges</label>
+				            <p th:text="${user.badges.size()}"></p>
+			        	</div>
 		        	</div>
 		        	<div class="col-xs-3" th:if="${principal.id==user.id}">
 		        		<p><a class="btn btn-success" th:href="@{/user/editProfile}">Edit profile</a></p>
