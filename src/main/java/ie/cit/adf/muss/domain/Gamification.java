@@ -15,7 +15,8 @@ public class Gamification {
 	public static final String TAG = "TAG";
 	public static final String DESCRIPTION = "DESCRIPTION";
 	public static final String REVIEW = "REVIEW";
-	public static final String LIKES = "LIKES";
+	public static final String LIKEGIVEN = "LIKEGIVEN";
+	public static final String LIKERECEIVED = "LIKERECEIVED";
 	public static final String FOLLOWING = "FOLLOWING";
 	public static final String FOLLOWERS = "FOLLOWERS";
 	
@@ -27,7 +28,7 @@ public class Gamification {
 	
 	@NotNull
 	@Range(min = 0, max = 100)
-	private Integer tagPoints, descriptionPoints, reviewPoints, likesPoints, followingPoints, followersPoints;
+	private Integer tagPoints, descriptionPoints, reviewPoints, likeGivenPoints, likeReceivedPoints, followingPoints, followersPoints;
 	
 	// ---------------------- Getters & Setters ----------------------
 	
@@ -59,11 +60,18 @@ public class Gamification {
 		this.reviewPoints = reviewPoints;
 	}
 	
-	public Integer getLikesPoints() {
-		return likesPoints;
+	public Integer getLikeGivenPoints() {
+		return likeGivenPoints;
 	}
-	public void setLikesPoints(Integer likesPoints) {
-		this.likesPoints = likesPoints;
+	public void setLikeGivenPoints(Integer likeGivenPoints) {
+		this.likeGivenPoints = likeGivenPoints;
+	}
+	
+	public Integer getLikeReceivedPoints() {
+		return likeReceivedPoints;
+	}
+	public void setLikeReceivedPoints(Integer likeReceivedPoints) {
+		this.likeReceivedPoints = likeReceivedPoints;
 	}
 	
 	public Integer getFollowingPoints() {
