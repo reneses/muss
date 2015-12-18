@@ -136,7 +136,7 @@ public class ReviewService{
 				if (reviewPrincipal != null)
 					gamificationService.assignPoints(Gamification.LIKERECEIVED, reviewPrincipal);
 			}
-		} catch (NullPointerException e) {
+		} catch (Exception e) {
 			// TODO fix
 		}
 	}

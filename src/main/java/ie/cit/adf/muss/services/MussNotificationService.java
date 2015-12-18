@@ -48,10 +48,10 @@ public class MussNotificationService {
     }
 
     public void notificateFollowers(MussNotification notification, User actor) {
-        System.out.println("NEW NOTIFICATION: " + notification);
-        actor.getFollowers().forEach(follower ->
-                notificate(notification, String.valueOf(follower.getId()))
-        );
+//        System.out.println("NEW NOTIFICATION: " + notification);
+//        actor.getFollowers().forEach(follower ->
+//                notificate(notification, String.valueOf(follower.getId()))
+//        );
     }
 
     private void notificate(MussNotification notification, String key) {
@@ -64,25 +64,26 @@ public class MussNotificationService {
     }
 
     public List<MussNotification> getNotifications(User user) {
-        List<MussNotification> notifications = new ArrayList<>();
-        String key = String.valueOf(user.getId());
-        while (true) {
-            try {
-                declareQueue(key);
-                String message = (String) rabbitTemplate.receiveAndConvert(key);
-                if (message == null)
-                    break;
-                notifications.add(0, decode(message));
-            } catch (IOException | ClassNotFoundException e) {
-                e.printStackTrace();
-            } catch (ShutdownSignalException e) {
-                return notifications;
-            }
-        }
-        // TODO improve this way of restoring the notifications
-        for (int i = notifications.size() - 1; i >= 0; i--)
-            notificate(notifications.get(i), key);
-        return notifications;
+		return new ArrayList<MussNotification>();
+//        List<MussNotification> notifications = new ArrayList<>();
+//        String key = String.valueOf(user.getId());
+//        while (true) {
+//            try {
+//                declareQueue(key);
+//                String message = (String) rabbitTemplate.receiveAndConvert(key);
+//                if (message == null)
+//                    break;
+//                notifications.add(0, decode(message));
+//            } catch (IOException | ClassNotFoundException e) {
+//                e.printStackTrace();
+//            } catch (ShutdownSignalException e) {
+//                return notifications;
+//            }
+//        }
+//        // TODO improve this way of restoring the notifications
+//        for (int i = notifications.size() - 1; i >= 0; i--)
+//            notificate(notifications.get(i), key);
+//        return notifications;
     }
 
 

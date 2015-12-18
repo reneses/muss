@@ -84,7 +84,7 @@ public class ApplicationLoader {
     public void load() {
         try {
         	// Badges
-            //addTestBadges();
+            addTestBadges();
 
             // Users
             addTestUsers();
@@ -200,6 +200,7 @@ public class ApplicationLoader {
         user.setEmail("reneses@muss.ie");
         user.setPassword(DEFAULT_PASSWORD);
         user.setUsername("reneses");
+        user.setBadges(new ArrayList<Badge>());
         try {
             user.setPicture(IOUtils.toByteArray(ApplicationLoader.class.getResourceAsStream("/sample/reneses.jpg")));
         } catch (IOException ignored) {}
@@ -210,6 +211,7 @@ public class ApplicationLoader {
         user2.setEmail("raul@muss.ie");
         user2.setPassword(DEFAULT_PASSWORD);
         user2.setUsername("raul");
+        user2.setBadges(new ArrayList<Badge>());
         try {
             user.setPicture(IOUtils.toByteArray(ApplicationLoader.class.getResourceAsStream("/sample/raul.jpg")));
         } catch (IOException ignored) {}
@@ -220,6 +222,7 @@ public class ApplicationLoader {
         user3.setEmail("david@muss.ie");
         user3.setPassword(DEFAULT_PASSWORD);
         user3.setUsername("david99");
+        user3.setBadges(new ArrayList<Badge>());
         userService.save(user3);
 
         User user4 = new User();
@@ -227,6 +230,7 @@ public class ApplicationLoader {
         user4.setEmail("adrian@muss.ie");
         user4.setPassword(DEFAULT_PASSWORD);
         user4.setUsername("adri");
+        user4.setBadges(new ArrayList<Badge>());
         try {
             user4.setPicture(IOUtils.toByteArray(ApplicationLoader.class.getResourceAsStream("/sample/adrian.jpg")));
         } catch (IOException ignored) {}
@@ -237,6 +241,7 @@ public class ApplicationLoader {
         user5.setEmail("larkin@muss.ie");
         user5.setPassword(DEFAULT_PASSWORD);
         user5.setUsername("larkin");
+        user5.setBadges(new ArrayList<Badge>());
         userService.save(user4);
 
     }
