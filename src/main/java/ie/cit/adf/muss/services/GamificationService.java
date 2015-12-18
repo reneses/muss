@@ -118,8 +118,8 @@ public class GamificationService{
     	userService.save(user);
     	
     	if(type == Gamification.FOLLOWING || type == Gamification.FOLLOWERS)
-    		badgeService.assignBadgeFriends();
-    	badgeService.assignBadgePoints();
+    		badgeService.assignBadgeFriends(user);
+    	badgeService.assignBadgePoints(user);
     }
     
     public void removePoints(String type, User user){
