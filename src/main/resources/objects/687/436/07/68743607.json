@@ -1,0 +1,252 @@
+{
+    "id": "68743607",
+    "tms:id": "277577",
+    "accession_number": "2015-8-1",
+    "title": "Book, Illustrations of Design: Based on Notes of Line as Used by the Craftsmen of India, 1912",
+    "title_raw": "Illustrations of Design: Based on Notes of Line as Used by the Craftsmen of India",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68743607\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "68775073",
+    "type_id": "35247441",
+    "date": "1912",
+    "year_start": 1912,
+    "year_end": 1912,
+    "year_acquired": "2015",
+    "decade": "1910",
+    "woe:country_id": null,
+    "medium": "cloth covered cardboard and printed on coated paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Posey Bass and Henry Taves to Cooper Hewitt, 2014",
+    "dimensions": "H x W x D: 27.3 \u00d7 22.2 \u00d7 2.9 cm (10 3\/4 \u00d7 8 3\/4 \u00d7 1 1\/8 in.)",
+    "dimensions_raw": null,
+    "creditline": "Gift of Taves Family Collection",
+    "description": "Red cloth cover over loose-leaf binder with introductory text by author followed by diagrams of patterns based on Indian design, photographs of carved teak wood, jewelry, etc.",
+    "justification": "This book is featured in Cooper Hewitt's 2014 exhibition, Passion for the Exotic, Lockwood de Forest, Frederic Church.  The publication was written by Lockwood de Forest during the years of his retirement from decorating, after moving permanently to Santa Barbara, California.  As, he says in the preface, he wrote the book for design teachers so they could deseminate the principles of Indian design to students to help them generate pattern through using certain design principles that he learned during his travels through India.   A number of the stencil prints in the book recall the patterns on the walls and woodwork in Cooper Hewitt's Teak Room, just as the photographs of Indian carved wood designs in the book are similar to the pattern of the sandstone jali also in the exhibition.",
+    "gallery_text": "De Forest believed that the source of all decoration came from the East. He published this book of decorative patterns for teachers leading classes in which students learned about design and pattern through stenciling and tracing. The designs shown here are similar to the stenciled walls and woodcarving in this room.",
+    "label_text": "De Forest believed that the source of all decoration came from the East. He published this book of decorative patterns for teachers leading classes in which students learned about design and pattern through stenciling and tracing. The designs shown here are similar to the stenciled walls and woodcarving in this room.",
+    "videos": null,
+    "on_display": "1",
+    "woe:country": null,
+    "type": "book",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95476_3f2323340f3069d0_b.jpg",
+                "width": 836,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "95476"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95476_3f2323340f3069d0_z.jpg",
+                "width": 523,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "95476"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95476_3f2323340f3069d0_n.jpg",
+                "width": 261,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "95476"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95476_3f2323340f3069d0_d.gif",
+                "width": 261,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "95476"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95476_3f2323340f3069d0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "95476"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95473_d7a9ba769db9e1ef_b.jpg",
+                "width": 646,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "95473"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95473_d7a9ba769db9e1ef_z.jpg",
+                "width": 404,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "95473"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95473_d7a9ba769db9e1ef_n.jpg",
+                "width": 202,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "95473"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95473_d7a9ba769db9e1ef_d.gif",
+                "width": 202,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "95473"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95473_d7a9ba769db9e1ef_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "95473"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95474_f2a37d1c216b11d2_b.jpg",
+                "width": 691,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "95474"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95474_f2a37d1c216b11d2_z.jpg",
+                "width": 432,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "95474"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95474_f2a37d1c216b11d2_n.jpg",
+                "width": 216,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "95474"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95474_f2a37d1c216b11d2_d.gif",
+                "width": 216,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "95474"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95474_f2a37d1c216b11d2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "95474"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95475_2bf75a95c9449d4e_b.jpg",
+                "width": 733,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "95475"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95475_2bf75a95c9449d4e_z.jpg",
+                "width": 458,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "95475"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95475_2bf75a95c9449d4e_n.jpg",
+                "width": 229,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "95475"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95475_2bf75a95c9449d4e_d.gif",
+                "width": 229,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "95475"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95475_2bf75a95c9449d4e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "95475"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68778183",
+            "role_id": "35236661",
+            "person_name": "Ginn and Company",
+            "person_date": "Boston, Massachusetts, USA",
+            "role_name": "Publisher",
+            "role_display_name": "Published by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68778183\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236661\/"
+        },
+        {
+            "person_id": "18065337",
+            "role_id": "35236655",
+            "person_name": "Lockwood de Forest",
+            "person_date": "American, 1850\u20131932",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18065337\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "68735269",
+            "role_id": "51571159",
+            "person_name": "Posy Bass",
+            "person_date": "",
+            "role_name": "Agent",
+            "role_display_name": "Agent:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68735269\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571159\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Book, Illustrations of Design: Based on Notes of Line as Used by the Craftsmen of India, 1912. cloth covered cardboard and printed on coated paper. Gift of Taves Family Collection. 2015-8-1."
+    },
+    "colors": [
+        {
+            "color": "#ac4943",
+            "closest_crayola": "#bf4f51",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#d5cdba",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#e39454",
+            "closest_crayola": "#d68a59",
+            "closest_css3": "#f4a460",
+            "closest_css4": "#f4a460"
+        },
+        {
+            "color": "#edc89e",
+            "closest_crayola": "#edd19c",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
+        },
+        {
+            "color": "#ca6e51",
+            "closest_crayola": "#cc6666",
+            "closest_css3": "#cd5c5c",
+            "closest_css4": "#cd5c5c"
+        }
+    ],
+    "is_loan_object": 0
+}

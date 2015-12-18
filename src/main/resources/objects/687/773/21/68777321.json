@@ -1,0 +1,195 @@
+{
+    "id": "68777321",
+    "tms:id": "278696",
+    "accession_number": "1960-1-11-b",
+    "title": "Plaque, 1660\u201390",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68777321\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "51586363",
+    "type_id": "35259243",
+    "date": "1660\u201390",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1960",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "gilt copper, wood (frame)",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "James Hazen Hyde; 1960: acquired by Museum",
+    "dimensions": "H x W x D: 32 x 39.8 x 2 cm (12 5\/8 x 15 11\/16 x 13\/16 in.)",
+    "dimensions_raw": null,
+    "creditline": "Gift of the Estate of James Hazen Hyde",
+    "description": "(a) Asia figures and trophies surmounted by Amor or a love putto; (b) Africa, foliate scrolls above an heraldic cartouche surrounded by quivers and flgures below.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Plaque",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47013_62fb70bc47bdb888_b.jpg",
+                "width": 1024,
+                "height": 844,
+                "is_primary": "1",
+                "image_id": "47013"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47013_62fb70bc47bdb888_z.jpg",
+                "width": 640,
+                "height": 528,
+                "is_primary": "1",
+                "image_id": "47013"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47013_62fb70bc47bdb888_n.jpg",
+                "width": 320,
+                "height": 264,
+                "is_primary": "1",
+                "image_id": "47013"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47013_62fb70bc47bdb888_d.gif",
+                "width": 320,
+                "height": 264,
+                "is_primary": "1",
+                "image_id": "47013"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47013_62fb70bc47bdb888_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "47013"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105198_d93da9df66992cf7_b.jpg",
+                "width": 1024,
+                "height": 615,
+                "is_primary": "0",
+                "image_id": "105198"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105198_d93da9df66992cf7_z.jpg",
+                "width": 640,
+                "height": 384,
+                "is_primary": "0",
+                "image_id": "105198"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105198_d93da9df66992cf7_n.jpg",
+                "width": 320,
+                "height": 192,
+                "is_primary": "0",
+                "image_id": "105198"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105198_d93da9df66992cf7_d.gif",
+                "width": 320,
+                "height": 192,
+                "is_primary": "0",
+                "image_id": "105198"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105198_d93da9df66992cf7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "105198"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47012_744b068f0a9e8ef1_b.jpg",
+                "width": 1024,
+                "height": 756,
+                "is_primary": "0",
+                "image_id": "47012"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47012_744b068f0a9e8ef1_z.jpg",
+                "width": 640,
+                "height": 472,
+                "is_primary": "0",
+                "image_id": "47012"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47012_744b068f0a9e8ef1_n.jpg",
+                "width": 320,
+                "height": 236,
+                "is_primary": "0",
+                "image_id": "47012"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47012_744b068f0a9e8ef1_d.gif",
+                "width": 320,
+                "height": 236,
+                "is_primary": "0",
+                "image_id": "47012"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47012_744b068f0a9e8ef1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "47012"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18049369",
+            "role_id": "35351535",
+            "person_name": "Estate of James Hazen Hyde",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049369\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Plaque, 1660\u201390. gilt copper, wood (frame). Gift of the Estate of James Hazen Hyde. 1960-1-11-b."
+    },
+    "colors": [
+        {
+            "color": "#363633",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#b09651",
+            "closest_crayola": "#d68a59",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#e4cf82",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#deb887",
+            "closest_css4": "#deb887"
+        },
+        {
+            "color": "#917a46",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#73603d",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "is_loan_object": 0
+}

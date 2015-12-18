@@ -1,0 +1,158 @@
+{
+    "id": "68743623",
+    "tms:id": "277582",
+    "accession_number": "1975-85-4-4-a\/f",
+    "title": "Textile, 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68743623\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35367167",
+    "type_id": "35251739",
+    "date": "19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1975",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Mrs. Lincoln Johnson",
+    "description": "One of seven pages from a printed fabric sample book. Page is double-sided.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76756_35a55ac48857c4c7_b.jpg",
+                "width": 636,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "76756"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76756_35a55ac48857c4c7_z.jpg",
+                "width": 398,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "76756"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76756_35a55ac48857c4c7_n.jpg",
+                "width": 199,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "76756"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76756_35a55ac48857c4c7_d.gif",
+                "width": 199,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "76756"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76756_35a55ac48857c4c7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "76756"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180567_a0dc5613c71e3347_b.jpg",
+                "width": 614,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "180567"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180567_a0dc5613c71e3347_z.jpg",
+                "width": 383,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "180567"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180567_a0dc5613c71e3347_n.jpg",
+                "width": 192,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "180567"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180567_a0dc5613c71e3347_d.gif",
+                "width": 192,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "180567"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/180567_a0dc5613c71e3347_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "180567"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18055093",
+            "role_id": "35351535",
+            "person_name": "Mrs. Lincoln Johnson",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055093\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile, 19th century. printed. Gift of Mrs. Lincoln Johnson. 1975-85-4-4-a\/f."
+    },
+    "colors": [
+        {
+            "color": "#82787e",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#695c5d",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#9996a4",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#bfb9c5",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#2f2622",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "is_loan_object": 0
+}

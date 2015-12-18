@@ -1,0 +1,204 @@
+{
+    "id": "68724331",
+    "tms:id": "277172",
+    "accession_number": "1940-114-2-b",
+    "title": "Plate",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68724331\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35426823",
+    "type_id": "35236833",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1940",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "lustre pottery",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 7.5 x 29.8 cm (2 15\/16 x 11 3\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "7.50",
+            "centimeters"
+        ],
+        "width": [
+            "29.80",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Mrs. Laurent Oppenheim in memory of Laurent Oppenheim",
+    "description": "broken",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "plate",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/147289_2d45140c388542fb_b.jpg",
+                "width": 1024,
+                "height": 996,
+                "is_primary": "1",
+                "image_id": "147289"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/147289_2d45140c388542fb_z.jpg",
+                "width": 640,
+                "height": 623,
+                "is_primary": "1",
+                "image_id": "147289"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/147289_2d45140c388542fb_n.jpg",
+                "width": 320,
+                "height": 311,
+                "is_primary": "1",
+                "image_id": "147289"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/147289_2d45140c388542fb_d.gif",
+                "width": 320,
+                "height": 311,
+                "is_primary": "1",
+                "image_id": "147289"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/147289_2d45140c388542fb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "147289"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/147312_95295e0757ff86c5_b.jpg",
+                "width": 1024,
+                "height": 562,
+                "is_primary": "0",
+                "image_id": "147312"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/147312_95295e0757ff86c5_z.jpg",
+                "width": 640,
+                "height": 351,
+                "is_primary": "0",
+                "image_id": "147312"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/147312_95295e0757ff86c5_n.jpg",
+                "width": 320,
+                "height": 176,
+                "is_primary": "0",
+                "image_id": "147312"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/147312_95295e0757ff86c5_d.gif",
+                "width": 320,
+                "height": 176,
+                "is_primary": "0",
+                "image_id": "147312"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/147312_95295e0757ff86c5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "147312"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110573_f9201f3760410765_b.jpg",
+                "width": 1024,
+                "height": 793,
+                "is_primary": "0",
+                "image_id": "110573"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110573_f9201f3760410765_z.jpg",
+                "width": 640,
+                "height": 496,
+                "is_primary": "0",
+                "image_id": "110573"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110573_f9201f3760410765_n.jpg",
+                "width": 320,
+                "height": 248,
+                "is_primary": "0",
+                "image_id": "110573"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110573_f9201f3760410765_d.gif",
+                "width": 320,
+                "height": 248,
+                "is_primary": "0",
+                "image_id": "110573"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110573_f9201f3760410765_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "110573"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "51676553",
+            "role_id": "35351535",
+            "person_name": "Mrs. Laurent Oppenheim",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676553\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Plate. lustre pottery. Gift of Mrs. Laurent Oppenheim in memory of Laurent Oppenheim. 1940-114-2-b."
+    },
+    "colors": [
+        {
+            "color": "#d9bc9b",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#7e4b36",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#c1b9b0",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#ae7e60",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#52382c",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "is_loan_object": 0
+}

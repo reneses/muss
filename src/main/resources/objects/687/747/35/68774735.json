@@ -1,0 +1,83 @@
+{
+    "id": "68774735",
+    "tms:id": "278527",
+    "accession_number": "1981-5-2-5",
+    "title": "Place Card",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68774735\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": null,
+    "type_id": "35289483",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1981",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "place card",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/186848_1744d80e73c3b7d4_b.jpg",
+                "width": 1024,
+                "height": 951,
+                "is_primary": "1",
+                "image_id": "186848"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/186848_1744d80e73c3b7d4_z.jpg",
+                "width": 640,
+                "height": 594,
+                "is_primary": "1",
+                "image_id": "186848"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/186848_1744d80e73c3b7d4_n.jpg",
+                "width": 320,
+                "height": 297,
+                "is_primary": "1",
+                "image_id": "186848"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/186848_1744d80e73c3b7d4_d.gif",
+                "width": 320,
+                "height": 297,
+                "is_primary": "1",
+                "image_id": "186848"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/186848_1744d80e73c3b7d4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "186848"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Place Card. 1981-5-2-5."
+    },
+    "colors": [
+
+    ],
+    "is_loan_object": 0
+}

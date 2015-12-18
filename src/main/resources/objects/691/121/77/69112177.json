@@ -1,0 +1,131 @@
+{
+    "id": "69112177",
+    "tms:id": "279777",
+    "accession_number": "1925-2-367-b",
+    "title": "Button",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/69112177\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389779",
+    "type_id": "35237135",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1925",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "wood",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Eleanor and Sarah Hewitt",
+    "description": "On card 50",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "button",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/149263_400c0c99503d9f7b_b.jpg",
+                "width": 1024,
+                "height": 928,
+                "is_primary": "1",
+                "image_id": "149263"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/149263_400c0c99503d9f7b_z.jpg",
+                "width": 640,
+                "height": 580,
+                "is_primary": "1",
+                "image_id": "149263"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/149263_400c0c99503d9f7b_n.jpg",
+                "width": 320,
+                "height": 290,
+                "is_primary": "1",
+                "image_id": "149263"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/149263_400c0c99503d9f7b_d.gif",
+                "width": 320,
+                "height": 290,
+                "is_primary": "1",
+                "image_id": "149263"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/149263_400c0c99503d9f7b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "149263"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18049325",
+            "role_id": "35351535",
+            "person_name": "Eleanor Garnier Hewitt",
+            "person_date": "American, 1864\u20131924",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049325\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18049321",
+            "role_id": "35351535",
+            "person_name": "Sarah Cooper Hewitt",
+            "person_date": "American, 1859\u20131930",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049321\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Button. wood. Gift of Eleanor and Sarah Hewitt. 1925-2-367-b."
+    },
+    "colors": [
+        {
+            "color": "#aaa49d",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#886e4c",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#5d4123",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#d5ac6f",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#ac8552",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        }
+    ],
+    "is_loan_object": 0
+}

@@ -1,0 +1,224 @@
+{
+    "id": "68777087",
+    "tms:id": "278658",
+    "accession_number": "1966-55-6-b",
+    "title": "Wine Glass, ca. 1900",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68777087\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35421415",
+    "type_id": "35259317",
+    "date": "ca. 1900",
+    "year_start": null,
+    "year_end": 1910,
+    "year_acquired": "1966",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "favrile glass",
+    "markings": "Incised marks on bases:  \"LCT Favrile\"",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Joseph L. Morris; 1966: acquired by Museum",
+    "dimensions": "H x diam. (a): 18.3 x 8.7 cm (7 3\/16 x 3 7\/16 in.)\nH x diam. (b): 18.4 x 8.8 cm (7 1\/4 x 3 7\/16 in.)\nH x diam. (c): 18.6 x 8.5 cm (7 5\/16 x 3 3\/8 in.)",
+    "dimensions_raw": null,
+    "creditline": "Bequest of Joseph L. Morris",
+    "description": "Flower-shaped cup with pink and mauve interiors shadowed on exteriors with milky white: fluted clear glass stems with milky white at top and bottom; domed foot with white rim and eight tapering pinwheel forms radiating from stem.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "wine glass",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/114606_17999d26b20d8a61_b.jpg",
+                "width": 645,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "114606"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/114606_17999d26b20d8a61_z.jpg",
+                "width": 403,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "114606"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/114606_17999d26b20d8a61_n.jpg",
+                "width": 202,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "114606"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/114606_17999d26b20d8a61_d.gif",
+                "width": 202,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "114606"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/114606_17999d26b20d8a61_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "114606"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/140552_eef68009ba1ee235_b.jpg",
+                "width": 612,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "140552"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/140552_eef68009ba1ee235_z.jpg",
+                "width": 382,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "140552"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/140552_eef68009ba1ee235_n.jpg",
+                "width": 191,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "140552"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/140552_eef68009ba1ee235_d.gif",
+                "width": 191,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "140552"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/140552_eef68009ba1ee235_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "140552"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49340_97afb8b692f063f3_b.jpg",
+                "width": 1024,
+                "height": 866,
+                "is_primary": "0",
+                "image_id": "49340"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49340_97afb8b692f063f3_z.jpg",
+                "width": 640,
+                "height": 541,
+                "is_primary": "0",
+                "image_id": "49340"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49340_97afb8b692f063f3_n.jpg",
+                "width": 320,
+                "height": 271,
+                "is_primary": "0",
+                "image_id": "49340"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49340_97afb8b692f063f3_d.gif",
+                "width": 320,
+                "height": 271,
+                "is_primary": "0",
+                "image_id": "49340"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49340_97afb8b692f063f3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "49340"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6329_bcd14efe13bffc80_b.jpg",
+                "width": 1001,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "6329"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6329_bcd14efe13bffc80_z.jpg",
+                "width": 626,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "6329"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6329_bcd14efe13bffc80_n.jpg",
+                "width": 313,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "6329"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6329_bcd14efe13bffc80_d.gif",
+                "width": 313,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "6329"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6329_bcd14efe13bffc80_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "6329"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18057045",
+            "role_id": "35351537",
+            "person_name": "Joseph L. Morris",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18057045\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        },
+        {
+            "person_id": "18044255",
+            "role_id": "35236685",
+            "person_name": "Louis Comfort Tiffany",
+            "person_date": "American, 1848\u20131933",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044255\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Wine Glass, ca. 1900. favrile glass. Bequest of Joseph L. Morris. 1966-55-6-b."
+    },
+    "colors": [
+        {
+            "color": "#b2a6b4",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#e2cde1",
+            "closest_crayola": "#ebc7df",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
+        }
+    ],
+    "is_loan_object": 0
+}

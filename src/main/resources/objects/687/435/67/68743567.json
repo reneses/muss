@@ -1,0 +1,159 @@
+{
+    "id": "68743567",
+    "tms:id": "277565",
+    "accession_number": "2014-30-4",
+    "title": "Poster, Werkschau 2013, 2013",
+    "title_raw": "Werkschau 2013",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68743567\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35399021",
+    "type_id": "35238163",
+    "date": "2013",
+    "year_start": 2013,
+    "year_end": 2013,
+    "year_acquired": "2014",
+    "decade": "2010",
+    "woe:country_id": "23424957",
+    "medium": "offset lithograph on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Felix Pf\u00e4ffli; August 2014: acquired new by museum",
+    "dimensions": "H x W: 128 \u00d7 89.5 cm (50 3\/8 \u00d7 35 1\/4 in.)",
+    "dimensions_raw": null,
+    "creditline": "Gift of Felix Pf\u00e4ffli",
+    "description": "Poster for the Werkschau of the Lucerne University of Design and Art. Poster features a large red squiggle that begins in the lower left as spray paint, before morphing into paper, then plastic, and then changing back to its original form in the top right.  The squiggle overlaps the form of a blue pole featuring in white text information about the exhibition.",
+    "justification": "This poster promotes an annual showcase of student work at the Lucerne University of Design and Art, called the Werkschau, and was designed by Felix and Mathis Pf\u00e4ffli, brothers who are both graphic designers based in Switzerland. To represent the multimedia exhibition, they designed a symbol of artistic transformation. Felix Pf\u00e4ffli describes the poster\u2019s enormous squiggle as the first stroke of the artist, which begins in the lower left as spray paint, before morphing into paper, then plastic, and then changing back to its original form in the top right. For designers in the digital age, media is endlessly malleable\u2014a simple click can transform textures and materials. The squiggle is itself subject to digital transformation. Using design software, the Pf\u00e4fflis simulated shadows and highlights, giving it the appearance of dimensionality. Printed in bright red, their squiggle is volumetric and a bit voluptuous. As Pf\u00e4ffli explains, \"A brushstroke isn\u2019t just a stroke anymore. It can be whatever you want.\"",
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424957",
+    "type": "poster",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95684_8f90593f0d92406e_b.jpg",
+                "width": 721,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "95684"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95684_8f90593f0d92406e_z.jpg",
+                "width": 450,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "95684"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95684_8f90593f0d92406e_n.jpg",
+                "width": 225,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "95684"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95684_8f90593f0d92406e_d.gif",
+                "width": 225,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "95684"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95684_8f90593f0d92406e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "95684"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94794_0f099dd7aba0a0f0_b.jpg",
+                "width": 720,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "94794"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94794_0f099dd7aba0a0f0_z.jpg",
+                "width": 450,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "94794"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94794_0f099dd7aba0a0f0_n.jpg",
+                "width": 225,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "94794"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94794_0f099dd7aba0a0f0_d.gif",
+                "width": 225,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "94794"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94794_0f099dd7aba0a0f0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "94794"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68735119",
+            "role_id": "35236655",
+            "person_name": "Felix Pf\u00e4ffli",
+            "person_date": "Swiss, born 1986",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68735119\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, Werkschau 2013, 2013. offset lithograph on paper. Gift of Felix Pf\u00e4ffli. 2014-30-4."
+    },
+    "colors": [
+        {
+            "color": "#263ec0",
+            "closest_crayola": "#324ab2",
+            "closest_css3": "#4169e1",
+            "closest_css4": "#4169e1"
+        },
+        {
+            "color": "#da8387",
+            "closest_crayola": "#d98695",
+            "closest_css3": "#d87093",
+            "closest_css4": "#db7093"
+        },
+        {
+            "color": "#b4b4bf",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#90283c",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#a52a2a",
+            "closest_css4": "#a52a2a"
+        },
+        {
+            "color": "#9c95be",
+            "closest_crayola": "#9d81ba",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "Switzerland",
+    "is_loan_object": 0
+}

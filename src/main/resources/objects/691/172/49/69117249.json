@@ -1,0 +1,137 @@
+{
+    "id": "69117249",
+    "tms:id": "281652",
+    "accession_number": "1931-24-12-b",
+    "title": "Figures",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/69117249\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": null,
+    "type_id": "35256057",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1931",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Figures",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111231_406263eb01738772_b.jpg",
+                "width": 780,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "111231"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111231_406263eb01738772_z.jpg",
+                "width": 488,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "111231"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111231_406263eb01738772_n.jpg",
+                "width": 244,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "111231"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111231_406263eb01738772_d.gif",
+                "width": 244,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "111231"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111231_406263eb01738772_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "111231"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2645_acc1e82648f3d234_b.jpg",
+                "width": 618,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "2645"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2645_acc1e82648f3d234_z.jpg",
+                "width": 386,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "2645"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2645_acc1e82648f3d234_n.jpg",
+                "width": 193,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "2645"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2645_acc1e82648f3d234_d.gif",
+                "width": 193,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "2645"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2645_acc1e82648f3d234_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "2645"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Figures. 1931-24-12-b."
+    },
+    "colors": [
+        {
+            "color": "#a9a494",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#a99368",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#816e51",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
+}

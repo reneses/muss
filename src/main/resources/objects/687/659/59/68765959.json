@@ -1,0 +1,103 @@
+{
+    "id": "68765959",
+    "tms:id": "278144",
+    "accession_number": "1958-92-1-b",
+    "title": "Mold For Plate, 1952\u201356",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68765959\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35405999",
+    "type_id": "35291059",
+    "date": "1952\u201356",
+    "year_start": 1952,
+    "year_end": 1956,
+    "year_acquired": "1958",
+    "decade": "1950",
+    "woe:country_id": null,
+    "medium": "bisque",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1958: acquired by Museum",
+    "dimensions": "H x diam.: 2.2 \u00d7 26.6 cm (7\/8 \u00d7 10 1\/2 in.)",
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": "(a): Bisque dinner plate with narrow marli. (b): Glazed dinner plate, same shape. (c): Glazed dinner plate decorated iwth planograph \"Whaling\" after woodcut by clare Leighton. Legend, mark and signature on back. (d): plaster mold of inside of plate; bottom with circular cavity to fit on machine called \"jigger\".",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "mold for plate",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115460_bd902b2b432ad3f2_b.jpg",
+                "width": 1024,
+                "height": 709,
+                "is_primary": "1",
+                "image_id": "115460"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115460_bd902b2b432ad3f2_z.jpg",
+                "width": 640,
+                "height": 443,
+                "is_primary": "1",
+                "image_id": "115460"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115460_bd902b2b432ad3f2_n.jpg",
+                "width": 320,
+                "height": 222,
+                "is_primary": "1",
+                "image_id": "115460"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115460_bd902b2b432ad3f2_d.gif",
+                "width": 320,
+                "height": 222,
+                "is_primary": "1",
+                "image_id": "115460"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115460_bd902b2b432ad3f2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "115460"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18043969",
+            "role_id": "35236657",
+            "person_name": "Wedgwood",
+            "person_date": "Staffordshire, England, founded 1759",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043969\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Mold For Plate, 1952\u201356. bisque. 1958-92-1-b."
+    },
+    "colors": [
+        {
+            "color": "#a6a59b",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#7f7d73",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "is_loan_object": 0
+}

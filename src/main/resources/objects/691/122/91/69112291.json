@@ -1,0 +1,131 @@
+{
+    "id": "69112291",
+    "tms:id": "279831",
+    "accession_number": "1931-59-469-f",
+    "title": "Button",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/69112291\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": null,
+    "type_id": "35237135",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1931",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": "on card 49",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "button",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/151944_8f8a2b460e773d71_b.jpg",
+                "width": 958,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "151944"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/151944_8f8a2b460e773d71_z.jpg",
+                "width": 599,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "151944"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/151944_8f8a2b460e773d71_n.jpg",
+                "width": 299,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "151944"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/151944_8f8a2b460e773d71_d.gif",
+                "width": 299,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "151944"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/151944_8f8a2b460e773d71_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "151944"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18049321",
+            "role_id": "35351535",
+            "person_name": "Sarah Cooper Hewitt",
+            "person_date": "American, 1859\u20131930",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049321\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18049325",
+            "role_id": "35351535",
+            "person_name": "Eleanor Garnier Hewitt",
+            "person_date": "American, 1864\u20131924",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049325\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Button. 1931-59-469-f."
+    },
+    "colors": [
+        {
+            "color": "#827043",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#b5a46e",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#6e6757",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#f4e06d",
+            "closest_crayola": "#fddb6d",
+            "closest_css3": "#f0e68c",
+            "closest_css4": "#f0e68c"
+        },
+        {
+            "color": "#8e8d7d",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "is_loan_object": 0
+}

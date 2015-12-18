@@ -1,0 +1,191 @@
+{
+    "id": "68730965",
+    "tms:id": "277427",
+    "accession_number": "1908-26-87-aa,ab",
+    "title": "Spice Box And Grater (France), ca. 1680",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68730965\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35417447",
+    "type_id": "35264555",
+    "date": "ca. 1680",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1908",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "silver-plated brass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Jean L\u00e9on Decloux; 1908: acquired by Museum",
+    "dimensions": "H x W x D: 7.2 \u00d7 12.5 \u00d7 9 cm (2 13\/16 \u00d7 4 15\/16 \u00d7 3 9\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "9.00",
+            "centimeters"
+        ],
+        "height": [
+            "7.20",
+            "centimeters"
+        ],
+        "width": [
+            "12.50",
+            "centimeters"
+        ]
+    },
+    "creditline": "Purchased for the Museum by the Advisory Council",
+    "description": "Heavily moulded, resting on four feet decorated with women's busts. Double cover hinged through shorter dimension, with cylindrical grater in center.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Spice box and grater",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39322_0d20eaf954e74985_b.jpg",
+                "width": 1024,
+                "height": 404,
+                "is_primary": "1",
+                "image_id": "39322"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39322_0d20eaf954e74985_z.jpg",
+                "width": 640,
+                "height": 253,
+                "is_primary": "1",
+                "image_id": "39322"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39322_0d20eaf954e74985_n.jpg",
+                "width": 320,
+                "height": 126,
+                "is_primary": "1",
+                "image_id": "39322"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39322_0d20eaf954e74985_d.gif",
+                "width": 320,
+                "height": 126,
+                "is_primary": "1",
+                "image_id": "39322"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39322_0d20eaf954e74985_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "39322"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/126783_b1a21f01dc6511de_b.jpg",
+                "width": 1024,
+                "height": 601,
+                "is_primary": "0",
+                "image_id": "126783"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/126783_b1a21f01dc6511de_z.jpg",
+                "width": 640,
+                "height": 376,
+                "is_primary": "0",
+                "image_id": "126783"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/126783_b1a21f01dc6511de_n.jpg",
+                "width": 320,
+                "height": 188,
+                "is_primary": "0",
+                "image_id": "126783"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/126783_b1a21f01dc6511de_d.gif",
+                "width": 320,
+                "height": 188,
+                "is_primary": "0",
+                "image_id": "126783"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/126783_b1a21f01dc6511de_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "126783"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39320_39780005947b0e31_b.jpg",
+                "width": 1024,
+                "height": 342,
+                "is_primary": "0",
+                "image_id": "39320"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39320_39780005947b0e31_z.jpg",
+                "width": 640,
+                "height": 214,
+                "is_primary": "0",
+                "image_id": "39320"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39320_39780005947b0e31_n.jpg",
+                "width": 320,
+                "height": 107,
+                "is_primary": "0",
+                "image_id": "39320"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39320_39780005947b0e31_d.gif",
+                "width": 320,
+                "height": 107,
+                "is_primary": "0",
+                "image_id": "39320"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39320_39780005947b0e31_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "39320"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18049621",
+            "role_id": "35351535",
+            "person_name": "Advisory Council",
+            "person_date": "Founded 1907",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049621\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Spice Box And Grater (France), ca. 1680. silver-plated brass. Purchased for the Museum by the Advisory Council. 1908-26-87-aa,ab."
+    },
+    "colors": [
+        {
+            "color": "#373533",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#5d5a55",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

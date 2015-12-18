@@ -1,0 +1,106 @@
+{
+    "id": "69114893",
+    "tms:id": "280557",
+    "accession_number": "1942-80-9-x",
+    "title": "Die",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/69114893\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": null,
+    "type_id": "35289185",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1942",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Die",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/155314_25f4fc7e2bf7bf37_b.jpg",
+                "width": 1024,
+                "height": 983,
+                "is_primary": "1",
+                "image_id": "155314"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/155314_25f4fc7e2bf7bf37_z.jpg",
+                "width": 640,
+                "height": 614,
+                "is_primary": "1",
+                "image_id": "155314"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/155314_25f4fc7e2bf7bf37_n.jpg",
+                "width": 320,
+                "height": 307,
+                "is_primary": "1",
+                "image_id": "155314"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/155314_25f4fc7e2bf7bf37_d.gif",
+                "width": 320,
+                "height": 307,
+                "is_primary": "1",
+                "image_id": "155314"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/155314_25f4fc7e2bf7bf37_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "155314"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Die. 1942-80-9-x."
+    },
+    "colors": [
+        {
+            "color": "#766944",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#2f2920",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#4f4832",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#948860",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "is_loan_object": 0
+}

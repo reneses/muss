@@ -1,0 +1,94 @@
+{
+    "id": "69118349",
+    "tms:id": "281846",
+    "accession_number": "1970-45-1-f",
+    "title": "Seal\/stamp",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/69118349\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402647",
+    "type_id": "35292419",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1970",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "earthenware",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Seal\/stamp",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/156064_eef3fd2f721c97af_b.jpg",
+                "width": 584,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "156064"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/156064_eef3fd2f721c97af_z.jpg",
+                "width": 365,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "156064"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/156064_eef3fd2f721c97af_n.jpg",
+                "width": 183,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "156064"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/156064_eef3fd2f721c97af_d.gif",
+                "width": 183,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "156064"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/156064_eef3fd2f721c97af_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "156064"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Seal\/stamp. earthenware. 1970-45-1-f."
+    },
+    "colors": [
+        {
+            "color": "#dbc8a1",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#b1a698",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "is_loan_object": 0
+}

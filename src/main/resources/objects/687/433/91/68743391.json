@@ -1,0 +1,155 @@
+{
+    "id": "68743391",
+    "tms:id": "277511",
+    "accession_number": "2014-23-5",
+    "title": "Poster, Spirited, 2011",
+    "title_raw": "Spirited",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68743391\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35431679",
+    "type_id": "35238163",
+    "date": "2011",
+    "year_start": 2011,
+    "year_end": 2011,
+    "year_acquired": "2014",
+    "decade": "2010",
+    "woe:country_id": "23424829",
+    "medium": "screenprint on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Jianping He new to Cooper Hewitt, August 2014",
+    "dimensions": "118.9 \u00d7 84.1 cm (46 13\/16 \u00d7 33 1\/8 in.)",
+    "dimensions_raw": null,
+    "creditline": "Gift of Jianping He",
+    "description": "A single chinese character in black calligraphy. Fine black lines connect the ends of the characters, forming a three-dimensional shape.",
+    "justification": "Jianping He was among forty Asian designers invited by the Taiwanese calligrapher Tong Yang-Tze to collaborate on a group of twenty-four works of calligraphy focusing on the subject of \"imitating nature.\" The theme, which had long been a driving influence in the tradition of Chinese painting and calligraphy, also reminded He of a quote by Albert Einstein: \"Look deep into nature, and then you will understand everything better.\" Working with Yang-Tze, He designed a poster that features a single calligraphic Chinese character. He built-up a network of thin lines that connect the different ends of the character\u2019s lines, transforming the flat design into a shape with a three-dimensional appearance.  The poster was designed for the Asian Culture and Arts Development Alliance.",
+    "gallery_text": null,
+    "label_text": "Jianping He was invited by calligrapher Tong Yang-Tze to collaborate on a work. The theme of \u201cimitating nature\u201d reminded He of an Einstein quote: \u201cLook deep into nature, and then you will understand everything better.\u201d The poster features a single Chinese character transformed into a unified whole through a web of thin lines extruding from the edges of the calligraphic element.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "poster",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95698_23d5bba05023cdea_b.jpg",
+                "width": 726,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "95698"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95698_23d5bba05023cdea_z.jpg",
+                "width": 454,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "95698"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95698_23d5bba05023cdea_n.jpg",
+                "width": 227,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "95698"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95698_23d5bba05023cdea_d.gif",
+                "width": 227,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "95698"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95698_23d5bba05023cdea_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "95698"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94789_868796e65fd560c2_b.jpg",
+                "width": 726,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "94789"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94789_868796e65fd560c2_z.jpg",
+                "width": 453,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "94789"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94789_868796e65fd560c2_n.jpg",
+                "width": 227,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "94789"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94789_868796e65fd560c2_d.gif",
+                "width": 227,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "94789"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94789_868796e65fd560c2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "94789"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68735173",
+            "role_id": "35351535",
+            "person_name": "Jianping He",
+            "person_date": "Chinese, born 1973",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68735173\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "68735173",
+            "role_id": "35236655",
+            "person_name": "Jianping He",
+            "person_date": "Chinese, born 1973",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68735173\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "169287639",
+            "role_id": "35236655",
+            "person_name": "Tong Yang-Tze",
+            "person_date": "Chinese, b. 1942",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/169287639\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, Spirited, 2011. screenprint on paper. Gift of Jianping He. 2014-23-5."
+    },
+    "colors": [
+        {
+            "color": "#ffffff",
+            "closest_crayola": "#ffffff",
+            "closest_css3": "#ffffff",
+            "closest_css4": "#ffffff"
+        }
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
+}

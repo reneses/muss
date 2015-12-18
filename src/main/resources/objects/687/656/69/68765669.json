@@ -1,0 +1,106 @@
+{
+    "id": "68765669",
+    "tms:id": "278015",
+    "accession_number": "1937-68-7-o",
+    "title": "Tile, 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68765669\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35403601",
+    "type_id": "35250645",
+    "date": "18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1937",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "tin-enamelled earthenware",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D (lying flat): 6.5 x 6.8 x 12.8 cm (2 9\/16 x 2 11\/16 x 5 1\/16 in.)",
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": "Vertical rectangles. Each tile with identical pattern of two flowers and leaves on continuous scrolling stem. One flower faces the observer and the other is in profile. Manganese violet on white ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "tile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/101020_d8993d79ddb7a1ad_b.jpg",
+                "width": 730,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "101020"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/101020_d8993d79ddb7a1ad_z.jpg",
+                "width": 456,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "101020"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/101020_d8993d79ddb7a1ad_n.jpg",
+                "width": 228,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "101020"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/101020_d8993d79ddb7a1ad_d.gif",
+                "width": 228,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "101020"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/101020_d8993d79ddb7a1ad_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "101020"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Tile, 18th century. tin-enamelled earthenware. 1937-68-7-o."
+    },
+    "colors": [
+        {
+            "color": "#a4a09a",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#a88e8a",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#906d6d",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#442623",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "is_loan_object": 0
+}

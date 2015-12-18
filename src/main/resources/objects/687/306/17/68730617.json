@@ -1,0 +1,206 @@
+{
+    "id": "68730617",
+    "tms:id": "277290",
+    "accession_number": "1925-2-5-b",
+    "title": "Medallion (England), late 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68730617\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35414527",
+    "type_id": "35249475",
+    "date": "late 18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1925",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "stoneware",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Eleanor and Sarah Hewitt",
+    "description": "Circular and lozenge shaped medallions or mounts in the style of wedgwood jasperware; ornamented with medusa head, shown full face against rays arranged to for a lognge; whte on blue ground.\n\nComponents a,b are on card 4",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "medallion",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92404_dc66220034b1dc7d_b.jpg",
+                "width": 1024,
+                "height": 870,
+                "is_primary": "1",
+                "image_id": "92404"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92404_dc66220034b1dc7d_z.jpg",
+                "width": 640,
+                "height": 543,
+                "is_primary": "1",
+                "image_id": "92404"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92404_dc66220034b1dc7d_n.jpg",
+                "width": 320,
+                "height": 272,
+                "is_primary": "1",
+                "image_id": "92404"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92404_dc66220034b1dc7d_d.gif",
+                "width": 320,
+                "height": 272,
+                "is_primary": "1",
+                "image_id": "92404"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92404_dc66220034b1dc7d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92404"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/157323_66cd1891b6f09ad2_b.jpg",
+                "width": 954,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "157323"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/157323_66cd1891b6f09ad2_z.jpg",
+                "width": 596,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "157323"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/157323_66cd1891b6f09ad2_n.jpg",
+                "width": 298,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "157323"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/157323_66cd1891b6f09ad2_d.gif",
+                "width": 298,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "157323"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/157323_66cd1891b6f09ad2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "157323"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92402_13ce763eaf5e0056_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "92402"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92402_13ce763eaf5e0056_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "92402"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92402_13ce763eaf5e0056_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "92402"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92402_13ce763eaf5e0056_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "92402"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92402_13ce763eaf5e0056_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "92402"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18049321",
+            "role_id": "35351535",
+            "person_name": "Sarah Cooper Hewitt",
+            "person_date": "American, 1859\u20131930",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049321\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18049325",
+            "role_id": "35351535",
+            "person_name": "Eleanor Garnier Hewitt",
+            "person_date": "American, 1864\u20131924",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049325\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Medallion (England), late 18th century. stoneware. Gift of Eleanor and Sarah Hewitt. 1925-2-5-b."
+    },
+    "colors": [
+        {
+            "color": "#4a57a1",
+            "closest_crayola": "#2e5894",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        },
+        {
+            "color": "#a3abbe",
+            "closest_crayola": "#a2add0",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#595852",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#2f387d",
+            "closest_crayola": "#1a4876",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        },
+        {
+            "color": "#454b5d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
+}

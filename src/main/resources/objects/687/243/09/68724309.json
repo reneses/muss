@@ -1,0 +1,151 @@
+{
+    "id": "68724309",
+    "tms:id": "277164",
+    "accession_number": "2014-20-1",
+    "title": "Poster, Adventures of an Abandoned Child, 1926",
+    "title_raw": "Adventures of an Abandoned Child",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68724309\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35419317",
+    "type_id": "35238163",
+    "date": "1926",
+    "year_start": 1920,
+    "year_end": 1930,
+    "year_acquired": "2014",
+    "decade": "1920",
+    "woe:country_id": "23424936",
+    "medium": "lithograph on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Merrill Berman to Cooper Hewitt, July 2014",
+    "dimensions": "H x W: 101.3 \u00d7 71.9 cm (39 7\/8 \u00d7 28 5\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "100.96",
+            "centimeters"
+        ],
+        "width": [
+            "71.10",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Merrill C. Berman in honor of Ellen Lupton",
+    "description": "A blue man with presumably shrugging with raised hands straddles the yellow head of an older woman, who seems to be laughing. An orange and black background extends behind them. The film title is printed vertically on yellow columns on the left and right sides of the poster. Additional markings: lower left - \"In the 2nd series, 16th part\"; lower right - \"Issued by Sovkino\" with stamp.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": "The Stenberg brothers created dozens of film posters in the Soviet Union in the 1920s. Using a projector they would enlarge frames from a movie, such as an actor\u2019s face, and trace the image. This technique enabled the designers to control the scale and tonality of their images, and blend them seamlessly with type and abstract elements.",
+    "videos": null,
+    "on_display": "1",
+    "woe:country": "23424936",
+    "type": "poster",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93892_19db5a689707fae7_b.jpg",
+                "width": 730,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "93892"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93892_19db5a689707fae7_z.jpg",
+                "width": 456,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "93892"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93892_19db5a689707fae7_n.jpg",
+                "width": 228,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93892"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93892_19db5a689707fae7_d.gif",
+                "width": 228,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93892"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93892_19db5a689707fae7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93892"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18061513",
+            "role_id": "35236655",
+            "person_name": "Vladimir Augustovich Stenberg",
+            "person_date": "Russian, 1899 - 1982",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061513\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18061511",
+            "role_id": "35236655",
+            "person_name": "Georgii Augustovich Stenberg",
+            "person_date": "Russian, 1900-1933",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061511\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "51677565",
+            "role_id": "35351535",
+            "person_name": "Merrill Berman",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51677565\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, Adventures of an Abandoned Child, 1926. lithograph on paper. Gift of Merrill C. Berman in honor of Ellen Lupton. 2014-20-1."
+    },
+    "colors": [
+        {
+            "color": "#36322e",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#72748e",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        },
+        {
+            "color": "#d37428",
+            "closest_crayola": "#c46210",
+            "closest_css3": "#d2691e",
+            "closest_css4": "#d2691e"
+        },
+        {
+            "color": "#e8be12",
+            "closest_crayola": "#ffae42",
+            "closest_css3": "#daa520",
+            "closest_css4": "#daa520"
+        },
+        {
+            "color": "#dec38e",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#deb887",
+            "closest_css4": "#deb887"
+        }
+    ],
+    "woe:country_name": "Russia",
+    "is_loan_object": 0
+}

@@ -1,0 +1,170 @@
+{
+    "id": "68730979",
+    "tms:id": "277430",
+    "accession_number": "1927-20-5-b",
+    "title": "Side Chair (USA), ca. 1812",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68730979\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "68730971",
+    "type_id": "35237951",
+    "date": "ca. 1812",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1927",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "mahogany caned seat covered with upholstery",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Mrs. John Innes Kane [1]; 1927: bequested to the Museum\n\n\n\n[1] Peter and Sarah Jones Schermerhorn, grandparents of donor, married in 1812",
+    "dimensions": "H x W x D: 82 \u00d7 47.5 \u00d7 54.2 cm (32 5\/16 \u00d7 18 11\/16 \u00d7 21 5\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "54.20",
+            "centimeters"
+        ],
+        "height": [
+            "82.00",
+            "centimeters"
+        ],
+        "width": [
+            "47.50",
+            "centimeters"
+        ]
+    },
+    "creditline": null,
+    "description": "Rounded and reeded seat rail; rounded and reeded tapering legs.  Top rail carved with \"thunderbolt design,\" tied with bow.  Below top rail, two diagonal, crossing bars, reeded.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "side chair",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103213_8f7d427ca5ef3284_b.jpg",
+                "width": 719,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "103213"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103213_8f7d427ca5ef3284_z.jpg",
+                "width": 449,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "103213"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103213_8f7d427ca5ef3284_n.jpg",
+                "width": 225,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "103213"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103213_8f7d427ca5ef3284_d.gif",
+                "width": 225,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "103213"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103213_8f7d427ca5ef3284_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "103213"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2937_dcfe69092c33b1fc_b.jpg",
+                "width": 1024,
+                "height": 866,
+                "is_primary": "0",
+                "image_id": "2937"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2937_dcfe69092c33b1fc_z.jpg",
+                "width": 640,
+                "height": 541,
+                "is_primary": "0",
+                "image_id": "2937"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2937_dcfe69092c33b1fc_n.jpg",
+                "width": 320,
+                "height": 271,
+                "is_primary": "0",
+                "image_id": "2937"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2937_dcfe69092c33b1fc_d.gif",
+                "width": 320,
+                "height": 271,
+                "is_primary": "0",
+                "image_id": "2937"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2937_dcfe69092c33b1fc_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "2937"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18049373",
+            "role_id": "35351537",
+            "person_name": "Mrs. John Innes Kane",
+            "person_date": "American, d. 1926",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049373\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        },
+        {
+            "person_id": "18051919",
+            "role_id": "35236707",
+            "person_name": "Duncan Phyfe",
+            "person_date": "American, 1768\u20131854",
+            "role_name": "Style of",
+            "role_display_name": "Style of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051919\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236707\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Side Chair (USA), ca. 1812. mahogany caned seat covered with upholstery. 1927-20-5-b."
+    },
+    "colors": [
+        {
+            "color": "#3f3028",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#5e4f46",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#826651",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
+}

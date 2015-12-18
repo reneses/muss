@@ -1,0 +1,88 @@
+{
+    "id": "69113433",
+    "tms:id": "280224",
+    "accession_number": "1927-3-248-1",
+    "title": "Drawing",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/69113433\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": null,
+    "type_id": "35237093",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1927",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/170070_1f0d67bb795a9b4c_b.jpg",
+                "width": 775,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "170070"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/170070_1f0d67bb795a9b4c_z.jpg",
+                "width": 484,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "170070"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/170070_1f0d67bb795a9b4c_n.jpg",
+                "width": 242,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "170070"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/170070_1f0d67bb795a9b4c_d.gif",
+                "width": 242,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "170070"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/170070_1f0d67bb795a9b4c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "170070"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Drawing. 1927-3-248-1."
+    },
+    "colors": [
+        {
+            "color": "#e2dfce",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
+        }
+    ],
+    "is_loan_object": 0
+}

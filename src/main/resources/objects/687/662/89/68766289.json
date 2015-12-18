@@ -1,0 +1,121 @@
+{
+    "id": "68766289",
+    "tms:id": "278280",
+    "accession_number": "1978-169-111-b",
+    "title": "Tile,study Collection",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68766289\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": null,
+    "type_id": "35293187",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1978",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Eleanor M. Delanoy",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "tile,study collection",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99924_fea0ae9bff996069_b.jpg",
+                "width": 1024,
+                "height": 994,
+                "is_primary": "1",
+                "image_id": "99924"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99924_fea0ae9bff996069_z.jpg",
+                "width": 640,
+                "height": 621,
+                "is_primary": "1",
+                "image_id": "99924"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99924_fea0ae9bff996069_n.jpg",
+                "width": 320,
+                "height": 311,
+                "is_primary": "1",
+                "image_id": "99924"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99924_fea0ae9bff996069_d.gif",
+                "width": 320,
+                "height": 311,
+                "is_primary": "1",
+                "image_id": "99924"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99924_fea0ae9bff996069_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "99924"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18537141",
+            "role_id": "35351535",
+            "person_name": "Eleanor Marquand Delanoy",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537141\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Tile,study Collection. Gift of Eleanor M. Delanoy. 1978-169-111-b."
+    },
+    "colors": [
+        {
+            "color": "#95948c",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#916c30",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#605c51",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#465f48",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#807d67",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "is_loan_object": 0
+}

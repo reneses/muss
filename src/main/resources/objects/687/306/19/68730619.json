@@ -1,0 +1,116 @@
+{
+    "id": "68730619",
+    "tms:id": "277291",
+    "accession_number": "1939-57-29-e",
+    "title": "Button (France), 1750\u201399",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68730619\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35426685",
+    "type_id": "35237135",
+    "date": "1750\u201399",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1939",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "silk uncut voided cloth velvet over bone forms",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": "From originally a set of seventeen buttons, of three different sizes, to go with the man's suit of which 1939-57-30-a to c are parts - bone shapes covered with purple velvet uncut pile which forms minute hexagons each enclosing a round dot against a ground with short floats of secondary purple silk weft.\n\nComponent -a is on card A",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "button",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/151535_e75e7341e5a1d7d0_b.jpg",
+                "width": 1024,
+                "height": 942,
+                "is_primary": "1",
+                "image_id": "151535"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/151535_e75e7341e5a1d7d0_z.jpg",
+                "width": 640,
+                "height": 589,
+                "is_primary": "1",
+                "image_id": "151535"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/151535_e75e7341e5a1d7d0_n.jpg",
+                "width": 320,
+                "height": 294,
+                "is_primary": "1",
+                "image_id": "151535"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/151535_e75e7341e5a1d7d0_d.gif",
+                "width": 320,
+                "height": 294,
+                "is_primary": "1",
+                "image_id": "151535"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/151535_e75e7341e5a1d7d0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "151535"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18052467",
+            "role_id": "35351535",
+            "person_name": "Estate of Herman A. Elsberg",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052467\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Button (France), 1750\u201399. silk uncut voided cloth velvet over bone forms. 1939-57-29-e."
+    },
+    "colors": [
+        {
+            "color": "#261511",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#67594e",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#45362e",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#8b7b63",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

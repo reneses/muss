@@ -1,0 +1,83 @@
+{
+    "id": "68862835",
+    "tms:id": "279455",
+    "accession_number": "1957-37-8-ff",
+    "title": "Sample",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68862835\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": null,
+    "type_id": "35268079",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1957",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Sample",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/193261_9fff9e0a31382621_b.jpg",
+                "width": 805,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "193261"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/193261_9fff9e0a31382621_z.jpg",
+                "width": 503,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "193261"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/193261_9fff9e0a31382621_n.jpg",
+                "width": 252,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "193261"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/193261_9fff9e0a31382621_d.gif",
+                "width": 252,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "193261"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/193261_9fff9e0a31382621_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "193261"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Sample. 1957-37-8-ff."
+    },
+    "colors": [
+
+    ],
+    "is_loan_object": 0
+}

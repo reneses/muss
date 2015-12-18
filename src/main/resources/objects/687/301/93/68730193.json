@@ -1,0 +1,154 @@
+{
+    "id": "68730193",
+    "tms:id": "277184",
+    "accession_number": "1968-160-3-b",
+    "title": "Wine Rinser (England), 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68730193\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35393451",
+    "type_id": "51587291",
+    "date": "18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1968",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "cut and engraved glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1968: acquired by Museum",
+    "dimensions": "H x diam.: 9 \u00d7 14.5 cm (3 9\/16 \u00d7 5 11\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "14.50",
+            "centimeters"
+        ],
+        "height": [
+            "9.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Mr. and Mrs. Arthur Wiesenberger",
+    "description": "Basin shaped with vertical impressions along lower half, engraved asterisks near upper rim, with two spouts.",
+    "justification": null,
+    "gallery_text": "In order to clean and chill glasses in between drinks, wine rinsing tubs were kept either on the tabletop or, more often, on a sideboard adjacent to the dining table. At lavish meals in the seventeenth and eighteenth centuries, a different wine would be served with each course, meaning the wine glasses would need to be rinsed frequently to avoid mixing flavors.",
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Wine rinser",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45005_9369ed3d9a39b649_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "45005"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45005_9369ed3d9a39b649_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "45005"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45005_9369ed3d9a39b649_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "45005"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45005_9369ed3d9a39b649_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "45005"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45005_9369ed3d9a39b649_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "45005"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112921_94017d7628ae4f92_b.jpg",
+                "width": 1024,
+                "height": 934,
+                "is_primary": "0",
+                "image_id": "112921"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112921_94017d7628ae4f92_z.jpg",
+                "width": 640,
+                "height": 584,
+                "is_primary": "0",
+                "image_id": "112921"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112921_94017d7628ae4f92_n.jpg",
+                "width": 320,
+                "height": 292,
+                "is_primary": "0",
+                "image_id": "112921"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112921_94017d7628ae4f92_d.gif",
+                "width": 320,
+                "height": 292,
+                "is_primary": "0",
+                "image_id": "112921"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112921_94017d7628ae4f92_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "112921"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18054135",
+            "role_id": "35351535",
+            "person_name": "Mrs. Arthur Wiesenberger",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18054135\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18053115",
+            "role_id": "35351535",
+            "person_name": "Arthur Wiesenberger",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053115\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Wine Rinser (England), 18th century. cut and engraved glass. Gift of Mr. and Mrs. Arthur Wiesenberger. 1968-160-3-b."
+    },
+    "colors": [
+        {
+            "color": "#cdcccb",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
+}

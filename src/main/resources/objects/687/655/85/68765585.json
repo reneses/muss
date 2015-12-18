@@ -1,0 +1,162 @@
+{
+    "id": "68765585",
+    "tms:id": "277982",
+    "accession_number": "1930-18-1-j",
+    "title": "Sidewall, 1922\u201330",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68765585\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35367333",
+    "type_id": "35256475",
+    "date": "1922\u201330",
+    "year_start": 1922,
+    "year_end": 1930,
+    "year_acquired": "1930",
+    "decade": "1920",
+    "woe:country_id": null,
+    "medium": "machine-printed on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "44.5 x 53 cm (17 1\/2 x 20 7\/8 in.)",
+    "dimensions_raw": null,
+    "creditline": "Gift of W. H. S. Lloyd Co., Inc.",
+    "description": "Design contains one repeat of a stylized bird and foliage design. The bird is perched upon a branch with wings spread. Several varieties of foliage are represented along with petite gold flowers. Printed in deep yellow, black and metallic gold on a lighter yellow ground.",
+    "justification": null,
+    "gallery_text": "This art-deco style wallcovering was first illustrated in the March 1930 edition of House Beautiful in an advertisement for its importer, W.H.S. Lloyd Co., a significant importer of English, French and Japanese wall hangings. This wallpaper is a fine example of the French modern movement and its title literally translates into the \u201cModern Bird\u201d. The stylized foliage, the animated birds and the choice of vibrant colors, enhanced by metallic gold paint, combine to show off the appeal of art deco.",
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Sidewall",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91377_8be21733239be63f_b.jpg",
+                "width": 767,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "91377"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91377_8be21733239be63f_z.jpg",
+                "width": 479,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "91377"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91377_8be21733239be63f_n.jpg",
+                "width": 240,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "91377"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91377_8be21733239be63f_d.gif",
+                "width": 240,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "91377"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91377_8be21733239be63f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "91377"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21973_1226d097b24ae701_b.jpg",
+                "width": 793,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "21973"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21973_1226d097b24ae701_z.jpg",
+                "width": 495,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "21973"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21973_1226d097b24ae701_n.jpg",
+                "width": 248,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "21973"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21973_1226d097b24ae701_d.gif",
+                "width": 248,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "21973"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21973_1226d097b24ae701_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "21973"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18049811",
+            "role_id": "35236655",
+            "person_name": "Tommi Parzinger",
+            "person_date": "German, active USA, 1903 - 1981",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049811\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "34624603",
+            "role_id": "35351535",
+            "person_name": "W.H.S. Lloyd Co., Inc.",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/34624603\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sidewall, 1922\u201330. machine-printed on paper. Gift of W. H. S. Lloyd Co., Inc.. 1930-18-1-j."
+    },
+    "colors": [
+        {
+            "color": "#d9bd47",
+            "closest_crayola": "#ffae42",
+            "closest_css3": "#f4a460",
+            "closest_css4": "#f4a460"
+        },
+        {
+            "color": "#332e2c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#9d8c5e",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#615642",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "is_loan_object": 0
+}

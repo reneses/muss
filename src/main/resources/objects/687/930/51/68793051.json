@@ -1,0 +1,178 @@
+{
+    "id": "68793051",
+    "tms:id": "278816",
+    "accession_number": "2014-45-1",
+    "title": "Print, Muzykal'naia nov' (Musical New Land) , No. 10, 1924",
+    "title_raw": "Muzykal'naia nov' (Musical New Land) , No. 10",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68793051\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35433807",
+    "type_id": "35236873",
+    "date": "1924",
+    "year_start": 1924,
+    "year_end": 1924,
+    "year_acquired": "2014",
+    "decade": "1920",
+    "woe:country_id": null,
+    "medium": "letterpress on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Merrill Berman to Cooper Hewitt, December 2014",
+    "dimensions": "30.5 \u00d7 22.7 cm (12 in. \u00d7 8 15\/16 in.)",
+    "dimensions_raw": null,
+    "creditline": "Gift of Merrill C. Berman",
+    "description": "Bold design in red and black on white.  A black circle with Musykal'naia in white wrapping around a white circle with Nov in red.  This field is separated by a black bar from a lower rectangular field with 1924 in black, a central section (to be completed) and N 4, a black bar separates another field which says Moskva in black at left;   in red  at center; and   in black at right.",
+    "justification": "While trained as a painter, Liubov Popova abandoned her painting career in 1921 for art that served the people and the communist State.  Strongly influenced by Kasimir Malevich and Alexandr Rodchenko, she applied a Constructivist aesthetic to her posters and other printed ephemera, textiles, stage design, clothing and ceramics.   Presented here is an issue of the Russian avant-garde journal, Muzykal\u2019naia nov\u2019 (Musical New Land), no. 4, 1924, with a cover by Popova.   This is a powerful graphic whose boldness and central focus approaches graphic designs of Rodchenko.  The Musical New Land journal is relatively rare, since only 1500 copies were printed.",
+    "gallery_text": null,
+    "label_text": "Popova uses hand-lettering techniques to create typography at a massive scale.",
+    "videos": null,
+    "on_display": "1",
+    "woe:country": null,
+    "type": "Print",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103359_2a13ce367c5592af_b.jpg",
+                "width": 770,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "103359"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103359_2a13ce367c5592af_z.jpg",
+                "width": 481,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "103359"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103359_2a13ce367c5592af_n.jpg",
+                "width": 241,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "103359"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103359_2a13ce367c5592af_d.gif",
+                "width": 241,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "103359"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103359_2a13ce367c5592af_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "103359"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103380_8418290ff8bfa9fd_b.jpg",
+                "width": 776,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "103380"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103380_8418290ff8bfa9fd_z.jpg",
+                "width": 485,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "103380"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103380_8418290ff8bfa9fd_n.jpg",
+                "width": 243,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "103380"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103380_8418290ff8bfa9fd_d.gif",
+                "width": 243,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "103380"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103380_8418290ff8bfa9fd_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "103380"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68802431",
+            "role_id": "35236763",
+            "person_name": "Liubov Popova",
+            "person_date": "Russian, 1889\u20131924",
+            "role_name": "Graphic Designer",
+            "role_display_name": "Graphic design by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68802431\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236763\/"
+        },
+        {
+            "person_id": "51677565",
+            "role_id": "35236691",
+            "person_name": "Merrill Berman",
+            "person_date": "",
+            "role_name": "Collector",
+            "role_display_name": "Collected by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51677565\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236691\/"
+        },
+        {
+            "person_id": "51677565",
+            "role_id": "35351535",
+            "person_name": "Merrill Berman",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51677565\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Print, Muzykal'naia nov' (Musical New Land) , No. 10, 1924. letterpress on paper. Gift of Merrill C. Berman. 2014-45-1."
+    },
+    "colors": [
+        {
+            "color": "#eae0c5",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
+        },
+        {
+            "color": "#454340",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#db7d40",
+            "closest_crayola": "#d68a59",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#735032",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#a9683d",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        }
+    ],
+    "is_loan_object": 0
+}

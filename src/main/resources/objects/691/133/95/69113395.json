@@ -1,0 +1,112 @@
+{
+    "id": "69113395",
+    "tms:id": "280207",
+    "accession_number": "1.2015.8",
+    "title": "Postcard, Spartakiada, Moscow 1928, 1928",
+    "title_raw": "Spartakiada, Moscow 1928",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/69113395\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "69123511",
+    "type_id": "35247593",
+    "date": "1928",
+    "year_start": 1928,
+    "year_end": 1928,
+    "year_acquired": null,
+    "decade": "1920",
+    "woe:country_id": null,
+    "medium": "letterpress",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "14.8 \u00d7 10.3 cm (5 13\/16 \u00d7 4 1\/16 in.)",
+    "dimensions_raw": null,
+    "creditline": "Collection of Merrill C. Berman",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": "1",
+    "woe:country": null,
+    "type": "postcard",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107566_a97141bbbed5c820_b.jpg",
+                "width": 182,
+                "height": 266,
+                "is_primary": "1",
+                "image_id": "107566"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107566_a97141bbbed5c820_z.jpg",
+                "width": 182,
+                "height": 266,
+                "is_primary": "1",
+                "image_id": "107566"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107566_a97141bbbed5c820_n.jpg",
+                "width": 182,
+                "height": 266,
+                "is_primary": "1",
+                "image_id": "107566"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107566_a97141bbbed5c820_d.gif",
+                "width": 182,
+                "height": 266,
+                "is_primary": "1",
+                "image_id": "107566"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107566_a97141bbbed5c820_sq.jpg",
+                "width": 182,
+                "height": 266,
+                "is_primary": "1",
+                "image_id": "107566"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Postcard, Spartakiada, Moscow 1928, 1928. letterpress. Collection of Merrill C. Berman. 1.2015.8."
+    },
+    "colors": [
+        {
+            "color": "#ec3724",
+            "closest_crayola": "#ff2b2b",
+            "closest_css3": "#ff4500",
+            "closest_css4": "#ff4500"
+        },
+        {
+            "color": "#443f3b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#76746e",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#a09a97",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#036393",
+            "closest_crayola": "#0a7e8c",
+            "closest_css3": "#008080",
+            "closest_css4": "#008080"
+        }
+    ],
+    "is_loan_object": 1
+}

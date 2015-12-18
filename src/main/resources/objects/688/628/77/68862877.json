@@ -1,0 +1,92 @@
+{
+    "id": "68862877",
+    "tms:id": "279474",
+    "accession_number": "1985-68-7-f",
+    "title": "Textile Swatch, 1910\u201320",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68862877\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": null,
+    "type_id": "68862441",
+    "date": "1910\u201320",
+    "year_start": 1910,
+    "year_end": 1920,
+    "year_acquired": "1985",
+    "decade": "1910",
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Margery B. Howe",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Textile swatch",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/193735_6fd8b8c022c753b8_b.jpg",
+                "width": 1024,
+                "height": 767,
+                "is_primary": "1",
+                "image_id": "193735"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/193735_6fd8b8c022c753b8_z.jpg",
+                "width": 640,
+                "height": 479,
+                "is_primary": "1",
+                "image_id": "193735"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/193735_6fd8b8c022c753b8_n.jpg",
+                "width": 320,
+                "height": 240,
+                "is_primary": "1",
+                "image_id": "193735"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/193735_6fd8b8c022c753b8_d.gif",
+                "width": 320,
+                "height": 240,
+                "is_primary": "1",
+                "image_id": "193735"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/193735_6fd8b8c022c753b8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "193735"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18051617",
+            "role_id": "35236657",
+            "person_name": "Deerfield Society of Blue and White Needlework (American, 1896\u20131926)",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051617\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile Swatch, 1910\u201320. Gift of Margery B. Howe. 1985-68-7-f."
+    },
+    "colors": [
+
+    ],
+    "is_loan_object": 0
+}

@@ -1,0 +1,86 @@
+{
+    "id": "68774785",
+    "tms:id": "278548",
+    "accession_number": "2015-4-3",
+    "title": "Poster, Los Angeles, a Film by Sarah Morris, 2005",
+    "title_raw": "Los Angeles, a Film by Sarah Morris",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68774785\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35431679",
+    "type_id": "35238163",
+    "date": "2005",
+    "year_start": 2005,
+    "year_end": 2005,
+    "year_acquired": "2015",
+    "decade": "2000",
+    "woe:country_id": null,
+    "medium": "screenprint on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "M\/M (Paris) to Cooper Hewitt, November 2014.",
+    "dimensions": "176 \u00d7 120 cm (5 ft. 9 5\/16 in. \u00d7 47 1\/4 in.)",
+    "dimensions_raw": null,
+    "creditline": "Gift of M\/M (Paris)",
+    "description": "Strips of overlapping images create a repitition of \"los angeles\". Underneath the repeating los angeles reads \"LOS ANGELES A FILM BY SARAH MORRIS PARALAX 2004\". Behind the text is a view of a bend in the road overlooking a city, presumably Los Angeles. To the left of the text are plants.",
+    "justification": "Sarah Morris creates experimental films within the context of the art world. Her films are displayed in museums and art spaces surrounded by her own related paintings; they are announced and promoted with posters designed by M\/M (Paris). Each film and its accompanying poster explores a city or architectural landscape. Los Angeles (2005) is a study of image production within the decentered plan and complex architecture of Los Angeles; the poster uses the title of the film as a prism.",
+    "gallery_text": null,
+    "label_text": "Morris creates experimental films that are displayed in museums and art spaces. Each film explores a city or architectural landscape, and is announced and promoted with a poster by M\/M (Paris). The poster uses the title of the film as a typographical prism through which the city\u2019s layered, multifaceted character can be viewed.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "poster",
+    "images": [
+
+    ],
+    "participants": [
+        {
+            "person_id": "68777729",
+            "role_id": "35236667",
+            "person_name": "Parallax Film Productions",
+            "person_date": "White Rock, British Columbia, Canada",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68777729\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        },
+        {
+            "person_id": "68774519",
+            "role_id": "35236655",
+            "person_name": "Mathias Augustyniak",
+            "person_date": "French, b.1967",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68774519\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "68774515",
+            "role_id": "35236655",
+            "person_name": "Michael Amzalag",
+            "person_date": "French, b. 1967",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68774515\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "68774511",
+            "role_id": "35236655",
+            "person_name": "M\/M (Paris)",
+            "person_date": "Paris, France, founded 1992",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68774511\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, Los Angeles, a Film by Sarah Morris, 2005. screenprint on paper. Gift of M\/M (Paris). 2015-4-3."
+    },
+    "colors": [
+
+    ],
+    "is_loan_object": 0
+}

@@ -1,0 +1,401 @@
+{
+    "id": "68743477",
+    "tms:id": "277546",
+    "accession_number": "1968-144-7-c,d",
+    "title": "Club Chair Armchair And Cushion, 1930",
+    "title_raw": "Club Chair",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68743477\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35397209",
+    "type_id": "51587157",
+    "date": "1930",
+    "year_start": 1930,
+    "year_end": 1930,
+    "year_acquired": "1968",
+    "decade": "1930",
+    "woe:country_id": "23424819",
+    "medium": "wood, leather",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Mr. and Mrs. Forsythe Sherfesee [1]; 1968: acquired by Museum\n\n\n\n\n\n\n\n\n\n\n\n\n\n[1] A photograph of Jean-Michel Frank's apartment shows the chairs in his sitting room and office, located at Rue de Verneuil, Paris. The \"club\" chair was a frequent part of his residential interior design schemes.",
+    "dimensions": "H x W x D (c, d): 76 x 87 x 82.5 cm (29 15\/16 x 34 1\/4 x 32 1\/2 in.)",
+    "dimensions_raw": null,
+    "creditline": "Gift of Mr. and Mrs. Forsythe Sherfesee",
+    "description": "One of set of three of armchairs, characterized by its square shape and matching tan leather.  The armchair's base, very bulky, rests on four wooden feet.  The seat cushion is padded.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Armchair and cushion",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48347_cf7ea34ff689cb93_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "48347"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48347_cf7ea34ff689cb93_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "48347"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48347_cf7ea34ff689cb93_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "48347"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48347_cf7ea34ff689cb93_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "48347"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48347_cf7ea34ff689cb93_sq.jpg",
+                "width": null,
+                "height": null,
+                "is_primary": "1",
+                "image_id": "48347"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7570_44a4b4021af19b44_b.jpg",
+                "width": 980,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "7570"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7570_44a4b4021af19b44_z.jpg",
+                "width": 613,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "7570"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7570_44a4b4021af19b44_n.jpg",
+                "width": 306,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "7570"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7570_44a4b4021af19b44_d.gif",
+                "width": 306,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "7570"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7570_44a4b4021af19b44_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "7570"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7569_569a3d19fd7151cf_b.jpg",
+                "width": 971,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "7569"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7569_569a3d19fd7151cf_z.jpg",
+                "width": 607,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "7569"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7569_569a3d19fd7151cf_n.jpg",
+                "width": 304,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "7569"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7569_569a3d19fd7151cf_d.gif",
+                "width": 304,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "7569"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7569_569a3d19fd7151cf_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "7569"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7572_341d53b37dabe984_b.jpg",
+                "width": 1024,
+                "height": 1010,
+                "is_primary": "0",
+                "image_id": "7572"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7572_341d53b37dabe984_z.jpg",
+                "width": 640,
+                "height": 631,
+                "is_primary": "0",
+                "image_id": "7572"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7572_341d53b37dabe984_n.jpg",
+                "width": 320,
+                "height": 316,
+                "is_primary": "0",
+                "image_id": "7572"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7572_341d53b37dabe984_d.gif",
+                "width": 320,
+                "height": 316,
+                "is_primary": "0",
+                "image_id": "7572"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7572_341d53b37dabe984_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "7572"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7571_711758fca87c164e_b.jpg",
+                "width": 982,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "7571"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7571_711758fca87c164e_z.jpg",
+                "width": 614,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "7571"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7571_711758fca87c164e_n.jpg",
+                "width": 307,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "7571"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7571_711758fca87c164e_d.gif",
+                "width": 307,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "7571"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7571_711758fca87c164e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "7571"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7573_156195d82df9b897_b.jpg",
+                "width": 959,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "7573"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7573_156195d82df9b897_z.jpg",
+                "width": 599,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "7573"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7573_156195d82df9b897_n.jpg",
+                "width": 300,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "7573"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7573_156195d82df9b897_d.gif",
+                "width": 300,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "7573"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7573_156195d82df9b897_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "7573"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7574_8be721f26b29cb62_b.jpg",
+                "width": 1024,
+                "height": 511,
+                "is_primary": "0",
+                "image_id": "7574"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7574_8be721f26b29cb62_z.jpg",
+                "width": 640,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "7574"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7574_8be721f26b29cb62_n.jpg",
+                "width": 320,
+                "height": 160,
+                "is_primary": "0",
+                "image_id": "7574"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7574_8be721f26b29cb62_d.gif",
+                "width": 320,
+                "height": 160,
+                "is_primary": "0",
+                "image_id": "7574"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7574_8be721f26b29cb62_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "7574"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7575_cf3762760a398a73_b.jpg",
+                "width": 1024,
+                "height": 904,
+                "is_primary": "0",
+                "image_id": "7575"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7575_cf3762760a398a73_z.jpg",
+                "width": 640,
+                "height": 565,
+                "is_primary": "0",
+                "image_id": "7575"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7575_cf3762760a398a73_n.jpg",
+                "width": 320,
+                "height": 282,
+                "is_primary": "0",
+                "image_id": "7575"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7575_cf3762760a398a73_d.gif",
+                "width": 320,
+                "height": 282,
+                "is_primary": "0",
+                "image_id": "7575"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7575_cf3762760a398a73_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "7575"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18535883",
+            "role_id": "35351535",
+            "person_name": "Mrs. Forsythe Sherfesee",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535883\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18535881",
+            "role_id": "35351535",
+            "person_name": "Forsythe Sherfesee",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535881\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18535925",
+            "role_id": "35236655",
+            "person_name": "Jean-Michel Frank",
+            "person_date": "French, 1895\u20131941",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535925\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Club Chair Armchair And Cushion, 1930. wood, leather. Gift of Mr. and Mrs. Forsythe Sherfesee. 1968-144-7-c,d."
+    },
+    "colors": [
+        {
+            "color": "#c49060",
+            "closest_crayola": "#d68a59",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#97613b",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#d7b895",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#312721",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#624736",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
+}

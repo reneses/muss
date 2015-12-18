@@ -1,0 +1,121 @@
+{
+    "id": "68766245",
+    "tms:id": "278261",
+    "accession_number": "1935-16-1-c",
+    "title": "Four Tiles, late 16th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68766245\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35405969",
+    "type_id": "35251267",
+    "date": "late 16th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1935",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "glazed moulded earthenware",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 2.3 x 14 x 14 cm (7\/8 x 5 1\/2 x 5 1\/2 in.)",
+    "dimensions_raw": null,
+    "creditline": "Gift of A. Algara R. de Terreros",
+    "description": "Moulded in low relief, with white, blue, green and brown glazed, forming an octagonal motif, with conventionalized floral and foliate forms.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "four tiles",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100379_533f769ca53abf11_b.jpg",
+                "width": 1024,
+                "height": 970,
+                "is_primary": "1",
+                "image_id": "100379"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100379_533f769ca53abf11_z.jpg",
+                "width": 640,
+                "height": 606,
+                "is_primary": "1",
+                "image_id": "100379"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100379_533f769ca53abf11_n.jpg",
+                "width": 320,
+                "height": 303,
+                "is_primary": "1",
+                "image_id": "100379"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100379_533f769ca53abf11_d.gif",
+                "width": 320,
+                "height": 303,
+                "is_primary": "1",
+                "image_id": "100379"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100379_533f769ca53abf11_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "100379"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18051711",
+            "role_id": "35351535",
+            "person_name": "A. Algara R. de Terreros",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051711\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Four Tiles, late 16th century. glazed moulded earthenware. Gift of A. Algara R. de Terreros. 1935-16-1-c."
+    },
+    "colors": [
+        {
+            "color": "#8e8984",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#56606c",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#b6a88f",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#785422",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#88775c",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
+}

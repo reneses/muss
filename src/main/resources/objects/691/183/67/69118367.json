@@ -1,0 +1,103 @@
+{
+    "id": "69118367",
+    "tms:id": "281854",
+    "accession_number": "1970-46-1-g",
+    "title": "Seal",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/69118367\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402647",
+    "type_id": "35269813",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1970",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "earthenware",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Mr. and Mrs. Glenn Garrison",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Seal",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/155495_e6704b55cc58a8fb_b.jpg",
+                "width": 965,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "155495"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/155495_e6704b55cc58a8fb_z.jpg",
+                "width": 603,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "155495"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/155495_e6704b55cc58a8fb_n.jpg",
+                "width": 302,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "155495"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/155495_e6704b55cc58a8fb_d.gif",
+                "width": 302,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "155495"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/155495_e6704b55cc58a8fb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "155495"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18059367",
+            "role_id": "35351535",
+            "person_name": "Mr. and Mrs. Glenn Garrison",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18059367\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Seal. earthenware. Gift of Mr. and Mrs. Glenn Garrison. 1970-46-1-g."
+    },
+    "colors": [
+        {
+            "color": "#898076",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#6c5d4e",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
+}

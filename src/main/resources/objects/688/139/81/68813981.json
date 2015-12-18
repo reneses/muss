@@ -1,0 +1,76 @@
+{
+    "id": "68813981",
+    "tms:id": "279373",
+    "accession_number": "1949-26-25\/32",
+    "title": "Textile",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/68813981\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": null,
+    "type_id": "35251739",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1949",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": null,
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "textile",
+    "images": [
+
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Textile. 1949-26-25\/32."
+    },
+    "colors": [
+        {
+            "color": "#8a897d",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#67645a",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#27283c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#573e35",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#a4936b",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "is_loan_object": 0
+}

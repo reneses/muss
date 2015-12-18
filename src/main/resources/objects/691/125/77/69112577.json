@@ -1,0 +1,109 @@
+{
+    "id": "69112577",
+    "tms:id": "279957",
+    "accession_number": "1959-66-300-e",
+    "title": "Button",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/69112577\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": null,
+    "type_id": "35237135",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1959",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Bequest of Julia Hutchins Wolcott",
+    "description": "On card 5",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "button",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/158928_e54d2e9afe7e5e1d_b.jpg",
+                "width": 1024,
+                "height": 820,
+                "is_primary": "1",
+                "image_id": "158928"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/158928_e54d2e9afe7e5e1d_z.jpg",
+                "width": 640,
+                "height": 513,
+                "is_primary": "1",
+                "image_id": "158928"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/158928_e54d2e9afe7e5e1d_n.jpg",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "158928"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/158928_e54d2e9afe7e5e1d_d.gif",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "158928"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/158928_e54d2e9afe7e5e1d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "158928"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18060915",
+            "role_id": "35351537",
+            "person_name": "Julia Hutchins Wolcott",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18060915\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Button. Bequest of Julia Hutchins Wolcott. 1959-66-300-e."
+    },
+    "colors": [
+        {
+            "color": "#908d77",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#6d7681",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        },
+        {
+            "color": "#58564f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
+}

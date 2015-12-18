@@ -1,0 +1,112 @@
+{
+    "id": "69153299",
+    "tms:id": "282766",
+    "accession_number": "6.2015.1",
+    "title": "Periodical, Floral design from Bijutsukai, 1902",
+    "title_raw": "Floral design from Bijutsukai",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/69153299\/",
+    "department_id": "404529577",
+    "period_id": null,
+    "media_id": "69172053",
+    "type_id": "35302291",
+    "date": "1902",
+    "year_start": 1902,
+    "year_end": 1902,
+    "year_acquired": null,
+    "decade": "1900",
+    "woe:country_id": null,
+    "medium": "periodical, woodblock print",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Robert W. Chanler 1931, Smithsonian Libraries NK8 S558 CHMRB Vol. 1",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": "These abstract patterns, inspired by simple floral designs, appeared in the 1902 issue of the Japanese periodical, Bijutsukai. Each issue\u2014comprised solely of colorful woodblock prints by well-known Japanese painters of the day\u2014was intended to provide traditional and innovative designs for textile artists, potters, and craftsmen worldwide.",
+    "videos": null,
+    "on_display": "1",
+    "woe:country": null,
+    "type": "Periodical",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115761_f74144ba6f38468c_b.jpg",
+                "width": 432,
+                "height": 660,
+                "is_primary": "1",
+                "image_id": "115761"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115761_f74144ba6f38468c_z.jpg",
+                "width": 419,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "115761"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115761_f74144ba6f38468c_n.jpg",
+                "width": 209,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "115761"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115761_f74144ba6f38468c_d.gif",
+                "width": 209,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "115761"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115761_f74144ba6f38468c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "115761"
+            }
+        }
+    ],
+    "participants": [
+
+    ],
+    "tombstone": {
+        "epitaph": "Periodical, Floral design from Bijutsukai, 1902. periodical, woodblock print. Gift of Robert W. Chanler 1931, Smithsonian Libraries NK8 S558 CHMRB Vol. 1. 6.2015.1."
+    },
+    "colors": [
+        {
+            "color": "#e9d3ac",
+            "closest_crayola": "#efcdb8",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
+        },
+        {
+            "color": "#373232",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#436e88",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#4682b4",
+            "closest_css4": "#4682b4"
+        },
+        {
+            "color": "#baa390",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#428cb8",
+            "closest_crayola": "#5d76cb",
+            "closest_css3": "#4682b4",
+            "closest_css4": "#4682b4"
+        }
+    ],
+    "is_loan_object": 1
+}
