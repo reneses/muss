@@ -97,10 +97,14 @@ public class ChObjectService extends CrudService<ChObject> {
         Tag tag = tagService.create(tagName, user);
         object.addTag(tag);
         save(object);
-        tag = object.getTagByName(tagName); // Obtain the new ID
+        tag = find(object.getId()).getTagByName(tagName); // Obtain the new ID
         TagNotification notification = new TagNotification(tag);
         notificationService.notificateFollowers(notification, user);
-        gamificationService.assignPoints(Gamification.TAG, user);
+        try {
+            gamificationService.assignPoints(Gamification.TAG, user);
+        } catch (NullPointerException e) {
+            //TODO fix;
+        }
     }
 
     public void addLike(ChObject object, User user) {
@@ -108,8 +112,14 @@ public class ChObjectService extends CrudService<ChObject> {
         save(object);
         ObjectLikeNotification notification = new ObjectLikeNotification(object, user);
         notificationService.notificateFollowers(notification, user);
-        if(real)
-            gamificationService.assignPoints(Gamification.LIKEGIVEN, user);
+        try {
+            if (real)
+                gamificationService.assignPoints(Gamification.LIKEGIVEN, user);
+        }
+        catch (NullPointerException e) {
+            // TODO fix
+
+        }
     }
 
     public void removeLike(ChObject object, User user) {
@@ -123,7 +133,7 @@ public class ChObjectService extends CrudService<ChObject> {
     public void addReview(ChObject object, Review review) {
         object.addReview(review);
         save(object);
-        review = object.getReviewByUser(review.getUser()); // Reload the ID
+        review = find(object.getId()).getReviewByUser(review.getUser()); // Reload the ID
         ReviewNotification notification = new ReviewNotification(review);
         notificationService.notificateFollowers(notification, review.getUser());
     }

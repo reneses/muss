@@ -6,6 +6,7 @@ import java.util.Date;
 import java.util.List;
 
 import javax.transaction.Transactional;
+import javax.validation.constraints.Null;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -125,13 +126,18 @@ public class ReviewService{
 	public void addLike(Review review, User user) {
 		boolean real = review.addLike(user);
 		save(review);
+		review = find(review.getId());
 		ReviewLikeNotification notification = new ReviewLikeNotification(review, user);
 		notificationService.notificateFollowers(notification, user);
-		if(real){
-			gamificationService.assignPoints(Gamification.LIKEGIVEN, user);
-			User reviewPrincipal = review.getUser();
-			if(reviewPrincipal!=null)
-				gamificationService.assignPoints(Gamification.LIKERECEIVED, reviewPrincipal);
+		try {
+			if (real) {
+				gamificationService.assignPoints(Gamification.LIKEGIVEN, user);
+				User reviewPrincipal = review.getUser();
+				if (reviewPrincipal != null)
+					gamificationService.assignPoints(Gamification.LIKERECEIVED, reviewPrincipal);
+			}
+		} catch (NullPointerException e) {
+			// TODO fix
 		}
 	}
 

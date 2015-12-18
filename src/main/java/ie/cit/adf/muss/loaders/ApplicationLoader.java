@@ -1,9 +1,6 @@
 package ie.cit.adf.muss.loaders;
 
-import ie.cit.adf.muss.domain.Badge;
-import ie.cit.adf.muss.domain.Review;
-import ie.cit.adf.muss.domain.Tag;
-import ie.cit.adf.muss.domain.User;
+import ie.cit.adf.muss.domain.*;
 import ie.cit.adf.muss.domain.notifications.ObjectLikeNotification;
 import ie.cit.adf.muss.domain.notifications.ReviewLikeNotification;
 import ie.cit.adf.muss.domain.notifications.ReviewNotification;
@@ -83,6 +80,7 @@ public class ApplicationLoader {
             addRandomTags();
             addRandomLikes();
             addRandomReviews();
+            addReviewLikes();
             objectService.findAll().forEach(System.out::println);
 
             // Badges
@@ -170,18 +168,12 @@ public class ApplicationLoader {
             List<String> tags = new ArrayList<>(Arrays.asList(RANDOM_TAGS));
             int numberOfTags = random.nextInt(3) + 2;
             for (int i = 0; i < numberOfTags; i++) {
-                Tag tagObj = new Tag();
                 String tag = tags.get(random.nextInt(tags.size()));
-                tagObj.setName(tag);
                 tags.remove(tag);
-                tagObj.setUser(users.get(random.nextInt(users.size())));
-                object.addTag(tagObj);
+                User user = userService.find(users.get(random.nextInt(users.size())).getId());
+                ChObject toSave = objectService.find(object.getId());
+                objectService.addTag(toSave, tag, user);
             }
-            objectService.save(object);
-        });
-        tagService.findAll().forEach(tag -> {
-            TagNotification notification = new TagNotification(tag);
-            notificationService.notificateFollowers(notification, tag.getUser());
         });
     }
 
@@ -197,14 +189,9 @@ public class ApplicationLoader {
             for (int i = 0; i < numberOfLikes; i++) {
                 User user = users.get(random.nextInt(users.size()));
                 users.remove(user);
-                object.addLike(user);
+                ChObject toSave = objectService.find(object.getId());
+                objectService.addLike(toSave, user);
             }
-            objectService.save(object);
-            object.getLikes().forEach(user -> {
-                ObjectLikeNotification notification = new ObjectLikeNotification(object, user);
-                notificationService.notificateFollowers(notification, user);
-            });
-
         });
     }
 
@@ -223,32 +210,35 @@ public class ApplicationLoader {
                 // Create review
                 User user = usersToUse.get(random.nextInt(usersToUse.size()));
                 usersToUse.remove(user);
+
                 Review review = new Review();
                 review.setRating(random.nextInt(5) + 1);
                 review.setTitle(RANDOM_TITLES[random.nextInt(RANDOM_TITLES.length)]);
                 review.setContent(RANDOM_CONTENT[random.nextInt(RANDOM_CONTENT.length)]);
                 review.setUser(user);
-                object.addReview(review);
+
+                ChObject toSave = objectService.find(object.getId());
+                objectService.addReview(toSave, review);
 
             }
-            objectService.save(object);
         });
 
+    }
+
+    private void addReviewLikes() {
+        /*
         // Add likes to reviews
-        reviewService.findAll().forEach(review -> {
-            ReviewNotification notification = new ReviewNotification(review);
-            notificationService.notificateFollowers(notification, review.getUser());
+        Random random = new Random();
+        for (Review review : reviewService.findAll()) {
             List<User> usersToLike = userService.findAll();
             int numberOfLikes = random.nextInt(2) + 1;
             for (int j = 0; j < numberOfLikes; j++) {
                 User toLike = usersToLike.get(random.nextInt(usersToLike.size()));
                 usersToLike.remove(toLike);
-                review.addLike(toLike);
-                ReviewLikeNotification likeNotification = new ReviewLikeNotification(review, toLike);
-                notificationService.notificateFollowers(likeNotification, toLike);
+                Review toSave = reviewService.find(review.getId());
+                reviewService.addLike(toSave, toLike);
             }
-            reviewService.save(review);
-        });
+        }*/
     }
 
     private void addTestBadges() {
