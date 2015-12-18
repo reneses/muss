@@ -7,6 +7,8 @@ import java.util.List;
 
 import javax.transaction.Transactional;
 
+import ie.cit.adf.muss.domain.notifications.ReviewLikeNotification;
+import ie.cit.adf.muss.domain.notifications.ReviewNotification;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.util.Assert;
@@ -32,6 +34,9 @@ public class ReviewService{
 
     @Autowired
 	ChObjectService chObjectService;
+
+	@Autowired
+	MussNotificationService notificationService;
     
     // ----------------------- Constructor -----------------------
     
@@ -98,8 +103,8 @@ public class ReviewService{
 		review.setDate(new Date());
 		review.setUser(authService.getPrincipal());
 
-		object.addReview(review);
-		chObjectService.save(object);
+		chObjectService.addReview(object, review);
+
 	}
 
 	public boolean hasReviewBy(ChObject object, User user) {
@@ -114,6 +119,8 @@ public class ReviewService{
 	public void addLike(Review review, User user) {
 		review.addLike(user);
 		save(review);
+		ReviewLikeNotification notification = new ReviewLikeNotification(review, user);
+		notificationService.notificateFollowers(notification, user);
 	}
 
 	public void removeLike(Review review, User user) {

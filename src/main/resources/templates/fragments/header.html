@@ -13,6 +13,9 @@
         <div id="navbar" class="navbar-collapse collapse">
 
             <ul class="nav navbar-nav">
+                <li th:class="${#httpServletRequest.getRequestURI() == '/stram' ? 'active':''}">
+                	<a th:href="@{/stream}">Stream</a>
+                </li>
                 <li th:class="${#httpServletRequest.getRequestURI() == '/gallery' ? 'active':''}">
                 	<a th:href="@{/gallery}">Gallery</a>
                 </li>

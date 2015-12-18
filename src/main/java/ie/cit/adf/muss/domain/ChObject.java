@@ -3,9 +3,6 @@ package ie.cit.adf.muss.domain;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
-import ie.cit.adf.muss.domain.Image;
-import ie.cit.adf.muss.domain.Participation;
-import ie.cit.adf.muss.domain.Review;
 
 import javax.persistence.*;
 
@@ -168,6 +165,14 @@ public class ChObject {
 		tag.setChObject(this);
 	}
 
+	public Tag getTagByName(String name) {
+		for (Tag tag : tags) {
+			if (tag.getName().equals(name))
+				return tag;
+		}
+		return null;
+	}
+
 	public Collection<User> getLikes() {
 		return likes;
 	}
@@ -191,6 +196,14 @@ public class ChObject {
 	public void removeLike(User user) {
 		this.likes.remove(user);
 		user.getChObjectLikes().remove(this);
+	}
+
+	public Review getReviewByUser(User user) {
+		for (Review review : reviews) {
+			if (review.getUser().equals(user))
+				return review;
+		}
+		return null;
 	}
 
 	public Collection<Review> getReviews() {

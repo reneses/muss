@@ -2,6 +2,8 @@ package ie.cit.adf.muss.services;
 
 
 import ie.cit.adf.muss.domain.User;
+import ie.cit.adf.muss.domain.notifications.FollowNotification;
+import ie.cit.adf.muss.domain.notifications.ReviewLikeNotification;
 import ie.cit.adf.muss.repositories.UserRepository;
 
 import java.util.ArrayList;
@@ -25,6 +27,9 @@ public class UserService extends CrudService<User> {
 	AuthService authService;
     @Autowired
 	PasswordEncoder passwordEncoder;
+
+	@Autowired
+	MussNotificationService notificationService;
     
     // ----------------------- Constructor -----------------------
     
@@ -82,6 +87,9 @@ public class UserService extends CrudService<User> {
 			followed.add(user);
 			principal.setFollowed(followed);
 			save(principal);
+
+			FollowNotification notification = new FollowNotification(principal, user);
+			notificationService.notificateFollowers(notification, user);
 		}
 	}
 

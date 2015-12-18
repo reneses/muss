@@ -16,7 +16,7 @@ import ie.cit.adf.muss.repositories.TagRepository;
 
 @Service
 @Transactional
-public class TagService{
+public class TagService {
 
 	// ------------------- Managed repository --------------------
 	
@@ -43,6 +43,12 @@ public class TagService{
 		tag.setName(name);
 		tag.setUser(user);
 		return tag;
+	}
+
+	public Tag find(int id) {
+		if (id <= 0)
+			throw new IllegalArgumentException("The ID cannot must be a positive integer");
+		return tagRepository.findOne(id);
 	}
 
 //    public void save(Tag tag, ChObject chObject){

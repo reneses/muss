@@ -3,13 +3,16 @@ package ie.cit.adf.muss.loaders;
 import ie.cit.adf.muss.domain.Review;
 import ie.cit.adf.muss.domain.Tag;
 import ie.cit.adf.muss.domain.User;
-import ie.cit.adf.muss.services.ChObjectService;
-import ie.cit.adf.muss.services.ReviewService;
-import ie.cit.adf.muss.services.UserService;
+import ie.cit.adf.muss.domain.notifications.ObjectLikeNotification;
+import ie.cit.adf.muss.domain.notifications.ReviewLikeNotification;
+import ie.cit.adf.muss.domain.notifications.ReviewNotification;
+import ie.cit.adf.muss.domain.notifications.TagNotification;
+import ie.cit.adf.muss.services.*;
 import org.apache.commons.io.IOUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.DuplicateKeyException;
 import org.springframework.stereotype.Component;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.io.IOException;
 import java.util.*;
@@ -28,6 +31,12 @@ public class ApplicationLoader {
 
     @Autowired
     ReviewService reviewService;
+
+    @Autowired
+    TagService tagService;
+
+    @Autowired
+    MussNotificationService notificationService;
 
     // List of random tags that can be generated
     private static final String[] RANDOM_TAGS = {
@@ -58,6 +67,7 @@ public class ApplicationLoader {
 
             // Users
             addTestUsers();
+            followAllUsers();
 
             // Objects & tags
             objectService.save(objectLoader.loadChObjects());
@@ -127,6 +137,17 @@ public class ApplicationLoader {
 
     }
 
+    private void followAllUsers() {
+        List<User> users = userService.findAll();
+        for (int i=0; i<users.size(); i++) {
+            User u1 = users.get(i);
+            List<User> followed = new ArrayList<>(users);
+            followed.remove(u1);
+            u1.setFollowed(followed);
+            userService.save(u1);
+        }
+    }
+
     /**
      * Add random tags to the objects
      */
@@ -146,6 +167,10 @@ public class ApplicationLoader {
             }
             objectService.save(object);
         });
+        tagService.findAll().forEach(tag -> {
+            TagNotification notification = new TagNotification(tag);
+            notificationService.notificateFollowers(notification, tag.getUser());
+        });
     }
 
 
@@ -163,6 +188,11 @@ public class ApplicationLoader {
                 object.addLike(user);
             }
             objectService.save(object);
+            object.getLikes().forEach(user -> {
+                ObjectLikeNotification notification = new ObjectLikeNotification(object, user);
+                notificationService.notificateFollowers(notification, user);
+            });
+
         });
     }
 
@@ -190,17 +220,20 @@ public class ApplicationLoader {
 
             }
             objectService.save(object);
-
         });
 
         // Add likes to reviews
         reviewService.findAll().forEach(review -> {
+            ReviewNotification notification = new ReviewNotification(review);
+            notificationService.notificateFollowers(notification, review.getUser());
             List<User> usersToLike = userService.findAll();
             int numberOfLikes = random.nextInt(2) + 1;
             for (int j = 0; j < numberOfLikes; j++) {
                 User toLike = usersToLike.get(random.nextInt(usersToLike.size()));
                 usersToLike.remove(toLike);
                 review.addLike(toLike);
+                ReviewLikeNotification likeNotification = new ReviewLikeNotification(review, toLike);
+                notificationService.notificateFollowers(likeNotification, toLike);
             }
             reviewService.save(review);
         });
