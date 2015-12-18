@@ -9,17 +9,22 @@ import ie.cit.adf.muss.domain.notifications.ReviewNotification;
 import ie.cit.adf.muss.domain.notifications.TagNotification;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.util.Assert;
 
 import ie.cit.adf.muss.domain.ChObject;
+import ie.cit.adf.muss.domain.Gamification;
 import ie.cit.adf.muss.domain.User;
-import ie.cit.adf.muss.loaders.AbstractChObjectLoader;
 import ie.cit.adf.muss.repositories.ChObjectRepository;
 
 @Service
 public class ChObjectService extends CrudService<ChObject> {
 
+	// ------------------- Managed repository --------------------
+
     @Autowired
     ChObjectRepository objectRepository;
+
+    // ------------------- Supporting services -------------------
 
     @Autowired
     ParticipationService participationService;
@@ -31,46 +36,11 @@ public class ChObjectService extends CrudService<ChObject> {
     MussNotificationService notificationService;
 
     @Autowired
-    AbstractChObjectLoader loader;
+    GamificationService gamificationService;
 
-    /**
-     * Default constructor
-     */
-    public ChObjectService() {
-    }
+    // ----------------------- Constructor -----------------------
 
-    /**
-     * Constructor specifying a custom repository
-     *
-     * @param objectRepository
-     */
-    public ChObjectService(ChObjectRepository objectRepository) {
-        super(objectRepository);
-        this.objectRepository = objectRepository;
-    }
-
-    /**
-     * Constructor specifying a custom loader
-     *
-     * @param loader
-     */
-    public ChObjectService(AbstractChObjectLoader loader) {
-        this.loader = loader;
-    }
-
-
-    /**
-     * Constructor specifying a custom loader and repository
-     *
-     * @param objectRepository
-     * @param loader
-     */
-    public ChObjectService(ChObjectRepository objectRepository, AbstractChObjectLoader loader) {
-        super(objectRepository);
-        this.objectRepository = objectRepository;
-        this.loader = loader;
-    }
-
+    // ------------------- Simple CRUD methods -------------------
 
     /**
      * Retrieve a model given its original id
@@ -92,6 +62,10 @@ public class ChObjectService extends CrudService<ChObject> {
         return super.save(model);
     }
 
+    // ----------------- Other business methods ------------------
+
+    // REPOSITORY:
+
     public long count() {
         return objectRepository.count();
     }
@@ -107,6 +81,8 @@ public class ChObjectService extends CrudService<ChObject> {
     public List<ChObject> findByTitleOrDescriptionAndTagName(String search, String tagName) {
     	return objectRepository.findByTitleOrDescriptionAndTagName(search, tagName);
     }
+
+    // USE CASES:
 
     public boolean isLikedBy(ChObject object, User user) {
         if (object == null  ||  user == null)
@@ -124,18 +100,24 @@ public class ChObjectService extends CrudService<ChObject> {
         tag = object.getTagByName(tagName); // Obtain the new ID
         TagNotification notification = new TagNotification(tag);
         notificationService.notificateFollowers(notification, user);
+        gamificationService.assignPoints(Gamification.TAG, user);
     }
 
     public void addLike(ChObject object, User user) {
-        object.addLike(user);
+        boolean real = object.addLike(user);
         save(object);
         ObjectLikeNotification notification = new ObjectLikeNotification(object, user);
         notificationService.notificateFollowers(notification, user);
+        if(real)
+            gamificationService.assignPoints(Gamification.LIKEGIVEN, user);
     }
 
     public void removeLike(ChObject object, User user) {
-        object.removeLike(user);
+    	boolean real = object.removeLike(user);
         save(object);
+
+        if(real)
+			gamificationService.removePoints(Gamification.LIKEGIVEN, user);
     }
 
     public void addReview(ChObject object, Review review) {

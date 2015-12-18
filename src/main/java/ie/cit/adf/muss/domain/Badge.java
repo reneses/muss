@@ -3,6 +3,7 @@ package ie.cit.adf.muss.domain;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
+import javax.validation.constraints.Min;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Pattern;
 
@@ -28,9 +29,12 @@ public class Badge {
 	@NotBlank
 	private String name;
 	@NotNull
+	@Min(value=1)
 	private Integer quantity;
 	@Pattern(regexp = "^" + FOLLOWING + "|" + FOLLOWERS + "|" + POINTS + "|" + COMPLETED + "$")
 	private String type;
+	@NotNull
+	private String image;
 
 	// ---------------------- Getters & Setters ----------------------
 	
@@ -60,6 +64,13 @@ public class Badge {
 	}
 	public void setType(String type) {
 		this.type = type;
+	}
+	
+	public String getImage() {
+		return image;
+	}
+	public void setImage(String image) {
+		this.image = image;
 	}
 	
 	// -------------------------- Relations --------------------------

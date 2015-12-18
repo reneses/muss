@@ -1,6 +1,10 @@
 package ie.cit.adf.muss.services;
 
 
+import ie.cit.adf.muss.domain.Gamification;
+import ie.cit.adf.muss.domain.User;
+import ie.cit.adf.muss.repositories.UserRepository;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -29,7 +33,10 @@ public class UserService extends CrudService<User> {
 
 	@Autowired
 	MussNotificationService notificationService;
-    
+
+	@Autowired
+	GamificationService gamificationService;
+
     // ----------------------- Constructor -----------------------
     
     // ------------------- Simple CRUD methods -------------------
@@ -73,7 +80,6 @@ public class UserService extends CrudService<User> {
     // USE CASES:
 	
 	public void followUser(int userID) {
-		
 		User user = find(userID);
 		User principal = authService.getPrincipal();
 		Assert.notNull(user);
@@ -89,6 +95,9 @@ public class UserService extends CrudService<User> {
 
 			FollowNotification notification = new FollowNotification(principal, user);
 			notificationService.notificateFollowers(notification, user);
+
+			gamificationService.assignPoints(Gamification.FOLLOWING, principal);
+			gamificationService.assignPoints(Gamification.FOLLOWERS, user);
 		}
 	}
 
@@ -104,7 +113,9 @@ public class UserService extends CrudService<User> {
 			followed.remove(user);
 			principal.setFollowed(followed);
 			save(principal);
+
+			gamificationService.removePoints(Gamification.FOLLOWING, principal);
+			gamificationService.removePoints(Gamification.FOLLOWERS, user);
 		}
 	}
-
 }

@@ -113,17 +113,18 @@ public class Review {
 		});
 	}
 
-	public void addLike(User user) {
+	public boolean addLike(User user) {
 		if (!this.likes.contains(user)) {
 			this.likes.add(user);
 			if (!user.getReviewLikes().contains(this))
-				user.getReviewLikes().add(this);
+				return user.getReviewLikes().add(this);
 		}
+		return false;
 	}
 
-	public void removeLike(User user) {
-		this.likes.remove(user);
+	public boolean removeLike(User user) {
 		user.getReviewLikes().remove(this);
+		return this.likes.remove(user);
 	}
 
 }

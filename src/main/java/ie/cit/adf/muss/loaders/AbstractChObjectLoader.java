@@ -8,12 +8,15 @@ import java.nio.file.Path;
 import java.util.List;
 import java.util.stream.Collectors;
 
+import org.springframework.context.annotation.EnableAspectJAutoProxy;
+
 import ie.cit.adf.muss.domain.ChObject;
 import ie.cit.adf.muss.utility.FileFinder;
 
 /**
  * ChObject
  */
+@EnableAspectJAutoProxy
 public abstract class AbstractChObjectLoader {
 
     private String extension, objectsDirectory;
