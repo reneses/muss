@@ -180,17 +180,18 @@ public class ChObject {
 		});
 	}
 
-	public void addLike(User user) {
+	public boolean addLike(User user) {
 		if (!this.likes.contains(user)) {
 			this.likes.add(user);
 			if (!user.getChObjectLikes().contains(this))
-				user.getChObjectLikes().add(this);
+				return user.getChObjectLikes().add(this);
 		}
+		return false;
 	}
 
-	public void removeLike(User user) {
-		this.likes.remove(user);
+	public boolean removeLike(User user) {
 		user.getChObjectLikes().remove(this);
+		return this.likes.remove(user);
 	}
 
 	public Collection<Review> getReviews() {
