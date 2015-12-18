@@ -20,22 +20,22 @@ public abstract class MussNotification implements Serializable {
     protected static ReviewService reviewService;
 
     @Autowired
-    public static void setObjectService(ChObjectService objectService) {
+    public void setObjectService(ChObjectService objectService) {
         MussNotification.objectService = objectService;
     }
 
     @Autowired
-    public static void setTagService(TagService tagService) {
+    public void setTagService(TagService tagService) {
         MussNotification.tagService = tagService;
     }
 
     @Autowired
-    public static void setUserService(UserService userService) {
+    public void setUserService(UserService userService) {
         MussNotification.userService = userService;
     }
 
     @Autowired
-    public static void setReviewService(ReviewService reviewService) {
+    public void setReviewService(ReviewService reviewService) {
         MussNotification.reviewService = reviewService;
     }
 
