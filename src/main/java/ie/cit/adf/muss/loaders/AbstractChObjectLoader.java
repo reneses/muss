@@ -1,23 +1,17 @@
 package ie.cit.adf.muss.loaders;
 
 
-import ie.cit.adf.muss.domain.ChObject;
-import ie.cit.adf.muss.domain.Tag;
-import ie.cit.adf.muss.domain.User;
-import ie.cit.adf.muss.services.UserService;
-import ie.cit.adf.muss.utility.FileFinder;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.annotation.EnableAspectJAutoProxy;
-
 import java.io.IOException;
 import java.net.URISyntaxException;
 import java.net.URLDecoder;
 import java.nio.file.Path;
-import java.util.HashSet;
 import java.util.List;
-import java.util.Random;
-import java.util.Set;
 import java.util.stream.Collectors;
+
+import org.springframework.context.annotation.EnableAspectJAutoProxy;
+
+import ie.cit.adf.muss.domain.ChObject;
+import ie.cit.adf.muss.utility.FileFinder;
 
 /**
  * ChObject

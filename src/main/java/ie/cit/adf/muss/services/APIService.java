@@ -1,12 +1,12 @@
 package ie.cit.adf.muss.services;
 
-import ie.cit.adf.muss.domain.User;
-import org.springframework.beans.factory.annotation.Autowired;
+import java.util.Date;
+
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.security.authentication.encoding.ShaPasswordEncoder;
 import org.springframework.stereotype.Component;
 
-import java.util.Date;
+import ie.cit.adf.muss.domain.User;
 
 @Component
 public class APIService {

@@ -85,6 +85,8 @@ public class ChObjectService extends CrudService<ChObject> {
     public void addTag(ChObject object, String tag, User user) {
         object.addTag(tagService.create(tag, user));
         save(object);
+        
+        gamificationService.assignPoints(Gamification.TAG, user);
     }
 
     public void addLike(ChObject object, User user) {

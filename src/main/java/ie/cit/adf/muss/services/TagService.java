@@ -10,6 +10,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.util.Assert;
 
+import ie.cit.adf.muss.domain.Gamification;
 import ie.cit.adf.muss.domain.Tag;
 import ie.cit.adf.muss.domain.User;
 import ie.cit.adf.muss.repositories.TagRepository;
@@ -27,6 +28,8 @@ public class TagService{
     
     @Autowired
 	AuthService authService;
+    @Autowired
+	GamificationService gamificationService;
     
     // ----------------------- Constructor -----------------------
     
@@ -68,6 +71,10 @@ public class TagService{
 //    	checkPrincipal(tag);
     	
     	tagRepository.delete(tag);
+    	User principal = authService.getPrincipal();
+    	
+    	if(principal != null)
+    		gamificationService.removePoints(Gamification.TAG, principal);
     }
     
 //    public void deleteObjectFromTag (Tag tag, ChObject chObject){
