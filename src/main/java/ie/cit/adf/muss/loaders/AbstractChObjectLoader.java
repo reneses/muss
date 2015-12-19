@@ -67,25 +67,20 @@ public abstract class AbstractChObjectLoader {
             return out;
         }
         catch (ClassCastException notJar) {
-            try {
-                String objectsDirectory = '/' + this.objectsDirectory;
-                objectsDirectory = URLDecoder.decode(objectsDirectory, "utf-8");
-                return FileFinder
-                        .getFileList(objectsDirectory, "*." + this.extension)
-                        .stream()
-                        .map(path -> path.toFile().getPath())
-                        .collect(Collectors.toList());
-            } catch (Exception e) {
-                e.printStackTrace();
-                String objectsDirectory = AbstractChObjectLoader.class.getResource('/' + this.objectsDirectory).toURI().toString().replace("file:/", "");
-                objectsDirectory = URLDecoder.decode(objectsDirectory, "utf-8");
-                return FileFinder
-                        .getFileList(objectsDirectory, "*." + this.extension)
-                        .stream()
-                        .map(path -> path.toFile().getPath())
-                        .collect(Collectors.toList());
-            }
+            return null;
         }
+    }
+    
+    protected List<Path> loadFilesDesktop() throws IOException, URISyntaxException {
+    	try {
+    		String objectsDirectory = AbstractChObjectLoader.class.getResource('/' + this.objectsDirectory).getPath();
+            objectsDirectory = URLDecoder.decode(objectsDirectory, "utf-8");
+            return FileFinder.getFileList(objectsDirectory, "*." + this.extension);
+    	} catch (Exception e) {
+    		String objectsDirectory = AbstractChObjectLoader.class.getResource('/' + this.objectsDirectory).toURI().toString().replace("file:/", "");
+            objectsDirectory = URLDecoder.decode(objectsDirectory, "utf-8");
+            return FileFinder.getFileList(objectsDirectory, "*." + this.extension);
+    	}    
     }
 
 
@@ -96,6 +91,7 @@ public abstract class AbstractChObjectLoader {
      * @return
      */
     protected abstract ChObject mapFile(String path);
+    protected abstract ChObject mapFile(Path path);
 
 
     /**
@@ -106,11 +102,25 @@ public abstract class AbstractChObjectLoader {
      * @throws URISyntaxException 
      */
     public List<ChObject> loadChObjects() throws IOException, URISyntaxException {
-        return loadFiles()
-                .stream()
-                .map(this::mapFile)
-                .filter(o -> o != null)
-                .collect(Collectors.toList());
+    	List<String> files = loadFiles();
+    	if (files != null) {
+    		return files
+	    		.stream()
+	            .map(this::mapFile)
+	            .filter(o -> o != null)
+	            .collect(Collectors.toList());
+    	} else {
+    		List<Path> files2 = loadFilesDesktop();
+        	if (files2 != null) {
+        		return files2
+    	    		.stream()
+    	            .map(this::mapFile)
+    	            .filter(o -> o != null)
+    	            .collect(Collectors.toList());
+        	}
+    	}
+    	return null;
+
     }
 
 }
