@@ -1,10 +1,12 @@
 package ie.cit.adf.muss.services;
 
-import ie.cit.adf.muss.utility.Utils;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.data.repository.CrudRepository;
 import java.util.Collection;
 import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.repository.CrudRepository;
+
+import ie.cit.adf.muss.utility.Utils;
 
 abstract class CrudService<E> {
 

@@ -1,11 +1,12 @@
 package ie.cit.adf.muss.services;
 
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
 import ie.cit.adf.muss.domain.ChObject;
 import ie.cit.adf.muss.domain.Image;
 import ie.cit.adf.muss.repositories.ImageRepository;
-import org.springframework.beans.factory.annotation.Autowired;
-
-import java.util.List;
 
 @org.springframework.stereotype.Service
 public class ImageService extends CrudService<Image> {

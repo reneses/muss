@@ -1,14 +1,14 @@
 package ie.cit.adf.muss.domain.notifications;
 
+import java.io.Serializable;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
 import ie.cit.adf.muss.domain.User;
 import ie.cit.adf.muss.services.ChObjectService;
 import ie.cit.adf.muss.services.ReviewService;
 import ie.cit.adf.muss.services.TagService;
 import ie.cit.adf.muss.services.UserService;
-
-import java.io.Serializable;
-
-import org.springframework.beans.factory.annotation.Autowired;
 
 public abstract class MussNotification implements Serializable {
 

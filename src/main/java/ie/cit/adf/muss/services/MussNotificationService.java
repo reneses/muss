@@ -1,16 +1,25 @@
 package ie.cit.adf.muss.services;
 
 
-import com.rabbitmq.client.Channel;
-import com.rabbitmq.client.ShutdownSignalException;
-import ie.cit.adf.muss.domain.User;
-import ie.cit.adf.muss.domain.notifications.MussNotification;
+import java.io.ByteArrayInputStream;
+import java.io.ByteArrayOutputStream;
+import java.io.IOException;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
+import java.util.ArrayList;
+import java.util.Base64;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Set;
+
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import java.io.*;
-import java.util.*;
+import com.rabbitmq.client.Channel;
+
+import ie.cit.adf.muss.domain.User;
+import ie.cit.adf.muss.domain.notifications.MussNotification;
 
 @Service
 public class MussNotificationService {

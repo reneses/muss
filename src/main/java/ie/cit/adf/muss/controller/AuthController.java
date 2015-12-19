@@ -1,8 +1,6 @@
 package ie.cit.adf.muss.controller;
 
-import ie.cit.adf.muss.domain.User;
-import ie.cit.adf.muss.services.UserService;
-import ie.cit.adf.muss.validation.UserForm;
+import javax.validation.Valid;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -11,7 +9,9 @@ import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-import javax.validation.Valid;
+import ie.cit.adf.muss.domain.User;
+import ie.cit.adf.muss.services.UserService;
+import ie.cit.adf.muss.validation.UserForm;
 
 @Controller
 public class AuthController {

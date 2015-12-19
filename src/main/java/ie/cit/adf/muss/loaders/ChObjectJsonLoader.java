@@ -1,12 +1,12 @@
 package ie.cit.adf.muss.loaders;
 
-import ie.cit.adf.muss.domain.ChObject;
-import ie.cit.adf.muss.utility.JsonMapper;
+import java.nio.file.Path;
 
 import org.springframework.context.annotation.EnableAspectJAutoProxy;
 import org.springframework.stereotype.Component;
 
-import java.nio.file.Path;
+import ie.cit.adf.muss.domain.ChObject;
+import ie.cit.adf.muss.utility.JsonMapper;
 
 /**
  * Json implementation of the Object loader
