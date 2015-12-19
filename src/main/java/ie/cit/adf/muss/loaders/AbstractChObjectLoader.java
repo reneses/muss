@@ -1,12 +1,24 @@
 package ie.cit.adf.muss.loaders;
 
 
+import java.io.File;
 import java.io.IOException;
+import java.io.InputStream;
+import java.net.JarURLConnection;
 import java.net.URISyntaxException;
+import java.net.URL;
 import java.net.URLDecoder;
+import java.nio.file.NoSuchFileException;
 import java.nio.file.Path;
+import java.security.CodeSource;
+import java.util.ArrayList;
+import java.util.Enumeration;
 import java.util.List;
+import java.util.jar.JarEntry;
+import java.util.jar.JarFile;
 import java.util.stream.Collectors;
+import java.util.zip.ZipEntry;
+import java.util.zip.ZipInputStream;
 
 import org.springframework.context.annotation.EnableAspectJAutoProxy;
 
@@ -40,16 +52,40 @@ public abstract class AbstractChObjectLoader {
      * @throws IOException
      * @throws URISyntaxException 
      */
-    protected List<Path> loadFiles() throws IOException, URISyntaxException {
-    	try {
-    		String objectsDirectory = AbstractChObjectLoader.class.getResource('/' + this.objectsDirectory).getPath();
-            objectsDirectory = URLDecoder.decode(objectsDirectory, "utf-8");
-            return FileFinder.getFileList(objectsDirectory, "*." + this.extension);
-    	} catch (Exception e) {
-    		String objectsDirectory = AbstractChObjectLoader.class.getResource('/' + this.objectsDirectory).toURI().toString().replace("file:/", "");
-            objectsDirectory = URLDecoder.decode(objectsDirectory, "utf-8");
-            return FileFinder.getFileList(objectsDirectory, "*." + this.extension);
-    	}    
+    protected List<String> loadFiles() throws IOException, URISyntaxException {
+        try {
+            URL u = AbstractChObjectLoader.class.getProtectionDomain().getCodeSource().getLocation();
+            JarURLConnection juc = (JarURLConnection) u.openConnection();
+            JarFile jf = juc.getJarFile();
+            Enumeration<JarEntry> entries = jf.entries();
+            List<String> out = new ArrayList<>();
+            for (JarEntry je = entries.nextElement(); entries.hasMoreElements(); je = entries.nextElement()) {
+                if (je.getName().startsWith("objects/")  &&  je.getName().endsWith("." + this.extension)) {
+                    out.add("/" + je.getName());
+                }
+            }
+            return out;
+        }
+        catch (ClassCastException notJar) {
+            try {
+                String objectsDirectory = '/' + this.objectsDirectory;
+                objectsDirectory = URLDecoder.decode(objectsDirectory, "utf-8");
+                return FileFinder
+                        .getFileList(objectsDirectory, "*." + this.extension)
+                        .stream()
+                        .map(path -> path.toFile().getPath())
+                        .collect(Collectors.toList());
+            } catch (Exception e) {
+                e.printStackTrace();
+                String objectsDirectory = AbstractChObjectLoader.class.getResource('/' + this.objectsDirectory).toURI().toString().replace("file:/", "");
+                objectsDirectory = URLDecoder.decode(objectsDirectory, "utf-8");
+                return FileFinder
+                        .getFileList(objectsDirectory, "*." + this.extension)
+                        .stream()
+                        .map(path -> path.toFile().getPath())
+                        .collect(Collectors.toList());
+            }
+        }
     }
 
 
@@ -59,7 +95,7 @@ public abstract class AbstractChObjectLoader {
      * @param path
      * @return
      */
-    protected abstract ChObject mapFile(Path path);
+    protected abstract ChObject mapFile(String path);
 
 
     /**
@@ -70,7 +106,11 @@ public abstract class AbstractChObjectLoader {
      * @throws URISyntaxException 
      */
     public List<ChObject> loadChObjects() throws IOException, URISyntaxException {
-        return loadFiles().stream().map(this::mapFile).filter(o -> o != null).collect(Collectors.toList());
+        return loadFiles()
+                .stream()
+                .map(this::mapFile)
+                .filter(o -> o != null)
+                .collect(Collectors.toList());
     }
 
 }

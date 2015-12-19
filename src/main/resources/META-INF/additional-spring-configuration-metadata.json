@@ -4,6 +4,6 @@
       "name": "muss.key",
       "type": "java.lang.String",
       "description": "App secret key."
-    },
+    }
   ]
 }
