@@ -83,6 +83,9 @@ public class ApplicationLoader {
      */
     public void load() {
         try {
+
+            System.out.println("LOADING THE APP FOR FIRST TIME");
+
         	// Badges
             addTestBadges();
 
