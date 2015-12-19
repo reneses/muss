@@ -1,12 +1,13 @@
 package ie.cit.adf.muss.services;
 
 
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
 import ie.cit.adf.muss.domain.ChObject;
 import ie.cit.adf.muss.domain.Participation;
 import ie.cit.adf.muss.repositories.ParticipationRepository;
-import org.springframework.beans.factory.annotation.Autowired;
-
-import java.util.List;
 
 
 @org.springframework.stereotype.Service

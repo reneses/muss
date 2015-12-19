@@ -11,9 +11,6 @@ import javax.persistence.ManyToOne;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonUnwrapped;
-import ie.cit.adf.muss.domain.ChObject;
-import ie.cit.adf.muss.domain.Participant;
-import ie.cit.adf.muss.domain.Role;
 
 /**
  * Participation

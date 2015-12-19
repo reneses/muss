@@ -96,9 +96,6 @@ public class User {
     @ManyToMany(fetch = FetchType.EAGER)
     @JoinTable(
             name = "user_badges",
-            uniqueConstraints = {
-            		@UniqueConstraint(name = "user_badge_unique", columnNames = {"user_id", "badge_id"})
-            },
             joinColumns = {
                     @JoinColumn(name = "user_id", referencedColumnName = "id")
             },

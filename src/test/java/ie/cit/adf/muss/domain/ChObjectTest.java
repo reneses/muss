@@ -1,12 +1,14 @@
 package ie.cit.adf.muss.domain;
 
-import ie.cit.adf.muss.utility.JsonMapper;
-import org.junit.Before;
-import org.junit.Test;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertNotNull;
 
 import java.io.File;
 
-import static org.junit.Assert.*;
+import org.junit.Before;
+import org.junit.Test;
+
+import ie.cit.adf.muss.utility.JsonMapper;
 
 public class ChObjectTest {
 

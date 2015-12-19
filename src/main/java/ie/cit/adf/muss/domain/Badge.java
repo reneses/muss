@@ -90,6 +90,19 @@ public class Badge {
 		this.users = users;
 	}
 	
+	@Override
+    public boolean equals(Object obj) {
+		if (!(obj instanceof Badge))
+			return false;
+		Badge b2 = (Badge) obj;
+		return this.name.equals(b2.name) && this.type.equals(b2.type);
+    }
+
+    @Override
+    public int hashCode() {
+        return name.hashCode() * type.hashCode();
+    }
+	
 	// -------------------------- Relations --------------------------
 	
 //	private User user;

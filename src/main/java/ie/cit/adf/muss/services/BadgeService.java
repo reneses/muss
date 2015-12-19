@@ -1,6 +1,5 @@
 package ie.cit.adf.muss.services;
 
-import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
@@ -100,10 +99,12 @@ public class BadgeService{
     	Set<Badge> badges = new HashSet<Badge>(user.getBadges());
     	badges.addAll(assignable);
     	
-    	if(badges.size() > user.getBadges().size()){
-    		user.setBadges( new ArrayList<Badge>(badges) );
-    		userService.save(user);
-    	}
+    	badges.forEach(b -> {
+    		if (!user.getBadges().contains(b))
+    			user.getBadges().add(b);
+    	});
+
+    	userService.save(user);
     }
     
 }

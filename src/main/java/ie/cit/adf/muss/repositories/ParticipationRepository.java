@@ -1,12 +1,12 @@
 package ie.cit.adf.muss.repositories;
 
 
-import ie.cit.adf.muss.domain.ChObject;
-import ie.cit.adf.muss.domain.Participation;
-
 import java.util.List;
 
 import org.springframework.data.repository.CrudRepository;
+
+import ie.cit.adf.muss.domain.ChObject;
+import ie.cit.adf.muss.domain.Participation;
 
 public interface ParticipationRepository extends CrudRepository<Participation, Integer> {
 
